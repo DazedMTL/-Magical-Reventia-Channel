@@ -1,0 +1,16 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!.gitignore
+!README.md
+package.json
+
+# Images
+!menu_P03 ステータス-ちんぽ-ピッグマン270.png
+!PC001-ero019-03-装飾-入れ墨-bs.png

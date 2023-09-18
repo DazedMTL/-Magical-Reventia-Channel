@@ -1,0 +1,4016 @@
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 9,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 20,
+    "width": 12,
+    "data": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4084,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        4064,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        4193,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        221,
+        222,
+        223,
+        223,
+        223,
+        221,
+        222,
+        223,
+        223,
+        223,
+        221,
+        222,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        219,
+        220,
+        218,
+        218,
+        218,
+        219,
+        220,
+        218,
+        218,
+        218,
+        219,
+        220,
+        227,
+        228,
+        226,
+        226,
+        226,
+        227,
+        228,
+        226,
+        226,
+        226,
+        227,
+        228,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "Police",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "Victim",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 2
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 8
+        },
+        null,
+        {
+            "id": 3,
+            "name": "KOHAI",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "People2",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 7
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 6,
+            "y": 3
+        },
+        {
+            "id": 4,
+            "name": "REV",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "People4",
+                        "direction": 6,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": true,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 3
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "id": 40,
+            "name": "Controller",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).loadBitmap('face', 'keiH[BUST][Exp3x5]')"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).moveTo(Graphics.boxWidth * (10.5 / 12), Graphics.boxHeight,0)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).opacityTo(0);"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).loadBitmap('face', 'kohai[BUST][Exp6x5]')"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).moveTo(Graphics.boxWidth * (2 / 12), Graphics.boxHeight,0)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).opacityTo(0)"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                86
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).opacityTo(255)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('4')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "先輩のお尻のほうに手が触れてるように見えたので…<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "もしかしてあたしの勘違いでしたか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).opacityTo(255)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('2')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                8,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "あ、いや。勘違いじゃないよ。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "…おかけで助かった。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('3')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>そうですか？<BR>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "よかった…、じゃないですね。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "こんな目にあったんですから。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('4')"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "でも大丈夫です、先輩！<Br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "あたし、あの人の顔、ばっちり見ましたから！"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "通報すればすぐに捕まるはずです。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('1')"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 14,
+                                            "parameters": [
+                                                0,
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 14,
+                                            "parameters": [
+                                                0,
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 14,
+                                    "parameters": [
+                                        0,
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 14,
+                                    "parameters": [
+                                        0,
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "あ、お巡りさん！こっちです！"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 40,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 40,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                2,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>失礼します。<BR>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "痴漢にあったとお聞きしました。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "被害者の方ですか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('2')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "あっ…、はい。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "すぐに出動できるように急いで事情聴取をします。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "痴漢はどのような身なりでしたか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('1')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "あたしが見ました！黒いジャンパーにニット帽を被ってました。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "黒いジャンパーにニット帽…、確認しました。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "地下鉄の中ではどのようなことをされましたか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('2')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "お尻と…、ア、アソコを触られました。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "アソコとは？正確に教えてください。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('4')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "…ク、クリトリスを触られました…。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "そうなんですね。クリトリスを触られて感じましたか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('1')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                5,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ちょっ、さっきから何を聞いてるんですか！<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "痴漢されて感じる女性がいるわけないじゃないですか！"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "すみません。しかし、最近は合意したふりをして<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "通報すると脅迫する場合がありまして…"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "上部の指針で確認するようになっているんです。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ご協力をお願いします。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('7')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "それなら仕方ないけど…。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('1')"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "でも大丈夫です。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "先輩は痴漢されて感じるような変態じゃないですから。"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                3,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('2')"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ねっ、先輩？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('4')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 18,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "そ、そうだよ。うん。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "そうなんですね。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ではスカートの中を見せてもらえますか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('5')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "え、ええっ！？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                2,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "どうしてそんなに驚くんですか？"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('13')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>そ、それは～…。<BR>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "いくらなんでも直接お見せするのは…。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "大丈夫です、感じたかどうか確認するだけですから。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ほんの一瞬で結構ですので。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('2')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                3,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>まぁいいじゃないですか、先輩。<BR>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "女同士ですし。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ここなら誰にも見られませんよ。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('10')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                7,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "……。"
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "F_12",
+                                    "volume": 60,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                85
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('25')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                86
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                6,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "…うわぁ…。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "…も、申し訳ありませんが。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "痴漢を訴えるのは難しそうです。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('4')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "は、はい。<BR>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "そうですね。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "それよりよくその状態で痴漢にあったと言…、<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "コホン、すみません。つい本音が。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('10')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                7,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "……。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                8,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<女性警官>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "今回のことは見なかったことにします。<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "…火遊びはほどほどに。"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                8,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                8,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('24')"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "き、気にする必要ありませんよ、先輩！<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "好みは人それぞれですから。"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('11')"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 18,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ちがう！これは、ヴィランのせいで体がおかしくなって…！"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).setExpression('25')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                6,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>あっ、そ、そうですね！<br>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ヴィランのせいですよね。<BR>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "分かってます！"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).light();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).dim();"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('11')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "それ絶対に信じてないよね！"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('10')"
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                7,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "（死にたい…。）"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).setExpression('8')"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "（…当分の間、ここの女性警官とは会わないようにしよう。）"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(4).opacityTo(0)"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).opacityTo(0)"
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                20
+                            ]
+                        },
+                        {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 246,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 251,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                272,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                266,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                777
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                234,
+                                234,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                3,
+                                3,
+                                1,
+                                0,
+                                2000
+                            ]
+                        },
+                        {
+                            "code": 127,
+                            "indent": 2,
+                            "parameters": [
+                                144,
+                                0,
+                                0,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                43,
+                                43,
+                                1,
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "証票「レイナA-2」を手に入れた。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nc<>悪いリスナーが２０００人増えた。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "レイナ調教度が１５上がった。"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                85
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                50,
+                                5,
+                                12,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                85
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                30,
+                                5,
+                                12,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 0
+        }
+    ]
+}

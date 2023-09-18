@@ -1,0 +1,7593 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 0,
+        "description": "カシューナッツからもらった魔法スティック。<br>幼い頃から使っていて、愛着がある。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 101,
+        "name": "魔法スティック",
+        "note": "<Menu Category: 魔法スティック>\n<TOESスイッチ対象:201>\n<TOESスイッチ設定値:ON>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 11,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 12,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 13,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 14,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 15,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 16,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 18,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 19,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 20,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 21,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 23,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 24,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 25,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 26,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 27,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 29,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 30,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 31,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 32,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 33,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 35,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 36,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 37,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 38,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 43,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 45,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 46,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 48,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 49,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 50,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 51,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 52,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 53,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 54,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 55,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 56,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 57,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 58,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 59,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 60,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 61,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 62,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 63,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 64,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 65,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 66,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 67,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 68,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 69,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 70,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 71,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 72,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 73,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 74,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 75,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 76,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 77,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 78,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 79,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 80,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 81,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 82,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 83,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 84,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 85,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 86,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 87,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 88,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 89,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 90,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 91,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 92,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 93,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 94,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 95,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 96,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 97,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 98,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 99,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 100,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 101,
+        "animationId": 0,
+        "description": "ブラック・マッスルとの１ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル１ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 102,
+        "animationId": 0,
+        "description": "ブラック・マッスルとの２ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル２ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 103,
+        "animationId": 0,
+        "description": "ブラック・マッスルとの３ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 104,
+        "animationId": 0,
+        "description": "ブラック・マッスルとの４ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 105,
+        "animationId": 0,
+        "description": "ブラック・マッスルとの５ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル５ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 106,
+        "animationId": 0,
+        "description": "ミスター・ヒプノシスとの１ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ミスター・ヒプノシス１ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 107,
+        "animationId": 0,
+        "description": "ミスター・ヒプノシスとの２ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ミスター・ヒプノシス２ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 108,
+        "animationId": 0,
+        "description": "ミスター・ヒプノシスとの３ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ミスター・ヒプノシス３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 109,
+        "animationId": 0,
+        "description": "ミスター・ヒプノシスとの４ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ミスター・ヒプノシス４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 110,
+        "animationId": 0,
+        "description": "ミスター・ヒプノシスとの５ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ミスター・ヒプノシス５ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 111,
+        "animationId": 0,
+        "description": "リリスとの1ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス1ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 112,
+        "animationId": 0,
+        "description": "リリスとの２ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス２ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 113,
+        "animationId": 0,
+        "description": "リリスとの３ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 114,
+        "animationId": 0,
+        "description": "リリスとの４ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス4ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 115,
+        "animationId": 0,
+        "description": "リリスとの５ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス5ラウンド ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 116,
+        "animationId": 0,
+        "description": "浸食体との1ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体1ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 117,
+        "animationId": 0,
+        "description": "浸食体との２ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体２ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 118,
+        "animationId": 0,
+        "description": "浸食体との３ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 119,
+        "animationId": 0,
+        "description": "浸食体との４ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 120,
+        "animationId": 0,
+        "description": "浸食体との５ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体５ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 121,
+        "animationId": 0,
+        "description": "悪の種との最終ラウンドで勝利した。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "悪の種最終ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 122,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 123,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 124,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 125,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 126,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 127,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 128,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 129,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 130,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 131,
+        "animationId": 0,
+        "description": "コラボ配信の途中、太ももと蜜壺を触られ快楽を感じてしまった魔法少女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "松男A-1",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 132,
+        "animationId": 0,
+        "description": "愛してもいない男のベッドの上で押しつぶされ処女を捧げた魔法少女 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "松男A-2",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 133,
+        "animationId": 0,
+        "description": "避妊もできない上に体重をかけて押さえつけられ無力にイってしまうのを楽しむ魔法少女 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "松男A-3",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 134,
+        "animationId": 0,
+        "description": "子宮の奥までチャラ男に弱みを握られてしまった馬鹿な魔法少女 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "松男A-4",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 135,
+        "animationId": 0,
+        "description": "安っぽい風俗嬢にさえも劣等感と競争意識を感じるビッチ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "松男A-5",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 136,
+        "animationId": 0,
+        "description": "皆が見る前ではっきりと認めた松男の専用オナホ ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "松男A-6",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 137,
+        "animationId": 0,
+        "description": "徐々に催眠への抵抗力が低下しているという証拠",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖A-1",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 138,
+        "animationId": 0,
+        "description": "口の中いっぱいに広がる精液の香りを自覚できないでいる女 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖Ａー２",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 139,
+        "animationId": 0,
+        "description": "魔法少女という立場を利用してエセ宗教を積極的に宣伝した楽園教の忠実な宣伝大使  ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖A-3",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 140,
+        "animationId": 0,
+        "description": "口の中いっぱいに精液のにおいを漂わせ、好き放題に後処理として使われた精液のティッシュ ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖A-4",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 141,
+        "animationId": 0,
+        "description": "ペニスを見ると思考が停止する楽園教の性処理奉仕担当 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖A-5",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 142,
+        "animationId": 0,
+        "description": "たった１本のペニスも逃さない欲張り肉便器女 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖A-6",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 143,
+        "animationId": 0,
+        "description": "自分を蹂躙した下級淫魔たちの手の動きを必死に真似してオナニーしたという証拠",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "レイナA-1",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 144,
+        "animationId": 0,
+        "description": "痴漢の指がマンコに侵入してくる最中でも、大した抵抗もせずマンコを濡らし許したという証拠",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "レイナA-2",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 145,
+        "animationId": 0,
+        "description": "野外で色欲を抑えるためにオナニーをする道徳観に欠けた女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "レイナA-3",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 146,
+        "animationId": 0,
+        "description": "同級生にバレるかもしれないという期待感に胸を膨らませローターでイってしまったエロ大学生  ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "レイナA-4",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 147,
+        "animationId": 0,
+        "description": "他の人が利用する施設に愛液を垂らしながらマーキングを済ませた発情中の犬",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "レイナA-5",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 148,
+        "animationId": 0,
+        "description": "市民たちが見る前で無様な姿でイってしまい人生が終わってしまったメス犬",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "レイナA-6",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 149,
+        "animationId": 0,
+        "description": "神聖な治療中にお尻で感じながらイってしまった最低の女 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体A-1",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 150,
+        "animationId": 0,
+        "description": "馬鹿みたいな罠にかかって生えてしまった男性器を搾られ、絶頂した魔法少女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体A-2",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 151,
+        "animationId": 0,
+        "description": "自分のケツマンコの動きを真似るクローンに弄ばれ、惨めに懇願した末、絶頂した性欲の強い魔法少女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体A-3",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 152,
+        "animationId": 0,
+        "description": "雑魚に余裕をかまし図に乗っていたところ、弱みを突かれて立場が逆転し敗北した弱い雑魚  ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体A-4",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 153,
+        "animationId": 0,
+        "description": "市民たちに自らペニスをねだり精液を搾り取る魔法少女…×？ ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体A-5",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 154,
+        "animationId": 0,
+        "description": "大切な仲間や街を守るという義務を後回しにし、浸食体が与える快楽を優先した色欲に敗れた裏切り者 ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体A-6",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 155,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 156,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bブラック・マッスル2ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 157,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bブラック・マッスル３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 158,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bブラック・マッスル４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 159,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bミスター・ヒプノシス2ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 160,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bミスター・ヒプノシス３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 161,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bミスター・ヒプノシス４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 162,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bリリス2ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 163,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bリリス３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 164,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-Bリリス４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 165,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-B浸食体2ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 166,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-B浸食体３ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 167,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "H-B浸食体４ラウンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 168,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 169,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 170,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 171,
+        "animationId": 0,
+        "description": "できたにもかかわらず痴漢に抵抗できなかった<br>淫欲の奴隷という証",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "痴漢１",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 172,
+        "animationId": 0,
+        "description": "無抵抗で痴漢に公衆トイレに連れていかれ<br>愛を交わしただらしない変態女子",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "痴漢2",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 173,
+        "animationId": 0,
+        "description": "はした金で性を売った歓楽街のスーパールーキー",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "キャバクラ１",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 174,
+        "animationId": 0,
+        "description": "自覚もなく、顧客の満足のために腰を振るビッチ ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "キャバクラ2",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 175,
+        "animationId": 0,
+        "description": "快楽に中毒され顧客にお金を渡してまで<br>哀願したただ以下のマンコ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "キャバクラ３",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 176,
+        "animationId": 0,
+        "description": "みんなが忌避する男に弱点を握られたまま<br>マンコを許したバカみたいな女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "オタク１",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 177,
+        "animationId": 0,
+        "description": "みんなが忌避する男に弱点を握られたまま<br>マンコを許して図書館で愛を交わした証",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "オタク２",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 178,
+        "animationId": 0,
+        "description": "ゲスな社長に頭を下げて絶頂してしまった三流魔法少女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "悪徳広告１",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 179,
+        "animationId": 0,
+        "description": "ゲスな社長に下げた頭を踏みつぶされて愛液を吹きながら服従してしまった三流魔法少女",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "悪徳広告２",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 180,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 181,
+        "animationId": 0,
+        "description": "圭でアルバイト３回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 199,
+        "name": "アルバイト初心者",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 182,
+        "animationId": 0,
+        "description": "圭でアルバイト６回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 200,
+        "name": "生計型魔法少女",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 183,
+        "animationId": 0,
+        "description": "圭でアルバイト１０回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 201,
+        "name": "ワーカーホリック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 184,
+        "animationId": 0,
+        "description": "圭で暇潰し５回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 199,
+        "name": "暇な大学生",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 185,
+        "animationId": 0,
+        "description": "圭で暇潰し１０回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 200,
+        "name": "イマイチな気分",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 186,
+        "animationId": 0,
+        "description": "圭で暇潰し１５回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 201,
+        "name": "永却の修行者",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 187,
+        "animationId": 0,
+        "description": "圭で怪人探求４回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 199,
+        "name": "敵を知り己を知れば百戦危うからず",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 188,
+        "animationId": 0,
+        "description": "圭で怪人探求８回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 200,
+        "name": "探求型魔法少女 ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 189,
+        "animationId": 0,
+        "description": "圭で怪人探求１２回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 201,
+        "name": "ヴィラン心理分析家",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 190,
+        "animationId": 0,
+        "description": "レヴァンティアで治安維持５回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 200,
+        "name": "街の治安防犯隊",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 191,
+        "animationId": 0,
+        "description": "レヴァンティアで治安維持１０回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 201,
+        "name": "安全第一",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 192,
+        "animationId": 0,
+        "description": "レヴァンティアで広告広報５回",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 200,
+        "name": "インターネットインフルエンサー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 193,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 194,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "告発チャンネルーレヴァンティア１",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 195,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "告発チャンネルーレヴァンティア２",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 196,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "告発チャンネルーレヴァンティア３",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 197,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "告発チャンネルーレヴァンティア４",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 198,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 199,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 200,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 201,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブロンズ登録券",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 202,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "シルバー登録券",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 203,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ゴールド登録券",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 204,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 205,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 206,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 207,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 208,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 209,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 210,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル2ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 211,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル３ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 212,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "ブラック・マッスル４ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 213,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス2ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 214,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス３ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 215,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "リリス４ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 216,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体2ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 217,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体３ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 218,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "浸食体４ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 219,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖2ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 220,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖３ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 221,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 87,
+        "name": "教祖４ラウンド良いココロS",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 222,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 223,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 224,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 225,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 226,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 227,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 228,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 229,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 230,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]

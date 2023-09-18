@@ -1,0 +1,2703 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 1,
+        "description": "服",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "[衣装]普段着",
+        "note": "<Max item :1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 2,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 3,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "カメラバック",
+        "note": "<Max item :1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 4,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 5,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 6,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 7,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 8,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 9,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 10,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 11,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 12,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 13,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 14,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 15,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 16,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 17,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 18,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 19,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 21,
+        "atypeId": 0,
+        "description": "リスナー増加率＋１０％",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "「カメラ」DMC-1213",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 22,
+        "atypeId": 0,
+        "description": "リスナー増加率＋２０％",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "「カメラ」SYNU-1011",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 23,
+        "atypeId": 0,
+        "description": "リスナー増加率＋３０％",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "「カメラ」MEDICON Ultra",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 24,
+        "atypeId": 0,
+        "description": "リスナー増加率＋５０％",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "「カメラ」MEDICON Z",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 25,
+        "atypeId": 0,
+        "description": "悪いリスナー増加率＋３０％",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "「カメラ」PDLR",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 26,
+        "atypeId": 0,
+        "description": "悪いリスナー増加率＋５０％",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "「カメラ」Super Fong",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 27,
+        "atypeId": 0,
+        "description": "運 + 1",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "「マイク」Micro AA",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 28,
+        "atypeId": 0,
+        "description": "運 - 1",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "「マイク」XLR-0105",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 29,
+        "atypeId": 0,
+        "description": "運 + 2",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "「マイク」Alpha-07",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 30,
+        "atypeId": 0,
+        "description": "運 - 2",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "「マイク」MDVC Pro",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 31,
+        "atypeId": 0,
+        "description": "メンタル＋１",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "「照明」Tree 32W",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 32,
+        "atypeId": 0,
+        "description": "メンタル－１",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "「照明」MR-YM",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 33,
+        "atypeId": 0,
+        "description": "メンタル＋２",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "「照明」Tree 64W",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 34,
+        "atypeId": 0,
+        "description": "メンタル－２",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "「照明」MR-YPM",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 35,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 36,
+        "atypeId": 0,
+        "description": "２度と食べたくない最悪のラーメン",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 222,
+        "name": "「広告」抹茶ラーメン",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 37,
+        "atypeId": 0,
+        "description": "レヴァンティアの広報で最近入学希望者が増えたらしい。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 222,
+        "name": "「広告」正義実現大学",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 38,
+        "atypeId": 0,
+        "description": "レヴァンティアの膣内を再現したというが、その真実は誰も知らない。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 222,
+        "name": "「広告」レヴァンティアオナホ",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 39,
+        "atypeId": 0,
+        "description": "生でやるのと違いを感じさせない、科学技術の真髄。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 222,
+        "name": "「広告」テル〇ミオーソドックス０．０２",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 40,
+        "atypeId": 0,
+        "description": "これは、使い物にならない。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 222,
+        "name": "「広告」テル〇ミサウスポー２．００",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 41,
+        "atypeId": 0,
+        "description": "ごついけど職人精神を感じる夏のイットアイテム。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 222,
+        "name": "「広告」ハンディファン",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 42,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 43,
+        "atypeId": 0,
+        "description": "中学時代、魔法少女の活動時に着用していた衣装。<br>今着るのは少し抵抗がある。<br>攻撃を３回防御する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "「衣装」レヴァンティア",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 44,
+        "atypeId": 0,
+        "description": "大学の男子たちのロマンと士気を高めることに重点を置いた衣装。<br>下乳見せが魅力的という評価が大半を占めている。<br>攻撃を２回防御する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "「衣装」チアユニフォーム",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 45,
+        "atypeId": 0,
+        "description": "子供の頃に実際に使っていた水着。<br>今着るのはかなりＮＧな印象。<br>攻撃を２回防御する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "「衣装」スクール水着",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 46,
+        "atypeId": 0,
+        "description": "少し前まで存在していたメイドカフェの制服。<br>露出度が高く、多くのお客を抱えていたメイドカフェがなぜ廃業したのかは分からない。<br>攻撃を２回防御する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "「衣装」メイド服",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 47,
+        "atypeId": 0,
+        "description": "もはや魔法少女とは呼べない、人生が終わってしまった女の象徴ともいえる服。<br>攻撃を２回防御する。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "「衣装」変態服",
+        "note": "<Max Item: 1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 48,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 49,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 50,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 51,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 52,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 53,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 54,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 55,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 56,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 57,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 58,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 59,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 60,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 61,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 62,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 63,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 64,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 65,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 66,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 67,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 68,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 69,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 70,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 71,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 72,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 73,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 74,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 75,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 76,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 77,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 78,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 79,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 80,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 81,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 82,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 83,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 84,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 85,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 86,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 87,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 88,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 89,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 90,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 91,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 92,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 93,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 94,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 95,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 96,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 97,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 98,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 99,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 100,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]

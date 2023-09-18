@@ -1,0 +1,6231 @@
+{
+    "": [],
+    "BattleUI": [
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(61) && $gameSwitches.value(81)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "macho_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 60,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(61) && $gameSwitches.value(81)",
+            "Layer": "2",
+            "Image": "machoNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 89,
+            "x": 168,
+            "y": 109
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(63) && $gameSwitches.value(81)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "succu_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 95,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(62) && $gameSwitches.value(81)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "leader_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 91,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(64) && $gameSwitches.value(81)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "slime_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 33,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(63) && $gameSwitches.value(81)",
+            "Layer": "2",
+            "Image": "succuNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 34,
+            "x": 168,
+            "y": 108
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(62) && $gameSwitches.value(81)",
+            "Layer": "2",
+            "Image": "leaderNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 35,
+            "x": 169,
+            "y": 108
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(64) && $gameSwitches.value(81)",
+            "Layer": "2",
+            "Image": "slimeNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 36,
+            "x": 168,
+            "y": 108
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 3",
+            "Layer": "0",
+            "Image": "battle_mentalBase_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 141,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 1",
+            "Layer": "1",
+            "Image": "battle_mental_1",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 142,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 4",
+            "Layer": "00",
+            "Image": "battle_mentalBase_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 143,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 5",
+            "Layer": "0",
+            "Image": "battle_mentalBase_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 144,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 6",
+            "Layer": "0",
+            "Image": "battle_mentalBase_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 145,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 7",
+            "Layer": "0",
+            "Image": "battle_mentalBase_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 146,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 2",
+            "Layer": "1",
+            "Image": "battle_mental_2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 147,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 3",
+            "Layer": "1",
+            "Image": "battle_mental_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 148,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 4",
+            "Layer": "1",
+            "Image": "battle_mental_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 149,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 5",
+            "Layer": "1",
+            "Image": "battle_mental_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 150,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 6",
+            "Layer": "1",
+            "Image": "battle_mental_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 151,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 7",
+            "Layer": "1",
+            "Image": "battle_mental_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 152,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(5)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "right",
+            "Font Size": "20",
+            "Text Color": "#ff8080",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 161,
+            "x": 888,
+            "y": 29
+        },
+        {
+            "type": "Picture",
+            "Condition": "",
+            "Layer": "0",
+            "Image": "battle_stats",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 163,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(6)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "right",
+            "Font Size": "20",
+            "Text Color": "#861111",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 165,
+            "x": 888,
+            "y": 65
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(33)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "right",
+            "Font Size": "20",
+            "Text Color": "#ff8080",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 166,
+            "x": 684,
+            "y": 29
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(34)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "right",
+            "Font Size": "20",
+            "Text Color": "#861111",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 189,
+            "x": 684,
+            "y": 65
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 1",
+            "Layer": "0",
+            "Image": "battle_barrier_1",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 169,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 2",
+            "Layer": "0",
+            "Image": "battle_barrier_2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 39,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 3",
+            "Layer": "0",
+            "Image": "battle_barrier_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 40,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 4",
+            "Layer": "0",
+            "Image": "battle_barrier_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 41,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 5",
+            "Layer": "0",
+            "Image": "battle_barrier_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 42,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 6",
+            "Layer": "0",
+            "Image": "battle_barrier_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 43,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 7",
+            "Layer": "0",
+            "Image": "battle_barrier_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 44,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 8",
+            "Layer": "0",
+            "Image": "battle_barrier_8",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 45,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(73) > 0",
+            "Layer": "0",
+            "Image": "battle_shield_1",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 177,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(55) > 0",
+            "Layer": "0",
+            "Image": "battle_costume",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 47,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(55)",
+            "Condition": "$gameVariables.value(55) > 0",
+            "Layer": "3",
+            "Image": "numbersOutline",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 180,
+            "x": 995,
+            "y": 159
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(73)",
+            "Condition": "$gameVariables.value(73) > 0",
+            "Layer": "3",
+            "Image": "numbersOutline",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 181,
+            "x": 961,
+            "y": 159
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(84)",
+            "Max Value": "$gameVariables.value(85)",
+            "Condition": "$gameSwitches.value(82)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "underling",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 182,
+            "x": 362,
+            "y": 81
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(88)",
+            "Max Value": "$gameVariables.value(89)",
+            "Condition": "$gameSwitches.value(83)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "underling",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 38,
+            "x": 172,
+            "y": 346
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(92)",
+            "Max Value": "$gameVariables.value(93)",
+            "Condition": "$gameSwitches.value(84)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "underling",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 39,
+            "x": 362,
+            "y": 346
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(136) || $gameSwitches.value(137)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "finalhp",
+            "Back Image": "finalBack",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 185,
+            "x": 228,
+            "y": 83
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(84)",
+            "Condition": "$gameSwitches.value(82)",
+            "Layer": "0",
+            "Image": "numbersOutline",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 187,
+            "x": 362,
+            "y": 109
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(92)",
+            "Condition": "$gameSwitches.value(84)",
+            "Layer": "0",
+            "Image": "numbersOutline",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 42,
+            "x": 362,
+            "y": 371
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(88)",
+            "Condition": "$gameSwitches.value(83)",
+            "Layer": "0",
+            "Image": "numbersOutline",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 43,
+            "x": 171,
+            "y": 371
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "($gameSwitches.value(136) || $gameSwitches.value(137)) && $gameSwitches.value(81)",
+            "Layer": "2",
+            "Image": "numbersOutline",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 45,
+            "x": 229,
+            "y": 112
+        }
+    ],
+    "ChooseUI": [],
+    "OnairUI": [],
+    "GaugeUI": [],
+    "NormalUI": [
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(143)}",
+            "Condition": "",
+            "Layer": "1",
+            "Font": "GameFont",
+            "Max Width": "100",
+            "Align": "right",
+            "Font Size": "30",
+            "Text Color": "#ffffff",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 1,
+            "x": 79,
+            "y": 51
+        },
+        {
+            "type": "Picture",
+            "Condition": "!$gameSwitches.value(111)",
+            "Layer": "0",
+            "Image": "hiru2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 10,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameSwitches.value(111)",
+            "Layer": "0",
+            "Image": "yoru2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 3,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 0",
+            "Layer": "1",
+            "Image": "mon",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 17,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 1",
+            "Layer": "1",
+            "Image": "tue",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 12,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 2",
+            "Layer": "1",
+            "Image": "wens",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 13,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 3",
+            "Layer": "1",
+            "Image": "Thurs",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 6,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 4",
+            "Layer": "1",
+            "Image": "frid",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 7,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 5",
+            "Layer": "1",
+            "Image": "satur",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 18,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(141) % 7 == 6",
+            "Layer": "1",
+            "Image": "Sund",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 19,
+            "x": 512,
+            "y": 384
+        }
+    ],
+    "TodolistUI": [
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(161) == $gameVariables.value(169)",
+            "Layer": "0",
+            "Image": "todo_alley",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 27,
+            "x": 239,
+            "y": 243
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(161) == $gameVariables.value(170)",
+            "Layer": "0",
+            "Image": "todo_main",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 32,
+            "x": 239,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(161) == $gameVariables.value(167)",
+            "Layer": "0",
+            "Image": "todo_office",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 29,
+            "x": 240,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(161) == $gameVariables.value(168)",
+            "Layer": "0",
+            "Image": "todo_residential",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 30,
+            "x": 239,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(161) == $gameVariables.value(166)",
+            "Layer": "0",
+            "Image": "todo_universe",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 31,
+            "x": 240,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(162) == $gameVariables.value(166)",
+            "Layer": "0",
+            "Image": "todo_universe",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 41,
+            "x": 376,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(162) == $gameVariables.value(169)",
+            "Layer": "0",
+            "Image": "todo_alley",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 6,
+            "x": 376,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(162) == $gameVariables.value(170)",
+            "Layer": "0",
+            "Image": "todo_main",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 35,
+            "x": 376,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(162) == $gameVariables.value(167)",
+            "Layer": "0",
+            "Image": "todo_office",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 8,
+            "x": 376,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(162) == $gameVariables.value(168)",
+            "Layer": "0",
+            "Image": "todo_residential",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 9,
+            "x": 376,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(163) == $gameVariables.value(168)",
+            "Layer": "0",
+            "Image": "todo_residential",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 10,
+            "x": 512,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(163) == $gameVariables.value(167)",
+            "Layer": "0",
+            "Image": "todo_office",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 11,
+            "x": 512,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(163) == $gameVariables.value(170)",
+            "Layer": "0",
+            "Image": "todo_main",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 12,
+            "x": 512,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(163) == $gameVariables.value(169)",
+            "Layer": "0",
+            "Image": "todo_alley",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 13,
+            "x": 512,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(163) == $gameVariables.value(166)",
+            "Layer": "0",
+            "Image": "todo_universe",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 42,
+            "x": 512,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(164) == $gameVariables.value(166)",
+            "Layer": "0",
+            "Image": "todo_universe",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 51,
+            "x": 648,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(164) == $gameVariables.value(169)",
+            "Layer": "0",
+            "Image": "todo_alley",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 16,
+            "x": 648,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(164) == $gameVariables.value(170)",
+            "Layer": "0",
+            "Image": "todo_main",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 17,
+            "x": 648,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(164) == $gameVariables.value(167)",
+            "Layer": "0",
+            "Image": "todo_office",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 18,
+            "x": 648,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(164) == $gameVariables.value(168)",
+            "Layer": "0",
+            "Image": "todo_residential",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 19,
+            "x": 648,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(165) == $gameVariables.value(168)",
+            "Layer": "0",
+            "Image": "todo_residential",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 20,
+            "x": 784,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(165) == $gameVariables.value(167)",
+            "Layer": "0",
+            "Image": "todo_office",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 21,
+            "x": 784,
+            "y": 243
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(165) == $gameVariables.value(170)",
+            "Layer": "0",
+            "Image": "todo_main",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 22,
+            "x": 784,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(165) == $gameVariables.value(169)",
+            "Layer": "0",
+            "Image": "todo_alley",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 23,
+            "x": 784,
+            "y": 244
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(165) == $gameVariables.value(166)",
+            "Layer": "0",
+            "Image": "todo_universe",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 52,
+            "x": 784,
+            "y": 243
+        }
+    ],
+    "non": [],
+    "tutorial": [
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(61)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "macho_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 60,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(61)",
+            "Layer": "2",
+            "Image": "machoNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 89,
+            "x": 61,
+            "y": 81
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(63)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "succu_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 95,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(62)",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "leader_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 91,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(50)",
+            "Max Value": "$gameVariables.value(64)",
+            "Condition": "$gameSwitches.value(64) && $gameVariables.value(49) != 2",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "slime_hp",
+            "Back Image": "macho_hpBar",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 33,
+            "x": 172,
+            "y": 81
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(63)",
+            "Layer": "2",
+            "Image": "succuNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 34,
+            "x": 61,
+            "y": 81
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(62)",
+            "Layer": "2",
+            "Image": "leaderNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 35,
+            "x": 61,
+            "y": 81
+        },
+        {
+            "type": "Image Numbers",
+            "Value": "$gameVariables.value(50)",
+            "Condition": "$gameSwitches.value(64) && $gameVariables.value(49) != 2",
+            "Layer": "2",
+            "Image": "slimeNumber",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 36,
+            "x": 61,
+            "y": 81
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 3",
+            "Layer": "0",
+            "Image": "battle_mentalBase_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 141,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 1",
+            "Layer": "1",
+            "Image": "battle_mental_1",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 142,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 4",
+            "Layer": "00",
+            "Image": "battle_mentalBase_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 143,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 5",
+            "Layer": "0",
+            "Image": "battle_mentalBase_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 144,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 6",
+            "Layer": "0",
+            "Image": "battle_mentalBase_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 145,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 7",
+            "Layer": "0",
+            "Image": "battle_mentalBase_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 146,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 2",
+            "Layer": "1",
+            "Image": "battle_mental_2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 147,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 3",
+            "Layer": "1",
+            "Image": "battle_mental_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 148,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 4",
+            "Layer": "1",
+            "Image": "battle_mental_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 149,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 5",
+            "Layer": "1",
+            "Image": "battle_mental_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 150,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 6",
+            "Layer": "1",
+            "Image": "battle_mental_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 151,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 7",
+            "Layer": "1",
+            "Image": "battle_mental_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 152,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 1",
+            "Layer": "0",
+            "Image": "battle_barrier_1",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 169,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 2",
+            "Layer": "0",
+            "Image": "battle_barrier_2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 39,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 3",
+            "Layer": "0",
+            "Image": "battle_barrier_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 40,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 4",
+            "Layer": "0",
+            "Image": "battle_barrier_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 41,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 5",
+            "Layer": "0",
+            "Image": "battle_barrier_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 42,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 6",
+            "Layer": "0",
+            "Image": "battle_barrier_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 43,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 7",
+            "Layer": "0",
+            "Image": "battle_barrier_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 44,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(17) == 8",
+            "Layer": "0",
+            "Image": "battle_barrier_8",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 45,
+            "x": 512,
+            "y": 384
+        }
+    ],
+    "Choice": [
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(17)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "left",
+            "Font Size": "30",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 1,
+            "x": 479,
+            "y": 580
+        }
+    ],
+    "ChoiceUI": [
+        {
+            "type": "Text",
+            "Value": "현재 마나량:${$gameVariables.value(17)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "200",
+            "Align": "left",
+            "Font Size": "30",
+            "Text Color": "#ff0080",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 1,
+            "x": 339,
+            "y": 556
+        },
+        {
+            "type": "Text",
+            "Value": "결과 마나량:${$gameVariables.value(52)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "200",
+            "Align": "left",
+            "Font Size": "30",
+            "Text Color": "#800040",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 2,
+            "x": 695,
+            "y": 560
+        }
+    ],
+    "CancelUI": [
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(39)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "60",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 139,
+            "x": 118,
+            "y": 239
+        }
+    ],
+    "ResistUI": [
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(34) == 1 && !$gameSwitches.value(8)",
+            "Layer": "0",
+            "Image": "subdue_1_a",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 139,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(34) == 2 && !$gameSwitches.value(8)",
+            "Layer": "0",
+            "Image": "subdue_1_b",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 140,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(34) == 3 && !$gameSwitches.value(8)",
+            "Layer": "0",
+            "Image": "subdue_1_c",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 141,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(31) == 1 && $gameSwitches.value(8)",
+            "Layer": "0",
+            "Image": "subdue_1_a",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 142,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(31) == 2 && $gameSwitches.value(8)",
+            "Layer": "0",
+            "Image": "subdue_1_b",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 152,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(31) == 3 && $gameSwitches.value(8)",
+            "Layer": "0",
+            "Image": "subdue_1_c",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 144,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(35) == 1 && !$gameSwitches.value(9)",
+            "Layer": "0",
+            "Image": "subdue_2_a",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 6,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(35) == 2 && !$gameSwitches.value(9)",
+            "Layer": "0",
+            "Image": "subdue_2_b",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 7,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(35) == 3 && !$gameSwitches.value(9)",
+            "Layer": "0",
+            "Image": "subdue_2_c",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 8,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(32) == 1 && $gameSwitches.value(9)",
+            "Layer": "0",
+            "Image": "subdue_2_a",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 9,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(32) == 2 && $gameSwitches.value(9)",
+            "Layer": "0",
+            "Image": "subdue_2_b",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 10,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(32) == 3 && $gameSwitches.value(9)",
+            "Layer": "0",
+            "Image": "subdue_2_c",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 158,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(36) == 1 && !$gameSwitches.value(10)",
+            "Layer": "0",
+            "Image": "subdue_3_a",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 12,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(36) == 2 && !$gameSwitches.value(10)",
+            "Layer": "0",
+            "Image": "subdue_3_b",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 13,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(36) == 3 && !$gameSwitches.value(10)",
+            "Layer": "0",
+            "Image": "subdue_3_c",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 14,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(33) == 1 && $gameSwitches.value(10)",
+            "Layer": "0",
+            "Image": "subdue_3_a",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 15,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(33) == 2 && $gameSwitches.value(10)",
+            "Layer": "0",
+            "Image": "subdue_3_b",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 16,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(33) == 3 && $gameSwitches.value(10)",
+            "Layer": "0",
+            "Image": "subdue_3_c",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 17,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(39)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "60",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 159,
+            "x": 116,
+            "y": 234
+        }
+    ],
+    "ResultUI": [
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(130) + $gameVariables.value(19)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "30",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 147,
+            "x": 182,
+            "y": 249
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(52)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "30",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 148,
+            "x": 390,
+            "y": 249
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(4)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "300",
+            "Align": "center",
+            "Font Size": "30",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 149,
+            "x": 717,
+            "y": 247
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(34)",
+            "Max Value": "$gameVariables.value(36)",
+            "Condition": "",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "badmind",
+            "Back Image": "N\n\nONE",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 150,
+            "x": 520,
+            "y": 481
+        },
+        {
+            "type": "Image Gauge",
+            "Cur. Value": "$gameVariables.value(33)",
+            "Max Value": "$gameVariables.value(35)",
+            "Condition": "",
+            "Layer": "0",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Style": "left",
+            "Main Image": "kindmind",
+            "Back Image": "N\n\nONE",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 151,
+            "x": 520,
+            "y": 395
+        },
+        {
+            "type": "Text",
+            "Value": "+${$gameVariables.value(127)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "30",
+            "Text Color": "#ffffff",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 152,
+            "x": 218,
+            "y": 663
+        },
+        {
+            "type": "Text",
+            "Value": "+${$gameVariables.value(129)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "30",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 154,
+            "x": 764,
+            "y": 663
+        },
+        {
+            "type": "Text",
+            "Value": "+${$gameVariables.value(128)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "30",
+            "Text Color": "#ffffff",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 156,
+            "x": 469,
+            "y": 663
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(33)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "23",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 157,
+            "x": 187,
+            "y": 409
+        },
+        {
+            "type": "Text",
+            "Value": "${$gameVariables.value(34)}",
+            "Condition": "",
+            "Layer": "0",
+            "Font": "GameFont",
+            "Max Width": "150",
+            "Align": "center",
+            "Font Size": "23",
+            "Text Color": "#000000",
+            "Text Alpha": "255",
+            "Outline Color": "#000000",
+            "Outline Alpha": "127",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 158,
+            "x": 188,
+            "y": 495
+        }
+    ],
+    "[NormalUI]": [],
+    "machoT": [],
+    "subdueUI": [
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 3",
+            "Layer": "0",
+            "Image": "battle_mentalBase_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 141,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 1",
+            "Layer": "1",
+            "Image": "battle_mental_1",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 142,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 4",
+            "Layer": "00",
+            "Image": "battle_mentalBase_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 143,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 5",
+            "Layer": "0",
+            "Image": "battle_mentalBase_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 144,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 6",
+            "Layer": "0",
+            "Image": "battle_mentalBase_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 145,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(39) == 7",
+            "Layer": "0",
+            "Image": "battle_mentalBase_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 146,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 2",
+            "Layer": "1",
+            "Image": "battle_mental_2",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 147,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 3",
+            "Layer": "1",
+            "Image": "battle_mental_3",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 148,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 4",
+            "Layer": "1",
+            "Image": "battle_mental_4",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 149,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 5",
+            "Layer": "1",
+            "Image": "battle_mental_5",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 150,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 6",
+            "Layer": "1",
+            "Image": "battle_mental_6",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 151,
+            "x": 512,
+            "y": 384
+        },
+        {
+            "type": "Picture",
+            "Condition": "$gameVariables.value(38) == 7",
+            "Layer": "1",
+            "Image": "battle_mental_7",
+            "Scale X": "1",
+            "Scale Y": "1",
+            "Opacity": "255",
+            "Hue": "0",
+            "Blend": "0",
+            "animateInfo": {
+                "x": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "y": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                },
+                "s": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 1,
+                    "max": 1
+                },
+                "r": {
+                    "spd": 0,
+                    "loop": false,
+                    "min": 0,
+                    "max": 0
+                }
+            },
+            "id": 152,
+            "x": 512,
+            "y": 384
+        }
+    ]
+}
