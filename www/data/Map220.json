@@ -27320,21 +27320,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -27342,8 +27342,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28983,14 +28983,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -28998,8 +28998,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -29261,21 +29261,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -29283,8 +29283,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30924,14 +30924,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -30939,8 +30939,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -31202,21 +31202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -31224,8 +31224,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -32865,14 +32865,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -32880,8 +32880,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -33150,14 +33150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to kill some time together? Kei"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "適当に時間をつぶしますか？圭"
+                                ""
                             ]
                         },
                         {
@@ -33165,8 +33165,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -33528,21 +33528,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...My body is still throbbing... Even though I masturbated<br>properly last night...) (Why won't it calm down...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…まだ体がうずいてる…。昨日の夜もちゃんとオナニーしたのに、）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（どうしておさまらないの…。）"
+                                ""
                             ]
                         },
                         {
@@ -33566,14 +33566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I need to hurry home and calm down...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（早く家に帰って落ち着かせないと…。）"
+                                ""
                             ]
                         },
                         {
@@ -33782,14 +33782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マネージャー>"
+                                "\\nc<Manager>Oh, you there. Long time no see. Did you come to work part-<br>time again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、そこの君、久ぶリ。またバイトしに来たの？"
+                                ""
                             ]
                         },
                         {
@@ -33827,14 +33827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh? Ah, no, it's not like that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へ？あ、いえ、そういうのじゃ…。"
+                                ""
                             ]
                         },
                         {
@@ -33865,14 +33865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マネージャー>"
+                                "\\nc<Manager>Don't say that, huh? You know I always pay you enough money,<br>right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう言わないで、うん？うち、お金は十分に渡すの知ってるでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -33910,21 +33910,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Well, I'm not really in need of money. I still have some<br>left from the last time I received it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（別にお金には困ってないけど。この間もらった分もまだ<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残ってるし。）"
+                                ""
                             ]
                         },
                         {
@@ -33948,14 +33948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...But, if it's here, I can meet that old man again...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…だけど、ここならまたあのおじさんと…。）"
+                                ""
                             ]
                         },
                         {
@@ -33995,14 +33995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " …お願いします。"
+                                ""
                             ]
                         },
                         {
@@ -34033,14 +34033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<マネージャー>"
+                                "\\nc<Manager>You've made up your mind! Come on in~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よく決心した！入って入って～。"
+                                ""
                             ]
                         },
                         {

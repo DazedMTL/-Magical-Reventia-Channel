@@ -1484,14 +1484,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<学生 2>"
+                                "\\nc<Student 2>(They're sleeping...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（寝ている…。）"
+                                ""
                             ]
                         },
                         {
@@ -1647,14 +1647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>It's unfair that I have to attend lectures even during<br>summer vacation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "夏休みなのに私だけ講義を受けるなんて不公平よ。"
+                                ""
                             ]
                         },
                         {

@@ -1591,14 +1591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What is this place?! Why is there a hidden place inside the<br>sewer?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何ここ？！どうして下水道の内側にこんな場所が隠れてるの！？"
+                                ""
                             ]
                         },
                         {
@@ -1636,21 +1636,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Be careful, Levantia. There's an incredible evil aura<br>overflowing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気を付けるにゃん、レヴァンティア。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ものすごい邪気が溢れ出してるにゃ。"
+                                ""
                             ]
                         },
                         {
@@ -1695,14 +1695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(That's right. Just breathing alone makes my head throb.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（そうだ。息をするだけでも頭がズキズキと痛むほど。）"
+                                ""
                             ]
                         },
                         {
@@ -1719,21 +1719,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The malevolent energy is flowing out from that crack over<br>there. What on earth could be inside...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（邪気はあっちの亀裂から流れ出てる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの中には一体何が…？）"
+                                ""
                             ]
                         },
                         {
@@ -1771,14 +1771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia, over there!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティア、あそこだにゃん！"
+                                ""
                             ]
                         },
                         {
@@ -1942,21 +1942,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That black thing... is it the mysterious power that Lilith<br>used in the previous battle...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの黒いものは…、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前回の戦闘でリリスが使ってた正体不明の力…？"
+                                ""
                             ]
                         },
                         {
@@ -1994,21 +1994,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What should we do, Levantia? If we leave it like this, the<br>mother body will absorb that power and recover!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうするにゃん、レヴァンティア。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このままじゃ母体があの力を吸収して回復してしまうにゃ！"
+                                ""
                             ]
                         },
                         {
@@ -2053,14 +2053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, ah... I see."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、ああ。そうね。"
+                                ""
                             ]
                         },
                         {
@@ -2077,21 +2077,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Is it just my imagination? It seems like the power is not<br>being absorbed by the mother body, but rather, the power is<br>trying to engulf the mother body...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（気のせい？母体が力を吸収するというより、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "力が母体をのみ込もうとしてるような…。）"
+                                ""
                             ]
                         },
                         {
@@ -2199,14 +2199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I see. You brought me here to make it easier for them,<br>huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…なるほど。あんたはあいつを楽にしてあげるために私を連れてきたのね。"
+                                ""
                             ]
                         },
                         {
@@ -2244,14 +2244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh, what do you mean? You can understand the words of the<br>Invasoid now?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ、どういうことにゃ。浸食体の言葉が聞き取れるようになったにゃん？"
+                                ""
                             ]
                         },
                         {
@@ -2296,14 +2296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No? I just guessed based on the atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや？雰囲気で何となく推測しただけ。"
+                                ""
                             ]
                         },
                         {
@@ -2320,21 +2320,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Regardless of the facts, we should do the same thing,<br>right? We can't just leave that mother body as it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに事実がどうであれ、するべきことは一緒でしょ？<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの母体をこのままにしておくわけにはいかない。"
+                                ""
                             ]
                         },
                         {
@@ -2372,21 +2372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's true. That power is clearly abnormal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それもそうだにゃ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの力はどう見ても常軌を逸してるにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2431,14 +2431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Thank you for guiding me this far."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ここまで案内してくれてありがとう。 "
+                                ""
                             ]
                         },
                         {
@@ -2455,14 +2455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I'll make it as easy as possible for you, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "できるだけ早く、楽にしてあげるね。"
+                                ""
                             ]
                         },
                         {
@@ -2823,14 +2823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I obtained the memory T4: Invasoid Baby."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "記憶「T4：浸食体の赤ちゃん」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -2847,14 +2847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good listeners increased by 7,000, while bad listeners<br>increased by 3,000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いリスナーが７０００人、悪いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {

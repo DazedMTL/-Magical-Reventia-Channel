@@ -1836,14 +1836,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The listener entered the stream to support Levantia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "リスナーがレヴァンティアを応援するために配信に入ってきた。"
+                                ""
                             ]
                         },
                         {
@@ -1870,14 +1870,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The listener entered the stream seeking an exciting<br>broadcast."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "リスナーが刺激的な配信を求めながら配信に入ってきた。"
+                                ""
                             ]
                         },
                         {
@@ -1915,21 +1915,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>From the 4th round, if the bad feelings reach 100,000, a<br>bad end will be automatically triggered. Please proceed with<br>the battle while keeping this in mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "4ラウンドから、悪いココロが10万になると自動でバッドエンドが出力されます。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この点に注意して、戦闘を進めてください。"
+                                ""
                             ]
                         },
                         {
@@ -2155,21 +2155,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Black Muscle prepares for a rapid succession while riding<br>the rhythm. Let's choose a direction to evade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ブラック・マッスルがリズムに身を乗せながら連打の準備をする。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "回避する方向を選択しよう。"
+                                ""
                             ]
                         },
                         {
@@ -2516,14 +2516,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while being bound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "束縛された状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -2550,14 +2550,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while under hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "催眠にかかった状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -2594,14 +2594,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please choose a direction to evade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -2788,14 +2788,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while being bound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "束縛された状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -2822,14 +2822,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while under hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "催眠にかかった状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -2866,14 +2866,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please choose a direction to evade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -3144,14 +3144,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while being bound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "束縛された状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -3178,14 +3178,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while under hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "催眠にかかった状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -3967,14 +3967,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They can't be used because they lack a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "良いココロが足りなくて使えない。"
+                                ""
                             ]
                         },
                         {
@@ -4195,14 +4195,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They can't be used because they lack a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "悪いココロが足りなくて使えない。"
+                                ""
                             ]
                         },
                         {
@@ -4423,14 +4423,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They can't be used because they lack a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "悪いココロが足りなくて使えない。"
+                                ""
                             ]
                         },
                         {
@@ -4862,14 +4862,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "良いココロが足りなくて、使えません。"
+                                ""
                             ]
                         },
                         {
@@ -4987,14 +4987,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It can only be used on a relaxed opponent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "脱力した相手にしか使えません。"
+                                ""
                             ]
                         },
                         {
@@ -5062,14 +5062,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a bad heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "悪いココロが足りなくて使えません。"
+                                ""
                             ]
                         },
                         {
@@ -5187,14 +5187,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It can only be used on a relaxed opponent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "脱力した相手にしか使えません。"
+                                ""
                             ]
                         },
                         {
@@ -9530,14 +9530,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please choose a direction to avoid."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -9586,14 +9586,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please select a direction to avoid."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -10239,14 +10239,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There is no need to avoid it now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "今は回避をする必要はない。"
+                                ""
                             ]
                         },
                         {
@@ -10413,14 +10413,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There is no need to avoid it now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "今は回避をする必要はない。"
+                                ""
                             ]
                         },
                         {
@@ -11554,14 +11554,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "良いココロが足りなくて、使えません。"
+                                ""
                             ]
                         },
                         {
@@ -11743,14 +11743,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a bad heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "悪いココロが足りなくて使えません。"
+                                ""
                             ]
                         },
                         {
@@ -12725,14 +12725,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia fiercely resists in order to regain her composure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアは気を取り直すため激しく抵抗する。"
+                                ""
                             ]
                         },
                         {
@@ -12749,14 +12749,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's mental has recovered by 2."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアのメンタルが2回復した。"
+                                ""
                             ]
                         },
                         {
@@ -12814,14 +12814,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia is regulating her breathing while waiting for the<br>right moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアは適期を待ちながら呼吸を整えている。"
+                                ""
                             ]
                         },
                         {
@@ -12838,14 +12838,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's mental has recovered by 1."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアのメンタルが1回復した。"
+                                ""
                             ]
                         },
                         {

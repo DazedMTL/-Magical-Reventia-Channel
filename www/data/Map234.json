@@ -3532,14 +3532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't put it in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入れない。"
+                                ""
                             ]
                         },
                         {
@@ -3713,21 +3713,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>水飲み場>"
+                                "\\nc<>Water Fountain> It's a water fountain where you can drink<br>cold water. Would you like to drink water?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冷たい水を飲むことができる水飲み場だ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "水を飲みますか？"
+                                ""
                             ]
                         },
                         {
@@ -3735,8 +3735,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3766,14 +3766,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>水飲み場>"
+                                "\\nc<>Water Fountain> I feel refreshed★"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "爽やかな気分になった★ <br>"
+                                ""
                             ]
                         },
                         {
@@ -3922,21 +3922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>水飲み場>"
+                                "\\nc<>Water Fountain> It's a water fountain where you can drink<br>cold water. Would you like to drink water?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冷たい水を飲むことができる水飲み場だ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "水を飲みますか？"
+                                ""
                             ]
                         },
                         {
@@ -3944,8 +3944,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3975,14 +3975,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>水飲み場>"
+                                "\\nc<>Water Fountain> I drank too much water and started feeling<br>sick...×"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "水を飲みすぎて気分が悪くなった…。×<br>"
+                                ""
                             ]
                         },
                         {
@@ -4639,14 +4639,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't put it in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入れない。"
+                                ""
                             ]
                         },
                         {
@@ -4739,21 +4739,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ジムの案内係>"
+                                "\\nc<Gym Guide>Regardless, I am in charge of cleaning the studio, but I<br>hope you can enjoy it moderately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いずれにせよスタジオの掃除担当は私ですが<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほどほどに楽しんでいただければと思います。 "
+                                ""
                             ]
                         },
                         {
@@ -4792,21 +4792,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ジムの案内係>"
+                                "\\nc<Gym Guide>Are you here to see Matsuo-san? Or did you come to exercise?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男さんにご用ですか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それとも運動しに来られたんですか？ "
+                                ""
                             ]
                         },
                         {
@@ -8319,21 +8319,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ジムの案内係>"
+                                "\\nc<Gym Guide>Regardless, I am in charge of cleaning the studio, but I<br>hope you can enjoy it moderately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いずれにせよスタジオの掃除担当は私ですが<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほどほどに楽しんでいただければと思います。 "
+                                ""
                             ]
                         },
                         {
@@ -8372,21 +8372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ジムの案内係>"
+                                "\\nc<Gym Guide>Are you here to see Matsuo-san? Or did you come to exercise?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男さんにご用ですか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それとも運動しに来られたんですか？ "
+                                ""
                             ]
                         },
                         {
@@ -9798,21 +9798,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<貧弱な男>"
+                                "\\nc<Weak man>Matsuo-san did a training livestream for an hour after you<br>left. Most of the listeners don't really mind, so don't<br>worry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "松男さんはあんたが行った後、１時間もトレーニング配信をした <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大抵のリスナーたちはそんなに気にしないから心配するな。"
+                                ""
                             ]
                         },
                         {
@@ -9851,21 +9851,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<貧弱な男>"
+                                "\\nc<Weak man>U... Uwa...! Are you really Levantia?! Did you come here to<br>exercise? Do you want to join me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "う…、うわ…！お前、ほんとにレヴァンティアか！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここに運動しに来たのか？俺と一緒にするか？"
+                                ""
                             ]
                         },
                         {
@@ -10730,21 +10730,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you? (Training level 0/Need a lewd<br>feeling of 30)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度0/淫乱な気持ち30必要）"
+                                ""
                             ]
                         },
                         {
@@ -10819,14 +10819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Matsu-o A-1 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「松男A-1」発生)"
+                                ""
                             ]
                         },
                         {
@@ -10834,8 +10834,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10990,21 +10990,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you? (Training level 15/Need a lewd<br>feeling of 60)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度１５/淫乱な気持ち60必要）"
+                                ""
                             ]
                         },
                         {
@@ -11079,14 +11079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Matsu-o A-2 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「松男A-2」発生)"
+                                ""
                             ]
                         },
                         {
@@ -11094,8 +11094,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11250,21 +11250,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you doing? (Training level 35/Need a<br>lewd feeling of 150)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度３５/淫乱な気持ち150必要）"
+                                ""
                             ]
                         },
                         {
@@ -11339,14 +11339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Matsu-o A-3 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「松男A-3」発生)"
+                                ""
                             ]
                         },
                         {
@@ -11354,8 +11354,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11510,21 +11510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you doing? (Training level 55/Need a<br>lewd feeling of 350)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度５５/淫乱な気持ち350必要）"
+                                ""
                             ]
                         },
                         {
@@ -11599,14 +11599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Matsu-o A-4 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「松男A-4」発生)"
+                                ""
                             ]
                         },
                         {
@@ -11614,8 +11614,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11770,21 +11770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you doing? (Training level 70/Need a<br>lewd feeling of 700)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度７０/淫乱な気持ち700必要）"
+                                ""
                             ]
                         },
                         {
@@ -11859,21 +11859,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you doing? (Training level 90/Need a<br>lewd feeling of 2000)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度９０/淫乱な気持ち2000必要）"
+                                ""
                             ]
                         },
                         {
@@ -11948,14 +11948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Matsu-o A-6 Occurred)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「松男A-6」発生)"
+                                ""
                             ]
                         },
                         {
@@ -11963,8 +11963,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12119,14 +12119,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男>"
+                                "\\nc<Matsuo>Hey~ Levantia, how are you doing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお～、レヴァちゃん元気？ "
+                                ""
                             ]
                         },
                         {
@@ -12279,14 +12279,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<太っている男>"
+                                "\\nc<Fat man>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -12325,14 +12325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<太っている男>"
+                                "\\nc<Fat man>Uhh...uhh...um....hello...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "う…、うおっ…。えっと…。こんにちは…！ "
+                                ""
                             ]
                         },
                         {
@@ -13215,103 +13215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Life is muscle!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ライフ・イズ・マッスル！"
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 18,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                30
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 16,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 18,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        30
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 16,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<女子学生>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Right!"
+                                ""
                             ]
                         },
                         {
@@ -13393,103 +13304,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Right!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Right!"
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 17,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                30
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 16,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 17,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        30
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 16,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<女子学生>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Left! "
+                                ""
                             ]
                         },
                         {
@@ -13571,103 +13393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Right!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Right!"
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 17,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                30
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 16,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 17,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        30
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 16,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<女子学生>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Left! "
+                                ""
                             ]
                         },
                         {
@@ -13749,14 +13482,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Left!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Left! "
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 18,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                30
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 18,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        30
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
                             ]
                         },
                         {
@@ -13773,21 +13571,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Right!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男くんのダイエット体操動画はデュフチューブで<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 205,
                             "indent": 0,
                             "parameters": [
-                                "500万再生数を記録した。"
+                                0,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                30
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        30
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
                             ]
                         },
                         {
@@ -13804,14 +13660,158 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Left!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 15,
+                                            "parameters": [
+                                                30
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 15,
+                                    "parameters": [
+                                        30
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の松男くんを作ってくれた、記念すべき体操さ！"
+                                "\\nc<Female student>Left!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Female student>Matsuo-kun's diet exercise video recorded 5 million views on<br>DufTube."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Female student>That was the memorable gymnastics that made Matsuo-kun what<br>he is now!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

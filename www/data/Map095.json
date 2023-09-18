@@ -8395,14 +8395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Is this the place where the mysterious monster appeared?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここだよな？謎の怪物が現れたって場所？"
+                                ""
                             ]
                         },
                         {
@@ -8428,14 +8428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Yes, cheese!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい、チ～ズ！"
+                                ""
                             ]
                         },
                         {
@@ -8544,14 +8544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<デュフチューバー>"
+                                "\\nc<Dufchuber>\\{ Nationwide Supernatural Phenomenon Tour!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\{全国心霊現象ツアー！"
+                                ""
                             ]
                         },
                         {
@@ -8568,14 +8568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<デュフチューバー>"
+                                "\\nc<Dufchuber>It seems that an unidentified monster has appeared in this<br>sewer this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今回はこの下水道に正体不明の怪物が現れたそうです。"
+                                ""
                             ]
                         },
                         {
@@ -8675,21 +8675,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<デュフチューバー>"
+                                "\\nc<Dufchuber>Is it just a villain, or is it finally a supernatural<br>phenomenon? Let's investigate it clearly--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただのヴィランなのか、それとも今度こそ超自然現象なのか、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はっきりと検証を――"
+                                ""
                             ]
                         },
                         {
@@ -8743,21 +8743,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wow, so many people have gathered. I wonder where the<br>rumors spread?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うわ～、いっぱい集まっちゃいましたね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこで噂が広がったんでしょうか？"
+                                ""
                             ]
                         },
                         {
@@ -8802,21 +8802,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The video of slime on Dufchuber is becoming a hot topic.<br>It's only a matter of time before the number of missing<br>persons increases if this continues."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デュフチューブでスライムの動画が話題になってる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このままだと行方不明者が増えるのも時間の問題。"
+                                ""
                             ]
                         },
                         {
@@ -8868,14 +8868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Cashew Nut, hurry up and do something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カシューナッツ、早く何とかして。"
+                                ""
                             ]
                         },
                         {
@@ -8936,21 +8936,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Don't say unreasonable things, meow!... It's not a situation<br>where I can say that, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無茶言わないでくれにゃん！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…って言える状況でもないにゃ。"
+                                ""
                             ]
                         },
                         {
@@ -8967,21 +8967,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I have no choice. I'll allow the use of 3rd class memory<br>manipulation magic, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "３級記憶操作魔法の使用を許可するにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -9033,14 +9033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, we'll do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、私たちがやります！"
+                                ""
                             ]
                         },
                         {
@@ -9198,14 +9198,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia-san might be fighting soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアさんはもうすぐ戦うかもしれないので。"
+                                ""
                             ]
                         },
                         {
@@ -9250,14 +9250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you okay? Memory manipulation magic is quite difficult."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫そう？記憶操作の魔法はかなり難しいけど。"
+                                ""
                             ]
                         },
                         {
@@ -9302,14 +9302,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Don't worry. We are also working hard and training!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫です。私たちも頑張って特訓してますから！"
+                                ""
                             ]
                         },
                         {
@@ -9368,14 +9368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Very well. Leave it to me. Let's go, Candy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うむ。ここは任せて。行こう、キャンディー。"
+                                ""
                             ]
                         },
                         {
@@ -9517,14 +9517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>１、２！"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "１、２！"
+                                ""
                             ]
                         },
                         {
@@ -9630,14 +9630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>...Huh? Why did we come here again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あれ？俺たち、なんでここに来たんだっけ？"
+                                ""
                             ]
                         },
                         {
@@ -9654,14 +9654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<デュフチューバー>"
+                                "\\nc<Dufchuber>I feel like I misunderstood the place somehow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何だか場所を勘違いしたような気が…。"
+                                ""
                             ]
                         },
                         {
@@ -10591,14 +10591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Alright! With this, the citizens shouldn't come near here<br>for a while!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よし！これで当分の間、市民はこっちに近づかないはずです！"
+                                ""
                             ]
                         },
                         {
@@ -10650,21 +10650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>We are keeping watch here to make sure no other slimes come.<br>Kei, please take care of the inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクたちはここで他のスライムが来ないか見張ってるから。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は内側をお願い。"
+                                ""
                             ]
                         },
                         {
@@ -10747,14 +10747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Sure, leave it to me! I'll be back soon!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん、任せて！すぐに戻ってくるね！"
+                                ""
                             ]
                         },
                         {

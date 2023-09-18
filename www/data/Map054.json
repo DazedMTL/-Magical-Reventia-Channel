@@ -5218,14 +5218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Please delete that video from earlier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…消してください、この間の動画。"
+                                ""
                             ]
                         },
                         {
@@ -5279,14 +5279,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]No, even if you say that, it's troublesome."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、そういわれても困るよ。"
+                                ""
                             ]
                         },
                         {
@@ -5303,21 +5303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I'm eating with this, you know. It's consensual, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺はこれで食ってんだからさ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "合意の上だろ？"
+                                ""
                             ]
                         },
                         {
@@ -5371,21 +5371,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I don't remember giving you permission to touch me!? Don't<br>make up things on your own!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触られるのまで許した覚えはありませんよ！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "勝手にでっちあげないでください！"
+                                ""
                             ]
                         },
                         {
@@ -5423,21 +5423,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]This is not a joke. If you don't delete it, I will sue<br>you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冗談じゃありません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "消してくれないなら訴えます。"
+                                ""
                             ]
                         },
                         {
@@ -5482,14 +5482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Sue you? Do as you please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訴える？勝手にしろ。"
+                                ""
                             ]
                         },
                         {
@@ -5515,14 +5515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]If you want, I can even take the video and go to the<br>police."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんなら動画も持って警察行きゃいい。"
+                                ""
                             ]
                         },
                         {
@@ -5569,21 +5569,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Well, I don't know if the important people will do anything<br>for an unidentified girl who isn't even a citizen, lol."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、市民でもない正体不明の少女のために、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お偉いさんたちが動いてくれるかは分かんねぇけどなw"
+                                ""
                             ]
                         },
                         {
@@ -5637,45 +5637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ugh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\TA[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(確かに。魔法少女のままじゃ告訴も通報もできない。)<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなことをしたら私がレヴァンティアだという事実が知れ渡ってしまう。）"
+                                ""
                             ]
                         },
                         {
@@ -5692,14 +5661,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](Indeed. As a magical girl, I can't file a lawsuit or report<br>it.)(If I do something like that, the fact that I am<br>Levantia will become widely known.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさかここまで計算ずみだったってこと…？）"
+                                "\\TA[1]Could it be that they had planned everything up to this<br>point...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5753,14 +5753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]It seems like they noticed from looking at my expression."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "表情を見るからに気づいたみたいだな。"
+                                ""
                             ]
                         },
                         {
@@ -5777,21 +5777,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]You were enjoying it too, weren't you? If you didn't like<br>it, you should have resisted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そもそもお前も楽しんでただろ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌なら抵抗したはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5906,14 +5906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]But that's not true?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違いますけど？！"
+                                ""
                             ]
                         },
                         {
@@ -5930,21 +5930,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]At that time, I was drunk and I stayed still because I was<br>afraid I might cause a serious injury!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの時は酔っぱらってて、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大けがさせるかもしれないからじっとしてたんです！"
+                                ""
                             ]
                         },
                         {
@@ -5998,21 +5998,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Oh, really? I see, you're truly a heroine of justice. But I<br>wonder if others think the same?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へぇ、そうだったの？さすがは正義のヒロインさん。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも他の人もそう思うかな？"
+                                ""
                             ]
                         },
                         {
@@ -6066,14 +6066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ugh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ…！"
+                                ""
                             ]
                         },
                         {
@@ -6106,14 +6106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]How can I delete the video?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…どうすれば動画を消してくれますか。"
+                                ""
                             ]
                         },
                         {
@@ -6167,14 +6167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Alright. Finally, we can understand each other."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よし。やっと話が通じるようになったな。"
+                                ""
                             ]
                         },
                         {

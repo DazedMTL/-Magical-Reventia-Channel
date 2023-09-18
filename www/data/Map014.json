@@ -7032,21 +7032,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>No, seriously, Levantia-sama is the epitome of this era, you<br>know? We need to respect Levantia-sama even more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、まじでレヴァンティア様はこの時代の鑑だぜ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺たちはもっとレヴァンティア様を敬う必要がある。"
+                                ""
                             ]
                         },
                         {
@@ -7063,14 +7063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Huh? So, do you know just how amazing Levantia-sama is?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なっ？それで、レヴァンティア様がどのくらいすごいのか知ってるか？"
+                                ""
                             ]
                         },
                         {
@@ -7160,104 +7160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>You should learn a little and try harder too!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前も少しは見習って努力してみろ！！"
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).light();"
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).setExpression('9')"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                103
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いや…、そのレヴァンティアが私なんです…。）"
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 0,
-                            "parameters": [
-                                "$bust(2).dim();"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                87
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<店長>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はあ…。俺がカフェなんてやってなかったら<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティア様のマネージャーとしてお仕えするのに。"
+                                ""
                             ]
                         },
                         {
@@ -7295,14 +7205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(No... that Levantia is me...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（いや…、それはお断りします…。）"
+                                ""
                             ]
                         },
                         {
@@ -7333,52 +7243,42 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Sigh... If I hadn't been running this cafe, I would have<br>served as Levantia-sama's manager."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なっ？？聞いてんのか？！俺たちが安全に歩き回れるのも<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティア様のおかげなんだぞ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                "$bust(2).light();"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "$bust(2).setExpression('9')"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 117,
                             "indent": 0,
                             "parameters": [
-                                "みんな分かってないんだよな～<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティア様がどんなにすごい方なのか。"
+                                103
                             ]
                         },
                         {
@@ -7395,14 +7295,114 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<>(No... I refuse that...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "$bust(2).dim();"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ？！それでな……。"
+                                "\\nc<Store Manager>Huh? Are you listening? It's thanks to Levantia-sama that we<br>can walk around safely!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Store Manager>Everyone just doesn't understand... how amazing Levantia-<br>sama is."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Store Manager>Huh?! What about..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7440,14 +7440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, yes yes. Ahaha, that's right..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あー、はいはい。あはは、そうですよね…。"
+                                ""
                             ]
                         },
                         {
@@ -7471,14 +7471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I keep saying the same thing, but... do I have to keep<br>listening to this...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（同じことばかり言ってるけど…。これ、ずっと聞かなきゃいけないの…？）"
+                                ""
                             ]
                         },
                         {
@@ -7502,14 +7502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Ugh... It feels good to be praised, but... it's kind of<br>embarrassing...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（う…。褒められてるみたいで気分はいいけど…。何だか照れくさいな…。）"
+                                ""
                             ]
                         },
                         {
@@ -7585,7 +7585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「魔法少女ガチコイ勢２」を手に入れた。"
+                                "\\nc<>I obtained the memory of Magical Girl Gachikoi Force 2."
                             ]
                         },
                         {
@@ -7602,7 +7602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>良いリスナーが３０００人増えた。"
+                                "\\nc<>Good listeners increased by 3000."
                             ]
                         },
                         {

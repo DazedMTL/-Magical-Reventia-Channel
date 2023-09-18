@@ -2087,14 +2087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Hmmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふむ…。"
+                                ""
                             ]
                         },
                         {
@@ -2132,14 +2132,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh? President, what are you thinking so deeply about?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん？部長、何をそんなに考え込んでるんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2163,14 +2163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Hmmmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うーーーーむ……。"
+                                ""
                             ]
                         },
                         {
@@ -2187,14 +2187,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>I wonder what color panties Levantia usually wears...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアがいつもはいてるパンツは何色かな…...？"
+                                ""
                             ]
                         },
                         {
@@ -2825,14 +2825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -2840,8 +2840,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around."
                             ]
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票 「敵を知り己を知れば百戦危うからず」を手に入れた。"
+                                "\\nc<>I obtained the proof ticket Know thy enemy, know thyself,<br>and you shall not fear a hundred battles."
                             ]
                         },
                         {
@@ -2955,7 +2955,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>With the effect of the proof ticket, I gained 1000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -3014,14 +3014,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof ticket Investigating-type<br>Magical Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「探求型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3038,7 +3038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>With the effect of the proof ticket, I gained 3000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -3097,14 +3097,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof ticket Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3121,7 +3121,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>With the effect of the proof ticket, I gained 5000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -3250,14 +3250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -3265,8 +3265,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -3360,14 +3360,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, there is nothing but pointless chatter<br>going on. I obtained the proof Know thy enemy and know<br>thyself, and you shall not fear a hundred battles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「敵を知り己を知れば百戦危うからず」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 1000."
                             ]
                         },
                         {
@@ -3443,14 +3443,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, there is nothing but pointless chatter<br>going on. I obtained the proof Investigating-type Magical<br>Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「探求型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3467,7 +3467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 3000."
                             ]
                         },
                         {
@@ -3526,14 +3526,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, there is nothing but pointless chatter<br>going on. I obtained the proof Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3550,7 +3550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 5000."
                             ]
                         },
                         {
@@ -3679,14 +3679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -3694,8 +3694,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -3725,7 +3725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around."
                             ]
                         },
                         {
@@ -3801,14 +3801,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof Know thy enemy and know<br>thyself, and you will not be endangered in a hundred<br>battles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「敵を知り己を知れば百戦危うからず」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3825,7 +3825,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 1000."
                             ]
                         },
                         {
@@ -3884,14 +3884,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof Investigating-type Magical<br>Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「探求型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3908,7 +3908,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 3000."
                             ]
                         },
                         {
@@ -3967,14 +3967,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3991,7 +3991,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 5000."
                             ]
                         },
                         {
@@ -4120,14 +4120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -4135,8 +4135,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -4239,14 +4239,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, there is nothing but pointless chatter<br>going on. I obtained the proof Know thy enemy and know<br>thyself, and you shall not fear a hundred battles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「敵を知り己を知れば百戦危うからず」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -4263,7 +4263,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 1000."
                             ]
                         },
                         {
@@ -4322,14 +4322,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, there is nothing but pointless chatter<br>going on. I obtained the proof Investigating-type Magical<br>Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「探求型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -4346,7 +4346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 3000."
                             ]
                         },
                         {
@@ -4405,14 +4405,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, there is nothing but pointless chatter<br>going on. I obtained the proof Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 5000."
                             ]
                         },
                         {
@@ -4558,14 +4558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -4573,8 +4573,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -4604,7 +4604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around."
                             ]
                         },
                         {
@@ -4680,14 +4680,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. Kei obtained the proof Know thy enemy and know<br>thyself, and you will not be endangered in a hundred<br>battles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「敵を知り己を知れば百戦危うからず」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -4704,7 +4704,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 1000."
                             ]
                         },
                         {
@@ -4763,14 +4763,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof Investigating-type Magical<br>Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「探求型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -4787,7 +4787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 3000."
                             ]
                         },
                         {
@@ -4846,14 +4846,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -4870,7 +4870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 5000."
                             ]
                         },
                         {
@@ -4999,14 +4999,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -5014,8 +5014,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -5109,14 +5109,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. Kei obtained the Villain Psychologist badge."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the badge, Kei gained 5000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -5262,14 +5262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ヴィランに探する噂を探る。"
+                                "\\nc<>Investigating rumors about the villain. (Obtaining<br>information about the battle with the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ヴィランとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -5277,8 +5277,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigate",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -5308,7 +5308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around."
                             ]
                         },
                         {
@@ -5384,14 +5384,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, pointless conversations are flying<br>around. I obtained the proof Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, the number of good<br>listeners increased by 5000."
                             ]
                         },
                         {
@@ -7939,45 +7939,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>Ah, is it about the head?? It's just a fashion statement."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ああ、頭ですか？？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただのファッションです。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<部員Ａ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に抜けたとかそういうのじゃありません。"
+                                ""
                             ]
                         },
                         {
@@ -7994,14 +7970,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>It's definitely not about getting off or anything like that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誤解しないでくださいね？"
+                                "\\nc<Member A>Please don't misunderstand, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8325,14 +8325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ｂ>"
+                                "\\nc<Member B>I'm sure I left my doujinshi around here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かにこのあたりに僕の同人誌を置いたんだけど…。"
+                                ""
                             ]
                         },
                         {

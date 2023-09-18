@@ -1484,21 +1484,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Reina-san... How can I become friends with you... Sogabe-san<br>seems to be close with you, is there any secret to it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レイナさん…。どうしたら仲良くなれるかな…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "曽我部さんはレイナさんと仲良しみたいだけど、何か秘訣はある？"
+                                ""
                             ]
                         },
                         {
@@ -1654,14 +1654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>Huh? Are you in the same department as me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ？あなた、うちの学科だっけ？ "
+                                ""
                             ]
                         },
                         {
@@ -1986,14 +1986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2068,21 +2068,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to watch the main story R1: Reina's First<br>Date? (Costs 3 motivation)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリー「R1：レイナとの初めてのデート」を見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度3消耗）"
+                                ""
                             ]
                         },
                         {
@@ -2090,8 +2090,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2195,14 +2195,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Not enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2310,14 +2310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2392,14 +2392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2474,21 +2474,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Would you like to watch the main story R2: Crossroads of<br>Happiness and Duty? (Motivation level 7 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリー「R2：幸福と使命の分かれ道」を見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度7消耗）"
+                                ""
                             ]
                         },
                         {
@@ -2496,8 +2496,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2601,14 +2601,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't have enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2716,14 +2716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2798,14 +2798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's up?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか?"
+                                ""
                             ]
                         },
                         {
@@ -2880,21 +2880,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Would you like to watch the main story R3: A Date Led by an<br>Introvert? (Costs 10 Motivation)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリー「R3：陰キャがリードするデート」を見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度１０消耗）"
+                                ""
                             ]
                         },
                         {
@@ -2902,8 +2902,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3007,14 +3007,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Not enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -3122,14 +3122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -3204,14 +3204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, hello senpai! What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、先輩！どうしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -3788,21 +3788,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-1 triggered) (Training level 5/Need 30<br>horny feelings)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント「レイナ A-1」発生)<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度５/淫乱な気持ち30必要）"
+                                ""
                             ]
                         },
                         {
@@ -3877,14 +3877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-1 triggered)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-1」発生)"
+                                ""
                             ]
                         },
                         {
@@ -3892,8 +3892,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4048,21 +4048,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-2 triggered) (Training level 20/Need horny<br>feelings 70)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-2」発生)<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度２０/淫乱な気持ち70必要）"
+                                ""
                             ]
                         },
                         {
@@ -4137,14 +4137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-2 triggered)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-2」発生)"
+                                ""
                             ]
                         },
                         {
@@ -4152,8 +4152,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4308,21 +4308,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-3 triggered) (Requires Training Level<br>40/Lustful Feelings 200)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-3」発生)<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度４０/淫乱な気持ち200必要）"
+                                ""
                             ]
                         },
                         {
@@ -4397,21 +4397,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-4 triggered) (Training level 60/Need 400<br>horny feelings)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-4」発生)<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度６０/淫乱な気持ち400必要）"
+                                ""
                             ]
                         },
                         {
@@ -4486,21 +4486,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-5 triggered) (Training level 75/Need 800<br>lewd feelings)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-5」発生)<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度７５/淫乱な気持ち800必要）"
+                                ""
                             ]
                         },
                         {
@@ -4575,14 +4575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-5 triggered)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-5」発生)"
+                                ""
                             ]
                         },
                         {
@@ -4590,8 +4590,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4746,21 +4746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-6 triggered) (Training level 90/Need lewd<br>feelings 2000)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-6」発生)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度90/淫乱な気持ち2000必要）"
+                                ""
                             ]
                         },
                         {
@@ -4835,14 +4835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Reina A-6 triggered)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「レイナA-6」発生)"
+                                ""
                             ]
                         },
                         {
@@ -4850,8 +4850,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

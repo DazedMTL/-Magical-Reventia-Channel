@@ -7434,14 +7434,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise Church~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -7516,21 +7516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story N2: Want to investigate the suspicious aspects of<br>the Rakuen Church? (Motivation -3)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーN2：楽園教の怪しいところを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度3消耗）"
+                                ""
                             ]
                         },
                         {
@@ -7538,8 +7538,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7643,14 +7643,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't have enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -7758,14 +7758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise Church~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -7840,14 +7840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise School~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -7922,21 +7922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story N3: Do you want to see Undercover Levantia?<br>(Motivation level 2 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーN3：アンダーカバーレヴァンティアを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度２消耗）"
+                                ""
                             ]
                         },
                         {
@@ -7944,8 +7944,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8049,14 +8049,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Motivation level is not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -8164,14 +8164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise Church~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -8246,14 +8246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise School~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -8328,14 +8328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Cult Leader A-3 Occurrence)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント教祖A-3発生）"
+                                ""
                             ]
                         },
                         {
@@ -8343,8 +8343,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8499,14 +8499,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise Church~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -8581,14 +8581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise School~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -8663,21 +8663,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story N5: Seeing Rakuenkyo and Sachiko? (Motivation<br>level 2 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーN5：楽園教と幸子を見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度２消耗）"
+                                ""
                             ]
                         },
                         {
@@ -8685,8 +8685,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8790,14 +8790,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't have enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -8905,14 +8905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Ah, hello Kei-san! Welcome to the Paradise Church~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。こんにちは、圭さん！楽園教へようこそ～。"
+                                ""
                             ]
                         },
                         {
@@ -12304,21 +12304,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<楽園教信者>"
+                                "\\nc<Paradise Believer>Thank you so much for helping me the other day. But I have<br>absolutely no memory of what happened after you helped me...<br>What's going on?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この間は助けてくれて本当にありがとう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、助けてくれた後の記憶がまったくない…。どうなってるの…。"
+                                ""
                             ]
                         },
                         {
@@ -12365,21 +12365,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<楽園教信者>"
+                                "\\nc<Paradise Believer>It seems like you joined us this time, right? Let's work<br>hard together and go to paradise!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今回入信したらしいじゃん？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一生懸命活動して一緒に楽園に行こう！ "
+                                ""
                             ]
                         },
                         {
@@ -12418,21 +12418,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<楽園教信者>"
+                                "\\nc<Paradise Believer>I don't remember when I started believing in the Paradise<br>Faith... When I realized it, I was already involved in its<br>activities..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつから楽園教を信じるようになったのかは覚えていない…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気づいたときには活動していた…。"
+                                ""
                             ]
                         },
                         {
@@ -12524,21 +12524,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<危ない信者>"
+                                "\\nc<Dangerous Believer>In the end, my husband abandoned me... I wish he would rot<br>in hell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "結局、旦那が私を捨てました…<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "地獄に落ちればいいのに。<br>"
+                                ""
                             ]
                         },
                         {
@@ -12577,21 +12577,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<危ない信者>"
+                                "\\nc<Dangerous Believer>In order to go to paradise, I secretly sold the house and<br>prepared the money without telling my husband... My<br>husband's face turned red with anger and he brought up<br>divorce."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園に行くために夫に内緒で家を売ってお金を用意しました…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "夫は顔を真っ赤にして怒り離婚を切り出してきましたが、<br>"
+                                ""
                             ]
                         },
                         {
@@ -12608,14 +12608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<危ない信者>"
+                                "\\nc<Dangerous Believer>If you go to paradise, you will thank me, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園に行けば私に感謝するでしょう。 "
+                                ""
                             ]
                         },
                         {
@@ -13740,21 +13740,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>楽園教にお越しいただきありがとうございます。<br>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself. (Training level 0/Lustful feelings level 30<br>required)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごゆっくりとお楽しみください。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度0/淫乱な気持ち30必要）"
+                                ""
                             ]
                         },
                         {
@@ -13829,14 +13829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Cult Leader A-1 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(イベント「教祖A-1」発生）"
+                                ""
                             ]
                         },
                         {
@@ -13844,8 +13844,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14000,21 +14000,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>ごゆっくりとお楽しみください。<br>"
+                                ""
                             ]
                         },
                         {
@@ -14089,14 +14089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Cult Leader A-2 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント「教祖A-2」発生）"
+                                ""
                             ]
                         },
                         {
@@ -14104,8 +14104,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14260,28 +14260,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself. (Training level 35/Lustful feelings 150 required)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>ごゆっくりとお楽しみください。 "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度３５/淫乱な気持ち150必要）"
+                                ""
                             ]
                         },
                         {
@@ -14356,28 +14356,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself. (Training level 55/Lustful feelings 350 required)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>ごゆっくりとお楽しみください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度５５/淫乱な気持ち350必要）"
+                                ""
                             ]
                         },
                         {
@@ -14452,14 +14452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Cult Leader A-4 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント「教祖A-4」発生）"
+                                ""
                             ]
                         },
                         {
@@ -14467,8 +14467,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14623,28 +14623,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself. (Training level 70/Lustful feelings 700 required)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごゆっくりとお楽しみください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度７０/淫乱な気持ち700必要）"
+                                ""
                             ]
                         },
                         {
@@ -14719,14 +14719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Cult Leader A-5 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント「教祖A-5」発生）"
+                                ""
                             ]
                         },
                         {
@@ -14734,8 +14734,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14890,28 +14890,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself. (Training level 90/Lustful feelings 2000 required)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>ごゆっくりとお楽しみください。 "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（調教度９０/淫乱な気持ち2000必要）"
+                                ""
                             ]
                         },
                         {
@@ -14986,14 +14986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event Cult Leader A-6 Occurs)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント「教祖A-6」発生）"
+                                ""
                             ]
                         },
                         {
@@ -15001,8 +15001,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15157,21 +15157,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>your stay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>ごゆっくりとお楽しみください。 "
+                                ""
                             ]
                         },
                         {

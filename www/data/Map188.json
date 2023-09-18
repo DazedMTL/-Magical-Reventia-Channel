@@ -3586,21 +3586,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<教祖>"
+                                "\\nc<Founder>Thank you for coming to the Paradise Church. Please enjoy<br>yourself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教にお越しいただきありがとうございます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>ごゆっくりとお楽しみください。"
+                                ""
                             ]
                         },
                         {

@@ -5846,21 +5846,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<解雇されたPD>"
+                                "\\nc<Fired PD>I couldn't achieve the target sales of the game, and in the<br>end, I got fired from the company..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの目標売上が達成できなくて、結局会社から<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "首になってしまった…。"
+                                ""
                             ]
                         },
                         {
@@ -5944,14 +5944,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員A>"
+                                "\\nc<Angry Employee A>I'm getting frustrated because my salary is late..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "給料が遅れてイライラする…。 "
+                                ""
                             ]
                         },
                         {
@@ -5968,14 +5968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員B>"
+                                "\\nc<Angry Employee B>I feel the same way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それな。"
+                                ""
                             ]
                         },
                         {
@@ -6059,14 +6059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員A>"
+                                "\\nc<Angry Employee A>I'm getting frustrated because my salary is late..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "給料が遅れてイライラする…。 "
+                                ""
                             ]
                         },
                         {
@@ -6083,14 +6083,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員B>"
+                                "\\nc<Angry Employee B>I feel the same way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それな。"
+                                ""
                             ]
                         },
                         {
@@ -6815,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>そろそろ就活も考えてみないと。"
+                                "\\nc<>It's about time to start thinking about job hunting."
                             ]
                         },
                         {
@@ -6832,14 +6832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>会社のインターンシップに参加してみようかな？"
+                                "\\nc<>Should I try participating in a company internship?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -6847,8 +6847,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "参加する",
-                                    "考えてみる"
+                                    "Participate",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -6878,38 +6878,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>「弊社の未来戦略は～」"
+                                "\\nc<>Our company's future strategy is~ Today, through group<br>work~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>「本日はグループワークを通して～」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>会社に関するいろんな情報を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "<br>あまりにも情報量が多すぎて、頭が痛い…。"
+                                ""
                             ]
                         },
                         {
@@ -6926,7 +6902,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>意欲度を１失った。"
+                                "\\nc<>I obtained various information about the company. There is<br>so much information that my head hurts..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>They lost their motivation level by 1."
                             ]
                         },
                         {
@@ -7013,14 +7013,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事がそんなに難しくなくなってきた。"
+                                "\\nc<>Work has become less difficult. I obtained a certificate as<br>a beginner part-timer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「アルバイト初心者」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -7037,7 +7037,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, we gained 1000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -7166,14 +7166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>マーケティングプロジェクトのグループワーク募集が上がって来た。"
+                                "\\nc<>The group work recruitment for the marketing project has<br>come up. I'm interested in marketing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>マーケティングには興味あるんだよな…。"
+                                ""
                             ]
                         },
                         {
@@ -7190,14 +7190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>会社のインターンシップに参加してみようかな？"
+                                "\\nc<>Should I participate in the company's internship?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -7205,8 +7205,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "参加する",
-                                    "考えてみる"
+                                    "Participate",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -7236,31 +7236,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>ネット配信を活用したマーケティングプロジェクトに参加した。"
+                                "\\nc<>I participated in a marketing project that utilized online<br>streaming. I was praised for being knowledgeable in this<br>area despite my appearance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>見た目のわりにこういうところに詳しいと評価された。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>誉め言葉か、悪口かはよくわからないけど…。肯定的に考えることにした。"
+                                ""
                             ]
                         },
                         {
@@ -7277,7 +7260,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>意欲度２を手に入れた。"
+                                "\\nc<>I'm not sure if it was a compliment or an insult... but I<br>decided to take it positively."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>I obtained Motivation Level 2."
                             ]
                         },
                         {
@@ -7364,14 +7364,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事には慣れてきた。 "
+                                "\\nc<>I'm getting used to work already. I obtained the<br>Livelihood-type Magical Girl certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「生計型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -7388,7 +7388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the ticket's effect, the number of good listeners<br>increased by 3000."
                             ]
                         },
                         {
@@ -7447,14 +7447,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>There is no job that I can't do now. I obtained the<br>Workaholic certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -7471,7 +7471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the ticket's effect, the number of good listeners<br>increased by 5000."
                             ]
                         },
                         {
@@ -7600,14 +7600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>インフルエンサーを活用したマーケティングコンテストの募集が上がってきた。"
+                                "\\nc<>A recruitment for a marketing contest utilizing influencers<br>has come up. Huh? Could this possibly be..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>えっ？これって…。もしかして…。"
+                                ""
                             ]
                         },
                         {
@@ -7624,14 +7624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>会社のインターンシップに参加してみようかな？"
+                                "\\nc<>Should I try participating in the company's internship?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -7639,8 +7639,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レヴァンティアを活用する",
-                                    "さすがにやめる"
+                                    "Utilize Levantia",
+                                    "I'll definitely quit"
                                 ],
                                 1,
                                 0,
@@ -7670,7 +7670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>大人気の魔法少女レヴァンティアを活用し、コンテストで大賞を受賞した。"
+                                "\\nc<>They utilized the popular magical girl Levantia and won the<br>grand prize in the contest."
                             ]
                         },
                         {
@@ -7687,14 +7687,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>賞金をたくさんもらって良いものの、"
+                                "\\nc<>Many listeners seem to have doubts about this kind of<br>activity, even though they receive a lot of prize money."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>こういう活動に疑いの気持ちを抱くリスナーも多いらしい。"
+                                ""
                             ]
                         },
                         {
@@ -7711,14 +7711,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>賞金３００００円を手に入れた。"
+                                "\\nc<>They won a prize of 30,000 yen. The number of bad listeners<br>increased by 1,000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>悪いリスナーが１０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -11757,52 +11757,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とげた研究員>"
+                                "\\nc<Thorny Researcher>A research result has been announced that states the more<br>bad intentions sent by citizens, the more they become<br>subservient to villains."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "市民が送ってきた悪いココロが多くなれば多くバルほど、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヴィランに従属されてしまうという研究結果が発表された。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<とげた研究員>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前、悪いココロを集めて戦う魔法少女をみたけど、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街がヴィランに破壊されているというのに、馬鹿みたいにオナニーしてたよ。"
+                                ""
                             ]
                         },
                         {
@@ -11819,14 +11788,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<とげた研究員>"
+                                "\\nc<Thorny Researcher>The other day, I saw a magical girl who fights by gathering<br>bad intentions, but even though the city was being destroyed<br>by villains, they were foolishly masturbating."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なのに、その力を愛用する魔法少女もたくさんいるみたいだ。"
+                                "\\nc<Thorny Researcher>However, it seems that there are many magical girls who make<br>use of that power."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

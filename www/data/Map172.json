@@ -14936,14 +14936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<司書>"
+                                "\\nc<Librarian>Please be quiet in the library."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "図書館では静かにしてください。"
+                                ""
                             ]
                         },
                         {
@@ -15027,14 +15027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<司書>"
+                                "\\nc<Librarian>Please be quiet in the library."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "図書館では静かにしてください。"
+                                ""
                             ]
                         },
                         {
@@ -15184,14 +15184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Eh... They seem scary.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（えっ。怖そうな人だ。）"
+                                ""
                             ]
                         },
                         {
@@ -15222,14 +15222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Someone like this... reading...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（こんな人が…、読書を…？？）"
+                                ""
                             ]
                         },
                         {
@@ -15314,21 +15314,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怖そうな人>"
+                                "\\nc<Scary-looking person>What? What are you looking at? Despite my appearance, I<br>actually enjoy reading."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なに？なに見てんだ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺、こう見えて読書が好きなんだ。"
+                                ""
                             ]
                         },
                         {
@@ -15366,14 +15366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah... um.... I'm sorry!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。えっと…。すみません！！"
+                                ""
                             ]
                         },
                         {
@@ -15569,14 +15569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>図書館の臨時司書を募集していると書いている。"
+                                "\\nc<>They wrote that they are recruiting temporary librarians at<br>the library. It's good to be able to work in a quiet space."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>静かな空間で働けるのは良い。"
+                                ""
                             ]
                         },
                         {
@@ -15593,7 +15593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>司書に応募してみる？"
+                                "\\nc<>Want to try applying for a librarian position?"
                             ]
                         },
                         {
@@ -15601,8 +15601,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "支援する",
-                                    "考えてみる"
+                                    "Support",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -15632,38 +15632,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>本を片付けながら時間を過ごした。"
+                                "\\nc<>I spent time tidying up books. Oh... I received a message<br>from Cashew Nut!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>あっ…。カシューナッツから連絡が来た！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>ヴィランが現れたらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "<br>図書館をこっそり抜け出した。"
+                                ""
                             ]
                         },
                         {
@@ -15680,7 +15656,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>幸い、ばれなかったみたいだ。"
+                                "\\nc<>It seems that a villain has appeared. They quietly slipped<br>out of the library."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15697,7 +15680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>バイト代３０００円を手に入れた。"
+                                "\\nc<>Fortunately, it seems like they didn't get caught."
                             ]
                         },
                         {
@@ -15714,7 +15697,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>良いリスナーが１０００人、悪いリスナーが１０００人増えた。"
+                                "\\nc<>I got 3000 yen for my part-time job."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>The number of good listeners increased by 1000, and the<br>number of bad listeners increased by 1000."
                             ]
                         },
                         {
@@ -15821,14 +15821,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事がそんなに難しくなくなってきた。"
+                                "\\nc<>Work has become less difficult now. I obtained the<br>certificate Part-time Job Beginner."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「アルバイト初心者」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -15845,7 +15845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, the number of good<br>listeners increased by 1000."
                             ]
                         },
                         {
@@ -15974,14 +15974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>図書館の臨時司書を募集していると書いている。"
+                                "\\nc<>They wrote that they are recruiting temporary librarians at<br>the library. It's good that they can be called into action<br>in the middle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>途中で出動できるのは良い。"
+                                ""
                             ]
                         },
                         {
@@ -15998,14 +15998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>司書に応募してみる？"
+                                "\\nc<>Want to try applying for a librarian position?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -16013,8 +16013,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "支援する",
-                                    "考えてみる"
+                                    "Support",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -16044,38 +16044,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>古書を製本しながら時間を過ごした。"
+                                "\\nc<>I spent time binding old books. Ah... I received a message<br>from Cashew Nut!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>あっ…。カシューナッツから連絡が来た！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>ヴィランが現れたらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "<br>図書館をこっそり抜け出した。"
+                                ""
                             ]
                         },
                         {
@@ -16092,7 +16068,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>幸い、ばれなかったみたいだ。"
+                                "\\nc<>It seems that a villain has appeared. They secretly slipped<br>out of the library."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16109,7 +16092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>バイト代５０００円を手に入れた。"
+                                "\\nc<>Fortunately, it seems they didn't notice."
                             ]
                         },
                         {
@@ -16126,14 +16109,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>良いリスナーが１０００人、<br>"
+                                "\\nc<>I got 5000 yen for my part-time job."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪いリスナーが１０００人増えた。"
+                                "\\nc<>The number of good listeners increased by 1000, and the<br>number of bad listeners increased by 1000."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16240,14 +16240,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事には慣れてきた。 "
+                                "\\nc<>I'm getting used to the job already. I obtained the proof<br>ticket for Livelihood-type Magical Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「生計型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -16264,7 +16264,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>With the effect of the proof ticket, the number of good<br>listeners increased by 3000."
                             ]
                         },
                         {
@@ -16323,14 +16323,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>Now there is no job that I can't do. I obtained the proof<br>ticket Workaholic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -16347,7 +16347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>With the effect of the proof ticket, the number of good<br>listeners increased by 5000."
                             ]
                         },
                         {
@@ -16476,14 +16476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>図書館の臨時司書を募集していると書いている。"
+                                "\\nc<>They wrote that they are recruiting temporary librarians at<br>the library. It's good that they can be called into action<br>in the middle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>途中で出動できるのは良い。"
+                                ""
                             ]
                         },
                         {
@@ -16500,7 +16500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>司書に応募してみる？"
+                                "\\nc<>Want to try applying for a librarian position?"
                             ]
                         },
                         {
@@ -16508,8 +16508,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "支援する",
-                                    "考えてみる"
+                                    "Support",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -16599,14 +16599,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>今日はカシューナッツから連絡が来なかった。"
+                                "\\nc<>Cashew Nut didn't contact me today. I was able to focus on<br>my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>バイトに専念できた。"
+                                ""
                             ]
                         },
                         {
@@ -16623,7 +16623,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>バイト代１００００円を手に入れた。"
+                                "\\nc<>I got 10,000 yen for my part-time job."
                             ]
                         },
                         {
@@ -16799,14 +16799,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>今日はカシューナッツから連絡が来なかった。"
+                                "\\nc<>Cashew Nut didn't contact me today. I was able to focus on<br>my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>バイトに専念できた。"
+                                ""
                             ]
                         },
                         {
@@ -16823,7 +16823,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>バイト代７０００円を手に入れた。"
+                                "\\nc<>I got 7,000 yen for my part-time job."
                             ]
                         },
                         {
@@ -16908,14 +16908,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>There is no job that I can't do now. I got the proof ticket<br>Workaholic in my hands."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -16932,7 +16932,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>With the effect of the proof ticket, the number of good<br>listeners increased by 5,000."
                             ]
                         },
                         {
@@ -17081,14 +17081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>図書館の臨時司書を募集していると書いている。"
+                                "\\nc<>They wrote that they are recruiting temporary librarians at<br>the library. It's good that they can be called into action<br>in the middle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>途中で出動できるのは良い。"
+                                ""
                             ]
                         },
                         {
@@ -17105,7 +17105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>司書に応募してみる？"
+                                "\\nc<>Want to try applying for a librarian position?"
                             ]
                         },
                         {
@@ -17113,8 +17113,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "支援する",
-                                    "考えてみる"
+                                    "Support",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -17144,14 +17144,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>今日はカシューナッツから連絡が来なかった。"
+                                "\\nc<>Cashew Nut didn't contact me today. I was able to focus on<br>my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>バイトに専念できた。"
+                                ""
                             ]
                         },
                         {
@@ -17168,7 +17168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>バイト代１００００円を手に入れた。"
+                                "\\nc<>I got 10,000 yen for my part-time job."
                             ]
                         },
                         {
@@ -18586,14 +18586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<オタク>"
+                                "\\nc<Otaku>Hehehehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ブヒヒヒヒッ。"
+                                ""
                             ]
                         },
                         {
@@ -18649,7 +18649,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>気持ち悪い目線でこっちを見ている…。"
+                                "\\nc<>They're looking at me with a creepy gaze..."
                             ]
                         },
                         {
@@ -18666,14 +18666,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>「オタクー２」発生"
+                                "\\nc<>Otaku 2: I need a perverted feeling of 500."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>淫乱な気持ち５００必要"
+                                ""
                             ]
                         },
                         {
@@ -18681,8 +18681,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "顔色を伺う",
-                                    "席を外す"
+                                    "Checking their facial expression",
+                                    "Leave the seat"
                                 ],
                                 1,
                                 0,
@@ -18754,7 +18754,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>淫乱な気持ちが足りない。"
+                                "\\nc<>I don't have enough perverted feelings."
                             ]
                         },
                         {
@@ -29752,21 +29752,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>You... come to the library often, don't you? Gloomy and<br>creepy genes like us should live together peacefully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あんた…。よく図書館に来れるよね…？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "陰気で気持ち悪い遺伝子同士、仲良く暮らしなさい。"
+                                ""
                             ]
                         },
                         {
@@ -29805,21 +29805,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生>"
+                                "\\nc<Female student>That person over there was masturbating in the corner...<br>Seriously, the worst...!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あそこにいるあいつ、隅っこでオナニーしてたよ…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 本当、最悪…！！ "
+                                ""
                             ]
                         },
                         {
@@ -29912,21 +29912,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<気の小さい女学生>"
+                                "\\nc<Timid schoolgirl>Love is a wonderful thing... but no matter how much you like<br>someone, please refrain from showing it in public..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "愛はいいものだけど…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どんなに好きでも公共の場では控えてほしい…。"
+                                ""
                             ]
                         },
                         {
@@ -29965,21 +29965,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<気の小さい女学生>"
+                                "\\nc<Timid schoolgirl>Isn't that person over there disgusting? They smell... As<br>long as they don't cause any problems..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あそこにいる人気持ち悪くない？臭うし…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "問題さえ起こさなければいいけど…。"
+                                ""
                             ]
                         },
                         {

@@ -543,21 +543,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<礼拝中の信者ちゅうの>"
+                                "\\nc<Worshiping believer>(They are praying with their hands together.) (It seems best<br>not to disturb them.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（両手を合わせて祈りを捧げている。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（邪魔しないほうがよさそうだ。）"
+                                ""
                             ]
                         },
                         {

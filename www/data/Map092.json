@@ -4988,14 +4988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They frolic together with four people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "４人ではしゃぐ。"
+                                ""
                             ]
                         },
                         {
@@ -5079,14 +5079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They frolic together with four people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "４人ではしゃぐ。"
+                                ""
                             ]
                         },
                         {
@@ -5363,14 +5363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(It's rare for the villains to be quiet.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（珍しくヴィランたちが静かだな。）"
+                                ""
                             ]
                         },
                         {
@@ -5408,14 +5408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...Since we're here, let's have a meal together with<br>Reina.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…せっかくだし、レイナと一緒にご飯でも食べよう。"
+                                ""
                             ]
                         },
                         {
@@ -5432,14 +5432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Yeah, because we're friends.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（と、友達だもん。うん。）"
+                                ""
                             ]
                         },
                         {
@@ -5580,14 +5580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, I found it--uh,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、見つけた――うっ、"
+                                ""
                             ]
                         },
                         {
@@ -5604,14 +5604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(People are gathering.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（人が集まってる。）"
+                                ""
                             ]
                         },
                         {
@@ -5642,14 +5642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Looking at it this way, Reina is definitely popular. It's<br>completely different from me.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（こう見ると、レイナってやっぱり人気者だな。私とは大違いだ。）"
+                                ""
                             ]
                         },
                         {
@@ -5680,21 +5680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I guess so, Reina was only interested in me because I'm a<br>magical girl.) <br> (If it weren't for that, we wouldn't<br>have become friends.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（それもそうか、レイナは私が魔法少女だから興味を持ってくれただけで。）<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（それがなければ仲良くなることなんてなかったはず。）"
+                                ""
                             ]
                         },
                         {
@@ -5711,14 +5711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -5749,14 +5749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...It would be bad if I interfered in a weird way. Maybe I<br>should go home today.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…変に邪魔したら悪いし。<br>今日は家に帰ろうかな。）"
+                                ""
                             ]
                         },
                         {
@@ -5935,14 +5935,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...? Ah, Senpai!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…？あっ、先輩！"
+                                ""
                             ]
                         },
                         {
@@ -6104,14 +6104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Why did you come to see me and then just go home like<br>that!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私に会いに来たくせに、なんでそのまま帰っちゃうんですか！？"
+                                ""
                             ]
                         },
                         {
@@ -6156,14 +6156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, I thought I might be bothering you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、邪魔かなと思って…。"
+                                ""
                             ]
                         },
                         {
@@ -6208,21 +6208,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What are you talking about? There's no way that I'm<br>bothering you, Senpai."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何言ってるんですか。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先輩が邪魔なわけないじゃないですか。"
+                                ""
                             ]
                         },
                         {
@@ -6260,14 +6260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If you're serious, I'll get angry, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本気で言ってるなら怒りますよ？"
+                                ""
                             ]
                         },
                         {
@@ -6312,14 +6312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh... but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ。でも…。"
+                                ""
                             ]
                         },
                         {
@@ -6373,14 +6373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Sigh. This is a serious condition."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…はぁ。こりゃ重症ですね。"
+                                ""
                             ]
                         },
                         {
@@ -6418,14 +6418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Alright, Senpai. Let's go on a date today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よし、先輩。今日は私とデートでもしましょう。"
+                                ""
                             ]
                         },
                         {
@@ -6470,14 +6470,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん。"
+                                ""
                             ]
                         },
                         {
@@ -6515,14 +6515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Huh? What are you suddenly saying!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…んんんん？？？急に何言ってんの！？"
+                                ""
                             ]
                         },
                         {
@@ -6567,14 +6567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Come on, this way, Senpai."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっ、こっちです、先輩。"
+                                ""
                             ]
                         },
                         {
@@ -6619,14 +6619,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wait, wait...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと…！"
+                                ""
                             ]
                         },
                         {
@@ -7125,14 +7125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They frolic together with four people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "４人ではしゃぐ。"
+                                ""
                             ]
                         },
                         {
@@ -7246,14 +7246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生１>"
+                                "\\nc<Female Student 1>Ah, Kei-san, you look exceptionally beautiful today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はあ。圭さん、今日もずば抜けて綺麗だな。"
+                                ""
                             ]
                         },
                         {
@@ -7279,21 +7279,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女子学生２>"
+                                "\\nc<Female Student 2>You still have that aura that keeps people away, huh?<br>Seriously, it's a waste with such a face."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "相変わらず人を寄せ付けないオーラが出てるけどね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当、顔がもったいないわ。"
+                                ""
                             ]
                         },
                         {
@@ -7331,14 +7331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](...I feel like they're talking bad about me. I should stay<br>away.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…何だか悪口を言われてる気が。近づかないようにしよう。）"
+                                ""
                             ]
                         },
                         {
@@ -7422,14 +7422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They frolic together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "３人ではしゃぐ。"
+                                ""
                             ]
                         },
                         {

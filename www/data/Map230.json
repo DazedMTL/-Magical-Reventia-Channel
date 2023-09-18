@@ -2168,14 +2168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>D-Die! Die, you demons!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "し、死ね！死ね、この悪魔ども！"
+                                ""
                             ]
                         },
                         {
@@ -2350,14 +2350,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Kuuaaaa!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くああああ！！"
+                                ""
                             ]
                         },
                         {
@@ -2395,14 +2395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oops, I accidentally killed them. What a waste."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あちゃ～、思わず殺しちゃった。もったいないなぁ。"
+                                ""
                             ]
                         },
                         {
@@ -2426,14 +2426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>But you saw it, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも見たでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -2522,14 +2522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Everyone, it would be better if you stopped your futile<br>resistance and quietly let yourselves be captured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "みんな、無駄な抵抗なんかやめておとなしく捕まればいいのにさ。"
+                                ""
                             ]
                         },
                         {
@@ -2569,14 +2569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>A-Ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あ、ああ…。"
+                                ""
                             ]
                         },
                         {
@@ -2602,14 +2602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>S-Someone, please help me. Please...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰か、助けてください。お願い…！"
+                                ""
                             ]
                         },
                         {
@@ -2633,14 +2633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>"
+                                "\\nc<？？？>---I will grant that wish!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―――その願い、叶えます！"
+                                ""
                             ]
                         },
                         {
@@ -2883,14 +2883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ローズ>"
+                                "\\nc<Rose>Magical Girl Rose, here I come!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女ローズ、参上！"
+                                ""
                             ]
                         },
                         {
@@ -2916,21 +2916,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ライム>"
+                                "\\nc<Lime>Magical Girl Lime, arriving as well. Hmph, I thought there<br>would be something more than just small fry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "同じく魔法少女ライム、到着。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふん、何かと思ったら雑魚ばっかりじゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2956,21 +2956,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ベル>"
+                                "\\nc<Bell>Hey, don't we have to say some kind of introduction line!?<br>We're turning 20 this year, you know!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえ、登場セリフみたいなの絶対しなきゃなんないの！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私たち今年で成人だけど！？"
+                                ""
                             ]
                         },
                         {
@@ -2996,14 +2996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ローズ>"
+                                "\\nc<Rose>If we do that, the citizens will feel relieved, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうすれば市民たちが安心するでしょ！"
+                                ""
                             ]
                         },
                         {
@@ -3060,14 +3060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ローズ>"
+                                "\\nc<Rose>Everyone, please rest assured! We will help you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "皆さん、ご安心を！私たちがお助けしますので！"
+                                ""
                             ]
                         },
                         {
@@ -3093,14 +3093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>M-Magical girls! The magical girls have arrived!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、魔法少女だ！魔法少女が来た！"
+                                ""
                             ]
                         },
                         {
@@ -3126,14 +3126,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Thank goodness, with this the tentacles are finally<br>finished...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よかった、これで触手たちもおしまいだ…！"
+                                ""
                             ]
                         },
                         {
@@ -3180,14 +3180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh, I see. So there are three of them. I heard that the<br>neighboring town was busy too, but there are more than I<br>thought."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へえ～、３人とは。隣街も忙しいって聞いてたけど思ったより多いのね。"
+                                ""
                             ]
                         },
                         {
@@ -3218,14 +3218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ローズ>"
+                                "\\nc<Rose>It's too late to regret now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう後悔しても遅いわよ。"
+                                ""
                             ]
                         },
                         {
@@ -3273,21 +3273,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ローズ>"
+                                "\\nc<Rose>I don't know what happened to the magical girls in this<br>town, but I'm going to catch you here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この街の魔法少女がどうなったのかは知らないけど、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんたたちはここで捕まえる！"
+                                ""
                             ]
                         },
                         {
@@ -3386,14 +3386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, it's you guys who will be caught."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―――いや、捕まえられるのはあんたたちのほうよ。"
+                                ""
                             ]
                         },
                         {
@@ -3505,14 +3505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ライム>"
+                                "\\nc<Lime>W-What, magic!? This small fry... how dare they...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わっ、魔法が！？こいつ、雑魚の分際で…！"
+                                ""
                             ]
                         },
                         {
@@ -3529,21 +3529,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ベル>"
+                                "\\nc<Bell>Spear, spear!...I-I can't use magic! What on earth are<br>you...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スピア、スピア！…ま、魔法が使えない！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんた、一体なにを…！"
+                                ""
                             ]
                         },
                         {
@@ -3581,14 +3581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, who knows? Maybe there's a spy among the magical<br>girls. Hehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁな？魔法少女たちの中にスパイでもいるんじゃないの。ふふ。"
+                                ""
                             ]
                         },
                         {
@@ -3612,21 +3612,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Now, go catch those kids. They're valuable samples, so<br>handle them carefully, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ、あの子たちを捕まえておいで。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴重なサンプルだから丁寧に扱うのよ？"
+                                ""
                             ]
                         },
                         {
@@ -4059,14 +4059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ローズ>"
+                                "\\nc<Rose>Ah, ah, aah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あ、ああ…！"
+                                ""
                             ]
                         },
                         {

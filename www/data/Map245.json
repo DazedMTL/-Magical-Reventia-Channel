@@ -5670,14 +5670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Alright... Since the preparations for closing up the shop<br>are almost done."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よいしょ…。店じまいの準備もほとんど終わったことだし。"
+                                ""
                             ]
                         },
                         {
@@ -5809,21 +5809,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Hey!! How about we close up early today and have a drink!<br>It's on me!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おい！！今日は早めに閉めて一杯どうだ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺のおごりで！！"
+                                ""
                             ]
                         },
                         {
@@ -5861,14 +5861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Huh... What's gotten into our stingy store manager?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（え…。あのケチな店長がどういう風の吹き回しで？）"
+                                ""
                             ]
                         },
                         {
@@ -5892,21 +5892,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Hmm... I don't really have any plans after this anyway...)<br>(Since it's the store manager treating... I guess I'll go<br>along with it...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（う～ん…。どうせこの後とくに予定があるわけでもないし…。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（店長のおごりだから…。そうしようかな…。）"
+                                ""
                             ]
                         },
                         {
@@ -5961,14 +5961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, yes...! I understand...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、はい…！分かりました…！"
+                                ""
                             ]
                         },
                         {
@@ -6089,14 +6089,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Huh? What is it? Do you want to work here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うん？何だ？ここで働きたいのか？"
+                                ""
                             ]
                         },
                         {
@@ -6104,8 +6104,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6135,14 +6135,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Hmmm... ××."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ふむ。××"
+                                ""
                             ]
                         },
                         {
@@ -6159,14 +6159,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Alright, you don't seem to have any experience, but let's<br>hire you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "よし、経歴はなさそうだけど採用しよう。"
+                                ""
                             ]
                         },
                         {
@@ -6205,14 +6205,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>What is it? If you're not a part-timer or a customer, go<br>over there!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何だよ、バイトでも客でもないならあっちいけ！"
+                                ""
                             ]
                         },
                         {
@@ -6315,14 +6315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>What? Get in and start working!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なに？入って仕事しろ！"
+                                ""
                             ]
                         },
                         {

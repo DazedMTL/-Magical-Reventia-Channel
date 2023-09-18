@@ -2405,14 +2405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいま…！"
+                                ""
                             ]
                         },
                         {
@@ -2438,14 +2438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(Wow, she's so beautiful...! Today is my lucky day!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（うわっ、超美人…！今日はツイてるな！）"
+                                ""
                             ]
                         },
                         {
@@ -2471,14 +2471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(But that person, they look familiar...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（それよりあの人、どこか見覚えが…。）"
+                                ""
                             ]
                         },
                         {
@@ -2557,14 +2557,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Ah, no way!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、まさか！"
+                                ""
                             ]
                         },
                         {
@@ -2611,14 +2611,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...! Y-Yes? What can I help you with?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…！は、はいっ？何でしょうか？"
+                                ""
                             ]
                         },
                         {
@@ -2649,14 +2649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Could it be Levantia by any chance!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしかしてレヴァンティアですか！？"
+                                ""
                             ]
                         },
                         {
@@ -2703,14 +2703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, ah, well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いえ、あ、その…。"
+                                ""
                             ]
                         },
                         {
@@ -2750,14 +2750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>I'm a fan! I didn't notice because you have your hair tied<br>up, which is different from usual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ファンです！いつもと違って髪を結んでいるので気づかないところでした。"
+                                ""
                             ]
                         },
                         {
@@ -2774,14 +2774,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>I always enjoy watching your streams!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "配信、いつも楽しく見てます！"
+                                ""
                             ]
                         },
                         {
@@ -2819,14 +2819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Thank you very much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、ありがとう、ございます…"
+                                ""
                             ]
                         },
                         {
@@ -2857,14 +2857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Is it time to pay? Please leave it here! I'll take care of<br>it quickly... so..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お会計ですよね？こちらに置いてください！ささっと済ませます…、ので…。"
+                                ""
                             ]
                         },
                         {
@@ -2890,21 +2890,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(Huh, what's this? A suspicious drink... with a condom? And<br>it's super-sized too?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（えっ、何だこれ。怪しいドリンクに…、ゴム？<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかも超大型サイズ？）"
+                                ""
                             ]
                         },
                         {
@@ -2942,14 +2942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Um, the bill..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの、お会計を…。"
+                                ""
                             ]
                         },
                         {
@@ -2980,45 +2980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Ah, yes. I'm sorry. Right away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、はい。すみません。今すぐ…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<バイト>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（顔が赤いし、息も妙に荒い…。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヘアゴムもよく見るとコンドームじゃん…。）"
+                                ""
                             ]
                         },
                         {
@@ -3035,14 +3004,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(Their face is red and their breathing is strangely heavy...<br>And when I look closely, that hair tie is actually a<br>condom...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（マジか。あのレヴァンティアが…。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3059,21 +3035,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(No way... that Levantia...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、もしかしたらオナニーに使うのかも。<br>"
+                                "\\nc<Part-time job>No, maybe they use it for masturbation. I mean, they<br>wouldn't actually use a condom this size..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなサイズのコンドーム、実際に使わないし…。）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3198,14 +3198,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hey, what are you dawdling for? Hurry up and buy it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おい、何もたもたしてんだよ。早く買ってこいってば。"
+                                ""
                             ]
                         },
                         {
@@ -3259,14 +3259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's because you made me go dressed like this, right?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんたがこんな格好で行かせるからでしょ！"
+                                ""
                             ]
                         },
                         {
@@ -3392,14 +3392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hey, ngh...♡ What are you doing without permission...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、んっ…♡何を勝手に…♡"
+                                ""
                             ]
                         },
                         {
@@ -3444,14 +3444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's okay, they won't see me as a clerk."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、店員には見えねーよ。"
+                                ""
                             ]
                         },
                         {
@@ -3498,21 +3498,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(It's completely visible!? From the hands that are groping<br>my butt, to the expression of pleasure, it's all completely<br>visible!?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（丸見えですけど！？お尻を揉む手から、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "感じてる表情まで丸見えですけど！？）"
+                                ""
                             ]
                         },
                         {
@@ -3529,14 +3529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Um, what will you do with the shopping bag..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの、レジ袋はどうされますか…。"
+                                ""
                             ]
                         },
                         {
@@ -3581,21 +3581,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Give it to me quickly. I'm going to use it right away<br>anyway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいから早くくれ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうせすぐ使うんだからよ。"
+                                ""
                             ]
                         },
                         {
@@ -3649,14 +3649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ku... Ke, it's fine..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クッ…、け、結構です…。"
+                                ""
                             ]
                         },
                         {
@@ -3703,14 +3703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Ah, yes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、はい。"
+                                ""
                             ]
                         },
                         {
@@ -3906,14 +3906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -3930,14 +3930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>(Masturbate when you get home.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ったらシコろ。）"
+                                ""
                             ]
                         },
                         {
@@ -4010,14 +4010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What have you been sulking about since earlier?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっきから何拗ねてんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -4041,14 +4041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Whose fault is it...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰のせいよ…！？"
+                                ""
                             ]
                         },
                         {
@@ -4065,14 +4065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>In front of the people who support me, such a vulgar<br>appearance...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "応援してくれてる人の前で、こんな下品な姿を…！"
+                                ""
                             ]
                         },
                         {
@@ -4096,21 +4096,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They should be happy, right? That person will definitely<br>masturbate when they get home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "むしろ喜ぶはずだぜ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あいつ、家に帰ったら絶対シコるだろうな。"
+                                ""
                             ]
                         },
                         {
@@ -4127,14 +4127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Look, I've become like this too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、俺もこんなになってる。"
+                                ""
                             ]
                         },
                         {
@@ -4174,14 +4174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -4205,52 +4205,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia, lying down on the bed, had Matsuo thrust his penis<br>towards their face."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ベッドの上で横になったレヴァンテぃアの顔に、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男はペニスを突きつけた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太く、大きく、オスの匂いが強く漂う、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「常識」として知っていた男性器とは全く違う何かを。"
+                                ""
                             ]
                         },
                         {
@@ -4267,52 +4236,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Something completely different from what they knew as the<br>norm - thick, large, and emitting a strong masculine<br>scent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "血管がボコボコと浮き出た一物は、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どう見てもおぞましく気持ちが悪かったが…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一晩中その凶物に突かれ、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も何度も絶頂を迎えた。"
+                                ""
                             ]
                         },
                         {
@@ -4329,21 +4267,83 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The penis, with veins bulging and protruding, looked<br>grotesque and repulsive..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に、不本意ながらも、レヴァンティアは肉棒を見るだけでも<br>"
+                                "\\nc<>I was penetrated by that monster all night long,<br>experiencing climax after climax, over and over again."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お腹の下がズキズキとうずくようだった…。"
+                                "\\nc<>Levantia couldn't help but feel a throbbing sensation in<br>their lower abdomen just from looking at the meat stick,<br>even though they didn't want to."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4367,21 +4367,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's fine to be captivated by the dick, but I can't hold<br>back anymore, so hurry up and put on a condom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チンポに見とれるのもいいけどよ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう我慢できねーからさっさとコンドームでも着けろ。"
+                                ""
                             ]
                         },
                         {
@@ -4405,14 +4405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I-I'm not staring or anything! And don't bring up that kind<br>of thing again!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "み、見とれてなんかないし！？またそんなことを…！"
+                                ""
                             ]
                         },
                         {
@@ -4452,52 +4452,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia, while angry at Matsuo's teasing, took out a condom<br>that was placed beside them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男のからかいに怒りながらも、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアは横に置いてあったコンドームを取り出した。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コンドームの着け方なんて性教育の時間に一度習ったきりなのに。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たった１日で完全に慣れてしまった。"
+                                ""
                             ]
                         },
                         {
@@ -4514,21 +4483,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Even though I only learned how to put on a condom once<br>during sex education, I completely got used to it in just<br>one day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先端をつまんで亀頭に密着させ、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "丸まった部分をゆっくりと根元まで下ろす。"
+                                ""
                             ]
                         },
                         {
@@ -4545,14 +4514,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I pinch the tip and press it against the glans, slowly<br>lowering the rounded part all the way to the base."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自然にレヴァンティアの手は松男の一物を撫で下ろす形になっていた。"
+                                "\\nc<>Levantia's hand naturally moved down to stroke Matsuo's<br>genitals."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4576,14 +4576,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(This is really unbelievable. I've already ejaculated so<br>many times, and yet it's still this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（本当にありえない。もう何回も射精してるのに、まだこんなに…。）"
+                                ""
                             ]
                         },
                         {
@@ -4607,38 +4607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When they felt the hard sensation with their fingertips,<br>their heart started to race on its own."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "硬い感触を手の先で感じると胸が勝手に高鳴る。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうすぐこの肉棒に犯されるという考えに、思わず唾を飲んでしまった。"
+                                ""
                             ]
                         },
                         {
@@ -4655,21 +4631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I couldn't help but swallow my saliva at the thought of<br>being violated by this meat stick soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありえないし、あってはならない反応を見せる自分の体に、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上ない違和感を感じる。"
+                                ""
                             ]
                         },
                         {
@@ -4686,45 +4655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I feel an unprecedented discomfort in my own body, which is<br>showing an unimaginable and unacceptable reaction."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自責の念に駆られたのもつかの間、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コンドームを着けるレヴァンティアの手が止まった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "肉棒の中央の太い部分がどうしても入らなかったからだ。"
+                                ""
                             ]
                         },
                         {
@@ -4741,21 +4686,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia, who was momentarily consumed by self-blame,<br>stopped her hand from putting on the condom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コンビニでは羞恥心に耐えて最も大きいサイズを選んだ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コンドームが小さいのではない。"
+                                ""
                             ]
                         },
                         {
@@ -4772,14 +4717,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's because the thick part in the middle of the meat stick<br>just wouldn't go in."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、松男のモノが規格外だっただけだ。"
+                                "\\nc<>At the convenience store, they endured their embarrassment<br>and chose the largest size. It's not that the condom is<br>small."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>However, it was just that Matsuo's thing was beyond the<br>standard size."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4803,14 +4803,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, I guess it's impossible after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ～、やっぱり無理か。"
+                                ""
                             ]
                         },
                         {
@@ -4834,14 +4834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Wait, please! I was able to put it on properly just a<br>moment ago...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、待ってください！さっきまではちゃんと着けられたのに…！"
+                                ""
                             ]
                         },
                         {
@@ -4865,21 +4865,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's because it's something I specially ordered from<br>overseas. There shouldn't be any size like that available<br>domestically."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは俺が特別に外国から取り寄せたやつだからな。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国内でそのサイズは取り扱ってないはずだぜ。"
+                                ""
                             ]
                         },
                         {
@@ -4896,14 +4896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Since it's come to this, there's no choice but to do it raw."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうなった以上、生でやるしかねーな。"
+                                ""
                             ]
                         },
                         {
@@ -4955,45 +4955,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Matsuo moved the meat stick that he had pressed against<br>Levantia's face and brought it to their crotch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男はレヴァンティアの顔に押し付けていた肉棒をどかし、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "股の間に持ってきた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐっ、硬い亀頭が膣口を押し広げる感覚が鮮明に伝わってくる。"
+                                ""
                             ]
                         },
                         {
@@ -5010,21 +4986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The sensation of the hard glans pushing and spreading open<br>the vaginal entrance is vividly transmitted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌だ。こんな男の子を身ごもるかもしれない行為なんて。<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確率が低いとはいえ絶対に嫌だ。"
+                                ""
                             ]
                         },
                         {
@@ -5041,45 +5010,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No. I absolutely don't want to engage in an act that might<br>result in getting pregnant with a boy like this. Even if the<br>probability is low, I absolutely don't want to."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男の下に敷かれたレヴァンティアの体が抵抗し始めた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マウントから逃れるために上半身を押さえ、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太ももをどうにかして閉じようとする。"
+                                ""
                             ]
                         },
                         {
@@ -5096,21 +5041,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's body, lying beneath Matsuo, began to resist."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、そのすべての抵抗を、<br>"
+                                "\\nc<>They try to hold down their upper body and somehow close<br>their thighs to escape from the mount."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "松男はは腰を振ることで簡単に抑え込んだ。"
+                                "\\nc<>And with a thrust of his hips, Matsuo easily suppressed all<br>of their resistance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5176,14 +5176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Dupu!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヂュプゥッ！"
+                                ""
                             ]
                         },
                         {
@@ -5212,14 +5212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahh...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぁぁあっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -5243,21 +5243,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Since the moment their butt was firmly grabbed at the<br>convenience store, their body had already been preparing for<br>intercourse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コンビニでお尻をぎゅっとつかまれた時から、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "体はすでに交尾の準備をしていた。"
+                                ""
                             ]
                         },
                         {
@@ -5274,21 +5274,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's wet pussy, soaked through, reluctantly accepted<br>the muscular meat stick."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぐっしょりと濡れたレヴァンティアの膣内は、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やや無理やりではあるがマッチョの肉棒を受け入れた。"
+                                ""
                             ]
                         },
                         {
@@ -5317,14 +5317,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Once you give them an opening, it's over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一度隙を与えてしまえば終わりだ。"
+                                ""
                             ]
                         },
                         {
@@ -5341,21 +5341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The macho mercilessly thrust into Levantia's honey pot, with<br>a squelching sound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジュボッジュボッジュボッ、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "マッチョは容赦なくレヴァンティアの蜜壺を突き上げた。"
+                                ""
                             ]
                         },
                         {
@@ -5379,14 +5379,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>S-Stop...♡ N-No, not raw...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "や、やめてぇっ♡な、生はダメェ♡"
+                                ""
                             ]
                         },
                         {
@@ -5410,338 +5410,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>You're not even on your dangerous day, right? Just give up<br>and accept it already! Come on!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうせ危険日じゃねーんだろ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このくらいで諦めて受け入れろよ！おらぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                88
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひぅっ！？♡んぉっ、ほぁっ♡あん♡っあ、あああ…♡"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                87
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズンッ、ズンッ、ズンッ！<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥を突かれるたびにレヴァンティアの目の前に火花が散った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桁外れの快感は神経をじりじりと削っていく。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンテぃアは生存本能に従い、松男から離れようとした。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、伸ばした手は松男に捕まり、<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐにベッドに押さえつけられ身動きが取れなくなった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけか。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "松男は体重をかけてレヴァンティアの体全体を<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押しつぶすように覆いかぶさった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともな抵抗さえできない無力感、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押さえつけられて無理やり犯される屈辱、"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "羞恥心、敗北感、すべて不快さを感じなければならないのに。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壊れた頭は感情と感覚を区別できなくなっていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣を突かれて気持ちいいだけなのに、<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男に犯されたからだと錯覚してしまう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その錯覚を何度も、何時間も体に刻まれ続けた結果、"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティアの体は誰かに押さえつけられ支配されることに<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発情するよう躾けられてしまったのだ。"
+                                ""
                             ]
                         },
                         {
@@ -5765,14 +5448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hii!? Ahh, hoa♡ An♡ Aaa...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぅっ♡ひっ♡んんっ、ほぁっ♡ふぅ…、うっ…!"
+                                ""
                             ]
                         },
                         {
@@ -5796,45 +5479,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Every time he thrust deep inside, sparks flew in front of<br>Levantia's eyes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今もそうだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中をかき回されて悶えている最中も松男の顔が近づくと、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティアは素早く顔を横に向けた。"
+                                ""
                             ]
                         },
                         {
@@ -5851,45 +5510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The extraordinary pleasure was slowly wearing away at their<br>nerves. Levantia, following their survival instincts, tried<br>to distance themselves from Matsuo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアにも理想の恋愛像はあった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつか好きな人にあげようと<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大事にとっておいた初キスだ。"
+                                ""
                             ]
                         },
                         {
@@ -5906,14 +5541,379 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, their outstretched hand was caught by Matsuo, and<br>they were immediately pinned down to the bed, unable to<br>move."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなところで、こんな相手に奪われるわけにはいかない。"
+                                "\\nc<>Is that all? Matsuo pressed his weight down, completely<br>covering Levantia's body as if to crush it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>The feeling of powerlessness, unable to offer any<br>resistance, the humiliation of being forcibly violated and<br>pinned down."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>Shame, a sense of defeat, and all the discomfort must be<br>felt. Their broken mind could no longer distinguish between<br>emotions and sensations."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>They feel good only from being penetrated, but they<br>mistakenly believe it's because they were violated by a man."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>As a result of that illusion being engraved into their body<br>over and over again, for hours on end,"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>Levantia's body has been trained to become aroused by being<br>restrained and dominated by someone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                88
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>Haah♡ Hii♡ Nnn, haa♡ Fuu... Ugh...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>Even now, it's the same."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>When Matsuo's face approached while Levantia was writhing in<br>pleasure from being stirred inside, they quickly turned<br>their face to the side."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>Levantia also had an ideal image of romance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>This is the first kiss that I've cherished, intending to<br>give it to someone I love someday."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>I can't let myself be taken by someone like this, in a place<br>like this."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5937,14 +5937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What are you looking sideways for? Hurry up and face this<br>way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なに横向いてんだよ。さっさとこっち向けって。"
+                                ""
                             ]
                         },
                         {
@@ -5968,21 +5968,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Higuu!? Okay, okay, I understand... Please stop thrusting<br>and stirring it...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひぐぅっ！？♡わ、わかった、わかったからぁ…♡<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ズンズンしながらかき回すの、やめてぇ…っ♡"
+                                ""
                             ]
                         },
                         {
@@ -6006,14 +6006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, they cannot defy Matsuo's orders."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、松男の命令には逆らえない。"
+                                ""
                             ]
                         },
                         {
@@ -6030,21 +6030,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When Matsuo's hand pressed against her lower abdomen and she<br>was attacked from both the inside and outside, the girl's<br>earnest wishes were swept away by pleasure and disappeared<br>without a trace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男の手がお腹の下を圧迫し、内側と外側の両方から攻められると、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少女の健気な願いなどは快感に流され跡形もなく消えてしまうのであった。"
+                                ""
                             ]
                         },
                         {
@@ -6096,45 +6096,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When they obediently turned to face as they were told,<br>Matsuo immediately pounced on them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言われるがままに前を向くと、松男はすぐにかぶりついてきた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キス、というよりは唇を犯されるような乱暴さ。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほどなくしてマッチョの舌が固く閉ざされた唇に力づくで割り込んできた。"
+                                ""
                             ]
                         },
                         {
@@ -6151,21 +6120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The roughness was more like having my lips violated rather<br>than a kiss. Before long, the muscular tongue forcefully<br>intruded into my tightly closed lips."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、そこに愛や幸せといった温かい感情などは存在しない。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あるのは屈辱と嫌悪感のみ。"
+                                ""
                             ]
                         },
                         {
@@ -6182,21 +6151,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Of course, there are no warm emotions such as love and<br>happiness there. Only humiliation and disgust exist."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、今のレヴァンティアにとっては、本人の意思が踏み潰されるその感覚こそが<br>"
+                                "\\nc<>However, for Levantia at that moment, the sensation of<br>having her own will crushed was the most powerful<br>aphrodisiac."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何よりも強力な媚薬だった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6220,14 +6220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Mmm...♡...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んんっ…♡…♡♡"
+                                ""
                             ]
                         },
                         {
@@ -6263,45 +6263,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The room, where the sweet voice was stifled and became<br>quiet, was filled with the sound of the bed creaking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ギシッ、ギシッ、嬌声が塞がれ静かになった部屋に、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ベッドのきしむ音が鳴り響いた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "射精が近いオスはより一層腰を速く動かした。"
+                                ""
                             ]
                         },
                         {
@@ -6318,21 +6294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The male who was close to ejaculation moved their hips even<br>faster."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジュプッ、ジュプッ、ジュポッ、巨大な肉棒が膣壁をひっかくたびに<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛液が溢れ出し、ベッドシーツに飛び散った。"
+                                ""
                             ]
                         },
                         {
@@ -6349,38 +6318,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Every time the huge meat rod scratches against the vaginal<br>walls with a squelching sound, love juices overflow and<br>splatter onto the bed sheets."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もうレヴァンティアの体はいつイってもおかしくない状態だった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手が最後の一撃を加えるのをガクガクと震えながら待っているだけだ。"
+                                ""
                             ]
                         },
                         {
@@ -6397,14 +6349,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's body was in a state where it would become strange<br>no matter when she climaxed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうして松男が腰をすっと引き、ガンッと突き刺した瞬間、"
+                                "\\nc<>They were just trembling and waiting for the opponent to<br>deliver the final blow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>And then, as Matsuo pulled back his hips and thrust in<br>forcefully..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6489,14 +6489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>～～～～～♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～♡♡"
+                                ""
                             ]
                         },
                         {
@@ -6520,14 +6520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia reached climax while being filled with hot and<br>sticky love juices in her vagina."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアは熱くネットリとした愛液を膣内に注がれながら絶頂を迎えた。"
+                                ""
                             ]
                         },
                         {
@@ -6551,14 +6551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...♡...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…♡　…♡♡"
+                                ""
                             ]
                         },
                         {
@@ -6582,45 +6582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The stronger the pleasure of climax, the more intense the<br>convulsions become."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絶頂の快感が大きいほど痙攣も強くなる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思い切り伸ばした脚と絶え間なく収縮するアナルが、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティアの感じている快感の強さを物語っていた。"
+                                ""
                             ]
                         },
                         {
@@ -6637,45 +6606,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The legs stretched out as far as possible and the constantly<br>contracting anus told the intensity of the pleasure Levantia<br>was feeling."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すなわち、レヴァンティアの体の中で動かせるのは<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その２か所だけだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのほかは松男に敷かれ身動き一つ取れない。"
+                                ""
                             ]
                         },
                         {
@@ -6692,14 +6637,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>In other words, the only places that could be moved inside<br>Levantia's body were those two spots."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうしてオスに支配される快感をどれだけ体に刻み込んでいたのだろうか。"
+                                "\\nc<>In addition, they were laid out by Matsuo and couldn't make<br>a single move."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>I wonder how much pleasure being dominated by the male had<br>been engraved into their body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6758,14 +6758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Jubo!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジュボッ！"
+                                ""
                             ]
                         },
                         {
@@ -6801,14 +6801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haa...ngh...♡ Haa, haa, haa...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ、んっ…♡はぁ、はぁ、はぁ…♡"
+                                ""
                             ]
                         },
                         {
@@ -6832,21 +6832,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia finally took a rough breath after pulling out the<br>meat stick and letting the semen drip from her vaginal<br>opening..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "肉棒を抜き膣口から精液を垂らして、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ようやくレヴァンティアは荒い息をつくことができた…。"
+                                ""
                             ]
                         },
                         {
@@ -6970,38 +6970,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I obtained the proof ticket Matsuo A-3 in my hands."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "証票「松男A-3」を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "悪いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -7018,14 +6994,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Bad listeners increased by 3000."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "松男調教度が15上がった。"
+                                "\\nc<>Matsuo's training level has increased by 15."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

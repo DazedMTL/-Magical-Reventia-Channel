@@ -13759,21 +13759,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -15369,14 +15369,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -15384,8 +15384,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -15750,14 +15750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他学部の講義室。"
+                                "I don't want to enter the lecture room of another<br>department."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入りたくない。"
+                                ""
                             ]
                         },
                         {
@@ -17637,21 +17637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<担当者>"
+                                "\\nc<Staff>Hello, Levantia-san! We are truly honored to have you<br>participate as a model today!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、レヴァンティアさん！本日は、モデルとして参加して下さり、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まことに光栄でございます！"
+                                ""
                             ]
                         },
                         {
@@ -17710,14 +17710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah... Yes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ああ…。はい。"
+                                ""
                             ]
                         },
                         {
@@ -17741,21 +17741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(To think they would promote the school I attend under a<br>different identity... What a coincidence...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（自分が通ってる学校を別の身分で宣伝するなんて…。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（なんという偶然…。）"
+                                ""
                             ]
                         },
                         {
@@ -17870,14 +17870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<担当者>"
+                                "\\nc<Staff>Please give us a cool line and a closing remark!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "格好いいセリフと締めの一言をお願いします！"
+                                ""
                             ]
                         },
                         {
@@ -17922,21 +17922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Let's study for justice at 〇〇 University, a university that<br>realizes justice!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正義を実現する大学、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "〇〇大学で正義のために勉強しよう！ "
+                                ""
                             ]
                         },
                         {
@@ -18020,14 +18020,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<担当者>"
+                                "\\nc<Staff>Cut! Great job, everyone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カット！お疲れさまでした。"
+                                ""
                             ]
                         },
                         {

@@ -12926,14 +12926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いっらしゃいませ～。"
+                                ""
                             ]
                         },
                         {
@@ -13539,14 +13539,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<犬>"
+                                "\\nc<Dog>Woof! Woof!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ワンワン！ワオ～～ン"
+                                ""
                             ]
                         },
                         {
@@ -16899,21 +16899,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -16921,8 +16921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18512,14 +18512,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -18527,8 +18527,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -23399,21 +23399,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>自動販売機>"
+                                "\\nc<>Vending Machine> An old vending machine is guarding the<br>park. Would you like to have a drink?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "古い自販機が公園を守っている。 "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "飲み物を飲みますか？"
+                                ""
                             ]
                         },
                         {
@@ -23421,8 +23421,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23452,14 +23452,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>ポンコツ自動販売機>"
+                                "\\nc<>Piece of junk vending machine> It swallowed my coins. This<br>piece of junk vending machine..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "小銭をのみこまれた。このポンコツ自販機め…。×"
+                                ""
                             ]
                         },
                         {
@@ -23587,14 +23587,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ベンチに座っている男>"
+                                "\\nc<A man sitting on a bench>Ah, don't move. I don't want my bench to be covered in love<br>juices."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ああ、どかないぜ。俺のベンチが愛液まみれになるのはいやだからな。"
+                                ""
                             ]
                         },
                         {
@@ -23633,14 +23633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ベンチに座っている男>"
+                                "\\nc<A man sitting on a bench>What? Did you think I expected you to move because you're a<br>magical girl? Just disappear already."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何だよ。魔法少女ならどいてくれると思ったのか？さっさと失せろ。"
+                                ""
                             ]
                         },
                         {
@@ -26784,14 +26784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<観光客>"
+                                "\\nc<Tourist>This town... I've been thinking for a while now, but I think<br>the prices are strange."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この街さ…。前から思ってたんだけど物価が変だと思う。"
+                                ""
                             ]
                         },
                         {
@@ -31624,21 +31624,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<松男のファン>"
+                                "\\nc<Matsuo's Fan>Don't wag your tail at Matsuo-san, you bitch. If you're a<br>magical girl, act like a proper magical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "松男さんに尻尾振るな、このビッチ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女なら魔法少女らしくやれっての。"
+                                ""
                             ]
                         },
                         {
@@ -31685,21 +31685,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<松男のファン>"
+                                "\\nc<Matsuo's Fan>How dare you trouble Matsuo-san and walk around so<br>shamelessly? If you're that irresponsible, shouldn't you<br>quit streaming?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "松男さんを困らせて、よくもまあ図々しく歩けるわね？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんなに無責任なら、配信やめたほうがいいんじゃないの？"
+                                ""
                             ]
                         },
                         {
@@ -31738,21 +31738,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男のファン>"
+                                "\\nc<Matsuo's Fan>I watched your videos. Honestly, they're not as good as<br>Matsuo-san's, but I think they're quite entertaining."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君の動画を見たよ。正直、松男さんほどではないけど<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結構面白いと思う。 "
+                                ""
                             ]
                         },
                         {
@@ -31836,14 +31836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<デュフチューバー>"
+                                "\\nc<Dufchuber>Uooo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うおおおおっ…。"
+                                ""
                             ]
                         },
                         {
@@ -31918,21 +31918,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story T2: Do you want to see people disappearing into<br>the sewer? (Motivation level 2 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーT2:下水道へ消えていく人たちを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度２消耗）"
+                                ""
                             ]
                         },
                         {
@@ -31940,8 +31940,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -32045,14 +32045,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't have enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -32160,14 +32160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<デュフチューバー>"
+                                "\\nc<Dufchuber>Uooo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うおおおおっ…。"
+                                ""
                             ]
                         },
                         {
@@ -32492,21 +32492,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>We, the citizens, are grateful to you. We may not be able to<br>provide much help, but we're always cheering for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "市民たち皆君に感謝している<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大した力にはなれないけど、いつも応援してるよ。"
+                                ""
                             ]
                         },
                         {
@@ -32545,21 +32545,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>You're that famous Levantia, right? I think you must be<br>going through a lot, but hang in there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前があの有名なレヴァンティアだろ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色々と大変だと思うけど頑張れよ。"
+                                ""
                             ]
                         },
                         {
@@ -32651,21 +32651,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ジョギングマン>"
+                                "\\nc<Jogging Man>Hey, Levantia! I want to see the battle between you and<br>Black Muscle! It seems complicated, but how about we go<br>jogging together for a change of pace?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よお、レヴァンティア！ブラック・マッスルとの戦闘見たさ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "複雑そうだけど、一緒にジョギングで気分転換するのはどう？"
+                                ""
                             ]
                         },
                         {
@@ -32699,21 +32699,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ジョギングマン>"
+                                "\\nc<Jogging Man>Hey, Levantia! I always watch your livestreams! Let's have<br>a jogging showdown someday when you have some free time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお、レヴァンティア！いつも配信見てるぞ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつか余裕が出来たら俺とジョギング対決しよう！"
+                                ""
                             ]
                         },
                         {
@@ -33124,21 +33124,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ジョギングウーマン>"
+                                "\\nc<Jogging Woman>I am the Jogging Man's Jogging Woman! I followed him because<br>he looked cool, but it's really tough and I'm taking a<br>break...×"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はジョギングマンの彼女のジョギングウーマン！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジョギングマンがかっこよくてついてきたんだけど、とてもキツくて休んでるの…。×  "
+                                ""
                             ]
                         },
                         {
@@ -33327,21 +33327,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -33349,8 +33349,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -34940,14 +34940,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -34955,8 +34955,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -35352,21 +35352,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ラーメンマスター>僕はラーメンマスター…。<br>"
+                                "\\nc<Ramen Master>I am the Ramen Master... I have traveled all over the<br>country and tried various ramen, but the only one I couldn't<br>eat was the Ultimate Finishing Move Ramen here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全国を周りながらいろいろなラーメンを食べたが<br> "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "唯一、ここの「究極の必殺ラーメン」だけは食べられなかった…。"
+                                ""
                             ]
                         },
                         {
@@ -35383,14 +35383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ラーメンマスター>"
+                                "\\nc<Ramen Master>Do you happen to have the Ultimate Finishing Move Ramen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君はもしかして「究極の必殺ラーメン」を持ってるかい？<br> "
+                                ""
                             ]
                         },
                         {
@@ -35398,8 +35398,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -35454,45 +35454,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<ラーメンマスター>"
+                                "\\nc<Ramen Master>Thank you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ありがとう…。"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 2,
-                            "parameters": [
-                                87
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "勝手にラーメンを持って行ってしまった…。"
+                                ""
                             ]
                         },
                         {
@@ -35516,21 +35485,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They took the ramen without permission..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 2,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どういうわけか…。<br> "
+                                "\\nc<>It seems that there has been an increase in listeners<br>talking about ramen for some reason."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ラーメンについて話すリスナーが増えたようだ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -35558,14 +35558,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good listener +10000"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "良いリスナー＋１００００"
+                                ""
                             ]
                         },
                         {
@@ -35607,14 +35607,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<ラーメンマスター>"
+                                "\\nc<Ramen Master>I don't have it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "持ってないんだ…。"
+                                ""
                             ]
                         },
                         {
@@ -35661,14 +35661,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<ラーメンマスター>"
+                                "\\nc<Ramen Master>What a shame..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念だ…。"
+                                ""
                             ]
                         },
                         {
@@ -35753,14 +35753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ラーメンマスター>"
+                                "\\nc<Ramen Master>The Ramen Club will never forget you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ラーメンクラブが君を忘れないだろう…。"
+                                ""
                             ]
                         },
                         {
@@ -41981,14 +41981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling streets to see if anything is<br>happening. (Change in motivation, change in listeners,<br>change in money)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>(意欲度変化、リスナー変化、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -41996,8 +41996,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I'll patrol around",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -42050,7 +42050,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>あっ！あそこに怪しいタイツの男が…！！"
+                                "\\nc<>Ah! There's a suspicious man in tights over there...!!"
                             ]
                         },
                         {
@@ -42067,7 +42067,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>怪しい人の腕を折って制圧した。"
+                                "\\nc<>They broke the suspicious person's arm and subdued them."
                             ]
                         },
                         {
@@ -42084,14 +42084,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>しかし、男はお笑い芸人練習生だった…。"
+                                "\\nc<>However, the person was actually a comedian trainee... Oh<br>no! I'm sorry! I'm sorry! I'm sorry!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>うわっ！すみません！すみません！すみません！"
+                                ""
                             ]
                         },
                         {
@@ -42108,14 +42108,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>意欲度を１失った。"
+                                "\\nc<>I lost one motivation. I spent 1000 yen on medical expenses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>診療代で１０００円支出した。"
+                                ""
                             ]
                         },
                         {
@@ -42162,7 +42162,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>あっ！あそこに挙動不審の桃色の女が…！！"
+                                "\\nc<>Ah! There's a suspicious peach-colored woman over there...!!"
                             ]
                         },
                         {
@@ -42179,7 +42179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>怪しい人の腕を折って制圧した。"
+                                "\\nc<>They broke the suspicious person's arm and subdued them."
                             ]
                         },
                         {
@@ -42196,14 +42196,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>しかし、女は普通のJKギタリストだった…。"
+                                "\\nc<>However, the woman was just a normal high school girl<br>guitarist... Oh no! I'm sorry! I'm sorry! I'm sorry!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>うわっ！すみません！すみません！すみません！"
+                                ""
                             ]
                         },
                         {
@@ -42220,14 +42220,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>意欲度を１失った。"
+                                "\\nc<>I lost one motivation. I spent 1000 yen on medical expenses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>診療代で１０００円支出した。"
+                                ""
                             ]
                         },
                         {
@@ -42333,14 +42333,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>レヴァンティアのおかげで街が安全になった。"
+                                "\\nc<>Thanks to Levantia, the city has become safer. I obtained a<br>proof ticket for the City Security Patrol."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「街の治安防犯隊」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -42357,7 +42357,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof ticket, I gained 1000 good<br>listeners."
                             ]
                         },
                         {
@@ -42495,14 +42495,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -42510,8 +42510,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I will patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -42541,14 +42541,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>逃げていた強盗を制圧した。"
+                                "\\nc<>The citizens are chanting Levantia after subduing the<br>fleeing robber!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>市民がレヴァンティアを連呼する！"
+                                ""
                             ]
                         },
                         {
@@ -42565,14 +42565,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>意欲度２を手に入れた。"
+                                "\\nc<>I obtained Motivation Level 2. The number of good listeners<br>increased by 1000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>良いリスナーが１０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -42711,14 +42711,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -42726,8 +42726,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I'll patrol around",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -42835,14 +42835,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -42850,8 +42850,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I will patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -42881,14 +42881,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>逃げていた強盗を制圧した。"
+                                "\\nc<>The fleeing robber has been subdued. The citizens are<br>chanting Levantia!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>市民がレヴァンティアを連呼する！"
+                                ""
                             ]
                         },
                         {
@@ -42905,14 +42905,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>意欲度２を手に入れた。"
+                                "\\nc<>I obtained Motivation Level 2. The number of good listeners<br>increased by 1000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>良いリスナーが１０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -43035,14 +43035,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -43050,8 +43050,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I will patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -43081,14 +43081,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>逃げていた強盗を制圧した。"
+                                "\\nc<>The fleeing robber has been subdued. The citizens are<br>chanting Levantia!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>市民がレヴァンティアを連呼する！"
+                                ""
                             ]
                         },
                         {
@@ -43105,14 +43105,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>意欲度２を手に入れた。"
+                                "\\nc<>I obtained Motivation Level 2. The number of good listeners<br>increased by 1000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>良いリスナーが１０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -43267,14 +43267,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>レヴァンティアのおかげで街の治安は完璧だ。"
+                                "\\nc<>Thanks to Levantia, the public safety of the city is<br>perfect. I obtained the proof ticket Safety First."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>証票「安全第一」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -43291,7 +43291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof ticket, the number of good<br>listeners increased by 3000."
                             ]
                         },
                         {
@@ -43392,14 +43392,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -43407,8 +43407,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I will patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -43438,14 +43438,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>街は楽しむ人たちでいっぱいだ。"
+                                "\\nc<>The streets are filled with people enjoying themselves.<br>Thanks to Levantia's efforts, the bustling street has<br>regained peace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>レヴァンティアの努力のおかげで繁華街は平和を取り戻した。"
+                                ""
                             ]
                         },
                         {
@@ -43462,7 +43462,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>意欲度３を手に入れた。"
+                                "\\nc<>I obtained Motivation Level 3."
                             ]
                         },
                         {
@@ -43583,14 +43583,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -43598,8 +43598,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I will patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -43700,14 +43700,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -43715,8 +43715,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I'll patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -43746,14 +43746,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>街は楽しむ人たちでいっぱいだ。"
+                                "\\nc<>The streets are filled with people enjoying themselves.<br>Thanks to Levantia's efforts, the bustling street has<br>regained peace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>レヴァンティアの努力のおかげで繁華街は平和を取り戻した。"
+                                ""
                             ]
                         },
                         {
@@ -43770,7 +43770,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>意欲度３を手に入れた。"
+                                "\\nc<>I obtained Motivation Level 3."
                             ]
                         },
                         {
@@ -43875,14 +43875,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>繁華街に何か起きてないか見回る。"
+                                "\\nc<>I'll look around the bustling street to see if anything is<br>happening. (Motivation, listeners, and money may change)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>(意欲度、リスナー、所持金変化)"
+                                ""
                             ]
                         },
                         {
@@ -43890,8 +43890,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "見回りをする",
-                                    "考えてみる"
+                                    "I'll patrol",
+                                    "I'll think about it"
                                 ],
                                 1,
                                 0,
@@ -43921,14 +43921,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>街は楽しむ人たちでいっぱいだ。"
+                                "\\nc<>The streets are filled with people enjoying themselves.<br>Thanks to Levantia's efforts, the bustling street has<br>regained peace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>レヴァンティアの努力のおかげで繁華街は平和を取り戻した。"
+                                ""
                             ]
                         },
                         {
@@ -43945,7 +43945,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>意欲度３を手に入れた。"
+                                "\\nc<>I obtained Motivation Level 3."
                             ]
                         },
                         {
@@ -44342,7 +44342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>繁華街でファンミーティングを開く。"
+                                "\\nc<>They will hold a fan meeting in the bustling city."
                             ]
                         },
                         {
@@ -44350,8 +44350,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進行する",
-                                    "考えてみる"
+                                    "In progress",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -44404,7 +44404,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>ファンミーティングに誰も来なかった…。"
+                                "\\nc<>No one came to the fan meeting..."
                             ]
                         },
                         {
@@ -44421,7 +44421,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>意欲度０を手に入れた。"
+                                "\\nc<>Obtained a motivation level of 0."
                             ]
                         },
                         {
@@ -44459,14 +44459,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>そこそこのファンミーティングだった。<br>"
+                                "\\nc<>It was a decent fan meeting. There were few, but I'm glad<br>there were fans."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "少ないけど、ファンがいてうれしいな。"
+                                ""
                             ]
                         },
                         {
@@ -44483,7 +44483,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>意欲度１を手に入れた。"
+                                "\\nc<>Obtained a motivation level of 1."
                             ]
                         },
                         {
@@ -44521,14 +44521,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>ファンミーティングは大成功だった！<br>"
+                                "\\nc<>The fan meeting was a great success! I'm so happy, I can't<br>stop smiling."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "うれしくて、笑顔が止まらない。"
+                                ""
                             ]
                         },
                         {
@@ -44545,7 +44545,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>意欲度２を手に入れた。"
+                                "\\nc<>Obtained a motivation level of 2."
                             ]
                         },
                         {
@@ -44652,14 +44652,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>レヴァンティアは広告の有名人になった！"
+                                "\\nc<>Levantia became a famous celebrity in advertisements! They<br>obtained the title of Internet Influencer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「インターネットインフルエンサー」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -44676,7 +44676,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof ticket, there were 3000<br>more good listeners."
                             ]
                         },
                         {
@@ -44805,7 +44805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>繁華街でファンミーティングを開く。"
+                                "\\nc<>They will hold a fan meeting in the bustling city."
                             ]
                         },
                         {
@@ -44813,8 +44813,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進行する",
-                                    "考えてみる"
+                                    "In progress",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -44844,14 +44844,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>ファンミーティングに人が押し寄せた！<br>"
+                                "\\nc<>Fans flocked to the fan meeting! They came by requesting<br>advertisements from a handheld fan company."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうやって来たか、ハンディファンの会社から広告を依頼された。"
+                                ""
                             ]
                         },
                         {
@@ -44868,7 +44868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>「広告」ハンディファンを手に入れた。"
+                                "\\nc<>They obtained an advertisement handheld fan."
                             ]
                         },
                         {
@@ -45026,7 +45026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>繁華街でファンミーティングを開く。"
+                                "\\nc<>They will hold a fan meeting in the bustling city."
                             ]
                         },
                         {
@@ -45034,8 +45034,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進行する",
-                                    "考えてみる"
+                                    "In progress",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -45065,14 +45065,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>こんにちは.みんなのアイドルレヴァンティアです.ふふふ。 "
+                                "\\nc<>Hello, everyone. I'm your idol, Levantia. Hehehe. People<br>are flocking in!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>人が押し寄せた！"
+                                ""
                             ]
                         },
                         {
@@ -45089,7 +45089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>意欲度３を手に入れた。"
+                                "\\nc<>I obtained a Motivation Level 3."
                             ]
                         },
                         {

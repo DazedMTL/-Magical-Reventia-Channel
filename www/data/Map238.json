@@ -11042,14 +11042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>発券機>"
+                                "\\nc<>After finishing all the work, let's go on a relaxing trip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すべての仕事が終わったら、気楽に旅行でも行こう。<br>"
+                                ""
                             ]
                         },
                         {
@@ -11253,14 +11253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>発券機>"
+                                "\\nc<>After finishing all the work, let's go on a relaxing trip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すべての仕事が終わったら、気楽に旅行でも行こう。<br>"
+                                ""
                             ]
                         },
                         {
@@ -11524,14 +11524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>発券機>"
+                                "\\nc<>After finishing all the work, let's go on a relaxing trip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すべての仕事が終わったら、気楽に旅行でも行こう。<br>"
+                                ""
                             ]
                         },
                         {
@@ -12275,14 +12275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12366,14 +12366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12457,14 +12457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12608,14 +12608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12759,14 +12759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12850,14 +12850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -14201,14 +14201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怪しい人>"
+                                "\\nc<Suspicious person>Hehehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふふ……。"
+                                ""
                             ]
                         },
                         {
@@ -14300,21 +14300,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<異世界の住民>"
+                                "\\nc<Residents of Another World>It seems like they have gained much stronger magical power<br>than when I first saw them. I wonder how they were able to<br>become stronger in such a short period of time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "初めて見たときよりずっと強い魔力を得たようだ<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうしてこんな短期間で強くなれたんだろう？"
+                                ""
                             ]
                         },
                         {
@@ -14353,21 +14353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<異世界の住民>"
+                                "\\nc<Residents of Another World>Oh? I can sense a tremendous amount of magical power from<br>you. You seem to be quite a powerful magician, don't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あら？君からすごい魔力が感じられる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かなり強い魔法使いのようだね？ "
+                                ""
                             ]
                         },
                         {
@@ -17527,21 +17527,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<駅員>"
+                                "\\nc<Station attendant>A perverted woman was having sex with a molester in the<br>station restroom... I would appreciate it if you could help<br>me get rid of the molester..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "変態女が駅内のトイレで痴漢とセックスしていました…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "痴漢と一緒に退治してくだされば助かります…。"
+                                ""
                             ]
                         },
                         {
@@ -17580,21 +17580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<駅員>"
+                                "\\nc<Station attendant>Ah, Levantia-san. Did you come to catch the molester!? It's<br>an honor to meet you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、レヴァンティアさん。痴漢を捕まえに来てくださったんですか！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お会いできて光栄です！"
+                                ""
                             ]
                         },
                         {

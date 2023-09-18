@@ -1194,14 +1194,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going to sleep?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "寝ますか？"
+                                ""
                             ]
                         },
                         {
@@ -1209,7 +1209,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る。（１ターン）"
+                                    "Sleep (1 turn)"
                                 ],
                                 -2,
                                 0,
@@ -1423,14 +1423,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going to sleep?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "寝ますか？"
+                                ""
                             ]
                         },
                         {
@@ -1438,8 +1438,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "昼寝をする（１ターン）",
-                                    "ぐっすり寝る（２ターン）"
+                                    "Take a nap (1 turn)",
+                                    "Sleep soundly (2 turns)"
                                 ],
                                 -2,
                                 0,
@@ -3144,14 +3144,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Shall we confirm it once?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一回確認してみよっか？"
+                                ""
                             ]
                         },
                         {
@@ -3159,8 +3159,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3210,14 +3210,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Let's stop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "やめよう。"
+                                ""
                             ]
                         },
                         {
@@ -3254,14 +3254,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There is no more information to be obtained."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これ以上得られる情報はない。"
+                                ""
                             ]
                         },
                         {
@@ -3298,14 +3298,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I haven't created the character yet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まだ枠を作っていない。"
+                                ""
                             ]
                         },
                         {
@@ -6000,14 +6000,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6015,8 +6015,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8686,14 +8686,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Will you transform into Levantia?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "レヴァンティアに変身しますか？"
+                                ""
                             ]
                         },
                         {
@@ -8701,8 +8701,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8795,14 +8795,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Will you transform back into Kei?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "圭に戻りますか？"
+                                ""
                             ]
                         },
                         {
@@ -8810,8 +8810,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

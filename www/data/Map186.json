@@ -1341,21 +1341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story M1: Watch the collaboration livestream with<br>Matsuo? (Motivation -3)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーM1：松男とのコラボ配信を見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度3消耗）"
+                                ""
                             ]
                         },
                         {
@@ -1363,8 +1363,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1468,14 +1468,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I lack motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -1736,21 +1736,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story M3: Watch the Unknown Dufftuber? (Motivation -10)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーM3：無名デュフチューバーを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度１０消耗）"
+                                ""
                             ]
                         },
                         {
@@ -1758,8 +1758,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1863,14 +1863,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Lack of motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2080,21 +2080,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story M3: Watch the Unknown Dufftuber? (Motivation -10)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーM3：無名デュフチューバーを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度１０消耗）"
+                                ""
                             ]
                         },
                         {
@@ -2102,8 +2102,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2207,14 +2207,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Lack of motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2382,21 +2382,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Lusha Sorbet is so obsessed with games that they won't leave<br>the house. Seriously, someone needs to scold Kei-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シャーベットったらゲームに夢中で家から出てこないんです。<br> "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく、圭さんが叱ってやってください！ "
+                                ""
                             ]
                         },
                         {
@@ -2480,14 +2480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei, welcome back. It's good to take a rest slowly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭、よく来たにゃ。ゆっくり休んで行くといいにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2562,21 +2562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story K2: See the reason for becoming a magical girl?<br>(Motivation level 10 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーK2：魔法少女をする理由を見る?<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度１０消耗）"
+                                ""
                             ]
                         },
                         {
@@ -2584,8 +2584,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2689,14 +2689,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Motivation level is not enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2804,14 +2804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei, welcome back. It's good to take a rest and relax."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭、よく来たにゃ。ゆっくり休んで行くといいにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2886,14 +2886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei, welcome back. It's good to take a rest and relax."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭、よく来たにゃ。ゆっくり休んで行くといいにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -6416,14 +6416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to enter the flashback room?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "回想室に入場しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6431,8 +6431,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

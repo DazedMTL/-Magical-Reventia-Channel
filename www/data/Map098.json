@@ -2883,14 +2883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Welcome to the Paradise Cult! H-Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ら、楽園教にようこそ！へ、へへっ…。"
+                                ""
                             ]
                         },
                         {
@@ -2907,21 +2907,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei-san, was it? You mentioned earlier that you wanted to<br>hear a detailed explanation about the Paradise Cult, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭さん、でしたっけ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日は楽園教についての詳しい説明を聞きたいと仰ってましたよね？"
+                                ""
                             ]
                         },
                         {
@@ -2959,21 +2959,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I see. I was thinking about it after hearing your story the<br>other day. It's definitely wrong to deny something without<br>knowing about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうね。この前あなたの話を聞いて思ったの。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知らないまま否定するのは、やっぱり間違ってるって。"
+                                ""
                             ]
                         },
                         {
@@ -3004,14 +3004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>My proselytizing was helpful, huh! Hehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私の布教が役に立ったんですね！へへ。"
+                                ""
                             ]
                         },
                         {
@@ -3028,21 +3028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Actually, this is Kei-san's first time coming here, so I'm a<br>bit nervous... B-but I'll do my best to explain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実は、本当に来てくださったのは圭さんが初めてで緊張しますが…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、一生懸命ご説明します！"
+                                ""
                             ]
                         },
                         {
@@ -3080,38 +3080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...Well, actually, I came here to gather information about<br>Villan.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…まぁ、本当はヴィランの情報を得るために来たんだけど。）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あのハゲ頭ヴィラン自体はそんなに強くなかった。）"
+                                ""
                             ]
                         },
                         {
@@ -3128,14 +3104,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(That bald-headed Villan himself wasn't that strong.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（手下たちを倒せば確実に制圧できるはず。）"
+                                "\\nc<>(If we defeat the subordinates, we should be able to gain<br>complete control.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3166,21 +3166,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>You mentioned the Paradise Cult, right? What kind of<br>religion do they believe in? There are various types of<br>gods, aren't there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教って言ったよね。何を信じてる宗教なの？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "神様にも色々な種類があるでしょ。"
+                                ""
                             ]
                         },
                         {
@@ -3211,21 +3211,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Y-Yes, that's right. First of all, we are classified as a<br>religious organization, but what we believe in is not a<br>specific god, but the existence of paradise itself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうですね。まず、分類上は宗教団体となっていますが、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私たちが信じているのは特定の神ではなく楽園の存在そのものです。"
+                                ""
                             ]
                         },
                         {
@@ -3263,14 +3263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Paradise?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園？"
+                                ""
                             ]
                         },
                         {
@@ -3301,21 +3301,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes! It's a place where people truly connect with each other<br>and everyone becomes happy. It's a place where an impossible<br>ideal becomes a reality!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい！人と人が真に繋がり合い、みんなが幸せになる、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現実ではあり得ない理想が実現した場所です！"
+                                ""
                             ]
                         },
                         {
@@ -3353,14 +3353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～…………。"
+                                ""
                             ]
                         },
                         {
@@ -3391,45 +3391,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, you thought it was like a fake religion, right? Well, I<br>thought the same at first too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、今、エセ宗教みたいだと思ったでしょう？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まあ、私も最初はそう思ってましたけど。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく考えてみれば普通のことなんです。"
+                                ""
                             ]
                         },
                         {
@@ -3446,21 +3422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If you think about it, it's actually something normal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、社会でも他人と仲良くして幸せになるために<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "努力するのは当たり前ですよね？"
+                                ""
                             ]
                         },
                         {
@@ -3477,14 +3446,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>See, it's only natural to make an effort to get along with<br>others and be happy in society, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはそれをもう少し明確にしてるだけなんです。"
+                                "\\nc<>This place just makes it a little more clear."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3522,14 +3522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Trying to cover it up like that just makes it seem even<br>more like a fake religion...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（そうやって言い繕うと余計にエセ宗教っぽい…、）"
+                                ""
                             ]
                         },
                         {
@@ -3560,14 +3560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I shouldn't say things like that. Yeah.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（なんて言っちゃだめか。うん。）"
+                                ""
                             ]
                         },
                         {
@@ -3598,21 +3598,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Seeing is believing, they say. So, um, I will guide you,<br>so please see and feel for yourself what the Paradise<br>Religion is like."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「百聞は一見にしかず」ですから。わ、私がご案内しますので、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教がどんな所か実際に見て感じてください。"
+                                ""
                             ]
                         },
                         {
@@ -3650,14 +3650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes, please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん、お願い。"
+                                ""
                             ]
                         },
                         {

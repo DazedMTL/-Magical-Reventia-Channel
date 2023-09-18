@@ -3280,14 +3280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ah, Senpai! Here, here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、先輩！ここです、ここ！"
+                                ""
                             ]
                         },
                         {
@@ -3538,14 +3538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Thank you for coming even though I called you suddenly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "急に呼び出したのに来てくれてありがとう。"
+                                ""
                             ]
                         },
                         {
@@ -3599,14 +3599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]No, no. Aren't we close, Senpai~?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いえいえ。あたしと先輩の仲じゃないですか～。"
+                                ""
                             ]
                         },
                         {
@@ -3630,14 +3630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ah, please give me one couple parfait!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、カップルパフェ１つください！"
+                                ""
                             ]
                         },
                         {
@@ -3668,21 +3668,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]But it's surprising. I thought it was about the notebook,<br>but it's actually a livestream."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも意外ですね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "てっきりノートのことかと思ったら配信だなんて。"
+                                ""
                             ]
                         },
                         {
@@ -3708,14 +3708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Are you aiming for a tuba player?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デュフチューバーでも狙ってるんですか？"
+                                ""
                             ]
                         },
                         {
@@ -3769,21 +3769,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Huh!? N-No, it's not like that. It's just a little hobby,<br>you know..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん！？そ、そういうのじゃなくて。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただのちょっとした趣味っていうか…。"
+                                ""
                             ]
                         },
                         {
@@ -3837,14 +3837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Well, recently there has been a significant increase in<br>people watching YouTube."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、最近はデュフチューブを見る人がすごく増えましたからね。"
+                                ""
                             ]
                         },
                         {
@@ -3868,21 +3868,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Did you download the app? Please lend me your smartphone so<br>I can set it up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アプリはダウンロードしましたか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "設定するのでスマホ貸してください。"
+                                ""
                             ]
                         },
                         {
@@ -3934,14 +3934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1][...]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "[…]"
+                                ""
                             ]
                         },
                         {
@@ -4014,14 +4014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Alright!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…よし！"
+                                ""
                             ]
                         },
                         {
@@ -4045,21 +4045,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I've set up the basic settings, so if you just press this<br>button, the livestream should start right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "基本的な設定はしておいたので、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このボタンさえ押せばすぐに配信が始まるはずです。"
+                                ""
                             ]
                         },
                         {
@@ -4113,14 +4113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Where, where?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこどこ？"
+                                ""
                             ]
                         },
                         {
@@ -4194,14 +4194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Oh, I did it. It's really showing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、できた。本当に映ってる。"
+                                ""
                             ]
                         },
                         {
@@ -4255,21 +4255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Senpai, you're using a smartphone with a pretty high-<br>performance camera, aren't you? It seems like it would be<br>good to shoot with a smartphone too, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先輩、カメラがかなり高性能のスマホを使ってますね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スマホで撮影してもよさそうですよ？"
+                                ""
                             ]
                         },
                         {
@@ -4323,14 +4323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](I've never actually used it before because I don't have<br>anyone to take pictures with...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（一緒に撮る人がいなくて実際に使うのは初めてだけど…。）"
+                                ""
                             ]
                         },
                         {
@@ -4403,14 +4403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Oh, someone came in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、誰か入ってきた。"
+                                ""
                             ]
                         },
                         {
@@ -4455,21 +4455,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]There is a place where only new streamers are displayed. At<br>least 10 people will come in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "新規配信者だけが表示されるところがあるんです。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最低でも１０人は入ってきますよ。"
+                                ""
                             ]
                         },
                         {
@@ -4572,14 +4572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](Disgusting.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（気持ち悪い。）"
+                                ""
                             ]
                         },
                         {
@@ -4633,14 +4633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ah, ahaha..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは…。"
+                                ""
                             ]
                         },
                         {
@@ -4657,14 +4657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]There are all kinds of people on the internet, after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりインターネットにはいろんな人がいますね。"
+                                ""
                             ]
                         },
                         {
@@ -4688,14 +4688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Anyway, this is roughly how it is. Did it help?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とにかく、大体こんな感じです。役に立ちましたか？"
+                                ""
                             ]
                         },
                         {
@@ -4783,14 +4783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Yes, thanks to you, I was saved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん、おかけで助かった。"
+                                ""
                             ]
                         },
                         {
@@ -4823,14 +4823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]By the way, could you also show me your notebook?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ついでにノートも見せてくれる？"
+                                ""
                             ]
                         },
                         {
@@ -4884,14 +4884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Hehe. Yes, here you go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふ。はい、どうぞ。"
+                                ""
                             ]
                         },
                         {
@@ -4952,14 +4952,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](What, streaming is easier than I thought. With this, I can<br>do it as much as I want--)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（何だ、配信って思ったより簡単。これならいくらでも――）"
+                                ""
                             ]
                         },
                         {
@@ -5041,14 +5041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Sorry, something urgent came up!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ごめん、急用が出来ちゃった！"
+                                ""
                             ]
                         },
                         {
@@ -5110,14 +5110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Please ask for the notebook another time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ノートはまた今度お願い！"
+                                ""
                             ]
                         },
                         {
@@ -5164,14 +5164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Huh, again!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ、またですか！？"
+                                ""
                             ]
                         },
                         {
@@ -5469,21 +5469,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Wait a minute, Senpai! You need to end the stream before<br>leaving! Oh, and also pay the bill...! Senpaaiii~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと、先輩！配信は切ってから行かないと！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あとお会計も…！せんぱぁ～～い！！"
+                                ""
                             ]
                         },
                         {
@@ -5523,14 +5523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {

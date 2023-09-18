@@ -749,14 +749,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I have to go help Reina."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "レイナを助けに行かなければならない。"
+                                ""
                             ]
                         },
                         {
@@ -883,14 +883,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I have to go help Reina."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "レイナを助けに行かなければならない。"
+                                ""
                             ]
                         },
                         {
@@ -1112,14 +1112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]The moisture continues deep inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "水気が奥まで続いてる。"
+                                ""
                             ]
                         },
                         {
@@ -1136,14 +1136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Reina might be in danger, let's go quickly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レイナが危ないかも知らない、早く行こう！"
+                                ""
                             ]
                         },
                         {

@@ -1982,14 +1982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<秘書>"
+                                "\\nc<Secretary>Excuse me... The president is currently out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すみません…社長はただいま外出しております。"
+                                ""
                             ]
                         },
                         {

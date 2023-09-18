@@ -1079,45 +1079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<炎上系デュフチューバー>"
+                                "\\nc<Flame-up Type DufTuber>...So, what's a scoop?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…で、スクープって？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<ストーカー>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティアと曽我部TVの圭という配信者が<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同一人物なにかも知れない。"
+                                ""
                             ]
                         },
                         {
@@ -1134,38 +1103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<炎上系デュフチューバー>"
+                                "\\nc<Stalker>Levantia and Kei from the Sogabe TV might be the same<br>person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。根拠は？"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<ストーカー>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人の配信終了時間が気になってストーキングしたら…"
+                                ""
                             ]
                         },
                         {
@@ -1182,21 +1134,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ストーカー>"
+                                "\\nc<Flame-up Type Douche-tuber>Hmmm. What's your evidence?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭の家にノックをしたら同じ時間にレヴァンティアの配信で<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノックする声が聞こえた。"
+                                ""
                             ]
                         },
                         {
@@ -1213,14 +1158,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<炎上系デュフチューバー>"
+                                "\\nc<Stalker>I was curious about their streaming end times, so I stalked<br>them..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほお。わかった。やってみよう。"
+                                "\\nc<Stalker>When I knocked on Kei's house, I heard a knocking sound at<br>the same time on Levantia's stream."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Flame-up Type Douche-tuber>Oh, I see. Let's give it a try."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1293,14 +1293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I obtained the memory Stalker."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "記憶「ストーカー」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -1317,14 +1317,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good listeners increased by 3000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {

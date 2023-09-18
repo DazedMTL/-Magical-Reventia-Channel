@@ -2850,14 +2850,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to skip the prologue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プロローグをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -2865,8 +2865,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -2896,21 +2896,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If you skip the prologue, it may be difficult to understand<br>the story and battles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "プロローグをスキップする場合、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ストーリーや戦闘への理解が難しい場合があります。"
+                                ""
                             ]
                         },
                         {
@@ -2918,8 +2918,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "でも大丈夫",
-                                    "それはちょっと"
+                                    "But it's okay",
+                                    "That's a bit"
                                 ],
                                 1,
                                 0,

@@ -4520,14 +4520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Wow...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わあ…！"
+                                ""
                             ]
                         },
                         {
@@ -4679,14 +4679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]What a coincidence...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごい偶然…！"
+                                ""
                             ]
                         },
                         {
@@ -9009,14 +9009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<\\fs[20]催眠にかかった市民１>"
+                                "\\nc<NPC 1 under hypnosis>Uwaa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うわぁっ！"
+                                ""
                             ]
                         },
                         {
@@ -9049,14 +9049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<\\fs[20]催眠にかかった市民２>"
+                                "\\nc<NPC 2 under Hypnosis>S-Sorry. My body is moving on its own...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "す、すみません。体が勝手に…！"
+                                ""
                             ]
                         },
                         {
@@ -9110,14 +9110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Let go of everyone!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ、みんなを放してください！"
+                                ""
                             ]
                         },
                         {
@@ -9171,14 +9171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Coward. Cowardly person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "弱虫。卑怯者。"
+                                ""
                             ]
                         },
                         {
@@ -9239,21 +9239,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Say whatever you want. In the end, what matters is the<br>result."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とでも言いなさい。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局、大事なのは結果。"
+                                ""
                             ]
                         },
                         {
@@ -9270,21 +9270,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]No matter what you say, it's just the howling of a loser if<br>you can't produce the result of defeating me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたたちが私に勝ったという結果を出せない以上、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何を言っても負け犬の遠吠えでしょう。"
+                                ""
                             ]
                         },
                         {
@@ -9353,14 +9353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Life is the same."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人生も同じ。"
+                                ""
                             ]
                         },
                         {
@@ -9386,21 +9386,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]In the end, all that matters is for people to be happy. I<br>will make that happen!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局、人というのは最後に幸せになりさえすればいいのです。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私がそれを叶えるのです！"
+                                ""
                             ]
                         },
                         {
@@ -9461,14 +9461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I'm not good with difficult conversations..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "難しい話は苦手…。"
+                                ""
                             ]
                         },
                         {
@@ -9520,14 +9520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Foolish delusion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "馬鹿の妄想。"
+                                ""
                             ]
                         },
                         {
@@ -9588,21 +9588,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Well, they're just children after all. They're not worth<br>talking to."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふっ、所詮は幼い子ども。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "話す価値もありませんね。"
+                                ""
                             ]
                         },
                         {
@@ -9645,14 +9645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Now, everyone, go ahead and do it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ、みんなやってしまいなさい！"
+                                ""
                             ]
                         },
                         {
@@ -9718,14 +9718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I won't let you do that!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうはさせない！"
+                                ""
                             ]
                         },
                         {
@@ -9959,14 +9959,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Nuhoo! You're from yesterday...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぬほっ！あなたは昨日の…！"
+                                ""
                             ]
                         },
                         {
@@ -10013,14 +10013,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民1>"
+                                "\\nc<Citizen 1>A new magical girl has arrived!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "新しい魔法少女が来たぞ！"
+                                ""
                             ]
                         },
                         {
@@ -10046,14 +10046,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民2>"
+                                "\\nc<Citizen 2>The child who drove away Black Muscle, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ブラック・マッスルを追い払った子じゃ？"
+                                ""
                             ]
                         },
                         {
@@ -10107,14 +10107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Certainly, they are stronger than those little kids."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かにあのちびっ子たちよりは強いですな。"
+                                ""
                             ]
                         },
                         {
@@ -10150,14 +10150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]However!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし！"
+                                ""
                             ]
                         },
                         {
@@ -10656,14 +10656,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]No matter how strong they may be, magical girls cannot harm<br>the citizens."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくら強かろうと魔法少女が市民を傷つけるわけにはいかないでしょう。"
+                                ""
                             ]
                         },
                         {
@@ -10717,21 +10717,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](Kuh, I can't attack properly when surrounded by<br>citizens....) (And there are an incredible number of them.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（くっ、市民たちに囲まれてまともに攻撃できない…。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（それにものすごい数。）"
+                                ""
                             ]
                         },
                         {
@@ -10771,14 +10771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Levantia-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアさん！"
+                                ""
                             ]
                         },
                         {
@@ -10816,14 +10816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Wait, I'll help you now. Haa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "待ってて、今助けるから。はあっ！"
+                                ""
                             ]
                         },
                         {
@@ -11111,14 +11111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Huh!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なっ！？"
+                                ""
                             ]
                         },
                         {
@@ -11142,21 +11142,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Did these people jump down from the second floor?!<br>(Villains?... No, they're just people...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(この人たち、２階から飛び降りてきた？！)<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ヴィラン？…いや、人だけど…。)"
+                                ""
                             ]
                         },
                         {
@@ -11830,21 +11830,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Hohoho. As expected, I can't overwhelm you with numbers.<br>However, you also have your limits in terms of stamina."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほっほっほ。やはり数では押せませんね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、あなたも体力には限界がある。"
+                                ""
                             ]
                         },
                         {
@@ -11898,14 +11898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Kuh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ…！"
+                                ""
                             ]
                         },
                         {
@@ -11929,21 +11929,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](Individually, their power isn't much, but when they<br>gather, it becomes troublesome.) (Over there, they are<br>protected by the citizens.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（個々の力は大したことないけど集まると面倒だ。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（あっちはあっちで市民に守られてるし。）"
+                                ""
                             ]
                         },
                         {
@@ -11969,14 +11969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](Ah, geez! If only I had been a little faster, I could have<br>taken advantage of the opening all at once...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ああ、もう！もう少し早ければ一気に隙を狙えたのに…！）"
+                                ""
                             ]
                         },
                         {
@@ -12016,14 +12016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I'll do my best, Levantia~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頑張るにゃ、レヴァンティア～！"
+                                ""
                             ]
                         },
                         {
@@ -12126,21 +12126,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Hmm? A mascot, huh? Since you can't do anything, are you<br>saying you'll at least cheer us on?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふーん？マスコットですね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何もできないからせめて応援でも、ということですか？"
+                                ""
                             ]
                         },
                         {
@@ -12194,14 +12194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do your best~! Now, everyone!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頑張れ～！さあ、みんな！"
+                                ""
                             ]
                         },
                         {
@@ -12324,21 +12324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民3>"
+                                "\\nc<Citizen 3>Well, don't lose, Levantia! Knock them out!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、負けるな、レヴァンティア！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶっ飛ばしちまえ！"
+                                ""
                             ]
                         },
                         {
@@ -12770,14 +12770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民たち>"
+                                "\\nc<Citizens>Fight~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ファイト～！"
+                                ""
                             ]
                         },
                         {
@@ -12859,14 +12859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](The emotions of the citizens are turning into power... Now<br>is the time!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（市民たちの感情が力に変わっていく…。今なら！）"
+                                ""
                             ]
                         },
                         {
@@ -13058,14 +13058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]What, what?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "な、なに？！"
+                                ""
                             ]
                         },
                         {
@@ -13455,14 +13455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Guh...!? Wh-what is this...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぐほっ！？こ、これは一体…！"
+                                ""
                             ]
                         },
                         {
@@ -13514,14 +13514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Now, deliver the finishing blow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ、とどめよ！"
+                                ""
                             ]
                         },
                         {
@@ -13728,14 +13728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ugh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…！"
+                                ""
                             ]
                         },
                         {
@@ -13796,14 +13796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Phew... Today is my loss, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…。今日は私の負けですね。"
+                                ""
                             ]
                         },
                         {
@@ -13867,21 +13867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Levantia, you say? With her perfect appearance and the<br>darkness hidden within her heart..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアといいましたか。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "整った容姿、その心の中に秘めた闇…。"
+                                ""
                             ]
                         },
                         {
@@ -13914,14 +13914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Hehe. This seems like good material."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふ。これはいい素材になりそうです。"
+                                ""
                             ]
                         },
                         {
@@ -13975,21 +13975,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]You're saying things like a fake fortune teller. Stop<br>saying weird things and come down!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エセ占い師みたいなこと言うわね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変なこと言ってないで降りてきなさい！"
+                                ""
                             ]
                         },
                         {
@@ -14034,21 +14034,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Oops, I can't do that. If I lose my power, everyone's<br>happiness will be lost too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おっと、それはできません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私が力を失えば、皆の幸せも失われてしまいますから。"
+                                ""
                             ]
                         },
                         {
@@ -14072,14 +14072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Let's prepare a little more carefully and meet again next<br>time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次はもう少し周到に準備をしてお会いしましょう。"
+                                ""
                             ]
                         },
                         {
@@ -14452,14 +14452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<\\fs[20]催眠が解けた市民１>"
+                                "\\nc<Citizen 1 whose hypnosis has been lifted>I... I won... I won!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "か、勝った…。勝ったぞ！！"
+                                ""
                             ]
                         },
                         {
@@ -14485,14 +14485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<\\fs[20]催眠が解けた市民２>"
+                                "\\nc<Citizen 2 whose hypnosis has been lifted>Wow, Levantia! Thanks to you, I was saved!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごいな、レヴァンティア！おかげで助かったよ！"
+                                ""
                             ]
                         },
                         {
@@ -14671,14 +14671,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Thank you very much, Levantia-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます、レヴァンティアさん！"
+                                ""
                             ]
                         },
                         {
@@ -14767,14 +14767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Thank you... thank you very much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "は、はは…。ありがとうございます。"
+                                ""
                             ]
                         },
                         {
@@ -14791,14 +14791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](Cheers...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（すごい歓声…。）"
+                                ""
                             ]
                         },
                         {
@@ -14831,14 +14831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](No... I can't help it, my mouth just loosens up.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…だめだ、どうしても口元が緩んじゃう。）"
+                                ""
                             ]
                         },
                         {
@@ -14855,21 +14855,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](It's been a while since I've received this much<br>attention.) (Somehow, it feels a little different from<br>before...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（こんなに関心を向けられたのはかなり久しぶりだけど。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（何だか前とは少し違う感じがするような…。）"
+                                ""
                             ]
                         },
                         {
@@ -14923,14 +14923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Kei-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭さん？"
+                                ""
                             ]
                         },
                         {
@@ -14984,14 +14984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Yes!? N-No, it's nothing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん！？い、いや、何でもない。"
+                                ""
                             ]
                         },
                         {
@@ -15022,14 +15022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Shouldn't we start heading home soon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それよりそろそろ帰ろうか？"
+                                ""
                             ]
                         },
                         {
@@ -15198,14 +15198,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Yes!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん！"
+                                ""
                             ]
                         },
                         {
@@ -15264,14 +15264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Return."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰還。"
+                                ""
                             ]
                         },
                         {
@@ -15521,14 +15521,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民たち>"
+                                "\\nc<Citizens>All three of you, do your best~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "３人とも頑張れ～!"
+                                ""
                             ]
                         },
                         {

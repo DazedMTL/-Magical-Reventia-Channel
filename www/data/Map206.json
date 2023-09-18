@@ -12885,14 +12885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いっらしゃいませ～。"
+                                ""
                             ]
                         },
                         {
@@ -13657,14 +13657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ラーメン屋>"
+                                "\\nc<Ramen Shop>Welcome~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい～！ "
+                                ""
                             ]
                         },
                         {
@@ -15468,14 +15468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<コンビニバイト>"
+                                "\\nc<Convenience Store Part-time Job>Welcome~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いっらしゃいませ～。"
+                                ""
                             ]
                         },
                         {
@@ -16634,14 +16634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いっらしゃいませ～。"
+                                ""
                             ]
                         },
                         {
@@ -29377,14 +29377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ラーメン屋>"
+                                "\\nc<Ramen Shop>Welcome~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい～！ "
+                                ""
                             ]
                         },
                         {
@@ -30492,21 +30492,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<会社員Ａ>"
+                                "\\nc<Company Employee A>Hey, did you see that viral video? That person is called<br>Pei, a famous YouTuber, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なぁ、今回の炎上動画見た？あの人がペイとかいう<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " デュフチューバーなんだよね？"
+                                ""
                             ]
                         },
                         {
@@ -30523,14 +30523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<会社員Ａ>"
+                                "\\nc<Company Employee A>Honestly, they look similar to Levantia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正直レヴァンティアと似てるよな。"
+                                ""
                             ]
                         },
                         {
@@ -30568,14 +30568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>（...！！！）"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…！！！）"
+                                ""
                             ]
                         },
                         {
@@ -30792,52 +30792,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<会社員Ｂ>"
+                                "\\nc<Company Employee B>Are you still believing that rumor? There's evidence that<br>proves it's not true."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだそんなデマを信じてんのかよ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違うって証拠が出てだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<会社員Ｂ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに見りゃ分かるだろ？<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レヴァンティアのほうが胸が小さい。"
+                                ""
                             ]
                         },
                         {
@@ -30854,14 +30823,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<会社員Ａ>"
+                                "\\nc<Company Employee B>And if you look closely, it's obvious, right? Levantia has<br>smaller breasts."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…お前は…それが分かるのか？"
+                                "\\nc<Company Employee A>...Do you understand that?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -30899,21 +30899,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Oh, oh no... Just as Cashew Nut said) (Let's stop the daily<br>livestreams...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ヤ、ヤバい…。カシューナッツの言ったとおり）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（日常配信はやめよう…。）"
+                                ""
                             ]
                         },
                         {
@@ -30958,14 +30958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I obtained the accusation of memories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "記憶「告発」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -30982,14 +30982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good listeners increased by 3000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {

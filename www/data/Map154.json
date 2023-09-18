@@ -1677,21 +1677,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Even when I look at the newspaper in the convenience store,<br>there are no articles about magical girls,) (And when I ask<br>people on the street, they don't know about villains. Why!?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（コンビニで新聞を見ても魔法少女の記事はないし、）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（道行く人に聞いてもヴィランを知らない。どうして！？）"
+                                ""
                             ]
                         },
                         {
@@ -1715,21 +1715,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...No, I still can't relax.) (It was definitely close<br>by.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…いや、まだ安心はできない。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（確かにこの近くだった。）"
+                                ""
                             ]
                         },
                         {
@@ -1753,14 +1753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I was cornered in a dead-end alley while running away from<br>the school villain...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（学校のヴィランから逃げる途中で行き止まりの路地に追い詰められて…！）"
+                                ""
                             ]
                         },
                         {
@@ -1880,14 +1880,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah...! Look, they're here after all!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ…！ほら、やっぱりいる！"
+                                ""
                             ]
                         },
                         {
@@ -1920,14 +1920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wow, you surprised me, Cashew Nut."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう、びっくりしたじゃん、カシューナッツ。"
+                                ""
                             ]
                         },
                         {
@@ -1951,21 +1951,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, at that time we didn't know each other yet, right? But<br>it's okay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、この時はまだ知らない間柄だったっけ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>でも大丈夫。"
+                                ""
                             ]
                         },
                         {
@@ -2020,14 +2020,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If we gradually get to know each other from now on..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これからまた少しずつ知っていけば──"
+                                ""
                             ]
                         },
                         {
@@ -2098,14 +2098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<カシューナッツ?>"
+                                "\\nc<Cashew Nut?>Meow~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ニャ～。"
+                                ""
                             ]
                         },
                         {
@@ -2143,14 +2143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Is it okay...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――いい、から…？"
+                                ""
                             ]
                         },
                         {
@@ -2286,38 +2286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…は、はは。そうか。"
+                                ""
                             ]
                         },
                         {
@@ -2334,14 +2310,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Haha. I see."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…本当に、全部消えちゃったんだ。"
+                                "\\nc<>Everything... really disappeared."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2365,21 +2365,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, why are you feeling down? This kind of world can't be<br>real, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、なに落ち込んでるのよ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんな世界、本当なわけないじゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2396,14 +2396,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's right, I was with Reina trying to destroy that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それもそのはず、私はレイナと一緒にあれを滅ぼそうと…。"
+                                ""
                             ]
                         },
                         {
@@ -2541,14 +2541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Huh...? What was that again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あれ…？あれって何だっけ？"
+                                ""
                             ]
                         },
                         {
@@ -2572,21 +2572,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, don't forget. I was with Reina..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめ、忘れるな。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はレイナと一緒に…、"
+                                ""
                             ]
                         },
                         {
@@ -2610,14 +2610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Reina and... Reina...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レイナと…、レイナ…！"
+                                ""
                             ]
                         },
                         {
@@ -2688,14 +2688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>How strange. Why are you resisting so much?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変ね。なんでそんなに抵抗するの？"
+                                ""
                             ]
                         },
                         {
@@ -2773,21 +2773,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hina-chan... no, it's not! Who are you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひなちゃん…、じゃない！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前、誰だ！"
+                                ""
                             ]
                         },
                         {
@@ -2818,21 +2818,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>I know your wish. This is a world without magical girls or<br>villains."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私、あなたの願いを知ってる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは魔法少女もヴィランもいない世界。"
+                                ""
                             ]
                         },
                         {
@@ -2849,21 +2849,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>A world where you can live an ordinary life and no one<br>becomes unhappy because of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたが平凡な暮らしを送れて、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それによって不幸になる人もいない世界。"
+                                ""
                             ]
                         },
                         {
@@ -2889,14 +2889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Isn't this what you've always wished for? Why are you so<br>resistant?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっと願ってたことでしょ？どうしてそんなに嫌がるの？"
+                                ""
                             ]
                         },
                         {
@@ -2934,14 +2934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No! I never wished for something like this...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違う！私はこんなの、望んだこと…！"
+                                ""
                             ]
                         },
                         {
@@ -2974,14 +2974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -3005,14 +3005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...That's what it means."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…そういうこと。"
+                                ""
                             ]
                         },
                         {
@@ -3036,21 +3036,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I've been thinking about it for a long time. It would have<br>been better if there were no villains from the beginning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっと考えていた。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヴィランなんて初めからいなければよかったと。"
+                                ""
                             ]
                         },
                         {
@@ -3067,21 +3067,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If that were the case, even if I turned my eyes away from<br>the battle, I wouldn't have to feel guilty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうなれば戦いから目を背けても<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "罪悪感を抱く必要がないから。"
+                                ""
                             ]
                         },
                         {
@@ -3121,21 +3121,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Then why? Is it because you can't meet your new friends?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ならどうして？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "新しくできた友達に会えないから？"
+                                ""
                             ]
                         },
                         {
@@ -3152,21 +3152,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Don't worry. I'm sure we can become good friends. This is<br>such a convenient world."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫。きっと仲良くなれる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここはそんな便利な世界。"
+                                ""
                             ]
                         },
                         {
@@ -3213,14 +3213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes, I think it's wonderful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう。素敵だと思う。"
+                                ""
                             ]
                         },
                         {
@@ -3237,21 +3237,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>So, are there any villains in that wonderful world who have<br>been tormenting me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、その素敵な世界に、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私を苦しめてたヴィランたちはいるの？"
+                                ""
                             ]
                         },
                         {
@@ -3291,14 +3291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>...? If that's the case, you won't be able to become happy,<br>right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…？それだと幸せになれないでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -3315,21 +3315,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Because I wished for the villains to disappear. So of<br>course, they're not here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヴィランがいなくなることを望んでるんだから。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから当然いない。"
+                                ""
                             ]
                         },
                         {
@@ -3367,38 +3367,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I thought so, I guess."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だろうな。そうだと思った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かにここにいれば楽しいはず。"
+                                ""
                             ]
                         },
                         {
@@ -3415,21 +3391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If I'm here, it should be fun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "友達と平和に過ごして、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶交なんて辛い経験はしたくもないし、"
+                                ""
                             ]
                         },
                         {
@@ -3446,14 +3415,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't want to have the painful experience of breaking off<br>friendships and just want to spend peaceful time with my<br>friends."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私が望んでた平凡な日々を送れると思う。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3470,14 +3446,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I think I can live the ordinary days I wished for."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、それだけの人生を送ることになる。"
+                                "\\nc<>And that's how they ended up living that kind of life."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3529,14 +3529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>I don't understand. That's your happiness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "理解できない。<Br>それがあなたの幸せ。"
+                                ""
                             ]
                         },
                         {
@@ -3553,21 +3553,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Stop resisting. There is interference from the outside. <br><br>If you continue to resist, it cannot be sustained."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "抵抗はやめろ。外部からの干渉がある。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "抵抗を続けると維持できない。"
+                                ""
                             ]
                         },
                         {
@@ -3605,38 +3605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Happiness is not everything in life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幸せが人生の全部じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を信じて自分の欲望を抑えた奴らがいる。"
+                                ""
                             ]
                         },
                         {
@@ -3653,14 +3629,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There are those who believe in me and restrain their<br>desires."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未熟な私に惜しみない応援を送ってくれる市民がいる。"
+                                ""
                             ]
                         },
                         {
@@ -3677,14 +3653,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There are citizens who give unwavering support to an<br>inexperienced me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が必ず起き上がると信じて待ってくれる人がいる。"
+                                "\\nc<>There are people who believe in me and wait for me to<br>definitely stand up."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3708,14 +3708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you think we can just pretend that never happened?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それを全部、なかったことにすると思う！？"
+                                ""
                             ]
                         },
                         {
@@ -3732,14 +3732,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If at the end of the path I have continued to walk while<br>suffering, there is now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私が苦しみながらも歩き続けてきた道の果てに今があるのなら――"
+                                ""
                             ]
                         },
                         {
@@ -3791,21 +3791,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Human ideological interference is increasing. Magical power<br>values are increasing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人間の思想干渉が増加。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力値が増加。"
+                                ""
                             ]
                         },
                         {
@@ -3834,14 +3834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ひな?>"
+                                "\\nc<Hina?>Out of control... it's collapsing...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "制御不能…、崩壊する…！"
+                                ""
                             ]
                         },
                         {
@@ -3879,14 +3879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I won't give up on carrying this burden just because it's<br>painful!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――私はこれ以上、苦しいからって背負うのを諦めたりしない！"
+                                ""
                             ]
                         },
                         {
@@ -3966,14 +3966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Memory K5: Finally obtained the ability to overcome<br>temptation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "記憶「K5：ついに、誘惑に打ち勝つ」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -3990,14 +3990,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good listeners increased by 7,000, while bad listeners<br>increased by 3,000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いリスナーが７０００人、悪いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {

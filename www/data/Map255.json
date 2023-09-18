@@ -1335,14 +1335,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Lusha Sorbet, you were playing games again, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シャーベット、またゲームしてたでしょ？    "
+                                ""
                             ]
                         },
                         {
@@ -1366,14 +1366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh. Women who nag don't get popular, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うう。小言を言う女はモテないぞ。"
+                                ""
                             ]
                         },
                         {
@@ -1547,14 +1547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Lusha Sorbet, you were playing games again, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シャーベット、またゲームしてたでしょ？    "
+                                ""
                             ]
                         },
                         {
@@ -1578,14 +1578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh. Women who nag don't get popular, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うう。小言を言う女はモテないぞ。"
+                                ""
                             ]
                         },
                         {
@@ -1714,21 +1714,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When I look at that outfit, it reminds me of the past and<br>makes me feel nostalgic... Thank you for helping me in<br>various ways!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その服を見てると昔を思い出して懐かしくなるにゃん。.<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色々と協力してくれてありがとうにゃ！"
+                                ""
                             ]
                         },
                         {
@@ -4505,14 +4505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to enter the flashback room?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "回想室に入場しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4520,8 +4520,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

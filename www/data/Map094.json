@@ -910,21 +910,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>This is... not good. The number has increased significantly<br>compared to last time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…、まずいにゃ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前回よりはるかに数が増えてるにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -969,21 +969,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There's no time to deal with everything here. First, let's<br>go inside a little more and find the cause--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここで全部を相手してる時間はない。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはもう少し中に入って原因を――"
+                                ""
                             ]
                         },
                         {
@@ -1030,14 +1030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>...Please stop...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…けてください…！"
+                                ""
                             ]
                         },
                         {
@@ -1082,21 +1082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>--!? Is that the voice of a person...! Does that mean<br>someone came in before using magic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――っ！？人の声が…！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法を使う前に入ってきた人がいるってこと？"
+                                ""
                             ]
                         },
                         {
@@ -1141,14 +1141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's not far! Let's hurry, Levantia!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう遠くはないにゃ！急ごう、レヴァンティア！"
+                                ""
                             ]
                         },
                         {

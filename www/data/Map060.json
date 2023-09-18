@@ -1177,14 +1177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Phew, I'm saved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふう、助かった。"
+                                ""
                             ]
                         },
                         {
@@ -1241,14 +1241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Officer, when they see me doing missionary work, they come<br>to warn me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お巡りさん、布教活動してるの見るつけると注意しに来るんですよ。"
+                                ""
                             ]
                         },
                         {
@@ -1265,21 +1265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Since I'll get lectured if I get caught, it's better to<br>avoid it as much as possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "捕まったら説教されるので、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "できるだけ避けた方がいいですよ。"
+                                ""
                             ]
                         },
                         {
@@ -1312,14 +1312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh, oh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、おお…。"
+                                ""
                             ]
                         },
                         {
@@ -1336,14 +1336,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Is that the issue? It feels kind of strange...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（そういう問題だっけ？なんかおかしいような…。）"
+                                ""
                             ]
                         },
                         {
@@ -1376,21 +1376,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Kei-san, are you okay? You're dressed really strangely..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭さんは大丈夫ですか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごい格好ですけど…。"
+                                ""
                             ]
                         },
                         {
@@ -1414,14 +1414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>You too, huh."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんたもね。"
+                                ""
                             ]
                         },
                         {
@@ -1463,14 +1463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -1494,14 +1494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -1525,14 +1525,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<幸子>"
+                                "\\nc<Sachiko>Would you like to do missionary work together again next<br>time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今度また一緒にやりませんか？布教活動。"
+                                ""
                             ]
                         },
                         {
@@ -1556,14 +1556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, if you feel like it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…まあ、その気になったらね。"
+                                ""
                             ]
                         },
                         {
@@ -1680,38 +1680,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I obtained the Founder A-3 proof."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "証票「教祖Ａ－３」を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "悪いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -1728,14 +1704,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The number of bad listeners increased by 3000."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "教祖調教度が１５上がった。"
+                                "\\nc<>The level of cult leader training has increased by 15."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

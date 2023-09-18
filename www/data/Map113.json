@@ -773,14 +773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Well then... that concludes today's advertising shoot!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでは…、以上で今回の広告撮影を終了とさせていただきます！"
+                                ""
                             ]
                         },
                         {
@@ -834,14 +834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Wow~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わ、わあ～。"
+                                ""
                             ]
                         },
                         {
@@ -872,14 +872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Oh my, I must say, this is quite impressive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや～、これは頭が下がりますね。"
+                                ""
                             ]
                         },
                         {
@@ -896,21 +896,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>When the employees started gathering people with just four<br>people, I honestly had my doubts, but I never expected such<br>famous people to come."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "社員が４人で人集めを始めた時は正直疑っていましたが、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなに有名な方々が来てくださるとは。"
+                                ""
                             ]
                         },
                         {
@@ -936,14 +936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Thanks to you, we were able to take a great advertisement!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おかげでいい広告が撮れました！"
+                                ""
                             ]
                         },
                         {
@@ -981,21 +981,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I-I'm still far from being good enough. But if we were able<br>to capture something good, then I'm glad."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんな。私なんかまだまだですよ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、いいものが撮れたならよかったです。"
+                                ""
                             ]
                         },
                         {
@@ -1056,21 +1056,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh! This is just normal, President. If you'd like, you can<br>leave it to me again next time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おお！このくらい当たり前ですよ、社長。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何なら次回も任せてくださっても構いません！"
+                                ""
                             ]
                         },
                         {
@@ -1101,21 +1101,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Haha! I'm really happy that both of you said that. After a<br>while--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ははっ！２人ともそう言ってくださり本当に嬉しいです。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暫くしたら――"
+                                ""
                             ]
                         },
                         {
@@ -1141,14 +1141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社員>"
+                                "\\nc<Employee>President~! Can you please check this for me~?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "社長～！ちょっとこれ確認お願いしま～す！"
+                                ""
                             ]
                         },
                         {
@@ -1174,21 +1174,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Oh, excuse me. I would like to talk a little more with both<br>of you, but it seems there is still work left to do."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おっと、すみません。おふたりともう少しお話ししたいところですが、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ仕事が残っているようですね。"
+                                ""
                             ]
                         },
                         {
@@ -1205,21 +1205,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Since both of your work is finished, you can take a rest<br>here and leave whenever you like."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おふたりの仕事は全て終わったので、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここでゆっくりお休みになられて、お好きなタイミングでお帰りいただいても構いません。"
+                                ""
                             ]
                         },
                         {
@@ -1281,14 +1281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<広告主>"
+                                "\\nc<Advertiser>Well then, I'll be going now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "では、私はこれで。"
+                                ""
                             ]
                         },
                         {
@@ -1515,21 +1515,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wow, I never expected to meet Levantia-chan here. It's been<br>a while, how have you been?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや～、まさかここでレヴァンちゃんに会うとは。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "久しぶり、元気だった？"
+                                ""
                             ]
                         },
                         {
@@ -1574,14 +1574,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, yes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、はい。"
+                                ""
                             ]
                         },
                         {
@@ -1626,14 +1626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's good then. Even though I may not look like it, I was<br>worried, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それならよかった。こう見えても心配してたんだぜ？"
+                                ""
                             ]
                         },
                         {
@@ -1657,14 +1657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>After that, I invited them to collaborate on live streams<br>several times, but they politely declined all of them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの後、何度かコラボ配信に誘ったけど全部やんわり断られたから。"
+                                ""
                             ]
                         },
                         {
@@ -1718,21 +1718,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I-I've been a little busy. There were things like defeating<br>villains and stuff."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "す、少し忙しかったんです。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヴィランの退治とか色々あって。"
+                                ""
                             ]
                         },
                         {
@@ -1777,21 +1777,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I guess so. After all, they even abandoned the live stream<br>to go defeat villains. Right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だろうな。なんせ生配信を放り出して<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヴィランを退治しに行くくらいだからな。ね？"
+                                ""
                             ]
                         },
                         {
@@ -1845,14 +1845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, ahahaha..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはははは…。"
+                                ""
                             ]
                         },
                         {
@@ -1869,14 +1869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Oh no, after running away like that, of all places, to meet<br>here...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（やばっ、あれだけ逃げておいて、よりによってこんな場所で会うなんて。）"
+                                ""
                             ]
                         },
                         {
@@ -1900,21 +1900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(There's no way I can say the reason was because it seemed<br>suspicious and declined the collaboration stream...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（何だか怪しげだからコラボ配信を断ったなんて、）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（そんな理由言えるわけないじゃん…！）"
+                                ""
                             ]
                         },
                         {
@@ -1977,21 +1977,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, let's stop with the mean jokes. Seriously, how about<br>we do a stream together after such a long time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まあ、意地悪な冗談はここまでにして。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "マジで久しぶりに一緒に配信しねーか？"
+                                ""
                             ]
                         },
                         {
@@ -2045,14 +2045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh, even though we did that kind of thing, you're inviting<br>me again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ、あんなことをしたのにまた誘ってくれるんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2097,21 +2097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Actually, I haven't suffered that much. Besides, you're<br>quite popular right now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実はそこまで損してないし。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何よりお前、今かなり人気だから。"
+                                ""
                             ]
                         },
                         {
@@ -2128,14 +2128,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't believe you got a job like this and still have no<br>awareness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか、こんな仕事までもらっておいて自覚がねえのか？"
+                                ""
                             ]
                         },
                         {
@@ -2189,14 +2189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, it's not like that. I mean, I just can't feel it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、そういうわけじゃなくて。何ていうか、実感が沸かないんです。"
+                                ""
                             ]
                         },
                         {
@@ -2213,14 +2213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't really understand why you like me so much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんでここまで好いてくれるのかもよく分からないっていうか…。"
+                                ""
                             ]
                         },
                         {
@@ -2274,21 +2274,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's a unique worry. Well, it's because you have talent,<br>isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変わった悩みだな。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そりゃ、お前に才能があるからに決まってんだろ。"
+                                ""
                             ]
                         },
                         {
@@ -2342,14 +2342,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Talent, huh...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "才能、ですか…？"
+                                ""
                             ]
                         },
                         {
@@ -2394,21 +2394,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hey? You have a good-looking face and big breasts. You have<br>an unmatched talent, don't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえ？お前、顔立ちもいいし。胸もでけえだろ。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この上ない才能じゃねーか。"
+                                ""
                             ]
                         },
                         {
@@ -2462,14 +2462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…。"
+                                ""
                             ]
                         },
                         {
@@ -2514,21 +2514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Did you think it was disgusting just now? But this is the<br>truth. How much do you think it took to grow my channel to<br>this point?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今、キモいと思っただろ？だがこれが事実だ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺のチャンネルをここまで育てるのにどれだけかかったと思う？"
+                                ""
                             ]
                         },
                         {
@@ -2573,21 +2573,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh? W-Well, if it's someone like Matsuo-san, umm... about<br>a year?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ？さ、さあ。松男さんくらいなら、うーん…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "１年ですか？"
+                                ""
                             ]
                         },
                         {
@@ -2632,21 +2632,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Buzz! Big miss. The correct answer is... less than 3 months!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ブブー！大ハズレ。正解は…、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "３か月未満でした！"
+                                ""
                             ]
                         },
                         {
@@ -2700,14 +2700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh, no way. In such a short period of time!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ、うそ。そんな短期間で！？"
+                                ""
                             ]
                         },
                         {
@@ -2752,14 +2752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I thought you were more experienced? Unfortunately, it's<br>true."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっと古株かと思ったか？残念だが本当だ。"
+                                ""
                             ]
                         },
                         {
@@ -2776,14 +2776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>So, how do you think I managed to come this far in such a<br>short period of time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあどうやって短期間でここまで来たと思う？"
+                                ""
                             ]
                         },
                         {
@@ -2828,14 +2828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは…。"
+                                ""
                             ]
                         },
                         {
@@ -2889,45 +2889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There's no need to think too hard. Yes, this body, this<br>face!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "難しく考える必要はない。そう、この体、顔！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的に容姿が整ってれば、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは運と努力次第ってことだ。"
+                                ""
                             ]
                         },
                         {
@@ -2944,14 +2913,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Basically, if you have a good appearance, it all depends on<br>luck and effort."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前も俺も才能があんだよ、才能が。"
+                                "\\nc<>Both you and I have talent, talent."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3005,14 +3005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't understand what Matsuo-san is trying to say."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…松男さんが何を言いたいのか分かりません。"
+                                ""
                             ]
                         },
                         {
@@ -3029,21 +3029,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>But, is that really all? If you watch the livestream,<br>you'll understand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、本当にそれだけですか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "配信を見れば分かります。"
+                                ""
                             ]
                         },
                         {
@@ -3067,14 +3067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Matsuo-san, you really put in serious effort for the<br>listeners, didn't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男さんはリスナーのために本気で努力したじゃないですか。"
+                                ""
                             ]
                         },
                         {
@@ -3091,21 +3091,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Isn't it the passion for streaming that has made Matsuo-san<br>what they are now, something that I don't have?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私にはない、配信に対する情熱が今の松男さんを<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "作り上げたんじゃないんですか？"
+                                ""
                             ]
                         },
                         {
@@ -3159,14 +3159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -3220,14 +3220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Huh... What's with this atmosphere?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…えっ。何、この雰囲気。）"
+                                ""
                             ]
                         },
                         {
@@ -3244,14 +3244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(It's strangely tense... or maybe they're angry...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（妙にピリピリしてるっていうか…、もしかして怒ってる…？）"
+                                ""
                             ]
                         },
                         {
@@ -3305,21 +3305,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh man, I took a hit. That's right! Just like Levantia-chan<br>said, my passionate enthusiasm should have been helpful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや～、一発食らったな。そうだ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァちゃんの言うとおり、俺の熱い情熱も役に立ったはず。"
+                                ""
                             ]
                         },
                         {
@@ -3336,21 +3336,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If Levantia-chan also puts in effort for the fans, they will<br>surely be rewarded!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァちゃんもファンのために努力してれば、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きっと報われるぜ！"
+                                ""
                             ]
                         },
                         {
@@ -3395,14 +3395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Thank you very much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、ありがとうございます…。"
+                                ""
                             ]
                         },
                         {
@@ -3447,21 +3447,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh no, it's already this late. I'll contact you again<br>another day regarding the collaboration livestream."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やべっ、もうこんな時間か。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コラボ配信の件は後日また連絡するよ。"
+                                ""
                             ]
                         },
                         {
@@ -3559,14 +3559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well then, I'll go home first. See you next time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃ、先に帰るからまた今度な！"
+                                ""
                             ]
                         },
                         {
@@ -3611,14 +3611,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, yes. Thank you for your hard work today...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、はい。今日はお疲れさまでした…！"
+                                ""
                             ]
                         },
                         {
@@ -3770,14 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -3829,14 +3829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, after that, I never received an invitation for a<br>collaboration livestream from Matsuo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、その後松男からコラボ配信の誘いが来ることはなかった…。"
+                                ""
                             ]
                         },
                         {
@@ -3867,7 +3867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「M2：配信先輩のアドバイス」を手に入れた。 "
+                                "\\nc<>I obtained the memory M2: Advice from the senior streamer."
                             ]
                         },
                         {
@@ -3884,14 +3884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good listeners increased by 7,000, while bad listeners<br>increased by 3,000."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いリスナーが７０００人、悪いリスナーが３０００人増えた。"
+                                ""
                             ]
                         },
                         {

@@ -3015,14 +3015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...H-Hello, I'm magical girl Levantia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…こ、こんにちは、魔法少女レヴァンティアです。"
+                                ""
                             ]
                         },
                         {
@@ -3039,14 +3039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes, I'm alive. I lost that day, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい、生きてます。あの日は負けちゃいましたが…。"
+                                ""
                             ]
                         },
                         {
@@ -3070,21 +3070,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, no. Today's stream is not about defeating villains. As<br>for what I've been doing until now... um..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、いえ。今日の配信はヴィランを退治する配信じゃありません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今まで何をしてたかと言うと…、えっと…。"
+                                ""
                             ]
                         },
                         {
@@ -3129,21 +3129,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia-san, I understand that you're happy to meet the<br>listeners after a long time, but please get to the main<br>point quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアさん、久しぶりにリスナーにお会いできて嬉しいのは分かりますが、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早く本題に入ってください。"
+                                ""
                             ]
                         },
                         {
@@ -3160,14 +3160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't want to divert the conversation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "話を逸らしたくないので。"
+                                ""
                             ]
                         },
                         {
@@ -3212,14 +3212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -3264,21 +3264,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What's with that expression? Do you want to be educated<br>again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何ですか、その表情は。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また教育を受けたいのですか？"
+                                ""
                             ]
                         },
                         {
@@ -3323,21 +3323,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ku... I-I understand... From now on, I'll... do it<br>properly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ…。わ、分かりましたよ…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今からはちゃんと…、します…。"
+                                ""
                             ]
                         },
                         {
@@ -3361,14 +3361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -3425,21 +3425,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I, magical girl Levantia... was defeated by Mr. Hypnosis<br>and captured by the minions of the Paradise Cult--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私、魔法少女レヴァンティアは…、ミスター・ヒプノシスに敗れ、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教の手下に――"
+                                ""
                             ]
                         },
                         {
@@ -3484,21 +3484,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's not it, right? Can't you even properly say your own<br>position?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃないでしょう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分の役職もまともに言えないのですか？"
+                                ""
                             ]
                         },
                         {
@@ -3543,14 +3543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I... became a tool for sexual processing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―――せ、性処理用の備品に…、なりました。"
+                                ""
                             ]
                         },
                         {
@@ -3574,21 +3574,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>In addition, today through my channel, I would like to<br>convey the full details of the Paradise Cult to everyone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに伴い、今日は私のチャンネルを通して、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "皆さんに楽園教の全貌をお伝えしようと思います。"
+                                ""
                             ]
                         },
                         {
@@ -3605,14 +3605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you satisfied with this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…これなら満足ですか？"
+                                ""
                             ]
                         },
                         {
@@ -3657,21 +3657,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hmmm, the last word was unnecessary, but oh well. By the<br>way, this is quite an impressive graffiti."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、最後の一言は余計でしたが、まあいいでしょう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それにしても、すごい落書きですな。"
+                                ""
                             ]
                         },
                         {
@@ -3716,21 +3716,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ku...! Did you draw this without permission!? I'm not a<br>perverted woman who would do something so vulgar...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ…！あなたが勝手に描いたんじゃないですか！？<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はこんな下品なことをする変態女じゃ…！"
+                                ""
                             ]
                         },
                         {
@@ -3796,14 +3796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>This is the kind of place it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…こんな感じの場所です。"
+                                ""
                             ]
                         },
                         {
@@ -3820,21 +3820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>So, after watching this video, I kindly ask all of the<br>listeners to make the right judgment without being swayed by<br>desires."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ですからリスナーの皆さんはこの動画を見た後、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうか欲望に振り回されないで正しい判断をしてください。"
+                                ""
                             ]
                         },
                         {
@@ -5842,14 +5842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>[The event will proceed to the next stage. Are you sure?]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "[イベントが次の段階に進みます。本当によろしいですか？]"
+                                ""
                             ]
                         },
                         {
@@ -5857,8 +5857,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6160,21 +6160,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What's wrong, Levantia-san? Are there still facilities left<br>in the school?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうされましたか、レヴァンティアさん。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ教内の施設は残っていますが？"
+                                ""
                             ]
                         },
                         {
@@ -6219,21 +6219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ku...! I can't stand this fake religious propaganda<br>anymore! I can't take it any longer!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ…！こんなエセ宗教団体の宣伝なんて、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これ以上できませんよ！"
+                                ""
                             ]
                         },
                         {
@@ -6271,21 +6271,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If you didn't have that stupid hypnotic or whatever<br>power...! Is it fun to manipulate people without their<br>consent!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたのその馬鹿みたいな催眠か何だか分からない力さえなければ…！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人を勝手に操って楽しいですか！？"
+                                ""
                             ]
                         },
                         {
@@ -6330,21 +6330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh, well, when you say that, it hurts my heart. I am<br>sincerely working for the happiness of others, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おっと、そう言われると心が痛みますな。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は心から他人の幸せのために努力しているのですよ。"
+                                ""
                             ]
                         },
                         {
@@ -6368,21 +6368,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There's no helping it, huh? This time, as a special favor,<br>I will release the hypnosis that was cast on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方ありませんね。今回は特別に<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたにかかった催眠を解いて差し上げます。"
+                                ""
                             ]
                         },
                         {
@@ -6427,14 +6427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh...? Is this some kind of trap?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ…？…何かの罠ですか？"
+                                ""
                             ]
                         },
                         {
@@ -6479,21 +6479,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There's no trap or anything. I wouldn't want to be<br>misunderstood by the listeners."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "罠でも何でもありません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "リスナーの皆さんに誤解されては困りますので。"
+                                ""
                             ]
                         },
                         {
@@ -6517,14 +6517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Look, like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、こんなふうに。"
+                                ""
                             ]
                         },
                         {
@@ -6548,14 +6548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>How is it? Has the hypnosis been properly lifted?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうですか？催眠はちゃんと解けましたか？"
+                                ""
                             ]
                         },
                         {
@@ -6600,14 +6600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                ""
                             ]
                         },
                         {
@@ -6631,14 +6631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
+                                ""
                             ]
                         },
                         {
@@ -6662,14 +6662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Ahahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あははは！"
+                                ""
                             ]
                         },
                         {
@@ -6686,21 +6686,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The leader is such a jokester! Using my past self for the<br>promotion of the Paradise Religion is going too far!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "教祖様ったら、冗談が過ぎますね！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教の宣伝にあえて\\c[1]昔の私\\c[0]を使うなんて！"
+                                ""
                             ]
                         },
                         {
@@ -6745,14 +6745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I thought it would be more effective, not as a joke..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冗談ではなく、そちらのほうが効果的だと思いましたので…。"
+                                ""
                             ]
                         },
                         {
@@ -6776,14 +6776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahem. Well, now that it's come to this, there's no choice<br>but to start over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コホン。まあ、こうなった以上やり直すしかありませんね。"
+                                ""
                             ]
                         },
                         {
@@ -6800,14 +6800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please introduce yourself once again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう一度、自己紹介をお願いします。"
+                                ""
                             ]
                         },
                         {
@@ -6861,14 +6861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes! I am Levantia, the sex processing meat toilet slave of<br>the Paradise Religion!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はいっ！私は楽園教の性処理用肉便器奴隷のレヴァンティアで～す！"
+                                ""
                             ]
                         },
                         {
@@ -6885,14 +6885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>My special skill is giving blowjobs, and I love being used<br>roughly like a tool ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特技はフェラ、好きなのは道具のように荒く使われることです♡"
+                                ""
                             ]
                         },
                         {
@@ -6925,21 +6925,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, you properly did the graffiti that I asked for. It<br>really gives off the feeling of being a meat toilet when<br>there's stuff like this!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、お願いしてた落書きもちゃんとしてくれましたね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりこういうのがあってこそ肉便器って感じがします！"
+                                ""
                             ]
                         },
                         {
@@ -6981,14 +6981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Why are you sighing!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…って、なんでため息をついてるんですか！？"
+                                ""
                             ]
                         },
                         {
@@ -7033,14 +7033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It might have been a mistake to undo the hypnosis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "催眠を解いてしまったのは間違いだったかもしれませんね…。"
+                                ""
                             ]
                         },
                         {
@@ -7341,14 +7341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>[The event will proceed to the next stage. Are you sure?]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "[イベントが次の段階に進みます。本当によろしいですか？]"
+                                ""
                             ]
                         },
                         {
@@ -7356,8 +7356,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

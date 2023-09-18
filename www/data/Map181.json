@@ -11042,14 +11042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>発券機>"
+                                "\\nc<>After finishing all the work, let's go on a relaxing trip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すべての仕事が終わったら、気楽に旅行でも行こう。<br>"
+                                ""
                             ]
                         },
                         {
@@ -11253,14 +11253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>発券機>"
+                                "\\nc<>After finishing all the work, let's go on a relaxing trip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すべての仕事が終わったら、気楽に旅行でも行こう。<br>"
+                                ""
                             ]
                         },
                         {
@@ -11524,14 +11524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>発券機>"
+                                "\\nc<>After finishing all the work, let's go on a relaxing trip."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すべての仕事が終わったら、気楽に旅行でも行こう。<br>"
+                                ""
                             ]
                         },
                         {
@@ -12275,14 +12275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12366,14 +12366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12459,21 +12459,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event 1 Molestation-1 Occurs) Requires a lustful feeling<br>of 150."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（イベント１「痴漢ー１」発生）"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>淫乱な気持ち１５０必要"
+                                ""
                             ]
                         },
                         {
@@ -12490,14 +12490,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to ride the train?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "電車に乗る？"
+                                ""
                             ]
                         },
                         {
@@ -12505,8 +12505,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12626,21 +12626,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event 1 Molestation-1 Occurs) Requires a lustful feeling<br>of 150."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（イベント１「痴漢ー１」発生）"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>淫乱な気持ち１５０必要"
+                                ""
                             ]
                         },
                         {
@@ -12657,14 +12657,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to ride the train?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "電車に乗る？"
+                                ""
                             ]
                         },
                         {
@@ -12672,8 +12672,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12703,7 +12703,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>淫乱な気持ちが足りない。"
+                                "\\nc<>I don't have enough lustful feelings."
                             ]
                         },
                         {
@@ -12811,14 +12811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -12893,21 +12893,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event 1 Molestation-2 Occurs) Need 500 horny feelings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント１「痴漢ー2」発生）"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>淫乱な気持ち５００必要"
+                                ""
                             ]
                         },
                         {
@@ -12924,14 +12924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to ride the train?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電車に乗る？"
+                                ""
                             ]
                         },
                         {
@@ -12939,8 +12939,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13097,14 +13097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -13188,14 +13188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -13339,14 +13339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -13490,14 +13490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -13581,14 +13581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -13674,21 +13674,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event 1 Molestation-1 Occurs) Requires a lustful feeling<br>of 150."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（イベント１「痴漢ー１」発生）"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>淫乱な気持ち１５０必要"
+                                ""
                             ]
                         },
                         {
@@ -13705,14 +13705,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to ride the train?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "電車に乗る？"
+                                ""
                             ]
                         },
                         {
@@ -13720,8 +13720,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13841,21 +13841,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event 1 Molestation-1 Occurs) Requires a lustful feeling<br>of 150."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（イベント１「痴漢ー１」発生）"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>淫乱な気持ち１５０必要"
+                                ""
                             ]
                         },
                         {
@@ -13872,14 +13872,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to ride the train?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "電車に乗る？"
+                                ""
                             ]
                         },
                         {
@@ -13887,8 +13887,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13918,7 +13918,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>淫乱な気持ちが足りない。"
+                                "\\nc<>I don't have enough lustful feelings."
                             ]
                         },
                         {
@@ -14026,14 +14026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -14108,21 +14108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Event 1 Molestation-2 Occurs) Need 500 horny feelings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（イベント１「痴漢ー2」発生）"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>淫乱な気持ち５００必要"
+                                ""
                             ]
                         },
                         {
@@ -14139,14 +14139,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you want to ride the train?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電車に乗る？"
+                                ""
                             ]
                         },
                         {
@@ -14154,8 +14154,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14312,14 +14312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<改札口>"
+                                "\\nc<Ticket gate>(The sturdy ticket gate firmly defends against fare<br>evasion.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（頑丈な改札口が無賃乗車を堅く防御している。） "
+                                ""
                             ]
                         },
                         {
@@ -15663,14 +15663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怪しい人>"
+                                "\\nc<Suspicious person>Hehehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふふ……。"
+                                ""
                             ]
                         },
                         {
@@ -15754,21 +15754,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<異世界の住民>"
+                                "\\nc<Residents of Another World>I accidentally fell asleep on the train and when I woke up,<br>I was here. Where on earth is this...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電車の中でうっかり寝てしまい、目が覚めたらここに着いていた。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは一体どこだ…？"
+                                ""
                             ]
                         },
                         {
@@ -18935,14 +18935,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<駅員>"
+                                "\\nc<Station attendant>...Is there something I can help you with?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…私に何か手伝えることがあるでしょうか。 "
+                                ""
                             ]
                         },
                         {
@@ -18959,14 +18959,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<駅員>"
+                                "\\nc<Station attendant>Please do not call out to me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "声をかけないでください。<br>"
+                                ""
                             ]
                         },
                         {
@@ -19014,21 +19014,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>駅員>"
+                                "\\nc<>Station attendant: I understand that it may be difficult to<br>say, but if you don't honestly tell me, I won't be able to<br>help you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "言いにくいのは分かりますが<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "正直にお話していただかないとお助けできません…。"
+                                ""
                             ]
                         },
                         {
@@ -19067,21 +19067,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<駅員>"
+                                "\\nc<Station attendant>The number of cases of molestation is increasing rapidly. If<br>you see someone acting suspiciously, please report it<br>immediately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "痴漢被害が急増しています。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "挙動不審な人を見かけたらすぐに通報してください。 "
+                                ""
                             ]
                         },
                         {
@@ -19352,14 +19352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>ブラック・マッスルに関する噂を探る。"
+                                "\\nc<>Investigating rumors about Black Muscle. (Obtaining<br>information about battles with Black Muscle.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>（ブラック・マッスルとの戦闘に関する情報を得る。）"
+                                ""
                             ]
                         },
                         {
@@ -19367,8 +19367,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調査する",
-                                    "考えてみる"
+                                    "Investigating",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -19425,7 +19425,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>電車フラットフォームで話を聞く。"
+                                "\\nc<>Listening to the conversation on the train platform."
                             ]
                         },
                         {
@@ -19442,7 +19442,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<太った男>どうやってそんなに痩せたの？！"
+                                "\\nc<Fat man>How did you lose so much weight?!"
                             ]
                         },
                         {
@@ -19459,7 +19459,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<痩せた男>松男くんのダイエット体操をみて、やってみたのさ。"
+                                "\\nc<Skinny Man>I saw Matsuo-kun's diet exercise and tried it out."
                             ]
                         },
                         {
@@ -19476,7 +19476,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>こっそり、腹に肉がついているか、つねてみた。まだ大丈夫だ。"
+                                "\\nc<>I secretly pinched my belly to see if there was any fat.<br>It's still okay."
                             ]
                         },
                         {
@@ -19503,7 +19503,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>電車フラットフォームで話を聞く。"
+                                "\\nc<>Listening to the conversation on the train platform."
                             ]
                         },
                         {
@@ -19520,38 +19520,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<昆虫学者>ブラック・マッスルは上腕と下腕を分けて使うらしい。"
+                                "\\nc<Entomologist>It seems that Black Muscle uses its upper and lower arms<br>separately. Ah, I want to dissect and study it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>ああ、解体して研究したい！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\nc<昆虫学者>ブラック・マッスルのをよく調べて「どちらかの腕を集中攻略」すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "<br>意のままに統制できるかも知れない！"
+                                ""
                             ]
                         },
                         {
@@ -19568,7 +19544,31 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>その後は、虫の話ばっか聞かされた…。"
+                                "\\nc<Entomologist>If I thoroughly investigate Black Muscle and focus on<br>attacking one arm at a time, I might be able to control it<br>as I please!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\nc<>After that, I was constantly bombarded with insect talk..."
                             ]
                         },
                         {
@@ -19605,7 +19605,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>電車フラットフォームで話を聞く。"
+                                "\\nc<>Listening to the conversation on the train platform."
                             ]
                         },
                         {
@@ -19622,14 +19622,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<目撃者>ブラック・マッスルの攻撃は一発一発が重いらしいよ。"
+                                "\\nc<Witness>It seems like each attack from Black Muscle is heavy. It<br>even broke through concrete walls..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>コンクリートの壁も壊してたし…。"
+                                ""
                             ]
                         },
                         {
@@ -19646,7 +19646,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>強いって言われて、逆にやる気が失せた。"
+                                "\\nc<>When they were told they were strong, their motivation<br>disappeared instead."
                             ]
                         },
                         {
@@ -19742,14 +19742,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, useless conversations are flying around<br>again. I obtained the proof Know your enemy and know<br>yourself, and you can fight a hundred battles without<br>danger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「敵を知り己を知れば百戦危うからず」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -19766,7 +19766,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, we gained 1000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -19825,14 +19825,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, useless conversations are flying around<br>again. I obtained the proof Know your enemy and know<br>yourself, and you can fight a hundred battles without<br>danger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「探求型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -19849,7 +19849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, we gained 3000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -19908,14 +19908,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今日も同好会では無駄な話ばかりが行きかう。"
+                                "\\nc<>Today, in the club, useless conversations are flying around<br>again. I obtained the proof Villain Psychologist."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「ヴィラン心理分析家」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -19932,7 +19932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, we gained 5000 new loyal<br>listeners."
                             ]
                         },
                         {

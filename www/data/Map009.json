@@ -12248,14 +12248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh, by the way, why did Candy choose the stage name Pink<br>Candy?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、そういえばキャンディーはなんで活動名をピンクキャンディーにしたの？"
+                                ""
                             ]
                         },
                         {
@@ -12300,14 +12300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]The reason? Well, it's because I really love pink and<br>candy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "理由ですか？それはぁ～、ピンクと飴がだ～いすきだからです！"
+                                ""
                             ]
                         },
                         {
@@ -12352,14 +12352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Is that the reason? How cute~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが理由？可愛いな～。"
+                                ""
                             ]
                         },
                         {
@@ -12404,14 +12404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Kei, why did you choose the name Levantia?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そういう圭さんは、なんでレヴァンティアにしたんですか？"
+                                ""
                             ]
                         },
                         {
@@ -12456,21 +12456,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh...? Me...? I..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん…？私…？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は…。"
+                                ""
                             ]
                         },
                         {
@@ -12501,14 +12501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Ah...! I remembered...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（あっ…！思い出した…！）"
+                                ""
                             ]
                         },
                         {
@@ -12534,21 +12534,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...I remember now...!) I named myself Levantia because I<br>mistakenly spelled the name of a sword of flames that<br>appeared in a popular manga at the time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…当時流行ってた漫画に出てくる炎の剣のスペルを間違えて<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「レヴァンティア」って名付けたんだった…。）"
+                                ""
                             ]
                         },
                         {
@@ -12593,14 +12593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Kei-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭さん？"
+                                ""
                             ]
                         },
                         {
@@ -12652,14 +12652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah...! W-Well, you know...? It's something from the past, so<br>I forgot..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…！さ、さあね…？昔のことだから忘れちゃった…"
+                                ""
                             ]
                         },
                         {
@@ -12704,14 +12704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Eh~? What a shame~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ええ～っ？ざんね～～ん。"
+                                ""
                             ]
                         },
                         {
@@ -12763,7 +12763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「レヴァンティアの秘密」を手に入れた。"
+                                "\\nc<>I obtained the memory Levantia's Secret."
                             ]
                         },
                         {
@@ -12780,7 +12780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>良いリスナーが３０００人増えた。"
+                                "\\nc<>Good listeners increased by 3000."
                             ]
                         },
                         {
@@ -12921,21 +12921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -12943,8 +12943,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14584,14 +14584,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -14599,8 +14599,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -15313,28 +15313,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<松男のファン>"
+                                "\\nc<Matsuo's Fan>There's a gym nearby that is run by a super famous YouTuber.<br>Have you heard of Matsuo-kun Fitness? It's really<br>interesting, so you should check it out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この近くに超有名なデュフチューバーが経営するジムがあるんだ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「松男くんフィットネス」って知ってるか？すっげー面白いから<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見てみてくれ。 "
+                                ""
                             ]
                         },
                         {
@@ -15418,14 +15418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Uooo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うおおおおっ…。"
+                                ""
                             ]
                         },
                         {
@@ -15511,28 +15511,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Lately, I feel like the number of people going out has<br>decreased significantly due to the rampage of villains. If<br>you don't want to experience something terrible, it's better<br>to refrain from going out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最近、ヴィランたちの暴れっぷりのせいで、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "出歩く人がかなり減った気がする。君も酷い目に遭いたくなければ<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "外出は控えたほうがいい。 "
+                                ""
                             ]
                         },
                         {
@@ -15768,21 +15768,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you going home? (Returning consumes 1 turn)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "家に帰りますか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（帰ると１ターン消耗）"
+                                ""
                             ]
                         },
                         {
@@ -15790,8 +15790,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17431,14 +17431,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you really going to move?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -17446,8 +17446,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,

@@ -1718,21 +1718,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社長>"
+                                "\\nc<President>Your popularity is steadily increasing. This could be useful<br>for business."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君の知名度はどんどん高くなっている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>これはビジネスに役立つかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -1807,21 +1807,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story M2: Watch the advice from Senior Matsuo on the<br>livestream? (Motivation level 7 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーM2：配信先輩松男のアドバイスを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度7消耗）"
+                                ""
                             ]
                         },
                         {
@@ -1829,8 +1829,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1945,14 +1945,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't have enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2060,21 +2060,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Main Story M2: Watch the advice from Senior Matsuo on the<br>livestream? (Motivation level 7 consumed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインストーリーM2：配信先輩松男のアドバイスを見る？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（意欲度7消耗）"
+                                ""
                             ]
                         },
                         {
@@ -2082,8 +2082,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2198,14 +2198,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't have enough motivation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "意欲度が足りません。"
+                                ""
                             ]
                         },
                         {
@@ -2313,14 +2313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<社長>君の知名度はどんどん高くなっている。<br>"
+                                "\\nc<President>Your popularity is steadily increasing. This could be useful<br>for business."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはビジネスに役立つかもしれない"
+                                ""
                             ]
                         },
                         {
@@ -2710,21 +2710,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<秘書>"
+                                "\\nc<Secretary>I haven't heard anything about a magical girl coming to the<br>company today, but I will confirm it once."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日、魔法少女が来社するという話は聞いておりませんが、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一度確認いたします。"
+                                ""
                             ]
                         },
                         {

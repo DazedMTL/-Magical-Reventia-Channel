@@ -7339,38 +7339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<大学生>"
+                                "\\nc<College student>I am at the cafe every day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は毎日カフェにいるの。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<大学生>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エアコンもついてるしコーヒーの香りもいいし、スマホも充電できる。"
+                                ""
                             ]
                         },
                         {
@@ -7387,14 +7363,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<大学生>"
+                                "\\nc<College student>The air conditioning is on, the coffee smells good, and I<br>can charge my smartphone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カフェは本当に良いところだよ…。××"
+                                "\\nc<College student>The cafe is really a great place...××"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7598,14 +7598,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさんＡ>"
+                                "\\nc<Aunt A>Hey, Sato-san, it seems that the streaming of attacked<br>magical girls has been popular lately~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえ佐藤さん、最近襲われる魔法少女っていう配信が人気らしいわよ～。"
+                                ""
                             ]
                         },
                         {
@@ -7622,14 +7622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさんＢ>"
+                                "\\nc<Aunt B>Oh my, how scandalous~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "や～ねぇ～、はしたないわ～～。"
+                                ""
                             ]
                         },
                         {
@@ -7783,21 +7783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, Senpai. *cough* It seems that after Senpai made Let's<br>Study for Justice! the number of applicants doubled!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、先輩。ぷはっ。先輩が「正義のために勉強しよう！」を撮ってから<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入学希望者が２倍に増えたそうですよ！"
+                                ""
                             ]
                         },
                         {
@@ -7842,14 +7842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kuun... Please be quiet..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くぅん…。静かにして…。"
+                                ""
                             ]
                         },
                         {
@@ -7894,7 +7894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「大学の広報大使」を手に入れた。"
+                                "\\nc<>I obtained the memory of being a university PR ambassador."
                             ]
                         },
                         {
@@ -7911,7 +7911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「広告」正義実現大学を手に入れた。"
+                                "\\nc<>Memory: Advertisement I obtained Justice Realization<br>University."
                             ]
                         },
                         {
@@ -7928,7 +7928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>良いリスナーが３０００人増えた。"
+                                "\\nc<>The number of good listeners increased by 3000."
                             ]
                         },
                         {
@@ -8047,14 +8047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっらしゃいませ～。"
+                                "Welcome~ Oh, Kei-chan is here??"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、圭ちゃん来た？？"
+                                ""
                             ]
                         },
                         {
@@ -10670,14 +10670,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Huh? What is it? Do you want to work here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うん？何だ？ここで働きたいのか？"
+                                ""
                             ]
                         },
                         {
@@ -10685,8 +10685,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10716,14 +10716,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Hmmm...××"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ふむ。××"
+                                ""
                             ]
                         },
                         {
@@ -10740,14 +10740,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Alright, you don't seem to have any experience, but let's<br>hire you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "よし、経歴はなさそうだけど採用しよう。"
+                                ""
                             ]
                         },
                         {
@@ -10773,14 +10773,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Go inside immediately and start working."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "すぐに中に入って仕事しろ。"
+                                ""
                             ]
                         },
                         {
@@ -10810,14 +10810,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>What is it? If you're not a part-timer or a customer, go<br>over there!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何だよ、バイトでも客でもないならあっちいけ！"
+                                ""
                             ]
                         },
                         {
@@ -10920,14 +10920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>What? Get in and start working!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なに？入って仕事しろ！"
+                                ""
                             ]
                         },
                         {
@@ -11639,21 +11639,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<編集者>"
+                                "\\nc<Editor>If you don't finish it by today, you can't go home. Do you<br>understand?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日中に仕上げないと帰れませんよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "分かりました？"
+                                ""
                             ]
                         },
                         {
@@ -11670,14 +11670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<作家>"
+                                "\\nc<Author>Yes. Yes... I understand... completely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい。×はい…。××分かりました…。×××"
+                                ""
                             ]
                         },
                         {

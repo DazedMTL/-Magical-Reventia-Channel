@@ -2118,45 +2118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What is this...uh! W-What is that!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは…、うっ！な、何あれ！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（間違いない。これがヴィランたちの使ってた力…、）<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だけど、濃度の桁が違う！）"
+                                ""
                             ]
                         },
                         {
@@ -2173,14 +2142,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(There's no mistake. This is the power that the villains<br>used...) (But the concentration is on a completely different<br>level!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（近くにいるだけでも息が止まりそう…！）"
+                                "\\nc<>(Just being near them makes my breath stop...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2225,14 +2225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Isn't it amazing? I'm called the \\C[1]Seed of Evil\\c[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すごいでしょう？私は\\C[1]悪の種\\c[0]って呼んでます。"
+                                ""
                             ]
                         },
                         {
@@ -2249,14 +2249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>This is what they call the origin of the villains in this<br>town, so to speak."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これがこの街のヴィランたちの…、いわゆる元凶ってやつですね。"
+                                ""
                             ]
                         },
                         {
@@ -2280,21 +2280,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>For now, it is sealed. Well, if it's in that state, it's<br>only a matter of time before it's released."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今のところは封印されてますけど。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まあ、あの状態なら解かれるのも時間の問題でしょう。"
+                                ""
                             ]
                         },
                         {
@@ -2332,14 +2332,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Why is such a terrifying thing underground in the town!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんでこんな恐ろしいものが街の地下にあるにゃ！？"
+                                ""
                             ]
                         },
                         {
@@ -2384,14 +2384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well? I don't know the origin just by finding it myself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ？私も見つけただけで由来までは分かりません。"
+                                ""
                             ]
                         },
                         {
@@ -2408,14 +2408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wasn't there an incredibly powerful magical girl in the<br>distant past?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "遠い昔にものすごい魔法少女でもいたんじゃないですか？"
+                                ""
                             ]
                         },
                         {
@@ -2460,14 +2460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>For now, I understand why the sewer was unusually spacious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず、なぜ下水道が異様に広かったのかは分かった。"
+                                ""
                             ]
                         },
                         {
@@ -2512,14 +2512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When I came, there was a small gap in the seal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私が来た時は封印に小さな隙間がありました。"
+                                ""
                             ]
                         },
                         {
@@ -2536,21 +2536,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It was quite dangerous in its own way, as the power inside<br>was about to overflow all at once and it seemed like it was<br>on the verge of exploding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはそれでかなり危険で、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "中にあった力が一気に溢れ出ようとして、今にも爆発しそうな状況だったんです。"
+                                ""
                             ]
                         },
                         {
@@ -2588,14 +2588,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If something like this were to explode, this town would be<br>completely blown away, meow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものが爆発したら、この街は跡形もなく吹き飛んでしまうにゃん…。"
+                                ""
                             ]
                         },
                         {
@@ -2640,14 +2640,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Definitely, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きっとね。"
+                                ""
                             ]
                         },
                         {
@@ -2664,21 +2664,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>So, I tried to spread it on the surface as much as possible<br>while exerting as little power as possible, but the seal<br>only weakened."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから、できるだけ力を抜いて地上に撒いたけど、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "封印は弱くなる一方で、"
+                                ""
                             ]
                         },
                         {
@@ -2702,21 +2702,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Since I also belong to the demon side, I can't erase it. I<br>was just stomping my feet in frustration."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私も一応は魔に属する身だから消すこともできないし。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地団駄を踏んでばかりだったんですけど。"
+                                ""
                             ]
                         },
                         {
@@ -2740,21 +2740,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It was around that time when I found my senior who had come<br>to this town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょうどその頃でした。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この街に来た先輩を見つけたのは。"
+                                ""
                             ]
                         },
                         {
@@ -2771,21 +2771,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They are much stronger than your typical magical girl, with<br>more experience and age, so their mental state is also<br>stable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一般的な魔法少女よりずっと強くて、経験もあって、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "年齢もあるので精神も安定しています。"
+                                ""
                             ]
                         },
                         {
@@ -2809,14 +2809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, unexpectedly, I thanked God."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ、柄にもなく神様に感謝したんですよ。"
+                                ""
                             ]
                         },
                         {
@@ -2840,14 +2840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>So, you already understand what I want from my senior,<br>right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つまり、私が先輩に何を望んでいるかはもう分かりますよね？"
+                                ""
                             ]
                         },
                         {
@@ -2892,14 +2892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yeah, we just need to defeat this person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん。こいつを倒せばいいのね。"
+                                ""
                             ]
                         },
                         {
@@ -2937,21 +2937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hold on, hold on, hold on, wait a minute! Even for Kei,<br>that's not an easy thing to do!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょちょちょ、ちょっと待つにゃん！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくら圭でもそれは簡単なことじゃないにゃ！"
+                                ""
                             ]
                         },
                         {
@@ -2968,14 +2968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>First of all, if you're talking about magical girls, there<br>are other girls in different towns, meow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そもそも魔法少女なら他の街の子たちもいるにゃん！"
+                                ""
                             ]
                         },
                         {
@@ -3020,45 +3020,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>This seed of evil is the embodiment of human desires."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この悪の種は人の欲望の権化。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の人は一発で誘惑されて、<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法少女でも相当な精神攻撃を受けるはずです。"
+                                ""
                             ]
                         },
                         {
@@ -3075,21 +3044,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Normal people would be tempted in an instant, and even<br>magical girls should receive considerable mental attacks."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強い子もそれなりにいるだろうし、芯の強い子もいるだろうけど、<br>"
+                                "\\nc<>There may be strong children to some extent, and there may<br>be children with strong cores, but cases where both are<br>possessed are very few, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その両方を持ち合わせてるケースはごくわずかでしょう？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3113,21 +3113,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Moreover, there's no way I can go searching for it,<br>especially when I need to regularly manage this power,<br>right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ましてや定期的にこの力を管理する必要があるのに、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "探しに行けるはずがないじゃないですか。"
+                                ""
                             ]
                         },
                         {
@@ -3165,21 +3165,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Well, that may be true, but... even so, this is just<br>too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、それはそうだけどにゃ…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくらなんでもこんな…。"
+                                ""
                             ]
                         },
                         {
@@ -3224,21 +3224,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's okay, Cashew Nut. If it's Reina, they should have<br>already tried everything they can."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "平気よ、カシューナッツ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レイナなら、できることはもう全部やってみたはずだから。"
+                                ""
                             ]
                         },
                         {
@@ -3283,21 +3283,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...I said I would try earlier, but if I lose, it wouldn't<br>even be a conversation in the first place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…さっきは試してみるって言ったけど、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実は私に負けたらそもそも話にならないので、"
+                                ""
                             ]
                         },
                         {
@@ -3314,21 +3314,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't know if I can defeat the seed like my senior just<br>did. Even so, will you still help me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の先輩が種に勝てるかどうかは私もにも分かりません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでも手伝ってくれますか？"
+                                ""
                             ]
                         },
                         {
@@ -3373,14 +3373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Leave it to me. Isn't it what being a hero is all about,<br>helping when someone asks for help?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "任せて。助けを求められたら助けるのがヒーローってもんでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -3397,14 +3397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I will defeat this person and definitely restore the town<br>to its original state!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こいつを倒して、必ず街を元どおりにしてみせる！"
+                                ""
                             ]
                         },
                         {
@@ -3449,14 +3449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hehe. I thought my senior would say that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふ。先輩ならそう言ってくれると思いました。"
+                                ""
                             ]
                         },
                         {
@@ -3480,14 +3480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Thank you very much, senior."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ありがとうございます、先輩。"
+                                ""
                             ]
                         },
                         {
@@ -3818,14 +3818,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The listener entered the stream to support Levantia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "リスナーがレヴァンティアを応援するために配信に入ってきた。"
+                                ""
                             ]
                         },
                         {
@@ -3852,14 +3852,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The listener entered the stream seeking an exciting<br>broadcast."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "リスナーが刺激的な配信を求めながら配信に入ってきた。"
+                                ""
                             ]
                         },
                         {
@@ -4094,21 +4094,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Black Muscle prepares for a rapid succession while riding<br>the rhythm. Let's choose a direction to evade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ブラック・マッスルがリズムに身を乗せながら連打の準備をする。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "回避する方向を選択しよう。"
+                                ""
                             ]
                         },
                         {
@@ -4455,14 +4455,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while being bound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "束縛された状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -4489,14 +4489,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while under hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "催眠にかかった状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -4533,14 +4533,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please choose a direction to evade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -4727,14 +4727,14 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while being bound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 10,
                             "parameters": [
-                                "束縛された状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -4761,14 +4761,14 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while under hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 10,
                             "parameters": [
-                                "催眠にかかった状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -4805,14 +4805,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please choose a direction to evade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -5083,14 +5083,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while being bound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "束縛された状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -5117,14 +5117,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it while under hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "催眠にかかった状態では使えません。"
+                                ""
                             ]
                         },
                         {
@@ -5916,14 +5916,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They can't be used because they lack a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "良いココロが足りなくて使えない。"
+                                ""
                             ]
                         },
                         {
@@ -6144,14 +6144,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They can't be used because they lack a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "悪いココロが足りなくて使えない。"
+                                ""
                             ]
                         },
                         {
@@ -6372,14 +6372,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They can't be used because they lack a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "悪いココロが足りなくて使えない。"
+                                ""
                             ]
                         },
                         {
@@ -6811,14 +6811,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "良いココロが足りなくて、使えません。"
+                                ""
                             ]
                         },
                         {
@@ -6936,14 +6936,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It can only be used on a relaxed opponent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "脱力した相手にしか使えません。"
+                                ""
                             ]
                         },
                         {
@@ -7011,14 +7011,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a bad heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "悪いココロが足りなくて使えません。"
+                                ""
                             ]
                         },
                         {
@@ -7136,14 +7136,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It can only be used on a relaxed opponent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "脱力した相手にしか使えません。"
+                                ""
                             ]
                         },
                         {
@@ -11479,14 +11479,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please choose a direction to avoid."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -11535,14 +11535,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please select a direction to avoid."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "回避する方向を選択してください。"
+                                ""
                             ]
                         },
                         {
@@ -12188,14 +12188,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There is no need to avoid it now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "今は回避をする必要はない。"
+                                ""
                             ]
                         },
                         {
@@ -12362,14 +12362,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There is no need to avoid it now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "今は回避をする必要はない。"
+                                ""
                             ]
                         },
                         {
@@ -13503,14 +13503,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a good heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "良いココロが足りなくて、使えません。"
+                                ""
                             ]
                         },
                         {
@@ -13692,14 +13692,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I can't use it because I don't have a bad heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "悪いココロが足りなくて使えません。"
+                                ""
                             ]
                         },
                         {
@@ -14884,14 +14884,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia fiercely resists in order to regain her composure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアは気を取り直すため激しく抵抗する。"
+                                ""
                             ]
                         },
                         {
@@ -14908,14 +14908,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's mental has recovered by 2."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアのメンタルが2回復した。"
+                                ""
                             ]
                         },
                         {
@@ -14973,14 +14973,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia is regulating her breathing while waiting for the<br>right moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアは適期を待ちながら呼吸を整えている。"
+                                ""
                             ]
                         },
                         {
@@ -14997,14 +14997,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Levantia's mental has recovered by 1."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "レヴァンティアのメンタルが1回復した。"
+                                ""
                             ]
                         },
                         {

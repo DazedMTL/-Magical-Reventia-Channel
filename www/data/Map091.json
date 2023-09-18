@@ -6807,14 +6807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Hm? It seems noisy over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ん？向こうが何だか騒がしいな。"
+                                ""
                             ]
                         },
                         {
@@ -6953,21 +6953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<少女>"
+                                "\\nc<Girl>Um, sir over there, you have a gloomy expression! If you're<br>tired of life, w-would you like to come to the Paradise<br>Church?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、そこの男性の方、暗い顔してますね！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人生に疲れてるなら、ら、楽園教に来てみませんか？"
+                                ""
                             ]
                         },
                         {
@@ -6984,21 +6984,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<少女>"
+                                "\\nc<Girl>If you have any worries, I will listen and do my best to<br>help you with anything that's troubling you...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "悩みがあるならお聞きしますし、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "辛いことがあるならできる限り全力でお手伝いしますから…！"
+                                ""
                             ]
                         },
                         {
@@ -7024,14 +7024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男>"
+                                "\\nc<Male>...Tch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ちっ。"
+                                ""
                             ]
                         },
                         {
@@ -7237,14 +7237,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<少女>"
+                                "\\nc<Girl>Eek!... Ah, they went away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひいっ！…ああ、行っちゃった。"
+                                ""
                             ]
                         },
                         {
@@ -7298,14 +7298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Oh, it's a fake religion. She's such a cute girl though.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（うわ、エセ宗教じゃん。可愛らしい子なのに。）"
+                                ""
                             ]
                         },
                         {
@@ -7322,14 +7322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(People are not what they appear to be.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（人は見かけによらないな。）"
+                                ""
                             ]
                         },
                         {
@@ -7360,14 +7360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I should try not to get involved as much as possible...<br>huh?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（なるべく絡まれないようにしないと…、あれ？）"
+                                ""
                             ]
                         },
                         {
@@ -7499,14 +7499,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hey, hey. You over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと。そこのあなた。"
+                                ""
                             ]
                         },
                         {
@@ -7673,14 +7673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>My name is Sachiko!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幸子っていいます！"
+                                ""
                             ]
                         },
                         {
@@ -7697,21 +7697,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh, what is it? Are you perhaps drawn to my skillful<br>missionary work? Are you interested in the Paradise Church?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ、何ですか、もしかして私の巧みな布教活動に惹かれたんですか？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽園教に興味がおありですか？"
+                                ""
                             ]
                         },
                         {
@@ -7758,14 +7758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's not so much skillful as it is suspicious..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "巧みっていうか怪しさしかないけど…。"
+                                ""
                             ]
                         },
                         {
@@ -7805,14 +7805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What is the mark written on that sign?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その看板に書いてあるマークは何？"
+                                ""
                             ]
                         },
                         {
@@ -7852,21 +7852,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah... Is this what you're talking about? It's the emblem of<br>the Paradise Church! It looks like a secret society, so<br>it's, um, exciting, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…。これのことですか？楽園教のエンブレムです！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "秘密結社みたいで、ワ、ワクワクしますよね？"
+                                ""
                             ]
                         },
                         {
@@ -7913,21 +7913,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(No doubt about it. This is the mark that those underlings<br>of that fake religion had.) (They were secretly carrying<br>it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（間違いない。これ、あのエセ宗教みたいなヴィランの部下たちが）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（こっそり持ってたマークだ。）"
+                                ""
                             ]
                         },
                         {
@@ -7958,21 +7958,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Do you have any bald guys wearing masks at your church? I<br>think they carry around some strange necklace-like thing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あなたたちの教会に仮面を被ったハゲ頭っている？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変わった首飾りみたいなのを持ち歩いてると思うんだけど…。"
+                                ""
                             ]
                         },
                         {
@@ -8012,21 +8012,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No? There are no suspicious people like that. ...Wait,<br>that's the villain that appeared the other day, right!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいえ？そんな怪しい人はいません。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…っていうかそれ、この間出たヴィランですよね！？"
+                                ""
                             ]
                         },
                         {
@@ -8135,21 +8135,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>All of our followers, including the founder, are human!<br>Please don't have any strange suspicions!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うちの信者は教祖様を含めてみんな人間です！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変な疑いをかけないでください！"
+                                ""
                             ]
                         },
                         {
@@ -8196,14 +8196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>S-Sorry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ご、ごめん。"
+                                ""
                             ]
                         },
                         {
@@ -8220,14 +8220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(So, is it okay then? Villains are beings that come from<br>another world...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（じゃあ大丈夫なのかな？ヴィランは異界から来た存在だから…。）"
+                                ""
                             ]
                         },
                         {
@@ -8267,14 +8267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...No, using the same pattern after all is strange.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…いや。やっぱり同じ紋様を使うなんておかしい。）"
+                                ""
                             ]
                         },
                         {
@@ -8291,21 +8291,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(This child might be lying,) <Br> (There is also a<br>possibility that they are being deceived by the villain.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（この子が嘘をついてるかもしれないし、）<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ヴィランに騙されてる可能性もある。）"
+                                ""
                             ]
                         },
                         {
@@ -8336,14 +8336,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, if you understand, that's good. Geez, it's really<br>troublesome with all these prejudices."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わ、分かったならいいです。まったく、偏見が多くて困りますよ。"
+                                ""
                             ]
                         },
                         {
@@ -8360,21 +8360,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>But everyone here is really nice, so if you have anything<br>you want to talk about, please feel free to contact us<br>anytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、みんな本当にいい人たちなので。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "話したいことがあればいつでもここに連絡してください。"
+                                ""
                             ]
                         },
                         {
@@ -8445,14 +8445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-We won't abandon the troubled little lambs!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わ、私たちは悩める小羊を見捨てませんから！"
+                                ""
                             ]
                         },
                         {
@@ -8634,14 +8634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I got their contact information...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（連絡先をもらっちゃった…。）"
+                                ""
                             ]
                         },
                         {
@@ -8672,21 +8672,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>For now, let's keep it. It's best to get close to the other<br>party for investigation purposes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…とりあえず持っておこう。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "調査のためには相手の懐に入るのが一番だから。"
+                                ""
                             ]
                         },
                         {
@@ -8745,7 +8745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「N1：怪しい宗教」を手に入れた。 "
+                                "\\nc<>I obtained the memory N1: Suspicious Religion."
                             ]
                         },
                         {
@@ -8908,21 +8908,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Sigh~ I got fired from my part-time job again. Well, it's<br>only natural since I just walked out in the middle of work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～、バイト、またクビになっちゃった。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕事の途中で飛び出しちゃったから当たり前だけど。"
+                                ""
                             ]
                         },
                         {

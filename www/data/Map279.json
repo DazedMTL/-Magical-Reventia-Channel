@@ -10014,14 +10014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ラーメン屋>"
+                                "\\nc<Ramen Shop>Welcome~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい～！ "
+                                ""
                             ]
                         },
                         {
@@ -13186,14 +13186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Phew, today's opponent wasn't too tough, but I'm a little<br>tired.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ふぅ、今日の相手は手強くなかったけどちょっと疲れたな。）"
+                                ""
                             ]
                         },
                         {
@@ -13217,14 +13217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...Huh? What's that, the bus broke down?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…うん？なに、バスが故障？）"
+                                ""
                             ]
                         },
                         {
@@ -13241,21 +13241,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh, the next bus is in 40 minutes. It's a bit tough to<br>walk there..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "げっ、次のバスは４０分後じゃん。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "歩いて行くにはちょっとキツいか…。"
+                                ""
                             ]
                         },
                         {
@@ -13263,8 +13263,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "電車に乗る。",
-                                    "おとなしくバスを待つ。"
+                                    "They will take the train",
+                                    "Wait quietly for the bus"
                                 ],
                                 -1,
                                 0,
@@ -13301,14 +13301,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...No, taking the train is still a bit... What if I<br>encounter a groper again...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（…いや、電車はやっぱりちょっと。また痴漢にでも遭遇したら…。）"
+                                ""
                             ]
                         },
                         {
@@ -13316,8 +13316,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "当然、バスを待つ。",
-                                    "それでも電車に乗る。"
+                                    "Of course, I'll wait for the bus",
+                                    "They still ride the train"
                                 ],
                                 -1,
                                 0,
@@ -18395,21 +18395,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<掲示板>"
+                                "\\nc<Bulletin board>We have received complaints about loud moaning noises at<br>night. Please keep it down."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "夜な夜な喘ぎ声でうるさいという苦情が来ています。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お静かにお願いします。"
+                                ""
                             ]
                         },
                         {

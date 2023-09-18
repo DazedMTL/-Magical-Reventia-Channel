@@ -2087,14 +2087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Hmmm."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
+                                ""
                             ]
                         },
                         {
@@ -2132,14 +2132,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh? President, what are you so deep in thought about?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん？部長、何をそんなに考え込んでるんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2163,14 +2163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Hmmm."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うーーーーむ。"
+                                ""
                             ]
                         },
                         {
@@ -2187,14 +2187,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>I wonder what color panties Levantia always wears...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアがいつもはいてるパンツは何色かな…？"
+                                ""
                             ]
                         },
                         {
@@ -2278,45 +2278,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>Ah, is it about the head?? It's just a fashion statement."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ああ、頭ですか？？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただのファッションです。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<部員Ａ>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に抜けたとかそういうのじゃありません。"
+                                ""
                             ]
                         },
                         {
@@ -2333,14 +2309,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>It's definitely not about getting off or anything like that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誤解しないでくださいね？"
+                                "\\nc<Member A>Please don't misunderstand, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5423,38 +5423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Now, let's begin the 380th Magical Girl Research Club<br>Discussion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでは、第３８０回魔法少女研究部討論会を始めます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<サークル部長>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のテーマは…。"
+                                ""
                             ]
                         },
                         {
@@ -5471,14 +5447,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Today's topic is..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レヴァンティアは１週間にオナニーを何回するか？」です。"
+                                "\\nc<Circle President>How many times does Levantia masturbate in a week?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5596,14 +5596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>Hmm... If we assume once a day, wouldn't it be around seven<br>times?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うむ…。１日１回と考えて、７回はするんじゃないでしょうか？"
+                                ""
                             ]
                         },
                         {
@@ -5728,21 +5728,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ｂ>"
+                                "\\nc<Member B>No, I think the number is actually lower because she has sex<br>every time she subdues villains."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや。ヴィランたちを制圧する度にエッチをするので<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "むしろ回数は少ないと思います。"
+                                ""
                             ]
                         },
                         {
@@ -5860,14 +5860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Hmm... There seems to be quite a difference in opinions. In<br>that case..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふーん。かなり意見が対立してますね。それなら…。"
+                                ""
                             ]
                         },
                         {
@@ -5905,14 +5905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Sigh... Another strange discussion begins today...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（はぁ…。今日も変な討論の始まりか…。）"
+                                ""
                             ]
                         },
                         {
@@ -5950,7 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「魔法少女ファンクラブ3」を手に入れた。"
+                                "\\nc<>Memory: I obtained Magical Girl Fan Club 3."
                             ]
                         },
                         {
@@ -6005,7 +6005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>良いリスナーが３０００人増えた。"
+                                "\\nc<>Good listeners increased by 3000."
                             ]
                         },
                         {
@@ -6572,14 +6572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ｂ>"
+                                "\\nc<Member B>I'm sure I left my doujinshi around here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かにこのあたりに僕の同人誌を置いたんだけど…。"
+                                ""
                             ]
                         },
                         {

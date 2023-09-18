@@ -1572,14 +1572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes! Good evening, everyone~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい！皆さんこんばんは～"
+                                ""
                             ]
                         },
                         {
@@ -1610,21 +1610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's a cool, nice evening, isn't it? Now, let's move on to<br>today's content..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "涼しい、いい夜ですね！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さて、本日のコンテンツは…"
+                                ""
                             ]
                         },
                         {
@@ -1674,14 +1674,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Knock, knock,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コンコン、"
+                                ""
                             ]
                         },
                         {
@@ -1723,14 +1723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh? Didn't you hear the sound of knocking?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あら？ノックの音が聞こえませんでしたか？"
+                                ""
                             ]
                         },
                         {
@@ -1828,14 +1828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Ah...? What...? Is it just my imagination?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（あ…？なに…？気のせいか？）"
+                                ""
                             ]
                         },
                         {
@@ -1870,14 +1870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahaha. I might have misheard! Well, today's content is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あはは。聞き間違えたかも。！さて、本日のコンテンツは…"
+                                ""
                             ]
                         },
                         {

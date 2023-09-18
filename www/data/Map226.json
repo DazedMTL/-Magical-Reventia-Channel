@@ -1442,14 +1442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haa, haa, haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はあ、はあ、はあ…。"
+                                ""
                             ]
                         },
                         {
@@ -1466,14 +1466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...I wonder what I'm doing. I should go back to class.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…何してるんだろう、私。講義に戻らなきゃ。）"
+                                ""
                             ]
                         },
                         {
@@ -1599,14 +1599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラA>"
+                                "\\nc<Thug A>Oh, there you are."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、いたいた。"
+                                ""
                             ]
                         },
                         {
@@ -1623,14 +1623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラB>"
+                                "\\nc<Chinpira B>Didn't I tell you? I saw you in the hallway earlier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから言っただろ？さっき廊下で見たって。"
+                                ""
                             ]
                         },
                         {
@@ -1901,90 +1901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh... w-who is it? Do you need something from me...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ…、だ、誰ですか？私に何か用でも…？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                87
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<チンピラA>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ…。大したことじゃないんだけど、俺たち金がなくてさ。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マンコちょっと貸してくんね？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                103
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、なに言ってるんですか！？<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな常識はずれな頼みなんて聞くわけないじゃないですか！"
+                                ""
                             ]
                         },
                         {
@@ -2008,38 +1932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラB>"
+                                "\\nc<Thug A>Ah... it's not a big deal, but we're short on money. Can you<br>lend us some pussy?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だってよ。やっぱりこれは無理があったか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<チンピラA>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、証拠があるぜ。ほら、見ろよ。"
+                                ""
                             ]
                         },
                         {
@@ -2063,14 +1970,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What... what are you saying!? I wouldn't listen to such an<br>absurd request! It's completely unreasonable!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…！？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2094,14 +2008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラB>"
+                                "\\nc<Chinpira B>But still, was this too much to ask for after all?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うわっ、めっちゃ濡れてんじゃんｗもう発情してんの？"
+                                ""
                             ]
                         },
                         {
@@ -2118,21 +2032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラA>"
+                                "\\nc<Thug A>No, I have evidence. Look, see for yourself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ね？学生たちに罵られて興奮してるんだぜ。<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつ、ガチのマゾ女だから。"
+                                ""
                             ]
                         },
                         {
@@ -2156,14 +2063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、下ろしてください。私はそういうわけじゃ…。"
+                                ""
                             ]
                         },
                         {
@@ -2187,21 +2094,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラB>"
+                                "\\nc<Chinpira B>Whoa, you're so wet. Are you already in heat?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああん？何が違うってんだ、<Br>"
+                                "\\nc<Thug A>Hey, you know? They get excited when they're insulted by<br>students. This person is a genuine masochistic woman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シャツ越しに乳首勃たせてるくせによ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2225,14 +2156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh, please let me down. It's not like I'm into that kind of<br>thing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -2256,45 +2187,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<チンピラA>"
+                                "\\nc<Chinpira B>Huh? What's the difference? You're making your nipples hard<br>through your shirt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、まあ俺たちもレイプ犯になりたいわけじゃねえからさ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌なら強要はしない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<チンピラA>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけどそうやっておとなしくしてると…、後は分かるよな…？"
+                                ""
                             ]
                         },
                         {
@@ -2318,14 +2225,107 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh...♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、私は…。"
+                                "\\nc<Thug A>No, well, it's not like we want to become rapists or<br>anything. If you don't want to, we won't force you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Thug A>But if you stay quiet like that... you know what comes next,<br>right...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                103
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>W-Well, I..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2370,14 +2370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I-I'm sorry!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ご、ごめんなさい！"
+                                ""
                             ]
                         },
                         {

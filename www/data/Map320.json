@@ -10287,14 +10287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>Gero gero."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ゲロゲロ。"
+                                ""
                             ]
                         },
                         {
@@ -10311,14 +10311,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>What is this? Why am I in this form..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 何だこれ、僕はどうしてこんな姿に…。"
+                                ""
                             ]
                         },
                         {
@@ -10459,14 +10459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Kyaaa! It's a monster that can transform into a frog!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " きゃぁぁっ！ヒキガエルの怪物だ！"
+                                ""
                             ]
                         },
                         {
@@ -10514,14 +10514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Run away! If you get caught, you'll be swallowed whole!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " に、逃げろ！捕まったら丸のみにされるぞ～！"
+                                ""
                             ]
                         },
                         {
@@ -10775,38 +10775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>Gero gero..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲロゲロ…、"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく分からないけど、"
+                                ""
                             ]
                         },
                         {
@@ -10823,14 +10799,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>I don't really understand, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だか無性に女に産卵したい気分だゲロ…。"
+                                "\\nc<Hikigaeru Villain>I don't know why, but I feel an intense desire to lay eggs<br>as a female... gero..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11214,14 +11214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Eek! S-Someone, please help me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひいっ！だ、誰か助けてください！"
+                                ""
                             ]
                         },
                         {
@@ -11238,14 +11238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Viran>Gero gero... Just the tip, just the tip is enough...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲロゲロ…。先っちょだけ、先っちょだけでいいから…！"
+                                ""
                             ]
                         },
                         {
@@ -11292,14 +11292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>"
+                                "\\nc<？？？>Stop it--!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やめなさい――！！！"
+                                ""
                             ]
                         },
                         {
@@ -11439,14 +11439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>N-No way, you're the magical girl Levantia...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、まさかお前は、魔法少女レヴァンティア…！"
+                                ""
                             ]
                         },
                         {
@@ -11470,14 +11470,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Correct."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正解。"
+                                ""
                             ]
                         },
                         {
@@ -11494,14 +11494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If that's the case, then I know what will happen to you from<br>now on, don't I?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それなら、これからあんたがどうなるかも知ってるわね？"
+                                ""
                             ]
                         },
                         {
@@ -11525,38 +11525,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>W-Wait a minute, gero!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと待つゲロ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は悪いヴィランじゃないゲロ。"
+                                ""
                             ]
                         },
                         {
@@ -11573,14 +11549,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>I'm not a bad villain, gero."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気が付いたらこんな姿になってただけで、元々は――"
+                                "\\nc<Hikigaeru Villain>I just happened to end up like this without realizing it,<br>but originally..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11604,38 +11604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I don't know anything about it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知ったことじゃないわ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの事情なんて聞いてないし、聞くつもりもない。"
+                                ""
                             ]
                         },
                         {
@@ -11652,14 +11628,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I haven't heard about your circumstances, and I don't intend<br>to ask."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黙ってとっととやられなさい！"
+                                "\\nc<>Stay quiet and get it over with!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11699,14 +11699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヒキガエルヴィラン>"
+                                "\\nc<Hikigaeru Villain>But I haven't done anything yet-- Quueeeek!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だけど僕はまだ何もしてな――クェェェッ！！"
+                                ""
                             ]
                         },
                         {
@@ -11985,14 +11985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Good job, Levantia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お疲れさま、レヴァンティア。"
+                                ""
                             ]
                         },
                         {
@@ -12092,14 +12092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Leave it to us, villains."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヴィランは僕たちに任せるにゃ。 "
+                                ""
                             ]
                         },
                         {
@@ -12116,14 +12116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I'll try to get treatment as soon as possible, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "できるだけ早く治療してみるにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -12147,14 +12147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What about Candy and Sherbet?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キャンディーとシャーベットは？"
+                                ""
                             ]
                         },
                         {
@@ -12171,14 +12171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What happened to them over there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっちはどうなったの？"
+                                ""
                             ]
                         },
                         {
@@ -12202,14 +12202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Still in the middle of battle, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ戦闘中だにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -12226,14 +12226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Even though both of them have become stronger, numbers are<br>still numbers, meow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "２人とも強くなったとはいえ、数が数だからにゃ…。"
+                                ""
                             ]
                         },
                         {
@@ -12257,38 +12257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Sigh. Those villains, why do they keep appearing one after<br>another?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はあ。まったくヴィランの奴らったら、どうしてひっきりなしに現れるんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出動ばかりしてるせいで大学生活もままならないし、"
+                                ""
                             ]
                         },
                         {
@@ -12305,14 +12281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Due to constantly being on the move, my college life is also<br>in shambles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "唯一仲良しだったレイナも別の場所に引っ越してしまった。"
+                                ""
                             ]
                         },
                         {
@@ -12329,14 +12305,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Reina, who was the only close friend, has moved to a<br>different place."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これじゃあ普通の生活は夢のまた夢…。"
+                                "\\nc<>With this, a normal life is just a dream within a dream..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12374,14 +12374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, if that's the case, why don't you just quit being a<br>magical girl?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あら、それなら魔法少女をやめればいいじゃない？"
+                                ""
                             ]
                         },
                         {
@@ -12414,14 +12414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh... this voice...! Lilith!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っ…、この声は…！リリス！？"
+                                ""
                             ]
                         },
                         {
@@ -12523,14 +12523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hello~ Levantia-chan. I came to see you~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは～、レヴァンティアちゃん。会いに来たわよ～。"
+                                ""
                             ]
                         },
                         {
@@ -12563,38 +12563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They came back again!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また来たの！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今月はもう７回も戦ったでしょ！"
+                                ""
                             ]
                         },
                         {
@@ -12611,14 +12587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>We've already fought seven times this month, haven't we!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "負けたならヴィランらしく消えなさい！"
+                                ""
                             ]
                         },
                         {
@@ -12635,14 +12611,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If you lose, disappear like a villain should!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰のせいで魔法少女を続けてると思ってるのよ！"
+                                "\\nc<>Who do you think is responsible for me continuing to be a<br>magical girl!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12666,14 +12666,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh, you became a magical girl just to meet me...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっ、まさか私に会うために魔法少女を…？"
+                                ""
                             ]
                         },
                         {
@@ -12697,14 +12697,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違う！！"
+                                ""
                             ]
                         },
                         {
@@ -12721,14 +12721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Sigh... Why is it that this one keeps coming back, even<br>though all the other villains have disappeared..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…。他のヴィランたちは全部消えたのに、なんでこいつだけ何度も…。"
+                                ""
                             ]
                         },
                         {
@@ -12759,14 +12759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hmph, fine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふん、いいわ。"
+                                ""
                             ]
                         },
                         {
@@ -12783,14 +12783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Today, I will beat you down and restore a happy everyday<br>life to this town!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日こそお前を叩きのめして街に幸せな日常を取り戻してやる！"
+                                ""
                             ]
                         },
                         {
@@ -12814,14 +12814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I think it's impossible to go any further, but well, I'll<br>still give you a fight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これ以上は無理だと思うけど。まあ、でも相手してあげるわ。"
+                                ""
                             ]
                         },
                         {
@@ -12838,14 +12838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Until the time comes when it will eventually end!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつか終わるその時が来るまではね！"
+                                ""
                             ]
                         },
                         {

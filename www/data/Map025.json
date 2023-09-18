@@ -3982,14 +3982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haa, haa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、はぁ！"
+                                ""
                             ]
                         },
                         {
@@ -4272,14 +4272,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Sorry, I'm late!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごめん、遅れちゃった！"
+                                ""
                             ]
                         },
                         {
@@ -4305,14 +4305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Is there still a seat available?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…まだ席ある？"
+                                ""
                             ]
                         },
                         {
@@ -4345,14 +4345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>No..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや…。"
+                                ""
                             ]
                         },
                         {
@@ -4369,14 +4369,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>It's already filled up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう埋まっちゃったって。"
+                                ""
                             ]
                         },
                         {
@@ -4409,14 +4409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…。"
+                                ""
                             ]
                         },
                         {
@@ -4494,21 +4494,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>So, what's your excuse this time? Did you lose something? Or<br>do you have some family business?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それで、今回の言い訳は？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "落とし物？親戚の用事？"
+                                ""
                             ]
                         },
                         {
@@ -4534,14 +4534,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>Ah, did you get appendicitis or something?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、盲腸にでもかかった？"
+                                ""
                             ]
                         },
                         {
@@ -4590,14 +4590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Um, that is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、それは…。"
+                                ""
                             ]
                         },
                         {
@@ -4655,14 +4655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>Kei-chan, well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭ちゃんはさ…。"
+                                ""
                             ]
                         },
                         {
@@ -4686,14 +4686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？>"
+                                "\\nc<？>\\c[18]It's really admirable how you're living your life with<br>all your might."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[18]本当、一生懸命生きてて羨ましいよ."
+                                ""
                             ]
                         },
                         {

@@ -5145,14 +5145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Alright, then let's begin the 366th Magical Girl Research<br>Club Discussion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ、それでは第３６６回魔法少女研究部討論会を始めます。"
+                                ""
                             ]
                         },
                         {
@@ -5169,21 +5169,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Today's topic is a challenge that couldn't be resolved in<br>our previous discussion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日のテーマは、以前の討論会でも解決できなかった<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "難題を再び持ってきました。"
+                                ""
                             ]
                         },
                         {
@@ -5221,21 +5221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Oh...! Could we possibly hear some useful information about<br>the villain?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（おお…！ヴィランについての有益な情報が）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（聞けるかも？？）"
+                                ""
                             ]
                         },
                         {
@@ -5266,14 +5266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>The theme is~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "テーマは～！"
+                                ""
                             ]
                         },
                         {
@@ -5343,14 +5343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>Is Levantia left-handed or right-handed...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアは左利きか右利きか…？！"
+                                ""
                             ]
                         },
                         {
@@ -5395,14 +5395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Huh...?!?!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（えっ…！？！？）"
+                                ""
                             ]
                         },
                         {
@@ -5500,14 +5500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ｂ>"
+                                "\\nc<Member B>Hmm... It's difficult again today...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "う～ん。今日も難しいな…！"
+                                ""
                             ]
                         },
                         {
@@ -5598,14 +5598,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>Hehe. I've researched various things just in case...!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふ。そんなこともあろうかと色々とリサーチしてきましたよ…！！"
+                                ""
                             ]
                         },
                         {
@@ -5652,14 +5652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(No...! I thought we would get some useful information...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（いや…！役に立つ情報が得られると思ったのに…！）"
+                                ""
                             ]
                         },
                         {
@@ -5676,14 +5676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(This is such a pointless topic...!!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（本当にどうでもいいテーマじゃん…！！）"
+                                ""
                             ]
                         },
                         {
@@ -5707,14 +5707,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(No... It seems like we won't be able to get any information<br>from this club...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ダメだ…。このサークルから情報は得られそうにない…。）"
+                                ""
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>良いリスナーが３０００人増えた。"
+                                "\\nc<>Good listeners increased by 3000."
                             ]
                         },
                         {

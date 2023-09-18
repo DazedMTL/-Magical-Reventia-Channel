@@ -1238,38 +1238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>This is the break room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは休憩室です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信者たちが活動中や活動後に楽に休めるように作られた場所です。"
+                                ""
                             ]
                         },
                         {
@@ -1286,21 +1262,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>This is a place created so that believers can rest<br>comfortably during or after their activities."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自販機やマッサージチェア、ソファなども完備されています。<br>"
+                                "\\nc<>Vending machines, massage chairs, sofas, and other amenities<br>are fully equipped. I haven't used them myself, but I heard<br>there is also a bedroom in the back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "使ったことはないですが、奥には睡眠室もあると聞きました。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1331,14 +1331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...but it's better not to use this place as much as<br>possible..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ですが、ここもできるだけ使わないほうが―――"
+                                ""
                             ]
                         },
                         {
@@ -1451,21 +1451,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<信者>"
+                                "\\nc<Follower>Hey, Levantia! It's perfect timing. Wanna have some fun?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よお、レヴァンティア！ちょうどよかった。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一発ヤんない？"
+                                ""
                             ]
                         },
                         {
@@ -1512,14 +1512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wow!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わっ！？"
+                                ""
                             ]
                         },
                         {
@@ -1564,21 +1564,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh, Yasuo-kun. Sorry, but can you hold on for a moment? I'm<br>currently doing a promotional livestream for the Paradise<br>Church."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おや、やすおくん。悪いがちょっと我慢してくれるかね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今、楽園教の宣伝配信をしているんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -1649,14 +1649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<信者>"
+                                "\\nc<Follower>Oh, is that so? My apologies. I must have interrupted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、そうっすか！こりゃ失礼したっす。邪魔しちゃったっす。"
+                                ""
                             ]
                         },
                         {
@@ -1694,14 +1694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Um... quickly, hands... ah... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの…、早く、手を…、うっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -1772,14 +1772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<信者>"
+                                "\\nc<Follower>Eh? Levantia-chan, is there something different about you<br>today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "え？レヴァンティアちゃん、何かいつもと雰囲気違くね？"
+                                ""
                             ]
                         },
                         {
@@ -1817,21 +1817,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haha, there are days like that, right? How about taking<br>this opportunity to explain about the equipment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はは、そういう日もあるでしょう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この機会に備品についても説明してはどうですか？"
+                                ""
                             ]
                         },
                         {
@@ -1876,14 +1876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...The use of equipment is available to any believer of the<br>Paradise Church."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…備品の使用は、楽園教の信者なら誰でも可能です。"
+                                ""
                             ]
                         },
                         {
@@ -1907,14 +1907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Of course, not just the break room, but anytime in most<br>places within the church... huh!? ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "休憩室はもちろん、教内のほとんどの場所でいつでも―――ふっ！？♡"
+                                ""
                             ]
                         },
                         {
@@ -1938,14 +1938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Um, um, it's hard to explain, so please move your hands for<br>a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あの、説明しにくいのでちょっと手をどけてください…。"
+                                ""
                             ]
                         },
                         {
@@ -1985,14 +1985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<信者>"
+                                "\\nc<Follower>Huh? What are you saying? Are the equipment refusing to be<br>used?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ああん？なに言ってんだ、備品が使用を拒否していいのか？"
+                                ""
                             ]
                         },
                         {
@@ -2037,14 +2037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, I don't have... that kind of right..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…いえ、そういう権利は…、ありません…。"
+                                ""
                             ]
                         },
                         {
@@ -2061,14 +2061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>You can freely use the equipment like this... ah...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このように備品は使い放題で…、うっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -2092,21 +2092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, conflicts between believers are prohibited, so when<br>the desired equipment is in use... until the other person<br>finishes... wait, ah...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただし、信者同士の争いは禁止されているので、希望の備品が使用中の時は…、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の人が終わるまで…、待っ、て…♡"
+                                ""
                             ]
                         },
                         {
@@ -2151,21 +2151,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Oh my, even though you're supposed to be a magical girl,<br>it's pathetic that you can't even give a proper explanation<br>just because your breasts were touched a little."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おやおや、ただか胸を触られたくらいで説明一つまともにできないとは。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女だというのに情けない。"
+                                ""
                             ]
                         },
                         {
@@ -2210,14 +2210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haa... nghh♡ B-but, my breasts...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ…、んっ♡だ、だけど、胸は…♡"
+                                ""
                             ]
                         },
                         {
@@ -2262,21 +2262,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Well, I guess there's no helping it. Now that we're done<br>explaining the break room, let's move on to the next<br>location."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まあ、仕方ありませんな。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "休憩室の説明は終わったので次の場所に移りましょう。"
+                                ""
                             ]
                         },
                         {
@@ -2293,14 +2293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yasuo-kun, please handle it with other equipment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やすおくん、処理は他の備品でお願いします。"
+                                ""
                             ]
                         },
                         {
@@ -2371,14 +2371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<信者>"
+                                "\\nc<Follower>Yes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はいっ。"
+                                ""
                             ]
                         },
                         {

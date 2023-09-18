@@ -1966,14 +1966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Oh, so it's just you here. What about Candy and Sherbet?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あれ、あんたしかいないのね。キャンディーとシャーベットは？"
+                                ""
                             ]
                         },
                         {
@@ -2011,14 +2011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]It's the usual training, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつもの訓練だにゃ。"
+                                ""
                             ]
                         },
                         {
@@ -2063,14 +2063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Oh, so those kids are working hard too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へぇ、あの子たちも頑張ってるんだ。"
+                                ""
                             ]
                         },
                         {
@@ -2103,21 +2103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]But are you okay? The exams are coming up soon, aren't<br>they?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも大丈夫なの？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ試験も近いんじゃない？"
+                                ""
                             ]
                         },
                         {
@@ -2155,14 +2155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Well? I don't really know about that. And I don't intend to<br>worry about it either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ？そういうのはよく知らないにゃ。気にするつもりもないし。"
+                                ""
                             ]
                         },
                         {
@@ -2216,14 +2216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]This cat..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このにゃんこ…。"
+                                ""
                             ]
                         },
                         {
@@ -2261,45 +2261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]This is a serious conversation, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "真面目な話だにゃ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\TA[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厳密に言えば、僕たちも結局は異世界の存在。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭の住む社会を基準に見れば異物だにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2316,21 +2285,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Strictly speaking, we are also ultimately beings from<br>another world. If you look at it from the perspective of the<br>society where Kei lives, we are like foreign objects, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手伝ってくれるのは本当にありがたいし感謝してるけど、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕たちが介入すると色々と面倒なことになってしまうにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2347,14 +2316,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I'm really grateful that you're willing to help, and I<br>appreciate it. But if we intervene, it will become<br>troublesome in various ways, meow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "圭も知ってるはずだにゃ。"
+                                "\\TA[1]Kei should know too, meow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2408,21 +2408,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]...Even if you forcefully make friends with magic, improve<br>your grades, in the end, nothing will remain in your hands,<br>right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…魔法で無理やり友達を作っても、成績を上げても、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局手元には何も残らないってことでしょ。"
+                                ""
                             ]
                         },
                         {
@@ -2460,21 +2460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]I hope you don't see us as such bad beings even if it's not<br>such a grand story, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう大層な話じゃなくても、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕たちをあまり悪い存在として見ないでほしいにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2519,14 +2519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Didn't you just say with your own mouth that we are foreign<br>objects?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっき自分の口で自分たちは異物だって言ったじゃない。"
+                                ""
                             ]
                         },
                         {
@@ -2564,21 +2564,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]There's no rule that says you can't be happy just because<br>you're considered a foreign object, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "異物だとだめにゃ？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "異物だからといって幸せになっちゃいけないという決まりはないにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2595,14 +2595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Is Kei really unhappy with their current life?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭はそんなに今の生活が不幸？"
+                                ""
                             ]
                         },
                         {
@@ -2647,14 +2647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Of course, that's natural--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなの当然――"
+                                ""
                             ]
                         },
                         {
@@ -2687,14 +2687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](--Huh? It's not as assertive as I thought...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（――あれ？思ったより、断言するほどではない…？）"
+                                ""
                             ]
                         },
                         {
@@ -2718,21 +2718,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](It was quite tough until recently... but lately, I've made<br>some friends and I've gotten used to the activities of<br>magical girls like in advertisements.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（少し前まではかなり大変だったけど…。最近は友達も出来たし。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "広告みたいな魔法少女の活動にも慣れてきたし。"
+                                ""
                             ]
                         },
                         {
@@ -2765,14 +2765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Becoming famous... well, it's not all bad either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "有名になったのも…、まあ、悪いことだけじゃないから。）"
+                                ""
                             ]
                         },
                         {
@@ -2796,14 +2796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1](...Could it be that I'm unexpectedly satisfied with my<br>current life...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…もしかして私、意外に今の生活に満足してる…？）"
+                                ""
                             ]
                         },
                         {
@@ -2820,21 +2820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]N-No, well, it might have gotten better compared to before,<br>but middle school was really tough!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、いや、そりゃ前に比べれば良くなったかもしれないけど。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "中学校時代はめちゃくちゃ大変だったんだから！"
+                                ""
                             ]
                         },
                         {
@@ -2872,21 +2872,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Of course, I'm not saying that we don't have any<br>responsibility. But there are also kids who are able to<br>balance being a magical girl and their everyday life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、僕たちに責任がないとは言わないにゃ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だけど魔法少女と日常をうまく両立してる子もいるにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2903,21 +2903,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]To be honest, whether Kei had a bright student life even<br>without being a magical girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶっちゃけ、魔法少女の活動をしてなくても<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭が明るい学生時代を送ってたかは…。"
+                                ""
                             ]
                         },
                         {
@@ -3034,14 +3034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Huh!? If you say something like that, it'll be war!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はあ！？あんた、そんなこと言ったら戦争よ！"
+                                ""
                             ]
                         },
                         {
@@ -3180,14 +3180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Nyaah, please stop the Iron Claw... nya!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "にゃあぁっ、アイアンクローはやめるにゃん。…にゃっ！？"
+                                ""
                             ]
                         },
                         {
@@ -3241,14 +3241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]What, I-I'm not putting that much effort..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "な、何。そんなに力は入れてな…。"
+                                ""
                             ]
                         },
                         {
@@ -3286,14 +3286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]It's not that way, meow! Candy and Sorbet are in trouble,<br>meow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そっちじゃないにゃ！キャンディーとシャーベットが大変だにゃん！"
+                                ""
                             ]
                         },
                         {
@@ -3347,14 +3347,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\TA[1]"
+                                "\\TA[1]Ugh...! I'll go right away, tell me the location!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…！今すぐ行く、場所を教えて！"
+                                ""
                             ]
                         },
                         {

@@ -6765,14 +6765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民1>"
+                                "\\nc<Citizen 1>Kyaaah! Stop it, the food stall I made with my retirement<br>money...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きゃぁぁっ！やめて、退職金を借りて作った屋台が…！"
+                                ""
                             ]
                         },
                         {
@@ -6798,21 +6798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヴィラン>"
+                                "\\nc<Villain>Kwooo, I'm Villain, who hates expensive food stalls! I'll<br>destroy all the food stalls that are more expensive than<br>convenience stores!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クオォォ、俺は高い屋台が大嫌いなヴィランだ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コンビニより高い屋台は全部葬ってやる！"
+                                ""
                             ]
                         },
                         {
@@ -6838,21 +6838,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男１>"
+                                "\\nc<Male 1>That's ridiculous, like foam blocks on the sidewalk!?<br>There's no way we can win against something like that!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなバカな、歩道ブロックを発泡スチロールみたいに！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんなのに勝てるわけないだろ！"
+                                ""
                             ]
                         },
                         {
@@ -6878,14 +6878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民1>"
+                                "\\nc<Citizen 1>Someone, please help me! Please...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰か、助けてください！お願い…！"
+                                ""
                             ]
                         },
                         {
@@ -6909,14 +6909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁあっ！"
+                                ""
                             ]
                         },
                         {
@@ -7086,14 +7086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヴィラン>"
+                                "\\nc<Villain>Kwooo, this aura is that of a magical girl...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クウゥッ、このオーラは、魔法少女…！"
+                                ""
                             ]
                         },
                         {
@@ -7168,14 +7168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's enough! I will put an end to your evil deeds!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこまでよ！お前の悪行は私が止める！"
+                                ""
                             ]
                         },
                         {
@@ -7401,14 +7401,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<ヴィラン>"
+                                "\\nc<Villain>Shit...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クソッ…！"
+                                ""
                             ]
                         },
                         {
@@ -7495,14 +7495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男２>"
+                                "\\nc<Male 2>As expected of Levantia, I believed in you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さすがレヴァンティア、信じてたぞ！"
+                                ""
                             ]
                         },
                         {
@@ -7559,14 +7559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Thank you, Levantia!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、レヴァンティア！"
+                                ""
                             ]
                         },
                         {
@@ -7621,14 +7621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, ahaha. No, I just did what I had to do."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは。いえ、すべきことをしたまでです。"
+                                ""
                             ]
                         },
                         {
@@ -7645,14 +7645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...Yes. There have been various things, but in the end, my<br>place is here--)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…そう。色々なことがあったけど、結局私の居場所はここ――）"
+                                ""
                             ]
                         },
                         {
@@ -7676,14 +7676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>"
+                                "\\nc<？？？>Oh, how boring. Is it already over?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あら、つまらない。もう終わっちゃたの？"
+                                ""
                             ]
                         },
                         {
@@ -7991,14 +7991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Eh... What's that? A, an incubus!? Why are they here...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（え…。あれ。い、淫魔！？どうしてここに…！）"
+                                ""
                             ]
                         },
                         {
@@ -8031,21 +8031,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女性>"
+                                "\\nc<Female>No way, another villain!? I-I have to run away quickly...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嘘でしょ、またヴィラン！？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "は、はやく逃げなきゃ…！"
+                                ""
                             ]
                         },
                         {
@@ -8071,21 +8071,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男１>"
+                                "\\nc<Male 1>Calm down! We have magical girls with us, don't we? If we<br>panic, we'll just get in their way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "落ち着け！僕たちには魔法少女がいるじゃないか。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下手にパニックを起こせば足手まといになるだけだ。"
+                                ""
                             ]
                         },
                         {
@@ -8111,21 +8111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男２>"
+                                "\\nc<Male 2>Yeah, that's right. And those guys are not just strong<br>villains, they're demons. If it's Levantia, she can take<br>them down in an instant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうね。それにあいつら、強いヴィランじゃなくて淫魔だろ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアなら瞬殺だって。"
+                                ""
                             ]
                         },
                         {
@@ -8149,14 +8149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>N-No, um..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、いえ、あの…。"
+                                ""
                             ]
                         },
                         {
@@ -8189,14 +8189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>"
+                                "\\nc<Lewd Demon 1>Oh, so we're supposed to be taken down in an instant? How<br>scary~ lol"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へぇ。わたくしたちなんて瞬殺ですって？こわぁ～いｗ"
+                                ""
                             ]
                         },
                         {
@@ -8222,21 +8222,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男１>"
+                                "\\nc<Male 1>Isn't it obvious? I've never seen a magical girl lose to<br>such a small number of lewd demons before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "当たり前でしょ？こんな少数の淫魔を相手に負ける<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女なんて見たことないぜ。"
+                                ""
                             ]
                         },
                         {
@@ -8262,14 +8262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女性>"
+                                "\\nc<Female>Do your best! Beat them up!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頑張れ～！やっちまえ～！"
+                                ""
                             ]
                         },
                         {
@@ -8302,21 +8302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...Yes. Time has passed since that day, and my power has<br>also recovered. If I can't protect the citizens here, being<br>a magical girl would be meaningless.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…そう。あの日から時間も経ったし、力も回復した。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここで市民たちを守れなきゃ魔法少女の意味がない。）"
+                                ""
                             ]
                         },
                         {
@@ -8333,21 +8333,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(It's okay. I can do it. Just like always, I'll rush in and<br>deliver a right straight--)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（大丈夫。私ならできる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつものように駆け寄って右ストレートで――）"
+                                ""
                             ]
                         },
                         {
@@ -8380,14 +8380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>2>"
+                                "\\nc<Succubus>Yes, sit down!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい、お座り！"
+                                ""
                             ]
                         },
                         {
@@ -8420,14 +8420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Woof♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ワン♡"
+                                ""
                             ]
                         },
                         {
@@ -8487,14 +8487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<男２>"
+                                "\\nc<Male 2>...Huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…え？"
+                                ""
                             ]
                         },
                         {
@@ -8520,14 +8520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<女性>"
+                                "\\nc<Female>Levantia, what are you doing...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティア、何してるんだ…？"
+                                ""
                             ]
                         },
                         {
@@ -8551,14 +8551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No, this is...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ち、違います、これは…！"
+                                ""
                             ]
                         },
                         {
@@ -8591,14 +8591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>2>"
+                                "\\nc<Succubus>2> There are still quite a few people who don't know, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ知らない人も結構いるのね？"
+                                ""
                             ]
                         },
                         {
@@ -8624,14 +8624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>2>"
+                                "\\nc<Succubus>Succubus 2> Levantia-chan, you know, she was defeated by us<br>and got thoroughly trained in the demon world."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアちゃんはね、わたくしたちに敗北して魔界でい～っぱい躾けられたの。"
+                                ""
                             ]
                         },
                         {
@@ -8648,14 +8648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>2>"
+                                "\\nc<Succubus>That's why, there's absolutely no way you can win against<br>us~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから、わたくしたちには絶・対、勝てませ～ん。"
+                                ""
                             ]
                         },
                         {
@@ -8681,21 +8681,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>3>"
+                                "\\nc<Succubus>Succubus 3> Huh, what's this? How strange. I don't remember<br>allowing humans to speak."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "って、あれれ～？<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変ね。人の言葉を許した覚えはないけど。"
+                                ""
                             ]
                         },
                         {
@@ -8721,21 +8721,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>3>"
+                                "\\nc<Succubus>Succubus 3> I never said you could wear clothes in the first<br>place. Looks like I need to retrain you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そもそも服を着ていいとも言ってないわ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは躾け直す必要がありそうね。"
+                                ""
                             ]
                         },
                         {
@@ -8768,14 +8768,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, s-sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ。ご、ごめんなさ――"
+                                ""
                             ]
                         },
                         {
@@ -8801,14 +8801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(--Tch, no! If it's like this, I'll just become their toy<br>again.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（――ちっ、違う！これじゃあ、またこいつらのおもちゃになるだけ。）"
+                                ""
                             ]
                         },
                         {
@@ -8841,14 +8841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔１>"
+                                "\\nc<Lewd Demon 1>But is it okay? Wasn't this child supposed to belong to the<br>Queen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも大丈夫？この子、女王様のものじゃなかった？"
+                                ""
                             ]
                         },
                         {
@@ -8874,14 +8874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>2>"
+                                "\\nc<Succubus>Well? They said they don't care anymore, so do as you<br>please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁな？もうどうでもいいから好きにしろって仰ってたけど。"
+                                ""
                             ]
                         },
                         {
@@ -8914,21 +8914,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(It's not too late. Stand up right now,) <Br> (Succubus-<br>sama, no, against these guys--)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（まだ遅くない。今すぐにでも立ち上がって、）<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（淫魔様、いや、こいつらに――）"
+                                ""
                             ]
                         },
                         {
@@ -8982,38 +8982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Shuuu..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シュゥゥッ、"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法少女のスーツが光の粒子となって空気中に散乱する。"
+                                ""
                             ]
                         },
                         {
@@ -9030,21 +9006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The magical girl's suit scatters into particles of light in<br>the air."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "外部から何らかの干渉があったわけではない。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ単に、圭自身が魔力の供給を止めただけ。"
+                                ""
                             ]
                         },
                         {
@@ -9061,45 +9030,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There was no interference from the outside. It was simply<br>that Kei herself stopped supplying magic power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "当然、その下に待っているのは少女の裸だ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な形の胸、１本の毛もないツルツルの秘部、そして…、"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下腹部に刻まれた華美で下品な淫紋が露わになった。"
+                                ""
                             ]
                         },
                         {
@@ -9116,14 +9061,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<>Of course, waiting underneath is the naked body of a young<br>girl. Beautifully shaped breasts, a smooth secret part<br>without a single hair, and..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "え…？きゃ、きゃーーっ！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9140,14 +9092,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<>The vulgar and obscene lewd mark engraved on the lower<br>abdomen was exposed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おい！何を急に脱いでるんだ！？早く元に戻せ…！"
+                                "\\nc<Citizen>Eh...? Kyaa, kyaaa!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Citizen>H-Hey! Why are you suddenly taking off your clothes!? Put<br>them back on quickly...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9171,14 +9171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Ugh, what are you doing? Even though I shouldn't be<br>following the orders of the lewd demon-sama...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（うっ、何してるの、私。淫魔様の命令に従ってる場合じゃないのに…。）"
+                                ""
                             ]
                         },
                         {
@@ -9195,14 +9195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(But, I'm being watched a lot...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（だけど、ものすごく見られてる…♡）"
+                                ""
                             ]
                         },
                         {
@@ -9226,21 +9226,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<Succubus>Uwaa~ We're already all wet. We haven't done anything yet,<br>have we? Did everyone get turned on from watching us?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ～、もうグショグショ。わたくしたち、まだ何もしてないじゃないｗ<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "みんなに見られて発情したの？"
+                                ""
                             ]
                         },
                         {
@@ -9264,14 +9264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>N-No, this is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、いや、これは…。"
+                                ""
                             ]
                         },
                         {
@@ -9295,45 +9295,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei's pussy was already dripping with sticky love juices. It<br>was a clear and undeniable evidence of her arousal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭のマンコからは、すでにネットリとした愛液の糸がダラダラと垂れていた。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発情しているとしか言いようがない明白な証拠。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭は反射的に太ももを閉じ、濡れているのを隠そうとしたが、"
+                                ""
                             ]
                         },
                         {
@@ -9350,14 +9326,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<>Kei reflexively closed her thighs and tried to hide her<br>wetness, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダメでしょ、勝手に隠しちゃ。――広げなさい。"
+                                "\\nc<Succubus>You shouldn't hide it on your own. Spread them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9381,14 +9381,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -9412,21 +9412,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei, feeling humiliated by the lewd demon's command<br>whispered in her ear, reluctantly spread her legs..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "耳元でささやかれた淫魔の命令に、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は屈辱を感じながらも脚を開いてしまった....。"
+                                ""
                             ]
                         },
                         {
@@ -9443,21 +9443,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Hey, why are you following the orders of the lewd demon! Are<br>you still a magical girl even after that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おい、なんで淫魔の命令を聞いてるんだよ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前はそれでも魔法少女か！"
+                                ""
                             ]
                         },
                         {
@@ -9481,21 +9481,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I-I'm sorry. My body reacted on its own... I will fight<br>properly from now on..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "す、すみません。体が勝手に反応しちゃって…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これからちゃんと戦うので…。"
+                                ""
                             ]
                         },
                         {
@@ -9519,21 +9519,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<Succubus>Well, are you planning to mess us up? Even though we haven't<br>done anything yet?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まあ、怖い。わたくしたちを滅茶苦茶にするつもり？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ何もしてないのに？"
+                                ""
                             ]
                         },
                         {
@@ -9550,14 +9550,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<Succubus>To such a naughty child... take this! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんな悪い子には…、えいっ♡"
+                                ""
                             ]
                         },
                         {
@@ -9597,14 +9597,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hii!?♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひぅっ！？♡"
+                                ""
                             ]
                         },
                         {
@@ -9628,45 +9628,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The demon's tail slipped into the crotch with a sticky<br>sound, Ju-boh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジュボッ！粘り気のある音と同時に淫魔の尻尾が股の間に潜り込んだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急な挿入にもかかわらず、<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭のマンコは当然のように尻尾を受け入れた。"
+                                ""
                             ]
                         },
                         {
@@ -9683,38 +9652,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Despite the sudden insertion, Kei's pussy accepted the tail<br>as if it were natural."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それだけではない。別の淫魔は後ろから手を伸ばし胸をわし掴みにした。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無防備に弱点をさらけ出した圭に、淫魔の愛撫を止める術はなかった。"
+                                ""
                             ]
                         },
                         {
@@ -9731,14 +9683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<>Another succubus reached out from behind and grabbed her<br>breasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あれれ、どういうこと？わたくしたちと戦うんじゃなかったの？"
+                                ""
                             ]
                         },
                         {
@@ -9755,14 +9707,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<>Kei, who exposed her vulnerabilities defenselessly, had no<br>way to stop the demon's caresses."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乳首ばかり勃たせてたらまたいじめられるわよ？うん～？"
+                                "\\nc<Succubus>Huh, what's going on? Weren't you supposed to fight against<br>us?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Succubus>If you keep getting your nipples hard, you'll just end up<br>getting teased again, you know? Hmm~?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9786,14 +9786,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Wait...♡ Ahh♡, o-ohh...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっとぉ…♡ひっ♡んほっ、おおおっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -9817,45 +9817,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Griii, when the slender fingers twist my nipples, a<br>pleasure like an electric current stirs up my brain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "グリィィ、細長い指が乳首をねじると<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電流のような快感が脳内を搔き乱す。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に下のほうでは尻尾を抜く度にマン汁がピュッピュッと吹き出す。"
+                                ""
                             ]
                         },
                         {
@@ -9872,21 +9848,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Every time the tail is pulled out from below at the same<br>time, pussy juice squirts out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫魔に抵抗したのも暫し、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの間にか圭の口からはいやらしい嬌声が漏れていた。"
+                                ""
                             ]
                         },
                         {
@@ -9903,14 +9872,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei resisted the succubus for a while, but before they knew<br>it, lewd moans were escaping from their mouth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、淫魔たちの攻撃は始まったばかり。"
+                                "\\nc<>However, the attacks of the succubi have only just begun."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9943,21 +9943,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>As Kei's sensitivity increases, the lewd mark engraved on<br>their lower abdomen emits a glow, stealing control of their<br>magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭の感度が高まるほど下腹部に刻まれた淫紋が光を放ち、<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力の統制権を奪う。"
+                                ""
                             ]
                         },
                         {
@@ -9974,21 +9974,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>As a result, the magical power that Kei desperately pulled<br>up was swallowed up by all the succubi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結果、圭が懸命に引き上げた魔力は<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫魔たちが全てゴクリと飲み込んでしまう。"
+                                ""
                             ]
                         },
                         {
@@ -10012,14 +10012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>H-Help me... someone...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "た、助けてください…、誰か…♡"
+                                ""
                             ]
                         },
                         {
@@ -10043,21 +10043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Huh!? What nonsense are you talking about! If not you, the<br>magical girl, who will fight!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はあ！？何ふざけたこと言ってんだ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女のあんたが戦わなきゃ誰が戦う！？"
+                                ""
                             ]
                         },
                         {
@@ -10081,21 +10081,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Impossible♡ I lost to the succubus-sama♡ They taught me so<br>many pleasurable things along with the lewd mark, I can<br>never win against them♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "むりっ♡私、淫魔様に負けちゃって♡<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫紋と一緒に気持ちいいこといっぱい教えられて、ぜったに勝てないんですぅ♡"
+                                ""
                             ]
                         },
                         {
@@ -10112,14 +10112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Even now, just being touched a little bit, all of my magical<br>power is being stolen... hauu!?♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今も、少し触られただけで魔力を全部奪われちゃって…、はうっ！？♡♡"
+                                ""
                             ]
                         },
                         {
@@ -10159,38 +10159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Tbyu, tbyu."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "トビュッ、トビュッ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言い終わるや否や、圭の胸から母乳が噴き出した。 "
+                                ""
                             ]
                         },
                         {
@@ -10207,21 +10183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>As soon as they finished speaking, breast milk sprayed out<br>from Kei's chest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敵と戦うための大切な魔力がゴミのように捨てられているというのに。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔に調教された体はそれを快感と認識してしまう。"
+                                ""
                             ]
                         },
                         {
@@ -10238,52 +10207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The important magical power needed to fight against the<br>enemy is being thrown away like garbage. Their body, which<br>has been trained by succubi, recognizes it as pleasure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "むしろ、もっと奪ってくれと言わんばかりに舌を出し、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ハァハァとねだる姿は誰が見ても立派なペットだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭としては本意ではないが…。<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力を使えない圭は、普通の少女と変わらない。"
+                                ""
                             ]
                         },
                         {
@@ -10300,45 +10238,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They stuck out their tongue as if to say, Take more from<br>me, and begged with heavy breaths. It was a sight that<br>anyone would see as a splendid pet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、たっぷり調教されて感度が上がったぶん、子どもより弱いかもしれない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで一生懸命市民を救ってきた。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１回くらいは、１人くらいは助けてくれる人がいてもいいはず。"
+                                ""
                             ]
                         },
                         {
@@ -10355,14 +10269,100 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>As Kei, it's not their intention...<br>Unable to use their<br>magical power, Kei is just an ordinary girl."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう思いながら圭は必死でお願いしたが、"
+                                "\\nc<>No, because I have been thoroughly trained and my<br>sensitivity has increased, I might be weaker than a child."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>I've been working hard to save the citizens all this time.<br>It should be okay for there to be at least one person who<br>can help me, even just once."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>Kei desperately pleaded while thinking that way, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10386,14 +10386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please help me... I beg you...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "助けてください…、お願い…♡"
+                                ""
                             ]
                         },
                         {
@@ -10417,14 +10417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kashaa,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カシャッ、"
+                                ""
                             ]
                         },
                         {
@@ -10448,14 +10448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…へ？"
+                                ""
                             ]
                         },
                         {
@@ -10479,14 +10479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The sound that came back was the cold and mechanical flash<br>of a camera."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "返ってきたのは、カメラの無機質で冷たいフラッシュ音だった。"
+                                ""
                             ]
                         },
                         {
@@ -10510,21 +10510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Wait, w-why, please don't take pictures!<br>No, I can't<br>let everyone see me like this... huh!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと, どうして, 撮らないでください!<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やだ、こんな姿をみんなに見られるわけには…、ひっ！？♡"
+                                ""
                             ]
                         },
                         {
@@ -10548,45 +10548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Shut up, you perverted demon power tank!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うるせえ、この淫魔の魔力タンク！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<市民>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔にメス顔で股開いてるくせに、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けてとかほざいてんじゃねえぞ！"
+                                ""
                             ]
                         },
                         {
@@ -10603,45 +10572,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<Citizen>Don't you dare beg for help while spreading your legs like a<br>horny demon!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぷぷっ！確かに、地面にマン汁の水たまりを作っておいて助けを求められても。ね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<淫魔>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回はちゃんと我慢するのよ？<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうじゃないと淫魔に自ら股を開いたってみんなに知られちゃうわよ？"
+                                ""
                             ]
                         },
                         {
@@ -10658,45 +10603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<Succubus>Hehe! Indeed, if you create a puddle of pussy juice on the<br>ground and then ask for help... well?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめ。それだけは絶対にだめ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いに負けて犯されたのならまだ救済の余地がある。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、自ら股を開くなどただの淫魔の奴隷ではないか。"
+                                ""
                             ]
                         },
                         {
@@ -10713,38 +10627,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<Succubus>Are you going to behave yourself this time? If not, everyone<br>will find out that you willingly spread your legs for a<br>succubus, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すでに「圭」は、いつでも股を開くビッチなオナホとも同然だった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでレヴァンティアまでヴィランの肉便器になれば本当に人生が終ってしまう。"
+                                ""
                             ]
                         },
                         {
@@ -10761,21 +10658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No. That is absolutely not allowed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫魔ごときに負けてもいい。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法少女のくせに市民に助けてもらっても構わない。"
+                                ""
                             ]
                         },
                         {
@@ -10792,21 +10682,131 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If you were violated after losing in battle, there might<br>still be room for salvation. However, if you willingly open<br>your legs, aren't you just a mere slave to lustful demons?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対に、このまま何もできずに無様な姿で<br>"
+                                "\\nc<>Kei was already like a slutty onahole, always ready to<br>spread their legs at any time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イくことは絶対に避けなければならない…。"
+                                "\\nc<>If Levantia becomes a villain's flesh toilet here, their<br>life will truly be over."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>It's fine to lose to a mere succubus. Even though they're a<br>magical girl, it's okay for them to ask for help from the<br>citizens."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<>It is absolutely necessary to avoid going in such a<br>humiliating state without being able to do anything..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10830,14 +10830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahh... Ohh... ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ああっ♡おっ、んっ♡…♡♡"
+                                ""
                             ]
                         },
                         {
@@ -10861,45 +10861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<Succubus>I'm cumming, I'm cumming!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イってる、イってるｗ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<淫魔>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰をビクンビクン反り返らせちゃって。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうやって人生が終わっていく気分はどう？"
+                                ""
                             ]
                         },
                         {
@@ -10916,14 +10885,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<淫魔>"
+                                "\\nc<Succubus>How does it feel to have your waist arching and twitching<br>like that? Like your life is coming to an end?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう、救いようがないわねｗえいっ♡"
+                                "\\nc<Succubus>There's no saving you anymore, hehe ♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10963,14 +10963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>～～～～～～♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～♡♡"
+                                ""
                             ]
                         },
                         {
@@ -10994,38 +10994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>Whoa... They're really into it. It's a bit off-putting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ウエッ…。マジでイってるじゃん。ちょっと引くわ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<市民>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺、ファンだったのに…。はあ。オカズにでもするか。"
+                                ""
                             ]
                         },
                         {
@@ -11042,38 +11018,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>I was a fan... sigh. Should I use it as material?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何が魔法少女だ。街から消えろ、このヴィラン！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポイッ、カランカラン。カシャカシャカシャ。"
+                                ""
                             ]
                         },
                         {
@@ -11090,21 +11042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<Citizen>What kind of magical girl are they? Disappear from this<br>town, you villain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "飛んできたゴミが地面に転がる。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四方から欲望のこもったフラッシュが絶え間なくたかれる。"
+                                ""
                             ]
                         },
                         {
@@ -11121,21 +11066,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>*sound effects* Poi, clank clank. Kasha kasha kasha."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "普通の生活を諦めてまで積み上げてきた努力も、守ろうとしていた市民からの信頼も、<Br>"
+                                "\\nc<>Trash that flew in rolls on the ground. Flashes filled with<br>desire are constantly being aimed from all directions."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全て踏み潰して変態メスに転落したのに。"
+                                "\\nc<>I threw away the normal life I had worked so hard to build,<br>as well as the trust from the citizens that I had tried to<br>protect, and yet I ended up falling into a perverted state."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11159,14 +11159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Heh, hehe, ehehe...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "へっ、へへ、えへへ…♡"
+                                ""
                             ]
                         },
                         {
@@ -11190,21 +11190,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Her red face, as she blankly stared with vacant eyes, was<br>filled only with endless pleasure and happiness..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うつろな目でぼうっとしている彼女の赤い顔には、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "果てしない悦楽と幸せだけが浮かんでいた…。"
+                                ""
                             ]
                         },
                         {

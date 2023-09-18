@@ -3367,21 +3367,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>おじいさん>"
+                                "\\nc<>Old man> Oh, hey, what is this mess! We didn't do anything!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、おい、これは何の仕業じゃ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わしらは何もしておらんぞ！"
+                                ""
                             ]
                         },
                         {
@@ -3407,21 +3407,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<悪い組員>"
+                                "\\nc<Bad Member>Don't play dumb, old man! You were the one who made the<br>first move, right?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すっとぼけんな、ジジイ！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そっちが先に手を出したんだろうが ！"
+                                ""
                             ]
                         },
                         {
@@ -3447,21 +3447,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<悪いおじさん>"
+                                "\\nc<Bad Uncle>Well, there's a possibility that I don't know. Either way,<br>it doesn't matter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、知らない可能性もある。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どちらでも構わんが。"
+                                ""
                             ]
                         },
                         {
@@ -3487,14 +3487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<悪いおじさん>"
+                                "\\nc<Bad Uncle>They're a valuable hostage. Take them with you carefully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴重な人質だ。丁寧にお連れしろ。"
+                                ""
                             ]
                         },
                         {
@@ -3565,14 +3565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<悪い組員たち>"
+                                "\\nc<Bad Gang Members>Hey, boss!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\{へい、兄貴！"
+                                ""
                             ]
                         },
                         {
@@ -5458,21 +5458,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What, what should we do, Kei-san?! The, the aunties...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ど、どどどどうしましょう、圭さん！？<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、おばさんたちが…！"
+                                ""
                             ]
                         },
                         {
@@ -5550,21 +5550,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Calm down, Sachiko-chan. I can hear voices."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "落ち着いて、幸子ちゃん。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声が聞こえちゃう。"
+                                ""
                             ]
                         },
                         {
@@ -5604,21 +5604,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<悪い組員>"
+                                "\\nc<Bad Member>You're slow, girl. If you obediently follow, I won't kill<br>you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "遅いぜ、嬢ちゃん。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大人しく付いてくりゃ殺しはしねえ。"
+                                ""
                             ]
                         },
                         {
@@ -5737,14 +5737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<悪い組員>"
+                                "\\nc<Bad Member>Yes, there won't be any killing... hehehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう、殺しはな…。フッフッフッ…。"
+                                ""
                             ]
                         },
                         {
@@ -5777,14 +5777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Someone, help..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰か、助け…。"
+                                ""
                             ]
                         },
                         {
@@ -6275,14 +6275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei-san!! How do we..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭さん！！どうやって…。"
+                                ""
                             ]
                         },
                         {
@@ -6358,14 +6358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I actually have a black belt in karate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…実は私、空手１００段なんだ。"
+                                ""
                             ]
                         },
                         {
@@ -6405,14 +6405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Karate 10th Dan!! Amazing...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "空手１００段！！すごい…！"
+                                ""
                             ]
                         },
                         {
@@ -6452,21 +6452,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>To believe in this... This child is also amazing in various<br>ways."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これを信じるとは。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この子も色々とすごいにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -6511,21 +6511,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Actually, I'm just lightly using strengthening magic. But I<br>feel a strange sense of guilt..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実際には軽く強化魔法をかけてるだけだけど。<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "妙な罪悪感が…。"
+                                ""
                             ]
                         },
                         {
@@ -6556,14 +6556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahem! Anyway, if it's just one guy, we can handle it<br>somehow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コホン！とにかく、男１人くらいならどうにかなるから。"
+                                ""
                             ]
                         },
                         {
@@ -6587,14 +6587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Let's go help everyone, the ordinary believers, for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひとまず平信徒のみんなを助けに行こう。"
+                                ""
                             ]
                         },
                         {
@@ -6625,14 +6625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Y-Yes!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！"
+                                ""
                             ]
                         },
                         {

@@ -2066,21 +2066,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<サークル部長>"
+                                "\\nc<Circle President>(They seem to be waiting for someone to approach them with<br>sparkling eyes.) (They look like they don't want to be<br>bothered, so I won't talk to them.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（目をキラキラさせながら話しかけられるのを待っているようだ。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（面倒くさそうだから話しかけないでおこう。） "
+                                ""
                             ]
                         },
                         {
@@ -5164,21 +5164,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>We may have the same bald head, but I don't really like that<br>guy called Mr. Hypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "同じハゲ頭ですが、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミスター・ヒプノシスという奴はどうも気に入りません。 "
+                                ""
                             ]
                         },
                         {
@@ -5195,14 +5195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ａ>"
+                                "\\nc<Member A>I can't overlook a man who chose to be bald and fights<br>unfairly...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ハゲ頭を選んだ男が卑怯な戦い方をするのは見過ごせません…！"
+                                ""
                             ]
                         },
                         {
@@ -5526,14 +5526,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員Ｂ>"
+                                "\\nc<Member B>Levantia-san! Please shake hands with me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアさん！僕と握手してください！"
+                                ""
                             ]
                         },
                         {
@@ -5857,14 +5857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<部員C>"
+                                "\\nc<Member C>Levantia-san! Please shake hands with me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レヴァンティアさん！僕と握手してください！"
+                                ""
                             ]
                         },
                         {

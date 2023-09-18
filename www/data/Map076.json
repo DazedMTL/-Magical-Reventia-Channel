@@ -556,14 +556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I wonder if it's really okay to be doing this here...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（本当にこんなところで大丈夫なのかな…。）"
+                                ""
                             ]
                         },
                         {
@@ -736,14 +736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei looks around anxiously."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は不安げに周りを見渡す。"
+                                ""
                             ]
                         },
                         {
@@ -760,21 +760,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Normally, hospitals give off a clean and tidy impression,<br>but somehow the air here feels stagnant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "普通、病院といえば清潔できれいな印象だが、<BR>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここはなんとなく空気がよどんでいる。"
+                                ""
                             ]
                         },
                         {
@@ -812,21 +812,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Should we go somewhere else after all?) (But I can't just<br>leave the tentacles that went inside.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（やっぱり違うところに行くべき？）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（でも中に入った触手を放っておくわけにも…。）"
+                                ""
                             ]
                         },
                         {
@@ -1031,14 +1031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Kei-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭さん？"
+                                ""
                             ]
                         },
                         {
@@ -1092,14 +1092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, yes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、はい。"
+                                ""
                             ]
                         },
                         {
@@ -1130,21 +1130,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>It says here that you were parasitized by tentacles.<br>Specifically, where exactly were you parasitized?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触手に寄生されたと書いてありますが。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正確に、どちらに寄生されているのですか？"
+                                ""
                             ]
                         },
                         {
@@ -1191,14 +1191,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>U-uh, it was in my butt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、お尻の方、です。"
+                                ""
                             ]
                         },
                         {
@@ -1229,21 +1229,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>How did it happen? Did it enter through your mouth? Or did<br>it penetrate through your anus?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "経路は？口から？<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あるいは、肛門から浸透したんですか？"
+                                ""
                             ]
                         },
                         {
@@ -1290,14 +1290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...From behind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…後ろからです。 "
+                                ""
                             ]
                         },
                         {
@@ -1328,21 +1328,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Before we proceed with the treatment, please fill out this<br>form."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "では、治療に移る前に、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これに作成をお願いします。"
+                                ""
                             ]
                         },
                         {
@@ -1396,21 +1396,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The person undergoing treatment swears to faithfully follow<br>the doctor's instructions throughout the process."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "治療を受ける過程において、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本人は医者の指示に徹底して履行することを誓います。"
+                                ""
                             ]
                         },
                         {
@@ -1427,21 +1427,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I swear to not hold any legal responsibility for any sexual<br>acts performed by the doctor during the treatment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また治療中の、医者のあらゆる性的行為に対し、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いかなる法的責任をも問わないことを誓います。"
+                                ""
                             ]
                         },
                         {
@@ -1495,14 +1495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What is this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…何ですか、これは？"
+                                ""
                             ]
                         },
                         {
@@ -1533,45 +1533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>As you can see, it's a memorandum."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ご覧の通り、覚書です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<医者>触手の特性上、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敏感なところを治療しなければならないのですが、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女性の方が不満を持つ場合が多いので。"
+                                ""
                             ]
                         },
                         {
@@ -1588,21 +1557,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Due to the nature of tentacles, we need to treat sensitive<br>areas. However, many women tend to be dissatisfied with<br>this."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "治療を受けるためには、署名していただきます。<br>"
+                                "\\nc<Doctor>In order to receive treatment, please sign here. I don't<br>want to be sued either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私も訴えられたくはないので。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1649,14 +1649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No matter how you look at it, this is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくら何でもこれは…。"
+                                ""
                             ]
                         },
                         {
@@ -1687,14 +1687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>The contents of the memorandum are strictly limited to the<br>treatment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "覚書の内容は、あくまでも治療に限ってのことです。"
+                                ""
                             ]
                         },
                         {
@@ -1711,21 +1711,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>私の行っていることが治療じゃないと思われた場合、<br>"
+                                "\\nc<Doctor>If you think what I'm doing is not treatment, you are free<br>to refuse. You can also come after preparing in advance, if<br>you prefer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "拒否してくださっても構いません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あらかじめ準備してから来てくださっても構いませんよ。"
+                                ""
                             ]
                         },
                         {
@@ -1772,14 +1772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -1810,14 +1810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If something suspicious happens, I can just run away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（怪しいことしたら、逃げ出せばいっか…。）"
+                                ""
                             ]
                         },
                         {
@@ -1857,38 +1857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Thank you for signing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "署名、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<医者>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、スカートと下着を脱いで診療台に四つん這いになってください。"
+                                ""
                             ]
                         },
                         {
@@ -1905,14 +1881,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Well then, please take off your skirt and underwear and get<br>on all fours on the examination table."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、お尻はあげてくださいね。"
+                                "\\nc<Doctor>Ah, please lift up your butt."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1959,21 +1959,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh... Do I have to take off all of my underwear?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下着、全部脱がないといけないんですか？"
+                                ""
                             ]
                         },
                         {
@@ -2004,21 +2004,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Please take off your clothes completely during the<br>treatment. If you want to hide something, would you like me<br>to give you a patch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "中途半端だと治療中に邪魔になるので脱いでください。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隠したいのであれば、パッチでもお渡ししましょうか？"
+                                ""
                             ]
                         },
                         {
@@ -2065,14 +2065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…お願いします。"
+                                ""
                             ]
                         },
                         {
@@ -2385,52 +2385,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The piece of cloth is about the size of a palm, but it's<br>better than having my pussy completely exposed. I received a<br>patch from the doctor and stuck it on, then Kei climbed onto<br>the examination table and got on all fours."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手のひらサイズくらいの布切れだが、マンコが丸見えになるよりはマシだ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者からもらったパッチを貼り、圭は診療台に上がり四つん這いになった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん、ギュウッとしまった桃色の菊は、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何一つ覆い隠すことなく持ち上げられた。"
+                                ""
                             ]
                         },
                         {
@@ -2447,14 +2416,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Of course, the tightly clenched peach-colored anus was<br>lifted without anything to hide it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻の間から感じられる冷たい感覚に、圭の頭が赤く染まる。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2471,14 +2447,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<>Kei's face turns red at the cold sensation felt between<br>their butt."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触手に肛門を触られて、性的に興奮されたことはありますか？"
+                                "\\nc<Doctor>Have you ever been sexually aroused by having your anus<br>touched by tentacles?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2518,14 +2518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-What are you asking?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "な、何を聞くんですか！！"
+                                ""
                             ]
                         },
                         {
@@ -2549,21 +2549,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>This is an important question. Tentacles sometimes provide<br>pleasure to the host in order to prevent them from rejecting<br>it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "重要な質問です。<BR>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触手は宿主が自分を追い出さないように、快感を与える場合もあるんですよ。"
+                                ""
                             ]
                         },
                         {
@@ -2580,14 +2580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>So, have you ever been sexually aroused?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それで、性的に興奮したことは？"
+                                ""
                             ]
                         },
                         {
@@ -2611,14 +2611,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>No! I mean, you can't feel anything with your butt in the<br>first place, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ないです！そもそもお尻で感じるわけないじゃないですか。"
+                                ""
                             ]
                         },
                         {
@@ -2658,45 +2658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The formation of ideas requires experience."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "観念の形成には体験は欠かせないものだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャワーを浴びる時や座薬を使う時など、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段から圭はお尻で快感を感じたことはなかった。"
+                                ""
                             ]
                         },
                         {
@@ -2713,45 +2682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei had never felt pleasure with their butt before, whether<br>it was taking a shower or using suppositories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正確には、感じようとしたこともないと言うべきだが。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしくて、汚い身体器官。<BR>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭にとってアナルとは、そういうものであった。"
+                                ""
                             ]
                         },
                         {
@@ -2768,21 +2713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>To be precise, it should be said that they have never even<br>tried to feel it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者は圭の断言になんの反論もしなかった。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりに、彼は横においてあったチューブを手に取った。"
+                                ""
                             ]
                         },
                         {
@@ -2799,21 +2737,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The body part that is embarrassing and dirty.<BR>For Kei,<br>the anus was something like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジョロロ、チューブから流れ出た粘り気のある透明な液体が<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医師の手をたっぷりと覆い包んだ。"
+                                ""
                             ]
                         },
                         {
@@ -2830,21 +2768,83 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<>The doctor didn't argue with Kei's assertion. Instead, they<br>picked up the tube that was placed next to them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと冷たいですよ。<br>"
+                                "\\nc<>The sticky, transparent liquid that flowed out of the tube<br>completely covered the doctor's hand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お尻から力抜いてください。"
+                                "\\nc<Doctor>It's a little cold. Please relax your butt."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2908,107 +2908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふっ…！"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                87
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギュウ、しっとりとした指がぎゅっと閉じた入口を強く押した。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反射的に圭は驚き、お尻の穴はさらに縮まった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、潤滑油がいっぱいに塗られた指先を<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たったその程度の抵抗で止めることはできなかった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズビュウ、何かが入ってくる感覚に、圭の体が震える。"
+                                ""
                             ]
                         },
                         {
@@ -3032,21 +2939,114 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<>Gyu, the moist fingers tightly pressed against the closed<br>entrance. Reflexively, Kei was surprised and their butt hole<br>tightened even more."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度言いますが、力を抜いてください。<br>"
+                                "\\nc<>However, they couldn't stop the lubricated fingers that were<br>fully coated with lubricant with just that level of<br>resistance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今抜いておかないと、後で怪我しますよ。"
+                                "\\nc<>Kei's body trembles with the sensation of something<br>entering."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                87
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Doctor>I'll say it again, please relax. If I don't remove it now,<br>you'll get hurt later."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3070,14 +3070,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Even if you say that, it's impossible for me to not be<br>conscious of it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなこと言われても、意識しないでいるなんて無理ですよ！"
+                                ""
                             ]
                         },
                         {
@@ -3101,21 +3101,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>It's okay. You'll get used to it soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫です。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐなれますよ。"
+                                ""
                             ]
                         },
                         {
@@ -3132,21 +3132,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Now, take a deep breath. Inhale deeply... and exhale."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さあ、深呼吸を。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "息を深く吸って…、吐いてください。"
+                                ""
                             ]
                         },
                         {
@@ -3186,14 +3186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Soo, haa...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…スー、ハー…。"
+                                ""
                             ]
                         },
                         {
@@ -3217,45 +3217,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Taking a deep breath has the effect of calming a person's<br>mind. Even simple instructions can be synchronized with that<br>timing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "深呼吸には人の心を落ち着かせる効果がある。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこにタイミングを合わせる簡単な指示まで。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "医者の言葉に集中すると、圭の心は徐々に落ち着いてきた。"
+                                ""
                             ]
                         },
                         {
@@ -3272,14 +3248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei's mind gradually calmed down as they focused on the<br>doctor's words."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "心が落ち着くと、体もそれに順応するもの。"
+                                ""
                             ]
                         },
                         {
@@ -3296,21 +3272,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When the mind calms down, the body also adapts to it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギュウッと締まっていたアナルも、<br>"
+                                "\\nc<>The tightly clenched anus gradually began to relax."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だんだんと力が抜けはじめた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3357,14 +3357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They continued doing that for a few minutes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうしていること数分。"
+                                ""
                             ]
                         },
                         {
@@ -3381,21 +3381,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When Kei reached a point where they could think, How long<br>will we continue doing this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭に「いつまでこんなことしてるんだろう」<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "と思えるほどの余裕ができた頃、"
+                                ""
                             ]
                         },
                         {
@@ -3473,14 +3473,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hyaaan!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひゃんっ！！"
+                                ""
                             ]
                         },
                         {
@@ -3504,21 +3504,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The finger that was inside slipped out in an instant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ズボッ、と。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "中に入っていた指が一瞬で抜け落ちた。"
+                                ""
                             ]
                         },
                         {
@@ -3535,21 +3535,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Oops, my apologies. I should have told you beforehand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おっと、失礼、驚かせてすみません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あらかじめ言っておくべきでした。"
+                                ""
                             ]
                         },
                         {
@@ -3573,14 +3573,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(What, the sensation just now!?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（なに、今の感覚！？）"
+                                ""
                             ]
                         },
                         {
@@ -3604,45 +3604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The doctor's apology and such didn't reach their ears."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者の謝罪など、耳に入って来ない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指が穴から抜ける時に感じたゾワッとした感覚が<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ残っているようだった。"
+                                ""
                             ]
                         },
                         {
@@ -3659,14 +3628,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The lingering sensation of the eerie feeling when the finger<br>slipped out of the hole still remained."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、それに関してじっくり考える暇などなかった。"
+                                "\\nc<>Of course, they didn't have time to think carefully about<br>that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3711,21 +3711,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Before Kei could grasp the situation, the doctor's finger<br>touched their anus again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭が状況を把握する前に、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者の指が再びアナルに触れる。"
+                                ""
                             ]
                         },
                         {
@@ -3761,14 +3761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…！"
+                                ""
                             ]
                         },
                         {
@@ -3792,45 +3792,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>After experiencing an unknown sensation, Kei reflexively<br>becomes cautious and tenses up their body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未知の感覚を味わった直後である。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は反射的に警戒し、体をすくめる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、指を入れるという行為は、すでに一度経験した。"
+                                ""
                             ]
                         },
                         {
@@ -3847,21 +3823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>すでに肉体的にも精神的にも限界なのに。<br>"
+                                "\\nc<>However, the act of inserting a finger was something they<br>had already experienced once before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "肉体的にも、精神的にも、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はじめのように鋭く反応するのは無理だった。"
+                                ""
                             ]
                         },
                         {
@@ -3878,21 +3847,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Already at their physical and mental limits, it was<br>impossible for them to react as sharply as they did at<br>first, both physically and mentally."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最初でさえ防げなかった指先を<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今になって止められるわけもなく。"
+                                ""
                             ]
                         },
                         {
@@ -3909,14 +3878,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>There was no way they could stop the fingers that they<br>couldn't even prevent at first."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "圭の肛門は、あっけないほど簡単に異物の侵入を許した。"
+                                "\\nc<>Kei's anus allowed the intrusion of foreign objects<br>surprisingly easily."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3945,14 +3945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>*slurp*, *slurp*."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジュポッ、ジュポッ。"
+                                ""
                             ]
                         },
                         {
@@ -3976,14 +3976,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...！...！！"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…！…！！"
+                                ""
                             ]
                         },
                         {
@@ -4007,38 +4007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The doctor slowly begins to move their finger back and<br>forth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりと、医者は指を前後に動きはじめる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その度に、圭はお尻をビクつかせながら、手術台のシーツを掴んだ。"
+                                ""
                             ]
                         },
                         {
@@ -4055,21 +4031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Every time, Kei clenched their butt and grabbed onto the<br>sheets of the operating table."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭としては到底理解できないことであった。<BR>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お尻なのに。汚い穴なのに。"
+                                ""
                             ]
                         },
                         {
@@ -4086,14 +4055,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It was something that Kei couldn't possibly understand. Even<br>though it was their butt. Even though it was a dirty hole."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこを指で挿し込まれる度に、妙な感覚が全身に広がった"
+                                "\\nc<>Every time a finger was inserted there, a strange sensation<br>spread throughout their whole body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4133,14 +4133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Wait, wait a minute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと待って。"
+                                ""
                             ]
                         },
                         {
@@ -4194,14 +4194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしました？"
+                                ""
                             ]
                         },
                         {
@@ -4225,14 +4225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Th-That..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、それが…。"
+                                ""
                             ]
                         },
                         {
@@ -4256,45 +4256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, the doctor's attitude was strictly professional. It<br>seemed like they were completely focused on the treatment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、医者の態度はあくまで事務的なものであった。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に治療に専念しているとしか思えないくらいに。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それゆえ、圭は感覚の原因について問い詰めることができなかった。"
+                                ""
                             ]
                         },
                         {
@@ -4311,21 +4287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Therefore, Kei couldn't question the cause of the sensation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしこれが本当に性感だというのなら、<BR>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして医者が本当に何もしていないというのなら。"
+                                ""
                             ]
                         },
                         {
@@ -4342,21 +4311,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If this is really a sexual sensation, and if the doctor<br>really hasn't done anything."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分は本当に、ただの治療で<br>"
+                                "\\nc<>Am I really just a pervert who gets aroused by mere<br>treatment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "感じてしまう変態なのではないか。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4396,14 +4396,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...No, it's nothing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…いえ、何でもないです。"
+                                ""
                             ]
                         },
                         {
@@ -4427,21 +4427,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>はあ。<br>"
+                                "\\nc<Doctor>Haa. I am focused on the treatment. <BR> I'm sorry, but<br>please don't disturb me with trivial matters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は治療に集中しています。<BR>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すみませんが、些細なことで邪魔をしないでいただきたい。"
+                                ""
                             ]
                         },
                         {
@@ -4465,14 +4465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Uh, y-yes. I'm sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ、は、はい。すみません…。"
+                                ""
                             ]
                         },
                         {
@@ -4489,21 +4489,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Why do I have to apologize? (Even though it's me who's<br>being played with... my butt!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（なんでこっちが謝らなくちゃいけないのよ。）<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（お尻を弄られているのは私だっていうのに…！）"
+                                ""
                             ]
                         },
                         {
@@ -4527,45 +4527,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>気持ちの悪いことをされているのに、<br>"
+                                "\\nc<>Even though I'm being subjected to something unpleasant,<br>not only do I have to refuse it, but I also have to<br>apologize even if I just ask them to stop for a moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それを拒否するどころかちょっと止めるだけでも<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "謝らなくちゃいけないなんて。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭は悔しさと屈辱で歯を食いしばる。"
+                                ""
                             ]
                         },
                         {
@@ -4582,21 +4558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei grits their teeth in frustration and humiliation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、だからといって、医者の手を止めることはできない。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名分も、主導権も、全部医者の方にある。"
+                                ""
                             ]
                         },
                         {
@@ -4613,21 +4582,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, even so, I can't stop the doctor's hands. The<br>authority and control are all in the doctor's hands."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "圭にできることは、お尻を突き上げたまま、<br>"
+                                "\\nc<>The only thing Kei could do was endure the incomprehensible<br>sensation while keeping their butt raised."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "理解できない感覚に耐えることだけだった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4679,14 +4679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>How long has my butt been played with?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どのくらいお尻を弄ばれていただろう。"
+                                ""
                             ]
                         },
                         {
@@ -4717,21 +4717,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Haa. If it's just this much, you should be somewhat loosened<br>up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これぐらいなら、ある程度はほぐれたでしょう。"
+                                ""
                             ]
                         },
                         {
@@ -4767,14 +4767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>*sigh*, *pant*...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅっ、ふうっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -4798,14 +4798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>With a squelching sound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ズビュ、とジメッとした音をたてながら。"
+                                ""
                             ]
                         },
                         {
@@ -4822,21 +4822,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The doctor smoothly withdrew their fingers, covered in an<br>unknown liquid, whether it was gel or intestinal fluid."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者はジェルか腸液か何なのかわからない<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "液体にまみれた指をスッと抜いた。"
+                                ""
                             ]
                         },
                         {
@@ -4900,14 +4900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Higu♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひぐっ♡"
+                                ""
                             ]
                         },
                         {
@@ -4931,14 +4931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Due to that, Kei let out another embarrassing moan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのせいで圭はまた恥ずかしい喘ぎ声を漏らしてしまった。"
+                                ""
                             ]
                         },
                         {
@@ -4971,45 +4971,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Saying that it loosened up doesn't mean Kei's anus widened.<br>As before, Kei's wrinkles were tightly closed without any<br>gaps."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほぐれたと言って、圭のアナルが広がったわけではない。<BR>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "依然として、圭のシワは隙間なくギュウッと閉じていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それは見た目だけで、"
+                                ""
                             ]
                         },
                         {
@@ -5026,21 +5002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, that's just on the surface,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者が指を挿しこんでも<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圭のアナルはなんの抵抗もなくそれを受け入れた。"
+                                ""
                             ]
                         },
                         {
@@ -5057,14 +5026,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The doctor inserted their finger into Kei's anus without any<br>resistance and Kei accepted it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然、指以外のものも抵抗なく受け入れられるだろう。"
+                                "\\nc<>Of course, they would accept things other than fingers<br>without any resistance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5097,14 +5097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Yes, from now on, I will use this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい、今からはこれを使って"
+                                ""
                             ]
                         },
                         {
@@ -5144,14 +5144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>I will retrieve the tentacle from deep inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "奥の方にある触手を取り出します。"
+                                ""
                             ]
                         },
                         {
@@ -5175,14 +5175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The doctor said so while taking out a long and slender<br>instrument."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "医者はそう言いながら細長い器具を取り出した。"
+                                ""
                             ]
                         },
                         {
@@ -5199,14 +5199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei, who was worried about what would be inserted, let out a<br>sigh of relief."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何を入れるのかと心配していた圭は、安堵の吐息を吐く。"
+                                ""
                             ]
                         },
                         {
@@ -5230,14 +5230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...Well, if it's that, maybe I can manage somehow)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…ま、あれなら何とかなるかも）"
+                                ""
                             ]
                         },
                         {
@@ -5284,14 +5284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>And five minutes later."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして５分後。"
+                                ""
                             ]
                         },
                         {
@@ -5327,21 +5327,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei had a face that showed no sign of even the slightest<br>composure, pressing their head into the sheets."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭はこれっぽちの余裕すらないという顔で<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シーツに頭を押し込んでいた。"
+                                ""
                             ]
                         },
                         {
@@ -5365,14 +5365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ku... Kuu... Fugu...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ、…くうっ…、ふぐ…！"
+                                ""
                             ]
                         },
                         {
@@ -5396,52 +5396,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The sensation of tentacles caught by a device restraining<br>and wriggling inside their stomach was overwhelming."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お腹の奥が、あちこち抑えつけられる。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "器具に捕まった触手が暴れるような感覚だった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "単純に暴れるだけならともかく。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手は妙な感覚が感じられるところを刺激していた。"
+                                ""
                             ]
                         },
                         {
@@ -5458,52 +5427,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Simply thrashing around is one thing, but the tentacles were<br>stimulating sensitive areas."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "子宮の裏側をギュウッと押されると、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は思わず喘ぎ声が漏れ出てしまう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>しかし、それでも触手を取り出す時に比べれば、<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだマシな方だった。<BR>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か触手は指２本分の太さだったはず。"
+                                ""
                             ]
                         },
                         {
@@ -5520,21 +5458,83 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>When the back of their uterus was pressed tightly, Kei<br>couldn't help but let out a moan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者に摘まみだされないようにか、肛門の裏側では<br>"
+                                "\\nc<>However, compared to when they were retrieving the<br>tentacles, it was still a better situation. I'm pretty sure<br>the tentacles were about the thickness of two fingers."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４本分ぐらいの大きさにまで膨らんでいた。"
+                                "\\nc<>The area behind their anus had swollen to about the size of<br>four fingers, as if to prevent it from being pinched by the<br>doctor."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5558,21 +5558,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Alright, I'll take it out. Please relax your butt. Here we<br>go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "では、取り出しますよ。お尻の力を抜いてください。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いきますよー。"
+                                ""
                             ]
                         },
                         {
@@ -5612,14 +5612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>W-Wait a m-moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっとまっーーー"
+                                ""
                             ]
                         },
                         {
@@ -5643,14 +5643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>In that moment, they tightly grabbed it and forcefully<br>pulled it out with their grip strength."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それをギュッと掴み、握力で一気に取り出す瞬間。"
+                                ""
                             ]
                         },
                         {
@@ -5728,14 +5728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh, uuuh...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ーーーふぐ、ううっ…！"
+                                ""
                             ]
                         },
                         {
@@ -5759,21 +5759,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei felt their head go blank and barely managed to suppress<br>their vulgar moans."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は頭が真っ白になるのを感じながら、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下品な喘ぎ声を辛うじて抑えた。"
+                                ""
                             ]
                         },
                         {
@@ -5806,21 +5806,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>圭さん。<br>"
+                                "\\nc<Doctor>Kei-san, you shouldn't be so tired. There are still a few<br>inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなに疲れていてはいけません。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ中に何匹かいますよ。"
+                                ""
                             ]
                         },
                         {
@@ -5844,21 +5844,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I... I can't take it anymore. Please let me rest for a bit,<br>plea...se... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こ、これ以上は無理です。<BR>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと休ませてください、おね…がい…♡"
+                                ""
                             ]
                         },
                         {
@@ -5882,52 +5882,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Of course, that process didn't end in just one time. Since<br>there were multiple tentacles inside Kei."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "当然その過程は一回では終わらなかった。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触手は圭の中に、何匹も入っているのだから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままだと本当におかしくなってしまう。<BR>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じてはいけない感覚を感じてしまう。"
+                                ""
                             ]
                         },
                         {
@@ -5944,45 +5913,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If this continues, I will truly go crazy. I am feeling<br>sensations that I shouldn't be feeling."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭はすがるように懇願する。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<医者>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いけません。<Br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手が隠れる前にすべて取り出さないと。"
+                                ""
                             ]
                         },
                         {
@@ -5999,14 +5944,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<>Kei desperately pleads."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、早くお尻を持ち上げてください。"
+                                "\\nc<Doctor>This is not good. We need to remove everything before the<br>tentacles hide."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\nc<Doctor>Yes, please lift up your butt quickly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6030,14 +6030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Please, just a little bit... ah, ah... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほんと、ちょっとでいいので、どうか、あ、あ…♡"
+                                ""
                             ]
                         },
                         {
@@ -6108,14 +6108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, ah, ah...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、あ、あ…♡"
+                                ""
                             ]
                         },
                         {
@@ -6139,52 +6139,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>If only I had 5 more minutes, no, 3 more minutes, this<br>strange sensation might subside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "後５分、いや３分あれば、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この変な感覚がおさまりそうなのに。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "医者はそんな時間など与えてくれない。<br>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリとした腕が、圭のお尻を下から無理やり持ち上げた。"
+                                ""
                             ]
                         },
                         {
@@ -6201,21 +6170,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<>The doctor doesn't give me any time like that. With their<br>strong arms, they forcefully lifted Kei's butt from below."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、取り出しますよ。<br>"
+                                "\\nc<Doctor>Alright, I'll remove it. Here we go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いきますよー。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6293,14 +6293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Fuuah♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅあっ♡"
+                                ""
                             ]
                         },
                         {
@@ -6364,14 +6364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Fuuu...hah...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふうう…ふっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -6449,14 +6449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Fuuah...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅあっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -6501,14 +6501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>In the end, as a result of forcibly removing the tentacles<br>from inside their body over and over again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局、何度も何度も体内の触手を無理やり取り出された結果。"
+                                ""
                             ]
                         },
                         {
@@ -6548,21 +6548,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<医者>"
+                                "\\nc<Doctor>Thank you for your hard work. Please come out after cleaning<br>up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お疲れさまでした。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "後片付けしてから出て来てくださいね。"
+                                ""
                             ]
                         },
                         {
@@ -6598,14 +6598,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Fuu...♡ Hee...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふぅっ…♡へぇっ…♡"
+                                ""
                             ]
                         },
                         {
@@ -6629,21 +6629,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei had no words to give back to the doctor, and simply lay<br>on the examination table."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "圭は医者に返す言葉もなく、<BR>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "診療台の上に横たわるだけだった。"
+                                ""
                             ]
                         },
                         {
@@ -6681,21 +6681,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(The patch is all wet.)(Even if I put it on, everything will<br>be completely visible...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（パッチ、ぜんぶ濡れてるじゃん。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（こんなの、貼ったどころで全部丸見え…）"
+                                ""
                             ]
                         },
                         {
@@ -6712,14 +6712,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ugh... Let's forget about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うっ…。…忘れよう。"
+                                ""
                             ]
                         },
                         {
@@ -6843,38 +6843,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Kei obtained the Invasoid A-1 proof ticket."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "証票「浸食体A-1」を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nc<>悪いリスナーが１０００人増えた。"
+                                ""
                             ]
                         },
                         {
@@ -6891,14 +6867,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The number of bad listeners increased by 1000."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "浸食体調教度が15上がった。"
+                                "\\nc<>The level of Invasoid training has increased by 15."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

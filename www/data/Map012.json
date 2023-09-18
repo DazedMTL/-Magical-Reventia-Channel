@@ -7559,14 +7559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Several years later."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "数年後"
+                                ""
                             ]
                         },
                         {
@@ -7774,14 +7774,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警報>"
+                                "\\nc<Alarm>Villain sightings in the commercial area. Villain sightings.<br>Villain sightings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "商業地域にヴィラン出没。ヴィラン出没。ヴィラン出没。"
+                                ""
                             ]
                         },
                         {
@@ -7798,14 +7798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<警報>"
+                                "\\nc<Alarm>Those nearby, please evacuate to the shelter immediately..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近くにいる方は速やかに避難施設へ移動し…"
+                                ""
                             ]
                         },
                         {
@@ -8528,14 +8528,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That day, for some reason, Candy and I returned safely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの日、どういうわけかボクとキャンディは無事に帰ってきた。"
+                                ""
                             ]
                         },
                         {
@@ -8631,45 +8631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, since then, I haven't been able to see Cashew Nut<br>or become a magical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だけど、それ以来カシューナッツを見ることも、魔法少女になることもできなかった。"
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                60
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に…なりたいわけでもない。"
+                                ""
                             ]
                         },
                         {
@@ -8693,14 +8662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's not like I want to become one or anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "活発だったキャンディーも、あの日を境に部屋にこもるようになり連絡もつかない。"
+                                ""
                             ]
                         },
                         {
@@ -8724,14 +8693,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Candy, who used to be lively, started staying in her room<br>and I couldn't get in touch with her since that day."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから…。レヴァンティアって言った…"
+                                "\\nc<>And then... she said her name was Levantia..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8755,14 +8755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>The magical girl I admired..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクの憧れだった魔法少女は…"
+                                ""
                             ]
                         },
                         {
@@ -8793,14 +8793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>H-Help me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "た、助けて！"
+                                ""
                             ]
                         },
                         {
@@ -9065,14 +9065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>"
+                                "\\nc<？？？>Hello~! Thank you for coming to watch the stream today~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっほ～！今日も配信を見に来てくれてありがとう～！"
+                                ""
                             ]
                         },
                         {
@@ -9089,14 +9089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<？？？>"
+                                "\\nc<？？？>Today, I will be carrying out a mission to kill ten office<br>workers in the business district~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はオフィス街で会社員を１０人殺すミッションを行いま～す！"
+                                ""
                             ]
                         },
                         {
@@ -9136,14 +9136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They're not here anymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もういない。"
+                                ""
                             ]
                         },
                         {

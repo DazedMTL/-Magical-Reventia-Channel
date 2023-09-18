@@ -5846,21 +5846,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<解雇されたPD>"
+                                "\\nc<Fired PD>I couldn't achieve the target sales of the game, and in the<br>end, I got fired from the company..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの目標売上が達成できなくて、結局会社から<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "首になってしまった…。"
+                                ""
                             ]
                         },
                         {
@@ -5944,14 +5944,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員A>"
+                                "\\nc<Angry Employee A>I'm getting frustrated because my salary is late..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "給料が遅れてイライラする…。 "
+                                ""
                             ]
                         },
                         {
@@ -5968,14 +5968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員B>"
+                                "\\nc<Angry Employee B>I feel the same way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それな。"
+                                ""
                             ]
                         },
                         {
@@ -6059,14 +6059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員A>"
+                                "\\nc<Angry Employee A>I'm getting frustrated because my salary is late..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "給料が遅れてイライラする…。 "
+                                ""
                             ]
                         },
                         {
@@ -6083,14 +6083,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<怒った社員B>"
+                                "\\nc<Angry Employee B>I feel the same way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それな。"
+                                ""
                             ]
                         },
                         {

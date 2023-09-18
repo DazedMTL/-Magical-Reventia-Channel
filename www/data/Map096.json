@@ -2014,14 +2014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<市民>"
+                                "\\nc<Citizen>H-Help me...! Someone...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "た、助けてください…！誰か…！"
+                                ""
                             ]
                         },
                         {
@@ -2059,14 +2059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Hm...? It seems a little different from predation...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ん…？捕食とは少し違うような…。）"
+                                ""
                             ]
                         },
                         {
@@ -2090,21 +2090,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...No, let's think about it later. Please wait a moment,<br>I'll help you right away!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…いや、後で考えよう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと待ってください、すぐにお助けしますから！"
+                                ""
                             ]
                         },
                         {
@@ -2351,14 +2351,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Cashew Nut, confirm it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カシューナッツ、確認して！"
+                                ""
                             ]
                         },
                         {
@@ -2469,21 +2469,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Hmm. There doesn't seem to be anything abnormal. They're<br>just passed out from the relief of tension."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…うん。異常はないにゃん。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緊張が解けて気絶してるだけだにゃ。"
+                                ""
                             ]
                         },
                         {
@@ -2528,14 +2528,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I see. In that case, that's good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう。それならよかった…。"
+                                ""
                             ]
                         },
                         {
@@ -2573,14 +2573,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Is there something bothering you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か気になることでもあるのかにゃ？"
+                                ""
                             ]
                         },
                         {
@@ -2625,14 +2625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I didn't see that villain's actions as if they were trying<br>to eat this person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あのヴィランの行動、この人を食べようとしてるようには見えなかったの。"
+                                ""
                             ]
                         },
                         {
@@ -2649,14 +2649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>They don't have a single scratch on their body, only their<br>clothes are taken off. It's as if..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "体には傷一つないし、服だけ脱がされてる。まるで…。"
+                                ""
                             ]
                         },
                         {
@@ -2694,14 +2694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It seems like they were trying to rape them, meow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レ〇プしようとしてたみたいだにゃ！"
+                                ""
                             ]
                         },
                         {
@@ -2746,14 +2746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...If you say something like that in front of those kids,<br>they'll sew your mouth shut."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あの子たちの前でそんなこと言ったら口を縫い合わせるからね。"
+                                ""
                             ]
                         },
                         {
@@ -2791,14 +2791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Even I can grasp that kind of atmosphere, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくら僕でもそれくらいの雰囲気は把握できるにゃ。"
+                                ""
                             ]
                         },
                         {
@@ -2815,14 +2815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>However, if this speculation is true, we can't leave it to<br>Candy and the others, meow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だけど、もしこの推測が事実ならキャンディーたちには任せられないにゃん。"
+                                ""
                             ]
                         },
                         {
@@ -2867,21 +2867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I agree. I'll take full responsibility for this, so make<br>sure to explain it well to the two of them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "同感よ。こっちも私が全面的に引き受けるから、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "２人にはうまく言っておいて。"
+                                ""
                             ]
                         },
                         {
@@ -2919,14 +2919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Leave it to meow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "任せてくれにゃん！"
+                                ""
                             ]
                         },
                         {
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「T1：下水道の下の怪物」を手に入れた。 "
+                                "\\nc<>I obtained the memory T1: Monster Under the Sewer."
                             ]
                         },
                         {
@@ -3022,7 +3022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>良いリスナーが７０００人、悪いリスナーが３０００人増えた。"
+                                "\\nc<>Good listeners increased by 7,000, while bad listeners<br>increased by 3,000."
                             ]
                         },
                         {

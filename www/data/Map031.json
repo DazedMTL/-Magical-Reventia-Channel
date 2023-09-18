@@ -3784,21 +3784,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Wow, that camera looks expensive and it even has<br>soundproofing...) <Br> (It's more professional than I<br>thought.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（うわ、高そうなカメラに防音対策までされてる…。）<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（思ったより本格的。）"
+                                ""
                             ]
                         },
                         {
@@ -3822,14 +3822,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(They said I would be buried, but I agreed anyway...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（埋もれるって言われて承諾しちゃったけど…。）"
+                                ""
                             ]
                         },
                         {
@@ -3846,14 +3846,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(W-What should I do? I have to speak in front of all those<br>people...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ど、どうしよう。あの大勢の前で話さないといけないなんて。）"
+                                ""
                             ]
                         },
                         {
@@ -3877,14 +3877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Just imagining it makes me want to puke... ugh...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(想像しただけでも吐きそう…、ううっ…。）"
+                                ""
                             ]
                         },
                         {
@@ -3929,14 +3929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Life is Muscle!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\{ライフ・イズ・マッスル！"
+                                ""
                             ]
                         },
                         {
@@ -3995,21 +3995,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Nice to meet everyone who came here seeking a popular muscle<br>life! I'm Matsuo-kun from Matsuo Fitness!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "モテモテ筋肉ライフを求めて来たみんな、初めまして！<Br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "松男フィットネスの松男くんだよ！"
+                                ""
                             ]
                         },
                         {
@@ -4033,14 +4033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Isn't it sweaty and stuffy to always have muscular guys on<br>the screen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつも画面にマッチョばっかりだと汗臭くて暑苦しいだろ？"
+                                ""
                             ]
                         },
                         {
@@ -4064,21 +4064,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>So today, we have invited a special guest. Yes, please give<br>your greetings!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから今日はスペシャルゲストをお招きしたぜ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい、挨拶して！"
+                                ""
                             ]
                         },
                         {
@@ -4123,14 +4123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hello! I'm Levantia, the magical girl!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こ、こんにちは！魔法少女のレヴァンティアです！"
+                                ""
                             ]
                         },
                         {
@@ -4182,21 +4182,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Thank you very much for agreeing to collaborate on today's<br>livestream! I will do my best..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はコラボ配信に応じてくださり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>あの…、誠にありがとうございます！何卒一生懸命…。"
+                                ""
                             ]
                         },
                         {
@@ -4241,21 +4241,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ha! I said it's fine, no need to be so formal even though<br>we're both streamers. Are you nervous?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プハッ！いいってば、同じ配信者なのに改まんないで。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緊張してるんだ？"
+                                ""
                             ]
                         },
                         {
@@ -4321,14 +4321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, yes. Just a little..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ、はい。少し…。"
+                                ""
                             ]
                         },
                         {
@@ -4373,14 +4373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Don't worry. This time's livestream is structured to move<br>our bodies rather than just talking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "心配するな。今回の配信は口より体を動かす構成になってるし。"
+                                ""
                             ]
                         },
                         {
@@ -4404,14 +4404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Just being a magical girl is enough to pique everyone's<br>interest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女ってだけでもみんな興味津々だから。"
+                                ""
                             ]
                         },
                         {
@@ -4594,14 +4594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>See?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほらね？"
+                                ""
                             ]
                         },
                         {
@@ -4646,14 +4646,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I'm not self-proclaimed, you know!? I'm an adult woman..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自称じゃありませんから！？成人女性…、"
+                                ""
                             ]
                         },
                         {
@@ -4677,14 +4677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's correct, but...! I also like being called a<br>girl...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "は合ってるけど…！私も好きで少女って呼ばれてるんじゃ…！"
+                                ""
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>That's right, it's better to be a little more assertive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうそう、それくらい強気な方がいいんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -4821,21 +4821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Alright, let's begin! Today's content is... Shura vs.<br>Rasetsu! A showdown between magical girls and physical<br>strength!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よし、じゃあ始めようか！今日のコンテンツは…、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2][修羅ＶＳ羅刹！魔法少女とフィジカル対決してみました！]\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -4859,21 +4859,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>First, let's start with 100 push-ups!! If all the listeners<br>can keep up, give it a try! 1, 2!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずは腕立て伏せ１００回からだぁっ！！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "リスナーのみんなも付いてこられるならトライしてみてくれ！１、２！！"
+                                ""
                             ]
                         },
                         {
@@ -5029,14 +5029,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Um, is this okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの、これでいいんですか？"
+                                ""
                             ]
                         },
                         {
@@ -5081,14 +5081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Keep it up! *huff* *huff* Now, let's move on to 100 squats!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その調子だ！ふぅっ、ふぅっ！<Br>さあ、次はスクワット１００回！"
+                                ""
                             ]
                         },
                         {
@@ -5168,14 +5168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(This is a mess...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（滅茶苦茶だ…。）"
+                                ""
                             ]
                         },
                         {
@@ -5213,14 +5213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Well, if it's Levantia's physical abilities, it should be<br>easy.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（まあ、レヴァンティアの身体能力なら簡単でいいけど。）"
+                                ""
                             ]
                         },
                         {
@@ -5244,14 +5244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Somehow, it feels like my chest and butt have been getting<br>more attention lately...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（何だかさっきから胸やお尻のほうが見られてるような…。）"
+                                ""
                             ]
                         },
                         {
@@ -5296,21 +5296,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(...It's just my imagination, right?) (I'm just exercising<br>normally.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…気のせいだよね？）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（私、普通に運動してるだけだし。）"
+                                ""
                             ]
                         },
                         {
@@ -5355,14 +5355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Haa, haa! Not even a single drop of sweat, as expected of a<br>magical girl!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ、はぁっ！一滴の汗も流さないなんて、さすがは魔法少女！"
+                                ""
                             ]
                         },
                         {
@@ -5407,14 +5407,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahaha... I think Matsuo-san, who is keeping up, is amazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あはは…。付いてきてる松男さんもすごいと思います。"
+                                ""
                             ]
                         },
                         {
@@ -5459,14 +5459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Nuuu! I can't lose if you say something like that!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぬうぅぅっ！そんなこと言われちゃ負けらんねえ、"
+                                ""
                             ]
                         },
                         {
@@ -5490,14 +5490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Next is 300 burpees--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次はバーピーを３００回――"
+                                ""
                             ]
                         },
                         {
@@ -5578,21 +5578,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>It's bad, Levantia! A villain has appeared in the city,<br>please come and help meow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大変だ、レヴァンティア！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "街にヴィランが現れた、助けに来てくれにゃん！"
+                                ""
                             ]
                         },
                         {
@@ -5637,14 +5637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>...Ah."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あっ。"
+                                ""
                             ]
                         },
                         {
@@ -6166,21 +6166,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Huh? Hey, where are you going? We're in the middle of a<br>live shoot, hey!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うん？ちょっ、どこ行くんだよ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ライブ撮影中だぞ、おい！"
+                                ""
                             ]
                         },
                         {
@@ -6225,14 +6225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>S-Sorry! I have to go help someone...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ご、ごめんなさい！人を助けなきゃいけなくて…！"
+                                ""
                             ]
                         },
                         {
@@ -6373,14 +6373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Hold on, hold on, hold on! I didn't say anything about<br>pulling out!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとちょっとちょっと、抜けるなんて聞いてねーぞ！"
+                                ""
                             ]
                         },
                         {
@@ -6397,14 +6397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Especially when there's no alternative content...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に代わりのコンテンツもないのに…！"
+                                ""
                             ]
                         },
                         {
@@ -6449,14 +6449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I'm sorry...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさいっ…！"
+                                ""
                             ]
                         },
                         {
@@ -6860,14 +6860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Are you serious...!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "マジかよおおおお…！！！"
+                                ""
                             ]
                         },
                         {

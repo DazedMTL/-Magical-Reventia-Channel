@@ -5486,14 +5486,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<変な人 1>"
+                                "\\nc<Weird Person 1>Since I'm on a diet, I prefer to drink coffee black."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はダイエット中なのでコーヒーはブラックで飲むほうです。"
+                                ""
                             ]
                         },
                         {
@@ -5510,14 +5510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<変な人 1>"
+                                "\\nc<Weird Person 1>It's effective for reducing body fat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "体脂肪を減らすのに効果的なんですよ。"
+                                ""
                             ]
                         },
                         {
@@ -5541,14 +5541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<カフェの店員>"
+                                "\\nc<Cafe staff>Customer number 48, sorry to keep you waiting. Here is your<br>order of shortcake."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "４８番のお客さま～、お待たせしました～。ご注文のショートケーキです。"
+                                ""
                             ]
                         },
                         {
@@ -5565,14 +5565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<変な人 1>"
+                                "\\nc<Weird Person 1>Uhoho, of course coffee goes well with something sweet!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うひょｗｗｗやっぱコーヒーには甘いものでしょ！！"
+                                ""
                             ]
                         },
                         {
@@ -5624,14 +5624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Well... I think it's much more effective to avoid sweet<br>things, though...??)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（いや…、甘いものを控えるほうがずっと効果的だと思うけど…？？）"
+                                ""
                             ]
                         },
                         {
@@ -5713,14 +5713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<変な人 1>"
+                                "\\nc<Weird Person 1>Ugh... Why did I get fat... Oink oink..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うう…。どうして太ってしまったんだ…。ブヒブヒ…。"
+                                ""
                             ]
                         },
                         {
@@ -5737,21 +5737,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<変な人 1>"
+                                "\\nc<Weird Person 1>I've only been drinking black coffee... I'm so hungry... I<br>want to eat cake... oink..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ブラックコーヒーしか飲んでないのブヒ…。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お腹すいたブヒ…。ケーキ食べたい…。ブヒ…。"
+                                ""
                             ]
                         },
                         {
@@ -5828,38 +5828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<大学生>"
+                                "\\nc<College student>I am at the cafe every day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は毎日カフェにいるの。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<大学生>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エアコンもついてるしコーヒーの香りもいいし、スマホも充電できる。"
+                                ""
                             ]
                         },
                         {
@@ -5876,14 +5852,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<大学生>"
+                                "\\nc<College student>The air conditioning is on, the coffee smells good, and I<br>can charge my smartphone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カフェは本当に良いところだよ…。"
+                                "\\nc<College student>The cafe is really a good place..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6087,14 +6087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさんＡ>"
+                                "\\nc<Aunt A>Hey, Sato-san, it seems that the streaming of attacked<br>magical girls has been popular lately~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえ佐藤さん、最近襲われる魔法少女っていう配信が人気らしいわよ～。"
+                                ""
                             ]
                         },
                         {
@@ -6111,14 +6111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさんＢ>"
+                                "\\nc<Aunt B>Oh my, how scandalous~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "や～ねぇ～、はしたないわ～～。"
+                                ""
                             ]
                         },
                         {
@@ -6202,14 +6202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさんＡ>"
+                                "\\nc<Aunt A>Hey, Sato-san, it seems that the streaming of attacked<br>magical girls has been popular lately~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねえ佐藤さん、最近襲われる魔法少女っていう配信が人気らしいわよ～。"
+                                ""
                             ]
                         },
                         {
@@ -6226,14 +6226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさんＢ>"
+                                "\\nc<Aunt B>Oh my, how scandalous~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "や～ねぇ～、はしたないわ～～。"
+                                ""
                             ]
                         },
                         {
@@ -6325,21 +6325,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~ Oh, Kei-chan is here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いっらしゃいませ～ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ、圭ちゃん来た？"
+                                ""
                             ]
                         },
                         {
@@ -6371,14 +6371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~ We are ready to take your order."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ～、ご注文を承ります。"
+                                ""
                             ]
                         },
                         {
@@ -8614,21 +8614,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~ Oh, Kei-chan is here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いっらしゃいませ～ <br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ、圭ちゃん来た？"
+                                ""
                             ]
                         },
                         {
@@ -8660,14 +8660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<バイト>"
+                                "\\nc<Part-time job>Welcome~ We are ready to take your order."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ～、ご注文を承ります。"
+                                ""
                             ]
                         },
                         {
@@ -9109,14 +9109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カフェでバイトをする。"
+                                "\\nc<>They work part-time at a cafe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -9124,8 +9124,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アルバイトをする",
-                                    "考えてみる"
+                                    "They work part-time",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -9155,14 +9155,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>一番忙しい時間帯に、皿洗いをすることになった。"
+                                "\\nc<>I ended up washing dishes during the busiest hours. I was<br>hoping for a cool job like making coffee... but the day<br>passed by just washing dishes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "<br>コーヒーとかを作るかっこいい仕事を期待してたけど…。皿洗いで一日が過ぎてしまった。"
+                                ""
                             ]
                         },
                         {
@@ -9179,7 +9179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<>バイト代３０００円を手に入れた。"
+                                "\\nc<>I got 3000 yen for my part-time job."
                             ]
                         },
                         {
@@ -9264,14 +9264,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事がそんなに難しくなくなってきた。"
+                                "\\nc<>Work has become less difficult now. I obtained the proof of<br>being an 'Part-time Job Beginner'."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「アルバイト初心者」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -9288,7 +9288,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが１０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, I gained 1000 more loyal<br>listeners."
                             ]
                         },
                         {
@@ -9347,14 +9347,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事には慣れてきた。 "
+                                "\\nc<>I've gotten used to work already. I obtained the proof of<br>being a Breadwinner-type Magical Girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「生計型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -9371,7 +9371,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, I gained 3000 more loyal<br>listeners."
                             ]
                         },
                         {
@@ -9430,14 +9430,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>Now there's no job I can't do. I obtained the proof of being<br>a Workaholic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -9454,7 +9454,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the proof, I gained 5000 more loyal<br>listeners."
                             ]
                         },
                         {
@@ -9583,14 +9583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カフェでバイトをする。"
+                                "\\nc<>They work part-time at a cafe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -9598,8 +9598,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アルバイトをする",
-                                    "考えてみる"
+                                    "They work part-time",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -9724,14 +9724,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>今日はレジの仕事だ。"
+                                "\\nc<>Today, I'm working at the cash register. Good morning,<br>everyone. Ah... I accidentally bit my tongue..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>おはようぎょうざいます？うっ…舌を噛んでしまった…。"
+                                ""
                             ]
                         },
                         {
@@ -9748,7 +9748,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>バイト代７０００円を手に入れた。"
+                                "\\nc<>I got 7000 yen for my part-time job."
                             ]
                         },
                         {
@@ -9821,14 +9821,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>今日はレジの仕事だ。"
+                                "\\nc<>Today, I'm working at the cash register. Good morning,<br>everyone. Ah... I accidentally bit my tongue..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>おはようぎょうざいます？うっ… 舌を噛んでしまった…。"
+                                ""
                             ]
                         },
                         {
@@ -9845,7 +9845,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>バイト代７０００円を手に入れた。"
+                                "\\nc<>I got 7000 yen for my part-time job."
                             ]
                         },
                         {
@@ -9982,14 +9982,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>今日はレジの仕事だ。"
+                                "\\nc<>Today, I'm working at the cash register. Good morning,<br>everyone. Ah... I accidentally bit my tongue..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>おはようぎょうざいます？うっ… 舌を噛んでしまった…。 "
+                                ""
                             ]
                         },
                         {
@@ -10006,7 +10006,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>バイト代７０００円を手に入れた。"
+                                "\\nc<>I got 7000 yen for my part-time job."
                             ]
                         },
                         {
@@ -10079,14 +10079,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>今日はレジの仕事だ。"
+                                "\\nc<>Today, I'm working at the cash register. Good morning,<br>everyone. Ah... I accidentally bit my tongue..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>おはようぎょうざいます？うっ… 舌を噛んでしまった…。"
+                                ""
                             ]
                         },
                         {
@@ -10103,7 +10103,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>バイト代７０００円を手に入れた。"
+                                "\\nc<>I got 7000 yen for my part-time job."
                             ]
                         },
                         {
@@ -10208,14 +10208,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>もう仕事には慣れてきた。 "
+                                "\\nc<>I'm already getting used to work. I obtained the<br>Livelihood-type Magical Girl certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票 「生計型魔法少女」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -10232,7 +10232,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, I gained 3000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -10291,14 +10291,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>There is no job that I can't do now. I obtained the<br>Workaholic certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -10315,7 +10315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, I gained 5000 new loyal<br>listeners."
                             ]
                         },
                         {
@@ -10444,14 +10444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カフェでバイトをする。"
+                                "\\nc<>They work part-time at a cafe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -10459,8 +10459,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アルバイトをする",
-                                    "考えてみる"
+                                    "They work part-time",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -10592,14 +10592,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>いよいよ、コーヒーを作れるようになった！"
+                                "\\nc<>Finally, I've become able to make coffee! I even feel moved<br>by the aroma of freshly brewed coffee."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>出来立てのコーヒーの香りに感動すら感じる。"
+                                ""
                             ]
                         },
                         {
@@ -10616,7 +10616,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>バイト代１００００円を手に入れた。"
+                                "\\nc<>They obtained a part-time job payment of 10,000 yen."
                             ]
                         },
                         {
@@ -10690,14 +10690,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>Now there is no job that I can't do. I obtained the<br>workaholic certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -10714,7 +10714,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが３０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, the number of good<br>listeners increased by 3,000."
                             ]
                         },
                         {
@@ -10761,14 +10761,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>いよいよ、コーヒーを作れるようになった！"
+                                "\\nc<>Finally, I've become able to make coffee! I even feel moved<br>by the aroma of freshly brewed coffee."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>出来立てのコーヒーの香りに感動すら感じる。"
+                                ""
                             ]
                         },
                         {
@@ -10785,7 +10785,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>バイト代１００００円を手に入れた。"
+                                "\\nc<>They obtained a part-time job payment of 10,000 yen."
                             ]
                         },
                         {
@@ -10870,14 +10870,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>Now there is no job that I can't do. I obtained the<br>workaholic certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -10894,7 +10894,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, the number of good<br>listeners increased by 5,000."
                             ]
                         },
                         {
@@ -11005,14 +11005,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>いよいよ、コーヒーを作れるようになった！"
+                                "\\nc<>Finally, I've become able to make coffee! I even feel moved<br>by the aroma of freshly brewed coffee."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>出来立てのコーヒーの香りに感動すら感じる。"
+                                ""
                             ]
                         },
                         {
@@ -11029,7 +11029,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>バイト代１００００円を手に入れた。"
+                                "\\nc<>They obtained a part-time job payment of 10,000 yen."
                             ]
                         },
                         {
@@ -11114,14 +11114,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>Now there is no job that I can't do. I obtained the<br>workaholic certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -11138,7 +11138,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, the number of good<br>listeners increased by 5,000."
                             ]
                         },
                         {
@@ -11185,14 +11185,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>いよいよ、コーヒーを作れるようになった！"
+                                "\\nc<>Finally, I've become able to make coffee! I even feel moved<br>by the aroma of freshly brewed coffee."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "<br>出来立てのコーヒーの香りに感動すら感じる。"
+                                ""
                             ]
                         },
                         {
@@ -11209,7 +11209,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\nc<>バイト代１００００円を手に入れた。"
+                                "\\nc<>They obtained a part-time job payment of 10,000 yen."
                             ]
                         },
                         {
@@ -11294,14 +11294,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>今や私にできない仕事なんてない。"
+                                "\\nc<>Now there is no job that I can't do. I obtained the<br>workaholic certificate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>証票「ワーカーホリック」を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -11318,7 +11318,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>証票の効果で 良いリスナーが５０００人増えた."
+                                "\\nc<>Thanks to the effect of the ticket, the number of good<br>listeners increased by 5,000."
                             ]
                         },
                         {
@@ -11467,14 +11467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>カフェでバイトをする。"
+                                "\\nc<>They work part-time at a cafe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "<br>"
+                                ""
                             ]
                         },
                         {
@@ -11482,8 +11482,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アルバイトをする",
-                                    "考えてみる"
+                                    "They work part-time",
+                                    "Let me think"
                                 ],
                                 1,
                                 0,
@@ -11631,14 +11631,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<店長>「クゥ… お前に教える事はもう何もない！今後ともよろしくな！」"
+                                "\\nc<Store Manager>Ku... There's nothing more for me to teach you! Please<br>continue to do your best! The store manager, who drank the<br>coffee I made, sheds tears of emotion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "<br>私が作ったコーヒーを飲んだ店長が感動の涙を流す。"
+                                ""
                             ]
                         },
                         {
@@ -11655,14 +11655,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>すごくうれしい。"
+                                "\\nc<>I'm really happy. I got 20,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "<br>バイト代２００００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -11733,14 +11733,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\nc<>香ばしいカフェーの仕事はいつも楽しい。"
+                                "\\nc<>Working at a fragrant cafe is always enjoyable. I earned<br>15,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "<br>バイト代１５０００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -11832,14 +11832,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<店長>「クゥ…お前に教える事はもう何もない！今後ともよろしくな！」"
+                                "\\nc<Store Manager>Ku... There's nothing more for me to teach you! Please<br>continue to do your best! The store manager, who drank the<br>coffee I made, sheds tears of emotion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>私が作ったコーヒーを飲んだ店長が感動の涙を流す。"
+                                ""
                             ]
                         },
                         {
@@ -11856,14 +11856,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>すごくうれしい。"
+                                "\\nc<>I'm really happy. I got 20,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>バイト代２００００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -11934,14 +11934,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>香ばしいカフェーの仕事はいつも楽しい。"
+                                "\\nc<>Working at a fragrant cafe is always enjoyable. I earned<br>15,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>バイト代１５０００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -12097,14 +12097,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<店長>「クゥ…お前に教える事はもう何もない！今後ともよろしくな！」"
+                                "\\nc<Store Manager>Ku... There's nothing more for me to teach you! Please<br>continue to do your best! The store manager, who drank the<br>coffee I made, sheds tears of emotion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>私が作ったコーヒーを飲んだ店長が感動の涙を流す。"
+                                ""
                             ]
                         },
                         {
@@ -12121,14 +12121,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>すごくうれしい。"
+                                "\\nc<>I'm really happy. I got 20,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>バイト代２００００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -12199,14 +12199,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\nc<>香ばしいカフェーの仕事はいつも楽しい。"
+                                "\\nc<>Working at a fragrant cafe is always enjoyable. I earned<br>15,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "<br>バイト代１５０００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -12298,14 +12298,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<店長>「クゥ…お前に教える事はもう何もない！今後ともよろしくな！」"
+                                "\\nc<Store Manager>Ku... There's nothing more for me to teach you! Please<br>continue to do your best! The store manager, who drank the<br>coffee I made, sheds tears of emotion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>私が作ったコーヒーを飲んだ店長が感動の涙を流す。"
+                                ""
                             ]
                         },
                         {
@@ -12322,14 +12322,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>すごくうれしい。"
+                                "\\nc<>I'm really happy. I got 20,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>バイト代２００００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -12400,14 +12400,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\nc<>香ばしいカフェーの仕事はいつも楽しい。"
+                                "\\nc<>Working at a fragrant cafe is always enjoyable. I earned<br>15,000 yen for my part-time job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "<br>バイト代１５０００円を手に入れた。"
+                                ""
                             ]
                         },
                         {
@@ -12885,14 +12885,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Huh? What is it? Do you want to work here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うん？何だ？ここで働きたいのか？"
+                                ""
                             ]
                         },
                         {
@@ -12900,8 +12900,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12931,38 +12931,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Hmmm."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\nc<店長>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "よし、経歴はなさそうだけど採用しよう。"
+                                ""
                             ]
                         },
                         {
@@ -12979,14 +12955,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Alright, you don't seem to have any experience, but let's<br>hire you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すぐに中に入って仕事しろ。"
+                                "\\nc<Store Manager>Go inside immediately and start working."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13025,14 +13025,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>What is it? If you're not a part-timer or a customer, go<br>over there!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何だよ、バイトでも客でもないならあっちいけ！"
+                                ""
                             ]
                         },
                         {
@@ -13127,14 +13127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<店長>"
+                                "\\nc<Store Manager>Why do the recent kids want to quit their jobs so quickly?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最近の子たちはどうしてすぐに仕事を辞めたがるんだ？"
+                                ""
                             ]
                         },
                         {
@@ -13846,21 +13846,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<編集者>"
+                                "\\nc<Editor>If you don't finish it by today, you can't go home. Do you<br>understand?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日中に仕上げないと帰れませんよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "分かりました？"
+                                ""
                             ]
                         },
                         {
@@ -13877,14 +13877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<作家>"
+                                "\\nc<Author>Yes, yes... I understand..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい。はい…。分かりました…。"
+                                ""
                             ]
                         },
                         {
@@ -14148,21 +14148,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<編集者>"
+                                "\\nc<Editor>If you don't finish it by today, you can't go home. Do you<br>understand?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日中に仕上げないと帰れませんよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "分かりました？"
+                                ""
                             ]
                         },
                         {
@@ -14179,14 +14179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<作家>"
+                                "\\nc<Author>Yes, yes... I understand..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい。はい…。分かりました…。"
+                                ""
                             ]
                         },
                         {

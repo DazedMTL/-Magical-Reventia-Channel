@@ -6877,21 +6877,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Yes, today's activity is cleaning the park! Let's all do our<br>best together!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はいっ、今日の活動は公園の掃除です！<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "みんなで頑張りましょう！"
+                                ""
                             ]
                         },
                         {
@@ -6938,14 +6938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>O-Oh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お、おお～…。"
+                                ""
                             ]
                         },
                         {
@@ -7047,14 +7047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさん>"
+                                "\\nc<Aunt>Yukiko, it's nice that you made friends."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幸子ちゃん、お友達が出来てよかったわね。"
+                                ""
                             ]
                         },
                         {
@@ -7080,14 +7080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばあさん>"
+                                "\\nc<Grandma>Have some coffee candy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コーヒー飴、お食べ。"
+                                ""
                             ]
                         },
                         {
@@ -7120,14 +7120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ehehe, thank you very much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "え、えへへ。ありがたく頂きます。"
+                                ""
                             ]
                         },
                         {
@@ -7165,21 +7165,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(I came here thinking maybe... but it's really just picking<br>up trash in the neighborhood.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（もしかしてと思って来てみたけど…。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（本当にただの近所のごみ拾いだ。）"
+                                ""
                             ]
                         },
                         {
@@ -7196,14 +7196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(The age group is also high, so this is no different from a<br>community center event.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（年齢層も高いし、これじゃあ公民館の行事と変わらない。）"
+                                ""
                             ]
                         },
                         {
@@ -7243,14 +7243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>What's wrong, Kei-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしたんですか、圭さん？"
+                                ""
                             ]
                         },
                         {
@@ -7288,14 +7288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ah, no. There are more elderly people than I thought."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、いや。思ってたよりお年寄りが多くて。"
+                                ""
                             ]
                         },
                         {
@@ -7326,45 +7326,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Ahaha... That's true. People our age are all going to the<br>Saints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あはは…。確かにそうですね。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私たちと同年代はみんな聖徒の方に行きますから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\nc<>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも、ここにいるのは楽園教に長年携わってこられた方たちです。"
+                                ""
                             ]
                         },
                         {
@@ -7381,14 +7357,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Even so, the people here are those who have been involved<br>with the Paradise Church for many years."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教祖様が教会を今の大きなビルに移転される前からいらっしゃいました。"
+                                "\\nc<>The founder has been here since before the church was<br>relocated to its current large building."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7435,14 +7435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>Before it was relocated...? So, it means it was originally<br>in a different place?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移転される前…？つまり元々は違う場所にいたってこと？"
+                                ""
                             ]
                         },
                         {
@@ -7482,21 +7482,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<お年寄り>"
+                                "\\nc<Elderly person>That's right. We used to be in an old church on the<br>outskirts of town. It was good back then, but... tsk tsk..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃよ。昔は街外れの古びた教会にいたんじゃ。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの時はよかったのにのぅ、チッチッ…。"
+                                ""
                             ]
                         },
                         {
@@ -7583,21 +7583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさん>"
+                                "\\nc<Aunt>What are you saying? Thanks to the zealous activities of<br>the founder, there have been many improvements, haven't<br>there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何てことを仰るんですか。教祖様の熱心な活動のおかげで<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よくなったこともたくさんあるじゃないですか。"
+                                ""
                             ]
                         },
                         {
@@ -7614,14 +7614,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさん>"
+                                "\\nc<Aunt>The massage chair at the church is also used the most,<br>right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "教会のマッサージチェアも一番多く使われてますよね？"
+                                ""
                             ]
                         },
                         {
@@ -7678,21 +7678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<お年寄り>"
+                                "\\nc<Elderly person>Ahem, ahem! I-it's true that people change, but it's a pity<br>to see it happening."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コホン、コホン！た、確かにそうじゃが。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人が変わっていくようで気の毒なんじゃ。"
+                                ""
                             ]
                         },
                         {
@@ -7709,21 +7709,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<お年寄り>"
+                                "\\nc<Elderly person>Even today, I haven't seen their face once. They used to<br>visit frequently and warmly greet us..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日だって一度も顔を見ていないじゃろう。<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昔はちょくちょく訪ねてきては温かく挨拶していく男じゃったのに…。"
+                                ""
                             ]
                         },
                         {
@@ -7749,14 +7749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばさん>"
+                                "\\nc<Aunt>Well... they're busy, so there's nothing we can do about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは…、お忙しいんだから仕方ありませんよ。"
+                                ""
                             ]
                         },
                         {
@@ -7789,14 +7789,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>I-I'm okay! I will also become a saint and help the<br>founder-sama."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だ、大丈夫です！私も聖徒になって教祖様のお手伝いをしますから。"
+                                ""
                             ]
                         },
                         {
@@ -7829,21 +7829,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<おばあさん>"
+                                "\\nc<Grandma>It would be appreciated if they could do that. Unlike the<br>young ones, just meditating is already tough for us..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうしてくれたらありがたいわ。若い子たちと違って、<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わしらは瞑想するだけでも大変でね…。"
+                                ""
                             ]
                         },
                         {
@@ -7881,14 +7881,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(There are various circumstances on this side as well.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（…こっちにも色々な事情があるのね。）"
+                                ""
                             ]
                         },
                         {
@@ -7912,21 +7912,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(It feels guilty to deceive, but...) (If there is a<br>possibility that the villain is involved, there's no other<br>choice.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（騙してるようで心苦しいけど…。）<br>"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（ヴィランが関わってる可能性がある以上は仕方ない。）"
+                                ""
                             ]
                         },
                         {
@@ -7950,14 +7950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>"
+                                "\\nc<>(Yes, let's at least do our best with our activities.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（うん、せめて活動だけでも頑張ろう。）"
+                                ""
                             ]
                         },
                         {
@@ -8009,7 +8009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\nc<>記憶「N３：楽園教潜入作戦」を手に入れた。"
+                                "\\nc<>I obtained the memory N3: Infiltration Operation of<br>Paradise Church."
                             ]
                         },
                         {
