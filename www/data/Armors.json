@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 1,
-        "description": "服",
+        "description": "Clothes",
         "etypeId": 2,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "[衣装]普段着",
+        "name": "[Outfit] Casual Wear",
         "note": "<Max item :1>",
         "params": [
             0,
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "カメラバック",
+        "name": "Camera Bag",
         "note": "<Max item :1>",
         "params": [
             0,
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 0,
-        "description": "リスナー増加率＋１０％",
+        "description": "Listener increase rate +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -553,7 +553,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "「カメラ」DMC-1213",
+        "name": "Camera DMC-1213",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 0,
-        "description": "リスナー増加率＋２０％",
+        "description": "Listener increase rate +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -580,7 +580,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "「カメラ」SYNU-1011",
+        "name": "Camera SYNU-1011",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -597,7 +597,7 @@
     {
         "id": 23,
         "atypeId": 0,
-        "description": "リスナー増加率＋３０％",
+        "description": "Listener increase rate +30%",
         "etypeId": 2,
         "traits": [
             {
@@ -607,7 +607,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "「カメラ」MEDICON Ultra",
+        "name": "Camera MEDICON Ultra",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -624,7 +624,7 @@
     {
         "id": 24,
         "atypeId": 0,
-        "description": "リスナー増加率＋５０％",
+        "description": "Listener increase rate +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -634,7 +634,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "「カメラ」MEDICON Z",
+        "name": "Camera MEDICON Z",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -651,7 +651,7 @@
     {
         "id": 25,
         "atypeId": 0,
-        "description": "悪いリスナー増加率＋３０％",
+        "description": "Listener increase rate +30%",
         "etypeId": 2,
         "traits": [
             {
@@ -661,7 +661,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "「カメラ」PDLR",
+        "name": "Camera PDLR",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -678,7 +678,7 @@
     {
         "id": 26,
         "atypeId": 0,
-        "description": "悪いリスナー増加率＋５０％",
+        "description": "Listener increase rate +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -688,7 +688,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "「カメラ」Super Fong",
+        "name": "Camera Super Fong",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -705,7 +705,7 @@
     {
         "id": 27,
         "atypeId": 0,
-        "description": "運 + 1",
+        "description": "Luck + 1",
         "etypeId": 2,
         "traits": [
             {
@@ -715,7 +715,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "「マイク」Micro AA",
+        "name": "Micro AA",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -732,7 +732,7 @@
     {
         "id": 28,
         "atypeId": 0,
-        "description": "運 - 1",
+        "description": "Luck - 1",
         "etypeId": 2,
         "traits": [
             {
@@ -742,7 +742,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "「マイク」XLR-0105",
+        "name": "Mike XLR-0105",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -759,7 +759,7 @@
     {
         "id": 29,
         "atypeId": 0,
-        "description": "運 + 2",
+        "description": "Luck + 2",
         "etypeId": 2,
         "traits": [
             {
@@ -769,7 +769,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "「マイク」Alpha-07",
+        "name": "Mike Alpha-07",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -786,7 +786,7 @@
     {
         "id": 30,
         "atypeId": 0,
-        "description": "運 - 2",
+        "description": "Luck - 2",
         "etypeId": 2,
         "traits": [
             {
@@ -796,7 +796,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "「マイク」MDVC Pro",
+        "name": "Mike MDVC Pro",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -813,7 +813,7 @@
     {
         "id": 31,
         "atypeId": 0,
-        "description": "メンタル＋１",
+        "description": "Mental +1",
         "etypeId": 2,
         "traits": [
             {
@@ -823,7 +823,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "「照明」Tree 32W",
+        "name": "Lighting Tree 32W",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -840,7 +840,7 @@
     {
         "id": 32,
         "atypeId": 0,
-        "description": "メンタル－１",
+        "description": "Mental-1",
         "etypeId": 2,
         "traits": [
             {
@@ -850,7 +850,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "「照明」MR-YM",
+        "name": "Lighting MR-YM",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -867,7 +867,7 @@
     {
         "id": 33,
         "atypeId": 0,
-        "description": "メンタル＋２",
+        "description": "Mental +2",
         "etypeId": 2,
         "traits": [
             {
@@ -877,7 +877,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "「照明」Tree 64W",
+        "name": "Lighting Tree 64W",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -894,7 +894,7 @@
     {
         "id": 34,
         "atypeId": 0,
-        "description": "メンタル－２",
+        "description": "Mental-2",
         "etypeId": 2,
         "traits": [
             {
@@ -904,7 +904,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "「照明」MR-YPM",
+        "name": "Lighting MR-YPM",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -948,7 +948,7 @@
     {
         "id": 36,
         "atypeId": 0,
-        "description": "２度と食べたくない最悪のラーメン",
+        "description": "The worst ramen I never want to eat again.",
         "etypeId": 2,
         "traits": [
             {
@@ -958,7 +958,7 @@
             }
         ],
         "iconIndex": 222,
-        "name": "「広告」抹茶ラーメン",
+        "name": "Advertisement Matcha Ramen",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -975,7 +975,7 @@
     {
         "id": 37,
         "atypeId": 0,
-        "description": "レヴァンティアの広報で最近入学希望者が増えたらしい。",
+        "description": "It seems that there has been an increase in applicants for\nLevantia's public relations recently.",
         "etypeId": 2,
         "traits": [
             {
@@ -985,7 +985,7 @@
             }
         ],
         "iconIndex": 222,
-        "name": "「広告」正義実現大学",
+        "name": "Advertisement Justice Realization University",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1002,7 +1002,7 @@
     {
         "id": 38,
         "atypeId": 0,
-        "description": "レヴァンティアの膣内を再現したというが、その真実は誰も知らない。",
+        "description": "No one knows the truth about the reproduction of Levantia's\nvagina.",
         "etypeId": 2,
         "traits": [
             {
@@ -1012,7 +1012,7 @@
             }
         ],
         "iconIndex": 222,
-        "name": "「広告」レヴァンティアオナホ",
+        "name": "Advertisement Levantia Onahole",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1029,7 +1029,7 @@
     {
         "id": 39,
         "atypeId": 0,
-        "description": "生でやるのと違いを感じさせない、科学技術の真髄。",
+        "description": "The essence of scientific technology that doesn't make you\nfeel any different from doing it raw.",
         "etypeId": 2,
         "traits": [
             {
@@ -1039,7 +1039,7 @@
             }
         ],
         "iconIndex": 222,
-        "name": "「広告」テル〇ミオーソドックス０．０２",
+        "name": "Advertisement Terumi Orthodox 0.02",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1056,7 +1056,7 @@
     {
         "id": 40,
         "atypeId": 0,
-        "description": "これは、使い物にならない。",
+        "description": "This is useless.",
         "etypeId": 2,
         "traits": [
             {
@@ -1066,7 +1066,7 @@
             }
         ],
         "iconIndex": 222,
-        "name": "「広告」テル〇ミサウスポー２．００",
+        "name": "Advertisement Telomisouthpaw 2.00",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1083,7 +1083,7 @@
     {
         "id": 41,
         "atypeId": 0,
-        "description": "ごついけど職人精神を感じる夏のイットアイテム。",
+        "description": "This rough but summer essential item gives off a sense of\ncraftsmanship.",
         "etypeId": 2,
         "traits": [
             {
@@ -1093,7 +1093,7 @@
             }
         ],
         "iconIndex": 222,
-        "name": "「広告」ハンディファン",
+        "name": "Advertisement Handy Fan",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1137,7 +1137,7 @@
     {
         "id": 43,
         "atypeId": 0,
-        "description": "中学時代、魔法少女の活動時に着用していた衣装。<br>今着るのは少し抵抗がある。<br>攻撃を３回防御する。",
+        "description": "During my middle school days, I used to wear a costume when\nI was active as a magical girl.  I feel a little resistant\nto wearing it now.  I will defend against attacks three\ntimes.",
         "etypeId": 2,
         "traits": [
             {
@@ -1147,7 +1147,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "「衣装」レヴァンティア",
+        "name": "Outfit Levantia",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1164,7 +1164,7 @@
     {
         "id": 44,
         "atypeId": 0,
-        "description": "大学の男子たちのロマンと士気を高めることに重点を置いた衣装。<br>下乳見せが魅力的という評価が大半を占めている。<br>攻撃を２回防御する。",
+        "description": "The focus of the costume is to enhance the romance and\nmorale of the male university students. The evaluation is\nlargely dominated by the appeal of showing underboob. It\ndefends against attacks twice.",
         "etypeId": 2,
         "traits": [
             {
@@ -1174,7 +1174,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "「衣装」チアユニフォーム",
+        "name": "Outfit Cheerleader Uniform",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1191,7 +1191,7 @@
     {
         "id": 45,
         "atypeId": 0,
-        "description": "子供の頃に実際に使っていた水着。<br>今着るのはかなりＮＧな印象。<br>攻撃を２回防御する。",
+        "description": "As a child, I actually used to wear this swimsuit. Wearing\nit now gives off a pretty negative impression. It allows me\nto defend against two attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1201,7 +1201,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "「衣装」スクール水着",
+        "name": "Outfit School Swimsuit",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1218,7 +1218,7 @@
     {
         "id": 46,
         "atypeId": 0,
-        "description": "少し前まで存在していたメイドカフェの制服。<br>露出度が高く、多くのお客を抱えていたメイドカフェがなぜ廃業したのかは分からない。<br>攻撃を２回防御する。",
+        "description": "The maid cafe uniforms that existed until recently. I don't\nknow why the maid cafe, which had high exposure and many\ncustomers, went out of business. They defend against attacks\ntwice.",
         "etypeId": 2,
         "traits": [
             {
@@ -1228,7 +1228,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "「衣装」メイド服",
+        "name": "Outfit Maid Uniform",
         "note": "<Max Item: 1>",
         "params": [
             0,
@@ -1245,7 +1245,7 @@
     {
         "id": 47,
         "atypeId": 0,
-        "description": "もはや魔法少女とは呼べない、人生が終わってしまった女の象徴ともいえる服。<br>攻撃を２回防御する。",
+        "description": "This outfit can no longer be called a magical girl, it can\nbe said to be a symbol of a woman whose life has ended. It\ndefends against attacks twice.",
         "etypeId": 2,
         "traits": [
             {
@@ -1255,7 +1255,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "「衣装」変態服",
+        "name": "Outfit Perverted Clothes",
         "note": "<Max Item: 1>",
         "params": [
             0,
