@@ -1441,7 +1441,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]こんにちは\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Hello\");"
                             ]
                         },
                         {
@@ -1455,7 +1455,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]初見です\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Nice to meet you.\");"
                             ]
                         },
                         {
@@ -1511,7 +1511,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]かわいいですね～なんの配信ですか？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Its cute, isnt it? What kind of broadcast is it?\");"
                             ]
                         },
                         {
@@ -1563,7 +1563,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]何、何ペイ?\");"
+                                "$gameSystem.addLog(\"\\\\C[7]What, what pay??\");"
                             ]
                         },
                         {
@@ -1608,7 +1608,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]おいおい緊張しすぎだろｗｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Youre way too nervous.ｗｗ\");"
                             ]
                         },
                         {
@@ -1622,7 +1622,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]草草\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Hasty\");"
                             ]
                         },
                         {
@@ -1636,7 +1636,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]雑談配信だったん？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Was it a casual streaming?\");"
                             ]
                         },
                         {
@@ -1716,7 +1716,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]くそつまんな乙\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Boring, huh?\");"
                             ]
                         },
                         {
@@ -1730,7 +1730,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]パンツ見せて\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Show me your panties.\");"
                             ]
                         },
                         {
@@ -1890,7 +1890,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]ばっかじゃねーの？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Are you an idiot?\");"
                             ]
                         },
                         {
@@ -1904,7 +1904,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]かわいいｗｗｗｗｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Cuteｗｗｗｗｗ\");"
                             ]
                         },
                         {
@@ -1918,7 +1918,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]わざとじゃね？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Is it on purpose?\");"
                             ]
                         },
                         {

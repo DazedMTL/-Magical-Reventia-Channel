@@ -2299,7 +2299,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"勝った？勝った？？\");"
+                                "$gameSystem.addLog(\"Did you win? Did you win??\");"
                             ]
                         },
                         {
@@ -2313,7 +2313,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"レヴァンティア最高!!!\");"
+                                "$gameSystem.addLog(\"Levantia is the best.!!!\");"
                             ]
                         },
                         {
@@ -2327,14 +2327,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"なんかめっちゃ\");"
+                                "$gameSystem.addLog(\"Whats wrong?\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"キモかった\");"
+                                "$gameSystem.addLog(\"It was gross.\");"
                             ]
                         },
                         {
@@ -2348,14 +2348,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"めっちゃキラキラしてて\");"
+                                "$gameSystem.addLog(\"Theyre sparkling so much.\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"映画を見るような気分だった\");"
+                                "$gameSystem.addLog(\"I felt like watching a movie.\");"
                             ]
                         },
                         {
@@ -2369,7 +2369,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"魔法少女すげ\");"
+                                "$gameSystem.addLog(\"Magical Girl Suge\");"
                             ]
                         },
                         {

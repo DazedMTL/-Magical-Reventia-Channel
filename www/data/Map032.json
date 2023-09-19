@@ -4337,7 +4337,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]また新しい配信が始まったな\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Another new release has started.\");"
                             ]
                         },
                         {
@@ -4351,7 +4351,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ここはどこですか？カフェ？\");"
+                                "$gameSystem.addLog(\"Where is this place? A cafe?\");"
                             ]
                         },
                         {
@@ -4365,7 +4365,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"レビュー配信ですか？\");"
+                                "$gameSystem.addLog(\"Is it a review distribution?\");"
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"女？今、女の声したよな？\");"
+                                "$gameSystem.addLog(\"Female? Did I just hear a female voice?\");"
                             ]
                         },
                         {
@@ -4490,28 +4490,28 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]配信してる方、もしかして女性ですか？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Are you the one streaming? Are you possibly a woman?\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]失礼にならなければ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]If its not rude...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]顔の方も撮っていただきたいのですが\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I would like you to take a picture of my face as well.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]大丈夫でしょうか？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Are you okay?\");"
                             ]
                         },
                         {

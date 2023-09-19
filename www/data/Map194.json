@@ -1560,7 +1560,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]なんだ本物か？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]What is the real thing?\");"
                             ]
                         },
                         {
@@ -1574,7 +1574,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]街を守る魔法少女が\");"
+                                "$gameSystem.addLog(\"\\\\C[7]The magical girl who protects the town\");"
                             ]
                         },
                         {
@@ -1588,7 +1588,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]こんな配信してもいいのか？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Is it okay to stream something like this?\");"
                             ]
                         },
                         {
@@ -1701,7 +1701,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]草草草草\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Grass grass grass grass\");"
                             ]
                         },
                         {
@@ -1845,14 +1845,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]いや、お前どんだけレヴァンティアが\");"
+                                "$gameSystem.addLog(\"\\\\C[7]No, how obsessed are you with Levantia?\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]配信してると思ってるねんｗｗｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[7]They think Im streaming.ｗｗｗ\");"
                             ]
                         },
                         {
@@ -1866,14 +1866,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]あの人他の配信でも\");"
+                                "$gameSystem.addLog(\"\\\\C[7]That person also appears in other streams.\");"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]あんなデュフチャしなかったっけ？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Didnt we do that kind of stuff before?\");"
                             ]
                         },
                         {

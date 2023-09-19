@@ -47,37 +47,35 @@ function revanAtk() {
                     vari.atk = 100;
                     $gameVariables.setValue(18, vari.atk);
                     $gameVariables.setValue(10, 400);
-                    if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[101]をとらえた。'); }
-                    if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[82]をとらえた。'); }
-                    if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[86]をとらえた。'); }
-                    if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[90]をとらえた。'); }
+                    if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia has caught \\v[101].'); }
+                    if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia has caught \\v[82].'); }
+                    if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia has caught \\v[86].'); }
+                    if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia has caught \\v[90].'); }
                 } else if (vari.kindMind >= 800 && vari.kindMind < 5000) {
                     vari.atk = 150;
                     $gameVariables.setValue(18, vari.atk);
                     $gameVariables.setValue(10, 9000);
-                    if ($gameSwitches.value(77)) { $gameVariables.setValue(279, '意思を貫かんとする絶え間ない連撃が\\v[101]に向かって降り注ぐ。'); }
-                    if ($gameSwitches.value(78)) { $gameVariables.setValue(279, '意思を貫かんとする絶え間ない連撃が\\v[82]に向かって降り注ぐ。'); }
-                    if ($gameSwitches.value(79)) { $gameVariables.setValue(279, '意思を貫かんとする絶え間ない連撃が\\v[86]に向かって降り注ぐ。'); }
-                    if ($gameSwitches.value(80)) { $gameVariables.setValue(279, '意思を貫かんとする絶え間ない連撃が\\v[90]に向かって降り注ぐ。'); }
+                    if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'Unrelenting continuous attacks, determined to pierce through, rain down on \\v[101].'); }
+                    if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'Unrelenting continuous attacks, determined to pierce through, rain down on \\v[82].'); }
+                    if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'Unrelenting continuous attacks, determined to pierce through, rain down on \\v[86].'); }
+                    if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'Unrelenting continuous attacks, determined to pierce through, rain down on \\v[90].'); }
                 } else if (vari.kindMind >= 5000 && vari.kindMind < 30000) {
                     vari.atk = 250;
                     $gameVariables.setValue(18, vari.atk);
                     $gameVariables.setValue(10, 60000);
-                    if ($gameSwitches.value(77)) { $gameVariables.setValue(279, '目で追えない一閃が\\v[101]の中心を正しく貫いた！'); }
-                    if ($gameSwitches.value(78)) { $gameVariables.setValue(279, '目で追えない一閃が\\v[82]の中心を正しく貫いた！'); }
-                    if ($gameSwitches.value(79)) { $gameVariables.setValue(279, '目で追えない一閃が\\v[86]の中心を正しく貫いた！'); }
-                    if ($gameSwitches.value(80)) { $gameVariables.setValue(279, '目で追えない一閃が\\v[90]の中心を正しく貫いた！'); }
+                    if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'An untraceable flash accurately pierced through the center of \\v[101]!'); }
+                    if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'An untraceable flash accurately pierced through the center of \\v[82]!'); }
+                    if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'An untraceable flash accurately pierced through the center of \\v[86]!'); }
+                    if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'An untraceable flash accurately pierced through the center of \\v[90]!'); }
                 } else if (vari.kindMind >= 30000) {
                     vari.atk = 500;
                     $gameVariables.setValue(18, vari.atk);
                     $gameVariables.setValue(10, 150000);
-                    $gameVariables.setValue(279, '誰かを救うための意思が光の刃となって、目の前の苦難を切り裂いた！');
-                };
+                    $gameVariables.setValue(279, 'The determination to save someone transformed into a blade of light and tore through the adversity in front!');                };
             } else {
                 $gameVariables.setValue(18, 1000);
                 $gameVariables.setValue(10, 300000);
-                $gameVariables.setValue(279, '誰かを救うための意思が光の刃となって、目の前の苦難を切り裂いた！');
-            }
+                $gameVariables.setValue(279, 'The will to save someone transformed into a blade of light and cleaved through the adversity in front!');            }
             break;
 
         case 2:
@@ -85,29 +83,29 @@ function revanAtk() {
                 vari.atk = 100;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(10, 200);
-                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の光が\\v[101]に的中した。'); }
-                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の光が\\v[82]に的中した。'); }
-                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の光が\\v[86]に的中した。'); }
-                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の光が\\v[90]に的中した。'); }
+                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'The magical light unleashed by Levantia struck \\v[101].'); }
+                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'The magical light unleashed by Levantia struck \\v[82].'); }
+                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'The magical light unleashed by Levantia struck \\v[86].'); }
+                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'The magical light unleashed by Levantia struck \\v[90].'); }
             } else if (vari.kindMind >= 2500 && vari.kindMind < 20000) {
                 vari.atk = 100;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(10, 5000);
-                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'レヴァンティアが呼び起こす風の力が\\v[101]の戦意を吹き飛ばす。'); }
-                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'レヴァンティアが呼び起こす風の力が\\v[82]の戦意を吹き飛ばす。'); }
-                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'レヴァンティアが呼び起こす風の力が\\v[86]の戦意を吹き飛ばす。'); }
-                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'レヴァンティアが呼び起こす風の力が\\v[90]の戦意を吹き飛ばす。'); }
+                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'The power of wind summoned by Levantia blows away the fighting spirit of \\v[101].'); }
+                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'The power of wind summoned by Levantia blows away the fighting spirit of \\v[82].'); }
+                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'The power of wind summoned by Levantia blows away the fighting spirit of \\v[86].'); }
+                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'The power of wind summoned by Levantia blows away the fighting spirit of \\v[90].'); }
             } else if (vari.kindMind >= 20000 && vari.kindMind < 70000) {
                 vari.atk = 150;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(10, 40000);
-                $gameVariables.setValue(279, '煌めく閃光が敵陣を走り、感電された敵をマヒさせた！');
+                $gameVariables.setValue(279, 'Gleaming flashes of light raced through the enemy ranks, paralyzing the electrified foes!');
             } else if (vari.kindMind >= 70000) {
                 vari.atk = 200;
                 $gameSwitches.setValue(36, true);
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(10, 150000);
-                $gameVariables.setValue(279, 'レヴァンティアの意思のこもった破魔の炎が邪悪な存在を焼き尽くして浄化する！');
+                $gameVariables.setValue(279, 'The purifying flames imbued with Levantias determination engulf and cleanse the wicked presence, completely incinerating it!');
             }
             break;
 
@@ -116,25 +114,25 @@ function revanAtk() {
                 vari.atk = 150;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 400);
-                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[101]の体を切り刻む。'); }
-                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[82]の体を切り刻む。'); }
-                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[86]の体を切り刻む。'); }
-                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'レヴァンティアが振り回した鋭い剣が\\v[90]の体を切り刻む。'); }
+                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia cuts through the body of \\v[101].'); }
+                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia cuts through the body of \\v[82].'); }
+                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia cuts through the body of \\v[86].'); }
+                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'The sharp sword swung by Levantia cuts through the body of \\v[90].'); }
             } else if (vari.badMind >= 800 && vari.badMind < 5000) {
                 vari.atk = 250;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 9000);
-                $gameVariables.setValue(279, '加減なき連撃がヴィランの体に数多くの刺し傷を残した！');
+                $gameVariables.setValue(279, 'Relentless barrage of attacks left numerous stab wounds on the body of the villain!');
             } else if (vari.badMind >= 5000 && vari.badMind < 30000) {
                 vari.atk = 400;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 60000);
-                $gameVariables.setValue(279, '上空から振り回された強靭な一撃に周辺が無差別的に爆散した！');
+                $gameVariables.setValue(279, 'The surrounding area exploded indiscriminately from a powerful blow swung from above!');
             } else if (vari.badMind >= 30000) {
                 vari.atk = 750;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 150000);
-                $gameVariables.setValue(279, '悪を討伐する苛烈な正義が蒼炎の剣となって目の前のすべてを両断する！');
+                $gameVariables.setValue(279, 'The relentless justice that defeats evil transforms into a sword of azure flames and cleaves everything before it in half!');
             }
             break;
 
@@ -143,30 +141,30 @@ function revanAtk() {
                 vari.atk = 100;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 800);
-                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の矢が\\v[101]を貫いた！'); }
-                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の矢が\\v[82]を貫いた！'); }
-                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の矢が\\v[86]を貫いた！'); }
-                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'レヴァンティアが放つ魔力の矢が\\v[90]を貫いた！'); }
+                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'The magical arrow released by Levantia pierced through \\v[101]!'); }
+                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'The magical arrow released by Levantia pierced through \\v[82]!'); }
+                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'The magical arrow released by Levantia pierced through \\v[86]!'); }
+                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'The magical arrow released by Levantia pierced through \\v[90]!'); }
             } else if (vari.badMind >= 1500 && vari.badMind < 10000) {
                 vari.atk = 150;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 20000);
-                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'レヴァンティアの手ぶりに従い、風の刃が\\v[101]の全身を加減なく切り刻む！'); }
-                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'レヴァンティアの手ぶりに従い、風の刃が\\v[82]の全身を加減なく切り刻む！'); }
-                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'レヴァンティアの手ぶりに従い、風の刃が\\v[86]の全身を加減なく切り刻む！'); }
-                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'レヴァンティアの手ぶりに従い、風の刃が\\v[90]の全身を加減なく切り刻む！'); }
+                if ($gameSwitches.value(77)) { $gameVariables.setValue(279, 'Following Levantias gesture, blades of wind ruthlessly cut through the entire body of \\v[101]!'); }
+                if ($gameSwitches.value(78)) { $gameVariables.setValue(279, 'Following Levantias gesture, blades of wind ruthlessly cut through the entire body of \\v[82]!'); }
+                if ($gameSwitches.value(79)) { $gameVariables.setValue(279, 'Following Levantias gesture, blades of wind ruthlessly cut through the entire body of \\v[86]!'); }
+                if ($gameSwitches.value(80)) { $gameVariables.setValue(279, 'Following Levantias gesture, blades of wind ruthlessly cut through the entire body of \\v[90]!'); }
             } else if (vari.badMind >= 10000 && vari.badMind < 50000) {
                 vari.atk = 200;
                 $gameSwitches.setValue(36, true);
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 150000);
-                $gameVariables.setValue(279, '地面から浮き上がった大きい手が、掌の上の虫けらどもを軽く踏みつぶした。');
+                $gameVariables.setValue(279, 'A large hand rising from the ground lightly crushed the insignificant insects upon its palm.');
             } else if (vari.badMind >= 50000) {
                 vari.atk = 350;
                 $gameSwitches.setValue(36, true);
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 150000);
-                $gameVariables.setValue(279, '絶対零度の凍土がレヴァンティア以外のすべてを凍らせ、静寂な平穏が漂った…。');
+                $gameVariables.setValue(279, 'The absolute zero frozen terrain froze everything except for Levantia, and a calm silence permeated the surroundings...');
             }
             break;
     }

@@ -2939,7 +2939,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]レヴァンティア復活キタ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Levantia has revived.\");"
                             ]
                         },
                         {
@@ -2960,7 +2960,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]本当に立てた、すごい！\");"
+                                "$gameSystem.addLog(\"\\\\C[0]They really stood up, amazing!\");"
                             ]
                         },
                         {
@@ -2974,7 +2974,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]これが…デュフチャの力…？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]This is... the power of Dufucha...?\");"
                             ]
                         },
                         {
@@ -2988,7 +2988,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]100円の奴でも効果あるんだな\");"
+                                "$gameSystem.addLog(\"\\\\C[0]100It seems even the circular one is effective.\");"
                             ]
                         },
                         {
@@ -3002,14 +3002,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]でも勢いで赤デュフ送った。\");"
+                                "$gameSystem.addLog(\"\\\\C[0]But I impulsively sent a Red Duff.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]後悔はない。\");"
+                                "$gameSystem.addLog(\"\\\\C[0]No regrets.\");"
                             ]
                         },
                         {
@@ -3032,7 +3032,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]てかあの子めっちゃ泣いてたwww\");"
+                                "$gameSystem.addLog(\"\\\\C[0]They were crying a lot.www\");"
                             ]
                         },
                         {
@@ -3046,14 +3046,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]手のひら返しうますぎる\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Theyre really good at turning the tables.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]先までめっちゃ泣いてた癖に\");"
+                                "$gameSystem.addLog(\"\\\\C[0]They were crying a lot until just now.\");"
                             ]
                         },
                         {
@@ -3076,7 +3076,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]レヴァンティア、絶対に見てみて\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Levantia, you absolutely have to see it.\");"
                             ]
                         },
                         {

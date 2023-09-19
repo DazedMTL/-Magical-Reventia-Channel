@@ -1593,7 +1593,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]こんにちは～～\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Hello～～\");"
                             ]
                         },
                         {
@@ -1638,7 +1638,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]こんばんは～\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Good evening.～\");"
                             ]
                         },
                         {
@@ -1744,7 +1744,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]いや、聞いてない\");"
+                                "$gameSystem.addLog(\"\\\\C[7]No, I didnt hear it.\");"
                             ]
                         },
                         {
@@ -1758,7 +1758,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]確かに聞こえた\");"
+                                "$gameSystem.addLog(\"\\\\C[7]I definitely heard it.\");"
                             ]
                         },
                         {
@@ -1772,7 +1772,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]聞き間違いじゃね？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]Did you mishear?\");"
                             ]
                         },
                         {
@@ -1786,7 +1786,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[7]で、今日何やるの？\");"
+                                "$gameSystem.addLog(\"\\\\C[7]So, what are you doing today?\");"
                             ]
                         },
                         {

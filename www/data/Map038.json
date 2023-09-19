@@ -2742,14 +2742,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ライマス～\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Lymus～\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ライマス～\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Lymus～\");"
                             ]
                         },
                         {
@@ -2763,14 +2763,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]あの子誰?\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Who is that child??\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]なんかのコスチューム？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Some kind of costume?\");"
                             ]
                         },
                         {
@@ -2784,14 +2784,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]魔法少女じゃんｗｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Magical girl, huh?ｗｗ\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]かわいい\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Cute\");"
                             ]
                         },
                         {
@@ -2805,7 +2805,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]前回ドタキャンしたやつじゃん\");"
+                                "$gameSystem.addLog(\"\\\\C[0]The one who canceled last time, right?\");"
                             ]
                         },
                         {
@@ -3207,7 +3207,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]まじかよｗｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Seriously?ｗｗ\");"
                             ]
                         },
                         {
@@ -3221,7 +3221,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]大変そう\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Looks tough.\");"
                             ]
                         },
                         {
@@ -3235,7 +3235,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]いくらもらってます？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]How much are you getting paid?\");"
                             ]
                         },
                         {
@@ -3249,7 +3249,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]なんでそんな仕事してるんですか？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Why are you doing such a job?\");"
                             ]
                         },
                         {
@@ -3531,14 +3531,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"反応ｗｗ\");"
+                                "$gameSystem.addLog(\"Reactionｗｗ\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"お酒嫌いなの？\");"
+                                "$gameSystem.addLog(\"Do you dislike alcohol?\");"
                             ]
                         },
                         {
@@ -3552,7 +3552,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"棒読みｗｗｗｗ\");"
+                                "$gameSystem.addLog(\"Reading aloudｗｗｗｗ\");"
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"マジつまらん乙\");"
+                                "$gameSystem.addLog(\"This is seriously boring.\");"
                             ]
                         },
                         {
@@ -3873,7 +3873,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ふざけんな\");"
+                                "$gameSystem.addLog(\"Dont mess around.\");"
                             ]
                         },
                         {
@@ -3887,7 +3887,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"うそ乙\");"
+                                "$gameSystem.addLog(\"Nice try with the lie.\");"
                             ]
                         },
                         {
@@ -3901,7 +3901,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"草ｗ\");"
+                                "$gameSystem.addLog(\"Grassｗ\");"
                             ]
                         },
                         {
@@ -3981,7 +3981,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"童貞多いなｗｗｗｗｗｗ\");"
+                                "$gameSystem.addLog(\"There are a lot of virgins.ｗｗｗｗｗｗ\");"
                             ]
                         },
                         {
@@ -4334,7 +4334,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"飲んじゃえ！\");"
+                                "$gameSystem.addLog(\"Drink up!\");"
                             ]
                         },
                         {
@@ -4348,7 +4348,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"な～んで持ってんの？！\");"
+                                "$gameSystem.addLog(\"Why do you have it?!\");"
                             ]
                         },
                         {
@@ -4386,7 +4386,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"飲んで飲んで飲んで飲んで～\");"
+                                "$gameSystem.addLog(\"Drink, drink, drink, drink～\");"
                             ]
                         },
                         {
@@ -4400,7 +4400,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"飲み足りないから持ってんの！？\");"
+                                "$gameSystem.addLog(\"Why do you have it because you havent had enough to drink!?\");"
                             ]
                         },
                         {
@@ -4575,7 +4575,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"お\");"
+                                "$gameSystem.addLog(\"Oh\");"
                             ]
                         },
                         {
@@ -4589,7 +4589,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"お\");"
+                                "$gameSystem.addLog(\"Oh\");"
                             ]
                         },
                         {
@@ -4603,7 +4603,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"お\");"
+                                "$gameSystem.addLog(\"Oh\");"
                             ]
                         },
                         {
@@ -4617,7 +4617,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"飲んだ\");"
+                                "$gameSystem.addLog(\"Drank\");"
                             ]
                         },
                         {
@@ -4699,7 +4699,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"かわいいｗｗｗｗｗｗ\");"
+                                "$gameSystem.addLog(\"Cuteｗｗｗｗｗｗ\");"
                             ]
                         },
                         {
@@ -4737,7 +4737,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"コスプレか？\");"
+                                "$gameSystem.addLog(\"Cosplay, huh?\");"
                             ]
                         },
                         {
@@ -4751,7 +4751,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ガチの魔法少女\");"
+                                "$gameSystem.addLog(\"Serious Magical Girl\");"
                             ]
                         },
                         {
@@ -4812,7 +4812,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"本当だよ\");"
+                                "$gameSystem.addLog(\"Its true.\");"
                             ]
                         },
                         {
@@ -4826,7 +4826,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"禿同\");"
+                                "$gameSystem.addLog(\"Baldy\");"
                             ]
                         },
                         {
@@ -4857,7 +4857,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"禿同\");"
+                                "$gameSystem.addLog(\"Baldy\");"
                             ]
                         },
                         {
@@ -4871,7 +4871,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"禿同\");"
+                                "$gameSystem.addLog(\"Baldy\");"
                             ]
                         },
                         {
@@ -5050,21 +5050,21 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[1]● デュフチャ :\");"
+                                "$gameSystem.addLog(\"\\\\C[1]● Dufucha :\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[1]この変態！俺のレヴァちゃんを\");"
+                                "$gameSystem.addLog(\"\\\\C[1]This pervert! Theyre messing with my Levantia...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[1]酔わせて何するつもりだ！\");"
+                                "$gameSystem.addLog(\"\\\\C[1]What do you intend to do by getting me drunk!\");"
                             ]
                         },
                         {
@@ -5078,7 +5078,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"アホか？\");"
+                                "$gameSystem.addLog(\"Are you an idiot?\");"
                             ]
                         },
                         {
@@ -5092,7 +5092,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"なんだこいつ\");"
+                                "$gameSystem.addLog(\"Whats with this person?\");"
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"チー牛か？\");"
+                                "$gameSystem.addLog(\"Chi Cow?\");"
                             ]
                         },
                         {
@@ -5120,7 +5120,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"逝ってヨシ！\");"
+                                "$gameSystem.addLog(\"Go and die!\");"
                             ]
                         },
                         {
@@ -5188,7 +5188,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[2]当アカウントは停止されました。\");"
+                                "$gameSystem.addLog(\"\\\\C[2]This account has been suspended.\");"
                             ]
                         },
                         {
@@ -5308,7 +5308,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ごめんね\");"
+                                "$gameSystem.addLog(\"Im sorry.\");"
                             ]
                         },
                         {
@@ -5322,7 +5322,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"みんなああいう感じじゃないんだ\");"
+                                "$gameSystem.addLog(\"Not everyone is like that.\");"
                             ]
                         },
                         {
@@ -5336,7 +5336,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"逃げないで\");"
+                                "$gameSystem.addLog(\"Dont run away.\");"
                             ]
                         },
                         {
@@ -5395,7 +5395,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"はよ\");"
+                                "$gameSystem.addLog(\"Hurry up.\");"
                             ]
                         },
                         {
@@ -5454,7 +5454,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"松男はマジでバーテンダーやれよ\");"
+                                "$gameSystem.addLog(\"Matsuo, seriously, become a bartender.\");"
                             ]
                         },
                         {
@@ -5485,7 +5485,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ガチで\");"
+                                "$gameSystem.addLog(\"Seriously\");"
                             ]
                         },
                         {
@@ -5516,7 +5516,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"手際いいねｗｗ\");"
+                                "$gameSystem.addLog(\"Youre skillful.ｗｗ\");"
                             ]
                         },
                         {
@@ -5554,7 +5554,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"俺も飲みたい\");"
+                                "$gameSystem.addLog(\"I want to drink too.\");"
                             ]
                         },
                         {
@@ -9746,7 +9746,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"つまんな\");"
+                                "$gameSystem.addLog(\"Boring\");"
                             ]
                         },
                         {
@@ -9760,7 +9760,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"みんなFC3いくぞ\");"
+                                "$gameSystem.addLog(\"Everyone, lets go to FC3.\");"
                             ]
                         },
                         {
@@ -9774,7 +9774,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"解散解散\");"
+                                "$gameSystem.addLog(\"Disband, disband.\");"
                             ]
                         },
                         {
@@ -9788,7 +9788,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"今日レヴァちゃん女にしてやろうぜ\");"
+                                "$gameSystem.addLog(\"Today, Ill turn Levachan into a woman.\");"
                             ]
                         },
                         {
@@ -9802,7 +9802,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"魔法熟女ｗｗｗ\");"
+                                "$gameSystem.addLog(\"Magical Mature Womanｗｗｗ\");"
                             ]
                         },
                         {
@@ -9859,7 +9859,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"誰か来たぞ\");"
+                                "$gameSystem.addLog(\"Someone is here.\");"
                             ]
                         },
                         {
@@ -9904,7 +9904,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"誰？\");"
+                                "$gameSystem.addLog(\"Who?\");"
                             ]
                         },
                         {
@@ -9918,7 +9918,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"生配信やれよクソ野郎\");"
+                                "$gameSystem.addLog(\"Do a live stream, you damn bastard.\");"
                             ]
                         },
                         {
@@ -9980,7 +9980,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"やっべ\");"
+                                "$gameSystem.addLog(\"Shit\");"
                             ]
                         },
                         {
@@ -9994,7 +9994,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"マネージャー？\");"
+                                "$gameSystem.addLog(\"Manager?\");"
                             ]
                         },
                         {
@@ -10039,7 +10039,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"惜しいな\");"
+                                "$gameSystem.addLog(\"Too bad.\");"
                             ]
                         },
                         {
@@ -10053,7 +10053,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"これは惜しい\");"
+                                "$gameSystem.addLog(\"This is close.\");"
                             ]
                         },
                         {
@@ -10084,7 +10084,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"魔法少女にもマネージャーとかいんのか\");"
+                                "$gameSystem.addLog(\"Do magical girls have managers too?\");"
                             ]
                         },
                         {
@@ -10098,7 +10098,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"空気読めないやつだなｗｗ\");"
+                                "$gameSystem.addLog(\"Youre someone who cant read the atmosphere, huh?ｗｗ\");"
                             ]
                         },
                         {
@@ -10136,7 +10136,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"残念や\");"
+                                "$gameSystem.addLog(\"Too bad.\");"
                             ]
                         },
                         {
@@ -10150,7 +10150,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"バイバイ～\");"
+                                "$gameSystem.addLog(\"Goodbye～\");"
                             ]
                         },
                         {
@@ -10164,7 +10164,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"バイバイ\");"
+                                "$gameSystem.addLog(\"Goodbye\");"
                             ]
                         },
                         {
@@ -10178,7 +10178,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ガチで惜しい\");"
+                                "$gameSystem.addLog(\"So close\");"
                             ]
                         },
                         {
@@ -10192,7 +10192,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"ほんまそれよ\");"
+                                "$gameSystem.addLog(\"Thats really true.\");"
                             ]
                         },
                         {

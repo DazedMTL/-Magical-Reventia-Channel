@@ -2478,14 +2478,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]えっ、松男さん本当に\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Huh, Matsuo-san, are you really...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]あの太郎サンだったの!?\");"
+                                "$gameSystem.addLog(\"\\\\C[0]It was Taro-san.!?\");"
                             ]
                         },
                         {
@@ -2499,14 +2499,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]誰?\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Who??\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]前世のこと?\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Past life?\");"
                             ]
                         },
                         {
@@ -2520,14 +2520,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]健康の問題っていうから心配してたけど\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I was worried because they said it was a health issue.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]無事で何よりです\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Im glad youre safe.\");"
                             ]
                         },
                         {
@@ -2541,14 +2541,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]なんでヴィランなんかやってんの?\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Why are you doing something like being a villain??\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]おれ、相談でめっちゃ救われたんだけど\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I was really saved by the advice I received.\");"
                             ]
                         },
                         {
@@ -2562,7 +2562,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]意外と知ってるやつ多くね？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Surprisingly, there are a lot of people who know about it, right?\");"
                             ]
                         },
                         {
@@ -2576,7 +2576,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]同じコンテンツやってたし\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I was doing the same content.\");"
                             ]
                         },
                         {
@@ -2770,7 +2770,7 @@
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ちょっとわけわかんないんですが?\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Im a little confused.?\");"
                             ]
                         },
                         {
@@ -2784,14 +2784,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]さすがにそれは\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Indeed, that is...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ネガティブすぎるのでは？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Is it too negative?\");"
                             ]
                         },
                         {
@@ -2805,14 +2805,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]別に筋肉で推してた\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I wasnt particularly into muscles.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]わけじゃないし\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Its not like that.\");"
                             ]
                         },
                         {
@@ -2826,14 +2826,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]確かに、見るようになったのは\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Indeed, I started to see it.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ムキムキ筋肉動画だったけど\");"
+                                "$gameSystem.addLog(\"\\\\C[0]It was a muscular muscle video, but...\");"
                             ]
                         },
                         {
@@ -2920,14 +2920,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]松男の筋トレ、別に\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Matsuos muscle training, its nothing special.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ハード系じゃないしね\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Its not a hardcore game, you know.\");"
                             ]
                         },
                         {
@@ -2941,14 +2941,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]ニードのキモオタの俺、\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Im a creepy otaku named Need.、\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]松男の動画で10キロ減量成功\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Matsuos video successfully achieved a 10 kilogram weight loss.\");"
                             ]
                         },
                         {
@@ -2962,14 +2962,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]そもそも私筋トレの動画みないよ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I dont even watch workout videos in the first place.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]俺も\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I too...\");"
                             ]
                         },
                         {
@@ -2983,14 +2983,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]メインはトークじゃね？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Is the main thing talking?\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]それはそれでどうだろｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]How about that?ｗ\");"
                             ]
                         },
                         {
@@ -3004,14 +3004,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]でも松男、基本話よく聞いてくれるし\");"
+                                "$gameSystem.addLog(\"\\\\C[0]But Matsuo, they usually listen well to what I have to say.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]それな\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Thats right.\");"
                             ]
                         },
                         {
@@ -3025,14 +3025,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]恋愛相談はよかったな～\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Love advice was good.～\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]再公開もしなかったし\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I didnt even re-release it.\");"
                             ]
                         },
                         {
@@ -3046,7 +3046,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]松男のおかげで友達ができました\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Thanks to Matsuo, I made friends.\");"
                             ]
                         },
                         {
@@ -3060,14 +3060,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]松男のおかげで持病だった\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Thanks to Matsuo, my chronic illness...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]腰が治りました。\");"
+                                "$gameSystem.addLog(\"\\\\C[0]My waist has healed.\");"
                             ]
                         },
                         {
@@ -3081,14 +3081,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]松男のおかげで彼女が\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Thanks to Matsuo, she...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]できたらいいな\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I hope it works out.\");"
                             ]
                         },
                         {
@@ -3665,14 +3665,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]いや、俺普通に松男のこと\");"
+                                "$gameSystem.addLog(\"\\\\C[0]No, I just mean Matsuo...\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]応援してるけど\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Im cheering for you, but...\");"
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]もしかして許されないと思ってる？\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Do you think its unforgivable by any chance?\");"
                             ]
                         },
                         {
@@ -3700,14 +3700,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]いつもレヴァンティアに殴られた\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I always get beaten up by Levantia.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]イメージしかないんだよな\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I only have an image in my mind.\");"
                             ]
                         },
                         {
@@ -3721,7 +3721,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]松男…ｗｗ\");"
+                                "$gameSystem.addLog(\"\\\\C[0]Matsuo…ｗｗ\");"
                             ]
                         },
                         {
@@ -3735,14 +3735,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]気持ちはわかる。\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I understand how you feel.\");"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.addLog(\"\\\\C[0]俺も中学の頃によくやってた\");"
+                                "$gameSystem.addLog(\"\\\\C[0]I used to do it a lot when I was in middle school.\");"
                             ]
                         },
                         {
