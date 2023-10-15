@@ -83,13 +83,13 @@ if (!Imported.SE_Core) {
     };
 }
 
-(function () {
+(function (){
     /*╔════════════╗
       ║ Parameters ║
       ╚════════════╝*/
     SE.Params = SE.Params || {};
     SE.Params.SkipTitle = PluginManager.parameters('SE_SkipTitle');
-    for (let key in SE.Params.SkipTitle) { SE.Params.SkipTitle[key] = SE.Params.SkipTitle[key].replace("\r", ""); } // Because: fix stupid RMMV bug (https://forums.rpgmakerweb.com/index.php?threads/parameter-string-does-not-equal-string.113697/)
+	for (let key in SE.Params.SkipTitle) { SE.Params.SkipTitle[key] = SE.Params.SkipTitle[key].replace("\r", ""); } // Because: fix stupid RMMV bug (https://forums.rpgmakerweb.com/index.php?threads/parameter-string-does-not-equal-string.113697/)
     SE.Params.SkipTitle = SE.parseParameters(JSON.stringify(SE.Params.SkipTitle));
     let params = SE.Params.SkipTitle; // Alias
     SE.SkipTitle = SE.SkipTitle || {};
@@ -101,7 +101,8 @@ if (!Imported.SE_Core) {
 
 (function () {
 
-    function bShowTitleScreen() {
+    function bShowTitleScreen()
+    {
         return (DataManager.isAnySavefileExists() && (SE.Params.SkipTitle.SkipIfSavefile === false));
     }
 
@@ -140,11 +141,14 @@ if (!Imported.SE_Core) {
       ║ Alias: SceneManager.goto ║
       ╚══════════════════════════╝*/
     SE.Alias.SkipTitleScreen_SceneManager_goto = SceneManager.goto;
-    SceneManager.goto = function (sceneClass) {
-        if (SE.SkipTitle.SkipTitleEntirely === true && sceneClass === Scene_Title) {
+    SceneManager.goto = function(sceneClass)
+    {
+        if (SE.SkipTitle.SkipTitleEntirely === true && sceneClass === Scene_Title)
+        {
             SE.Alias.SkipTitleScreen_SceneManager_goto.call(this, eval(SE.SkipTitle.StartSceneAsStr));
         }
-        else {
+        else
+        {
             SE.Alias.SkipTitleScreen_SceneManager_goto.apply(this, arguments);
         }
     }

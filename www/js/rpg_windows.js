@@ -435,7 +435,7 @@ Window_Base.prototype.calcTextHeight = function (textState, all) {
   for (var i = 0; i < maxLines; i++) {
     var maxFontSize = this.contents.fontSize;
     var regExp = /\x1b[\{\}]/g;
-    for (; ;) {
+    for (;;) {
       var array = regExp.exec(lines[i]);
       if (array) {
         if (array[0] === "\x1b{") {
@@ -835,7 +835,7 @@ Window_Selectable.prototype.spacing = function () {
 Window_Selectable.prototype.itemWidth = function () {
   return Math.floor(
     (this.width - this.padding * 2 + this.spacing()) / this.maxCols() -
-    this.spacing()
+      this.spacing()
   );
 };
 
@@ -1330,7 +1330,7 @@ Window_Selectable.prototype.drawAllItems = function () {
   }
 };
 
-Window_Selectable.prototype.drawItem = function (index) { };
+Window_Selectable.prototype.drawItem = function (index) {};
 
 Window_Selectable.prototype.clearItem = function (index) {
   var rect = this.itemRect(index);
@@ -1398,7 +1398,7 @@ Window_Command.prototype.clearCommandList = function () {
   this._list = [];
 };
 
-Window_Command.prototype.makeCommandList = function () { };
+Window_Command.prototype.makeCommandList = function () {};
 
 Window_Command.prototype.addCommand = function (name, symbol, enabled, ext) {
   if (enabled === undefined) {
@@ -1690,7 +1690,7 @@ Window_MenuCommand.prototype.addFormationCommand = function () {
   }
 };
 
-Window_MenuCommand.prototype.addOriginalCommands = function () { };
+Window_MenuCommand.prototype.addOriginalCommands = function () {};
 
 Window_MenuCommand.prototype.addOptionsCommand = function () {
   if (this.needsCommand("options")) {
@@ -2569,7 +2569,7 @@ Window_EquipItem.prototype.isEnabled = function (item) {
   return true;
 };
 
-Window_EquipItem.prototype.selectLast = function () { };
+Window_EquipItem.prototype.selectLast = function () {};
 
 Window_EquipItem.prototype.setStatusWindow = function (statusWindow) {
   this._statusWindow = statusWindow;
@@ -2585,7 +2585,7 @@ Window_EquipItem.prototype.updateHelp = function () {
   }
 };
 
-Window_EquipItem.prototype.playOkSound = function () { };
+Window_EquipItem.prototype.playOkSound = function () {};
 
 //-----------------------------------------------------------------------------
 // Window_Status
@@ -2959,7 +2959,7 @@ Window_SavefileList.prototype.drawPlaytime = function (info, x, y, width) {
   }
 };
 
-Window_SavefileList.prototype.playOkSound = function () { };
+Window_SavefileList.prototype.playOkSound = function () {};
 
 //-----------------------------------------------------------------------------
 // Window_ShopCommand
@@ -3294,7 +3294,7 @@ Window_ShopNumber.prototype.isOkTriggered = function () {
   return Input.isTriggered("ok");
 };
 
-Window_ShopNumber.prototype.playOkSound = function () { };
+Window_ShopNumber.prototype.playOkSound = function () {};
 
 Window_ShopNumber.prototype.processNumberChange = function () {
   if (this.isOpenAndActive()) {

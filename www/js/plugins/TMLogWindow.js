@@ -173,7 +173,7 @@
 var Imported = Imported || {};
 Imported.TMLogWindow = true;
 
-(function () {
+(function() {
 
 	parameters = PluginManager.parameters('TMLogWindow');
 	logWindowX = +(parameters['logWindowX'] || 0);
@@ -195,7 +195,7 @@ Imported.TMLogWindow = true;
 	// Game_Temp
 	//
 
-	Game_Temp.prototype.dummyWindow = function () {
+	Game_Temp.prototype.dummyWindow = function() {
 		if (!this._dummyWindow) {
 			this._dummyWindow = new Window_Base(0, 0, 64, 64);
 		}
@@ -207,56 +207,56 @@ Imported.TMLogWindow = true;
 	//
 
 	var _Game_System_initialize = Game_System.prototype.initialize;
-	Game_System.prototype.initialize = function () {
+	Game_System.prototype.initialize = function() {
 		_Game_System_initialize.call(this);
 		this._visibleLogWindow = logWindowStartVisible;
 		this._mirrorLogWindow = false;
 		this._autoLogWindow = true;
 		this._actionLog = [];
 	};
-
-	Game_System.prototype.isVisibleLogWindow = function () {
+	
+	Game_System.prototype.isVisibleLogWindow = function() {
 		return this._visibleLogWindow;
 	};
 
-	Game_System.prototype.isMirrorLogWindow = function () {
+	Game_System.prototype.isMirrorLogWindow = function() {
 		return this._mirrorLogWindow;
 	};
 
-	Game_System.prototype.isAutoLogWindow = function () {
+	Game_System.prototype.isAutoLogWindow = function() {
 		return this._autoLogWindow;
 	};
 
-	Game_System.prototype.setVisibleLogWindow = function (visible) {
+	Game_System.prototype.setVisibleLogWindow = function(visible) {
 		this._visibleLogWindow = visible;
 	};
 
-	Game_System.prototype.setMirrorMode = function (flag) {
+	Game_System.prototype.setMirrorMode = function(flag) {
 		this._mirrorLogWindow = flag;
 	};
 
-	Game_System.prototype.setAutoMode = function (flag) {
+	Game_System.prototype.setAutoMode = function(flag) {
 		this._autoLogWindow = flag;
 	};
 
 
 
-	// //==============================
-	// // * sprite create
-	// //==============================
+// //==============================
+// // * sprite create
+// //==============================
 
-	// 	Game_System.prototype.createFields = function() {
-	// 		this._field = new Sprite();
-	// 		this.addChild(this._field);
-	// 	}
-	// 	// Game_System.prototype.createBackground = function() {
-	// 	// 	this._backSprite = new Sprite();
-	// 	// 	this._backSprite.bitmap = new Bitmap(320, 30);
-	// 	// 	this._backSprite.bitmap.fillAll(3);
-	// 	// 	this.addChild(this._backSprite);
-	// 	// }
+// 	Game_System.prototype.createFields = function() {
+// 		this._field = new Sprite();
+// 		this.addChild(this._field);
+// 	}
+// 	// Game_System.prototype.createBackground = function() {
+// 	// 	this._backSprite = new Sprite();
+// 	// 	this._backSprite.bitmap = new Bitmap(320, 30);
+// 	// 	this._backSprite.bitmap.fillAll(3);
+// 	// 	this.addChild(this._backSprite);
+// 	// }
 
-	Game_System.prototype.addLog = function (text) {
+	Game_System.prototype.addLog = function(text) {
 		text = $gameTemp.dummyWindow().convertEscapeCharacters(text);
 		this._actionLog.push(`\\TA[1]\\C[0]` + text);
 		// this.createFields();
@@ -266,23 +266,23 @@ Imported.TMLogWindow = true;
 		this._needsActionLogRefresh = true;
 	};
 
-	Game_System.prototype.deleteLog = function () {
+	Game_System.prototype.deleteLog = function() {
 		if (this._actionLog.length > 0) {
 			this._actionLog.shift();
 			this._needsActionLogRefresh = true;
 		}
 	};
 
-	Game_System.prototype.actionLog = function () {
+	Game_System.prototype.actionLog = function() {
 		return this._actionLog;
 	};
-
+	
 	//-----------------------------------------------------------------------------
 	// Game_Message
 	//
 
 	var _Game_Message_add = Game_Message.prototype.add;
-	Game_Message.prototype.add = function (text) {
+	Game_Message.prototype.add = function(text) {
 		_Game_Message_add.call(this, text);
 		if ($gameSystem.isMirrorLogWindow()) {
 			$gameSystem.addLog(text);
@@ -295,7 +295,7 @@ Imported.TMLogWindow = true;
 
 	// レベルアップの表示
 	var _Game_Actor_displayLevelUp = Game_Actor.prototype.displayLevelUp;
-	Game_Actor.prototype.displayLevelUp = function (newSkills) {
+	Game_Actor.prototype.displayLevelUp = function(newSkills) {
 		_Game_Actor_displayLevelUp.call(this, newSkills);
 		if ($gameSystem.isAutoLogWindow() && !$gameParty.inBattle()) {
 			var text = TextManager.levelUp.format(this._name, TextManager.level, this._level);
@@ -308,7 +308,7 @@ Imported.TMLogWindow = true;
 	//
 
 	var _Game_Event_gainRewards = Game_Event.prototype.gainRewards;
-	Game_Event.prototype.gainRewards = function () {
+	Game_Event.prototype.gainRewards = function() {
 		if ($gameSystem.isAutoLogWindow()) {
 			var battler = this.battler();
 			var exp = battler.exp();
@@ -322,7 +322,7 @@ Imported.TMLogWindow = true;
 				if (exp > 0) {
 					rewardText += ' / ';
 				}
-				rewardText += '' + gold + '\\C[16]' + TextManager.currencyUnit + '\\C[0]';
+				rewardText += '' + gold + '\\C[16]' + TextManager.currencyUnit + '\\C[0]'; 
 			}
 			if (rewardText) {
 				text += ' ( ' + rewardText + ' )';
@@ -333,21 +333,21 @@ Imported.TMLogWindow = true;
 	};
 
 	var _Game_Event_gainRewardItem = Game_Event.prototype.gainRewardItem;
-	Game_Event.prototype.gainRewardItem = function (item, y) {
+	Game_Event.prototype.gainRewardItem = function(item, y) {
 		_Game_Event_gainRewardItem.call(this, item, y);
 		if ($gameSystem.isAutoLogWindow()) {
 			var text = TextManager.obtainItem.format(item.name);
 			$gameSystem.addLog(text);
 		}
 	};
-
+	
 	//-----------------------------------------------------------------------------
 	// Game_Interpreter
 	//
 
 	// プラグインコマンド
 	var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-	Game_Interpreter.prototype.pluginCommand = function (command, args) {
+	Game_Interpreter.prototype.pluginCommand = function(command, args) {
 		_Game_Interpreter_pluginCommand.call(this, command, args);
 		if (command === 'showLogWindow') {
 			$gameSystem.setVisibleLogWindow(true);
@@ -381,7 +381,7 @@ Imported.TMLogWindow = true;
 	Window_MapLog.prototype = Object.create(Window_Base.prototype);
 	Window_MapLog.prototype.constructor = Window_MapLog;
 
-	Window_MapLog.prototype.initialize = function () {
+	Window_MapLog.prototype.initialize = function() {
 		var x = logWindowX;
 		var y = logWindowY;
 		var wight = this.windowWidth();
@@ -396,36 +396,36 @@ Imported.TMLogWindow = true;
 		this.setColor();
 	};
 
-	Window_MapLog.prototype.setColor = function () {
+	Window_MapLog.prototype.setColor = function() {
 		return this.textColor(6);
 	}
 
-	Window_MapLog.prototype.standardFontSize = function () {
+	Window_MapLog.prototype.standardFontSize = function() {
 		return logWindowFontSize;
 	};
 
 	// ウィンドウの幅を取得
-	Window_MapLog.prototype.windowWidth = function () {
+	Window_MapLog.prototype.windowWidth = function() {
 		return logWindowWidth;
 	};
 
 	// ウィンドウの高さを取得
-	Window_MapLog.prototype.windowHeight = function () {
+	Window_MapLog.prototype.windowHeight = function() {
 		return this.fittingHeight(logWindowLines);
 	};
 
 	// 標準パディングを取得
-	Window_MapLog.prototype.standardPadding = function () {
+	Window_MapLog.prototype.standardPadding = function() {
 		return logWindowPadding;
 	};
 
 	// ウィンドウの１行の高さを取得
-	Window_MapLog.prototype.lineHeight = function () {
+	Window_MapLog.prototype.lineHeight = function() {
 		return logWindowLineHeight;
 	};
 
 	// フレーム更新
-	Window_MapLog.prototype.update = function () {
+	Window_MapLog.prototype.update = function() {
 		Window_Base.prototype.update.call(this);
 		if (logWindowAutoDelete > 0) {
 			var maxCount = $gameVariables.value(logWindowAutoDelete);
@@ -453,12 +453,12 @@ Imported.TMLogWindow = true;
 	};
 
 	// ウィンドウ表示状態の更新
-	Window_MapLog.prototype.updateVisibility = function () {
+	Window_MapLog.prototype.updateVisibility = function() {
 		if (!$gameSystem.isVisibleLogWindow()) {
 			return false;
 		}
 		if ((logWindowEventBusyHide && $gameMap.isEventRunning()) ||
-			(logWindowMessageBusyHide && $gameMessage.isBusy())) {
+				(logWindowMessageBusyHide && $gameMessage.isBusy())) {
 			this._hideCount++;
 		} else {
 			this._hideCount = 0;
@@ -467,11 +467,11 @@ Imported.TMLogWindow = true;
 	};
 
 	// 不透明度の更新
-	Window_MapLog.prototype.updateOpacity = function () {
+	Window_MapLog.prototype.updateOpacity = function() {
 		if (this.x < $gamePlayer.screenX() + 24 &&
-			this.x + this.windowWidth() > $gamePlayer.screenX() - 24 &&
-			this.y < $gamePlayer.screenY() &&
-			this.y + this.windowHeight() > $gamePlayer.screenY() - 48) {
+				this.x + this.windowWidth() > $gamePlayer.screenX() - 24 &&
+				this.y < $gamePlayer.screenY() &&
+				this.y + this.windowHeight() > $gamePlayer.screenY() - 48) {
 			this.opacity = Math.min(logWindowCollideOpacity, logWindowOpacity);
 			this.contentsOpacity = logWindowCollideOpacity;
 		} else {
@@ -481,7 +481,7 @@ Imported.TMLogWindow = true;
 	};
 
 	// リフレッシュ
-	Window_MapLog.prototype.refresh = function () {
+	Window_MapLog.prototype.refresh = function() {
 		this.contents.clear();
 		var actionLog = $gameSystem.actionLog();
 		var lh = this.lineHeight();
@@ -502,7 +502,7 @@ Imported.TMLogWindow = true;
 	Window_MenuLog.prototype = Object.create(Window_Selectable.prototype);
 	Window_MenuLog.prototype.constructor = Window_MenuLog;
 
-	Window_MenuLog.prototype.initialize = function () {
+	Window_MenuLog.prototype.initialize = function() {
 		Window_Selectable.prototype.initialize.call(this, 0, 0, Graphics.boxWidth, Graphics.boxHeight);
 		this._data = $gameSystem.actionLog();
 		this.refresh();
@@ -510,28 +510,28 @@ Imported.TMLogWindow = true;
 		this.activate();
 	};
 
-	Window_MenuLog.prototype.standardFontSize = function () {
+	Window_MenuLog.prototype.standardFontSize = function() {
 		return logWindowFontSize;
 	};
 
-	Window_MenuLog.prototype.standardPadding = function () {
+	Window_MenuLog.prototype.standardPadding = function() {
 		return logWindowPadding;
 	};
 
-	Window_MenuLog.prototype.lineHeight = function () {
+	Window_MenuLog.prototype.lineHeight = function() {
 		return logWindowLineHeight;
 	};
 
-	Window_MenuLog.prototype.maxItems = function () {
+	Window_MenuLog.prototype.maxItems = function() {
 		return this._data ? this._data.length : 1;
 	};
 
-	Window_MenuLog.prototype.item = function () {
+	Window_MenuLog.prototype.item = function() {
 		var index = this.index();
 		return this._data && index >= 0 ? this._data[index] : null;
 	};
 
-	Window_MenuLog.prototype.drawItem = function (index) {
+	Window_MenuLog.prototype.drawItem = function(index) {
 		var item = this._data[index];
 		if (item) {
 			var rect = this.itemRectForText(index);
@@ -544,19 +544,19 @@ Imported.TMLogWindow = true;
 	//
 
 	var _Scene_Map_createDisplayObjects = Scene_Map.prototype.createDisplayObjects;
-	Scene_Map.prototype.createDisplayObjects = function () {
+	Scene_Map.prototype.createDisplayObjects = function() {
 		_Scene_Map_createDisplayObjects.call(this);
 		this.createMapLogWindow();
 	};
 
 	// ログウィンドウの作成
-	Scene_Map.prototype.createMapLogWindow = function () {
+	Scene_Map.prototype.createMapLogWindow = function() {
 		this._mapLogWindow = new Window_MapLog();
 		this.addChild(this._mapLogWindow);
 	};
 
 	var _Scene_Map_terminate = Scene_Map.prototype.terminate;
-	Scene_Map.prototype.terminate = function () {
+	Scene_Map.prototype.terminate = function() {
 		if (!SceneManager.isNextScene(Scene_Battle)) {
 			this._mapLogWindow.hide();
 		}
@@ -564,13 +564,13 @@ Imported.TMLogWindow = true;
 	};
 
 	var _Scene_Map_launchBattle = Scene_Map.prototype.launchBattle;
-	Scene_Map.prototype.launchBattle = function () {
+	Scene_Map.prototype.launchBattle = function() {
 		this._mapLogWindow.hide();
 		this.removeChild(this._mapLogWindow);
 		this._mapLogWindow = null;
 		_Scene_Map_launchBattle.call(this);
 	};
-
+	
 	//-----------------------------------------------------------------------------
 	// Scene_Log
 	//
@@ -582,16 +582,16 @@ Imported.TMLogWindow = true;
 	Scene_Log.prototype = Object.create(Scene_MenuBase.prototype);
 	Scene_Log.prototype.constructor = Scene_Log;
 
-	Scene_Log.prototype.initialize = function () {
+	Scene_Log.prototype.initialize = function() {
 		Scene_MenuBase.prototype.initialize.call(this);
 	};
 
-	Scene_Log.prototype.create = function () {
+	Scene_Log.prototype.create = function() {
 		Scene_MenuBase.prototype.create.call(this);
 		this.createCreditsWindow();
 	};
 
-	Scene_Log.prototype.createCreditsWindow = function () {
+	Scene_Log.prototype.createCreditsWindow = function() {
 		this._logWindow = new Window_MenuLog();
 		this._logWindow.setHandler('ok', this.popScene.bind(this));
 		this._logWindow.setHandler('cancel', this.popScene.bind(this));

@@ -618,7 +618,7 @@
     'use strict';
 
     const pluginName = 'MPP_MapLight';
-
+    
     // Plugin Parameters
     const parameters = PluginManager.parameters(pluginName);
     const paramReplace = (key, value) => {
@@ -633,12 +633,12 @@
     const param_DarknessSize = Number(parameters['Darkness Size'] || 3);
     const param_AdditiveAlpha = Number(parameters['Additive Alpha'] || 0);
     const param_DarknessPriority = Number(parameters['Darkness Priority'] || 9);
-
+    
     // Dealing with other plugins
     const _importedPlugin = (...names) => {
         return names.some(name => PluginManager._scripts.includes(name));
     };
-
+    
     const __base = (obj, prop) => {
         if (obj.hasOwnProperty(prop)) {
             return obj[prop];
@@ -654,29 +654,29 @@
 
     //-----------------------------------------------------------------------------
     // Bitmap
-
+    
     if (!Bitmap.prototype.destroy) {
-
-        Bitmap.prototype.destroy = function () {
+        
+        Bitmap.prototype.destroy = function() {
             if (this._baseTexture) {
                 this._baseTexture.destroy();
                 this.__baseTexture = null;
             }
             this._destroyCanvas();
         };
-
-        Bitmap.prototype._destroyCanvas = function () {
+        
+        Bitmap.prototype._destroyCanvas = function() {
             if (this._canvas) {
                 this._canvas.width = 0;
                 this._canvas.height = 0;
                 this.__canvas = null;
             }
         };
-
+        
     }
 
-    Bitmap.prototype.mppBlur = function (level) {
-        const { canvas, context, width: w, height: h } = this;
+    Bitmap.prototype.mppBlur = function(level) {
+        const { canvas, context, width:w, height:h } = this;
         const tempCanvas = document.createElement('canvas');
         const tempContext = tempCanvas.getContext('2d');
         tempCanvas.width = w + 2;
@@ -712,12 +712,12 @@
     // Tilemap
 
     const _Tilemap_destroy = __base(Tilemap.prototype, 'destroy');
-    Tilemap.prototype.destroy = function () {
+    Tilemap.prototype.destroy = function() {
         this.destroyDarknessBitmap();
         _Tilemap_destroy.apply(this, arguments);
     };
 
-    Tilemap.prototype.destroyDarknessBitmap = function () {
+    Tilemap.prototype.destroyDarknessBitmap = function() {
         if (this._darknessLayer.bitmap) {
             this._darknessLayer.bitmap.destroy();
         }
@@ -727,12 +727,12 @@
     };
 
     const _Tilemap__createLayers = Tilemap.prototype._createLayers;
-    Tilemap.prototype._createLayers = function () {
+    Tilemap.prototype._createLayers = function() {
         _Tilemap__createLayers.apply(this, arguments);
         this._createDarknessLayer();
     };
 
-    Tilemap.prototype._createDarknessLayer = function () {
+    Tilemap.prototype._createDarknessLayer = function() {
         if (this._darknessLayer) {
             this.destroyDarknessBitmap();
             this.createDarknessBitmap();
@@ -749,7 +749,7 @@
         }
     };
 
-    Tilemap.prototype.createDarknessBitmap = function () {
+    Tilemap.prototype.createDarknessBitmap = function() {
         const size = param_DarknessSize;
         const widthWithMargin = this.width + this._margin * 2;
         const heightWithMargin = this.height + this._margin * 2;
@@ -770,7 +770,7 @@
     };
 
     const _Tilemap_updateTransform = Tilemap.prototype.updateTransform;
-    Tilemap.prototype.updateTransform = function () {
+    Tilemap.prototype.updateTransform = function() {
         const ox = Math.ceil(this.origin.x);
         const oy = Math.ceil(this.origin.y);
         const startX = Math.floor((ox - this._margin) / this.tileWidth);
@@ -784,7 +784,7 @@
         }
     };
 
-    Tilemap.prototype._moveDarkness = function (x, y) {
+    Tilemap.prototype._moveDarkness = function(x, y) {
         this._darknessLayer.move(x, y);
         this._darknessLayer.opacity = $gameMap.darknessOpacity();
         if (this._additiveLayer) {
@@ -795,7 +795,7 @@
         }
     };
 
-    Tilemap.prototype._paintDarknessLayer = function (startX, startY) {
+    Tilemap.prototype._paintDarknessLayer = function(startX, startY) {
         const sx = startX - this.origin.x / this.tileWidth;
         const sy = startY - this.origin.y / this.tileHeight;
         this._paintDarkness();
@@ -806,7 +806,7 @@
         }
     };
 
-    Tilemap.prototype._paintDarknessAllLight = function (layer, sx, sy) {
+    Tilemap.prototype._paintDarknessAllLight = function(layer, sx, sy) {
         const allMapLights = $gameMap.allMapLights();
         allMapLights.sort((a, b) => {
             return (
@@ -819,17 +819,17 @@
         }
     };
 
-    Tilemap.prototype._paintDarkness = function () {
+    Tilemap.prototype._paintDarkness = function() {
         this._darknessLayer.fillAll('black');
     };
 
     //-------------------------------------------------------------------------
     // ShaderTilemap
-
+    
     if (Utils.RPGMAKER_NAME === 'MV') {
 
         const _ShaderTilemap_updateTransform = ShaderTilemap.prototype.updateTransform;
-        ShaderTilemap.prototype.updateTransform = function () {
+        ShaderTilemap.prototype.updateTransform = function() {
             const ox = this.roundPixels ? Math.floor(this.origin.x) : this.origin.x;
             const oy = this.roundPixels ? Math.floor(this.origin.y) : this.origin.y;
             const startX = Math.floor((ox - this._margin) / this.tileWidth);
@@ -842,7 +842,7 @@
         };
 
         const _ShaderTilemap__createLayers = ShaderTilemap.prototype._createLayers;
-        ShaderTilemap.prototype._createLayers = function () {
+        ShaderTilemap.prototype._createLayers = function() {
             _ShaderTilemap__createLayers.apply(this, arguments);
             this._createDarknessLayer();
         };
@@ -851,11 +851,11 @@
 
     //-----------------------------------------------------------------------------
     // DarknessLayer
-
+    
     function DarknessLayer() {
         this.initialize(...arguments);
     }
-
+    
     if (_importedPlugin('MPP_MapLight_Op2')) {
         window.DarknessLayer = DarknessLayer;
     }
@@ -865,7 +865,7 @@
 
     DarknessLayer._frontBitmaps = {};
 
-    DarknessLayer.createFrontBitmap = function (rgb) {
+    DarknessLayer.createFrontBitmap = function(rgb) {
         const dict = this._frontBitmaps;
         if (!dict[rgb]) {
             const { Radius: radius = 6, Angle: angle = 90 } = param_FrontLight;
@@ -893,35 +893,35 @@
         return dict[rgb];
     };
 
-    DarknessLayer.destroyFrontBitmap = function () {
+    DarknessLayer.destroyFrontBitmap = function() {
         for (const bitmap of Object.values(this._frontBitmaps)) {
             bitmap.destroy();
         }
         this._frontBitmaps = {};
     };
 
-    DarknessLayer.prototype.initialize = function () {
+    DarknessLayer.prototype.initialize = function() {
         Sprite.prototype.initialize.call(this);
         this.blendMode = 2;
     };
 
-    DarknessLayer.prototype.destroy = function () {
+    DarknessLayer.prototype.destroy = function() {
         DarknessLayer.destroyFrontBitmap();
         Sprite.prototype.destroy.call(this);
     };
 
-    DarknessLayer.prototype.clear = function () {
+    DarknessLayer.prototype.clear = function() {
         this.bitmap.clear();
     };
 
-    DarknessLayer.prototype.fillAll = function (color) {
+    DarknessLayer.prototype.fillAll = function(color) {
         const bitmap = this.bitmap;
         const context = bitmap.context;
         context.globalCompositeOperation = 'copy';
         bitmap.fillAll(color);
     };
 
-    DarknessLayer.prototype.paintMapLight = function (mapLight, sx, sy) {
+    DarknessLayer.prototype.paintMapLight = function(mapLight, sx, sy) {
         if (mapLight.isValid()) {
             const dx = mapLight.scrolledX() - sx + 0.5;
             const dy = mapLight.scrolledY() - sy + 0.4;
@@ -935,20 +935,20 @@
         }
     };
 
-    DarknessLayer.prototype._paintFrontLight = function (x, y, rgb, angle, alpha) {
+    DarknessLayer.prototype._paintFrontLight = function(x, y, rgb, angle, alpha) {
         const frontBitmap = DarknessLayer.createFrontBitmap(rgb);
         const size = param_DarknessSize;
         const bitmap = this.bitmap;
         const context = bitmap.context;
-        const { width: sw, height: sh } = frontBitmap;
+        const { width:sw, height:sh } = frontBitmap;
         const dx = -sw / 2 * size / 4;
         const dy = -param_FrontLight.Oy * size / 4;
         const dw = sw * size / 4;
         const dh = sh * size / 4;
-
+        
         // MVで size = 4, angle = 0 の場合、他の値の小数点以下が無視されるため、その対処
         if (size === 4 && Utils.RPGMAKER_NAME === 'MV') angle = angle || 0.1;
-
+        
         context.save();
         context.translate(x * size, y * size);
         context.rotate(angle * Math.PI / 180);
@@ -957,7 +957,7 @@
         context.restore();
     };
 
-    DarknessLayer.prototype._paintNormalMapLight = function (x, y, rgb, r, alpha) {
+    DarknessLayer.prototype._paintNormalMapLight = function(x, y, rgb, r, alpha) {
         const size = param_DarknessSize;
         const dx = x * size;
         const dy = y * size;
@@ -975,7 +975,7 @@
 
     //-----------------------------------------------------------------------------
     // AdditiveLayer
-
+    
     function AdditiveLayer() {
         this.initialize(...arguments);
     }
@@ -983,12 +983,12 @@
     AdditiveLayer.prototype = Object.create(DarknessLayer.prototype);
     AdditiveLayer.prototype.constructor = AdditiveLayer;
 
-    AdditiveLayer.prototype.initialize = function () {
+    AdditiveLayer.prototype.initialize = function() {
         DarknessLayer.prototype.initialize.call(this);
         this.blendMode = 1;
     };
 
-    AdditiveLayer.prototype.destroy = function () {
+    AdditiveLayer.prototype.destroy = function() {
         Sprite.prototype.destroy.call(this);
     };
 
@@ -1020,7 +1020,7 @@
         }
     });
 
-    Game_MapLight.prototype.initialize = function () {
+    Game_MapLight.prototype.initialize = function() {
         this._eventId = 0;
         this._x = 0;
         this._y = 0;
@@ -1037,7 +1037,7 @@
         this._angleDuration = 0;
     };
 
-    Game_MapLight.prototype.subject = function () {
+    Game_MapLight.prototype.subject = function() {
         if (this._eventId < 0) {
             return $gamePlayer;
         } else if (this._eventId > 0) {
@@ -1046,22 +1046,22 @@
         return null;
     };
 
-    Game_MapLight.prototype.rgb = function () {
+    Game_MapLight.prototype.rgb = function() {
         return this._colorIndex > 0
             ? param_LightColors[this._colorIndex - 1]
             : null;
     };
 
-    Game_MapLight.prototype.priority = function () {
+    Game_MapLight.prototype.priority = function() {
         const subject = this.subject();
         return subject && subject.screenZ() > 3 ? 1 : 0;
     };
 
-    Game_MapLight.prototype.isFront = function () {
+    Game_MapLight.prototype.isFront = function() {
         return this._isFront;
     };
 
-    Game_MapLight.prototype.isValid = function () {
+    Game_MapLight.prototype.isValid = function() {
         return (
             (this._radius > 0 || this._isFront) &&
             this._opacity > 0 &&
@@ -1069,7 +1069,7 @@
         );
     };
 
-    Game_MapLight.prototype.setCharLight = function (
+    Game_MapLight.prototype.setCharLight = function(
         eventId, radius, colorIndex, amplitude
     ) {
         this._isFront = false;
@@ -1083,7 +1083,7 @@
         this._angleDuration = 0;
     };
 
-    Game_MapLight.prototype.setPosLight = function (
+    Game_MapLight.prototype.setPosLight = function(
         x, y, radius, colorIndex, amplitude
     ) {
         this._isFront = false;
@@ -1099,7 +1099,7 @@
         this._angleDuration = 0;
     };
 
-    Game_MapLight.prototype.setFrontLight = function (
+    Game_MapLight.prototype.setFrontLight = function(
         eventId, colorIndex, amplitude
     ) {
         const subject = this.subject();
@@ -1115,13 +1115,13 @@
         this._radius = 0;
     };
 
-    Game_MapLight.prototype.skip = function () {
+    Game_MapLight.prototype.skip = function() {
         this._radius = this._targetRadius;
         this._opacity = this._targetOpacity;
         this.setupAmplitude();
     };
 
-    Game_MapLight.prototype.setupAmplitude = function () {
+    Game_MapLight.prototype.setupAmplitude = function() {
         if (this._targetOpacity > 0 && this._amplitude > 0) {
             this._targetOpacity = 255 - Math.randomInt(255 * this._amplitude / 100);
             this._moveDuration = 8;
@@ -1130,12 +1130,12 @@
         }
     };
 
-    Game_MapLight.prototype.update = function () {
+    Game_MapLight.prototype.update = function() {
         this.updateMove();
         this.updateAngle();
     };
 
-    Game_MapLight.prototype.updateMove = function () {
+    Game_MapLight.prototype.updateMove = function() {
         if (this._moveDuration > 0) {
             const d = this._moveDuration--;
             this._radius = (this._radius * (d - 1) + this._targetRadius) / d;
@@ -1144,7 +1144,7 @@
         }
     };
 
-    Game_MapLight.prototype.updateAngle = function () {
+    Game_MapLight.prototype.updateAngle = function() {
         if (this._isFront) {
             const subject = this.subject();
             if (subject) {
@@ -1163,14 +1163,14 @@
         }
     };
 
-    Game_MapLight.prototype.startAngle = function (subject) {
+    Game_MapLight.prototype.startAngle = function(subject) {
         this._angleDuration = param_FrontLight['Turn Duration'] || 0;
         if (this._angleDuration === 0) {
             this._angle = this.directionAngle(subject);
         }
     };
 
-    Game_MapLight.prototype.targetAngle = function (subject) {
+    Game_MapLight.prototype.targetAngle = function(subject) {
         let result = this.directionAngle(subject);
         const sa = this._angle - result;
         if (Math.abs(sa) > Math.abs(sa - 360)) result += 360;
@@ -1178,7 +1178,7 @@
         return result;
     };
 
-    Game_MapLight.prototype.directionAngle = function (subject) {
+    Game_MapLight.prototype.directionAngle = function(subject) {
         if (subject) {
             switch (subject.direction()) {
                 case 2: return 0;
@@ -1194,12 +1194,12 @@
         return 0;
     };
 
-    Game_MapLight.prototype.scrolledX = function () {
+    Game_MapLight.prototype.scrolledX = function() {
         const subject = this.subject();
         return subject ? subject.scrolledX() : $gameMap.adjustX(this._x);
     };
 
-    Game_MapLight.prototype.scrolledY = function () {
+    Game_MapLight.prototype.scrolledY = function() {
         const subject = this.subject();
         return subject ? subject.scrolledY() : $gameMap.adjustY(this._y);
     };
@@ -1208,7 +1208,7 @@
     // Game_Map
 
     const _Game_Map_setup = Game_Map.prototype.setup;
-    Game_Map.prototype.setup = function (mapId) {
+    Game_Map.prototype.setup = function(mapId) {
         this._mapLights = {};
         _Game_Map_setup.apply(this, arguments);
         this._darkness = 0;
@@ -1217,7 +1217,7 @@
         }
     };
 
-    Game_Map.prototype.setupMapLightCommand = function () {
+    Game_Map.prototype.setupMapLightCommand = function() {
         for (const [name, param] of Object.entries($dataMap.meta)) {
             const match = /^PosLight\s+(\d+)\s*,\s*(\d+)\s*$/.exec(name);
             if (match) {
@@ -1234,22 +1234,22 @@
         }
     };
 
-    Game_Map.prototype.darknessOpacity = function () {
+    Game_Map.prototype.darknessOpacity = function() {
         return 255 * this._darkness / 100;
     };
 
-    Game_Map.prototype.setDarkness = function (opacity) {
+    Game_Map.prototype.setDarkness = function(opacity) {
         this._darkness = math_clamp(opacity, 0, 100);
     };
 
-    Game_Map.prototype.allMapLights = function () {
+    Game_Map.prototype.allMapLights = function() {
         return [
             ...Object.values(this._mapLights),
             ...$gamePlayer.allMapLights()
         ];
     };
 
-    Game_Map.prototype.getMapLight = function (key) {
+    Game_Map.prototype.getMapLight = function(key) {
         const dict = this._mapLights;
         if (!dict[key]) {
             dict[key] = new Game_MapLight();
@@ -1257,36 +1257,36 @@
         return dict[key];
     };
 
-    Game_Map.prototype.setCharLight = function (eventId, r = 0, c = 0, a = 0) {
+    Game_Map.prototype.setCharLight = function(eventId, r = 0, c = 0, a = 0) {
         this.getMapLight(`char${eventId}`).setCharLight(eventId, r, c, a);
     };
 
-    Game_Map.prototype.setPosLight = function (x, y, r = 0, c = 0, a = 0) {
+    Game_Map.prototype.setPosLight = function(x, y, r = 0, c = 0, a = 0) {
         this.getMapLight(`pos${x},${y}`).setPosLight(x, y, r, c, a);
     };
 
-    Game_Map.prototype.setFrontLight = function (eventId, c = 0, a = 0) {
+    Game_Map.prototype.setFrontLight = function(eventId, c = 0, a = 0) {
         this.getMapLight(`front${eventId}`).setFrontLight(eventId, c, a);
     };
 
-    Game_Map.prototype.eraseCharLight = function (eventId) {
+    Game_Map.prototype.eraseCharLight = function(eventId) {
         this.eraseLight(`char${eventId}`);
     };
 
-    Game_Map.prototype.erasePosLight = function (x, y) {
+    Game_Map.prototype.erasePosLight = function(x, y) {
         this.eraseLight(`pos${x},${y}`);
     };
 
-    Game_Map.prototype.eraseFrontLight = function (eventId) {
+    Game_Map.prototype.eraseFrontLight = function(eventId) {
         this.eraseLight(`front${eventId}`);
     };
 
-    Game_Map.prototype.eraseLight = function (key) {
+    Game_Map.prototype.eraseLight = function(key) {
         delete this._mapLights[key];
     };
 
     const _Game_Map_update = Game_Map.prototype.update;
-    Game_Map.prototype.update = function (sceneActive) {
+    Game_Map.prototype.update = function(sceneActive) {
         _Game_Map_update.apply(this, arguments);
         for (const light of this.allMapLights()) {
             light.update();
@@ -1297,30 +1297,30 @@
     // Game_Event
 
     const _Game_Event_clearPageSettings = Game_Event.prototype.clearPageSettings;
-    Game_Event.prototype.clearPageSettings = function () {
+    Game_Event.prototype.clearPageSettings = function() {
         _Game_Event_clearPageSettings.apply(this, arguments);
         this.clearCharLight();
         this.clearFrontLight();
     };
-
-    Game_Event.prototype.clearCharLight = function () {
+    
+    Game_Event.prototype.clearCharLight = function() {
         $gameMap.eraseCharLight(this.eventId());
     };
-
-    Game_Event.prototype.clearFrontLight = function () {
+    
+    Game_Event.prototype.clearFrontLight = function() {
         $gameMap.eraseFrontLight(this.eventId());
     };
-
-    Game_Event.prototype.startCharLight = function (r = 0, c = 0, a = 0) {
+    
+    Game_Event.prototype.startCharLight = function(r = 0, c = 0, a = 0) {
         $gameMap.setCharLight(this.eventId(), r, c, a);
     };
-
-    Game_Event.prototype.startFrontLight = function (c = 0, a = 0) {
+    
+    Game_Event.prototype.startFrontLight = function(c = 0, a = 0) {
         $gameMap.setFrontLight(this.eventId(), c, a);
     };
-
+    
     const _Game_Event_setupPageSettings = Game_Event.prototype.setupPageSettings;
-    Game_Event.prototype.setupPageSettings = function () {
+    Game_Event.prototype.setupPageSettings = function() {
         _Game_Event_setupPageSettings.apply(this, arguments);
         if (!this.setupCharLight()) {
             this.clearCharLight();
@@ -1330,7 +1330,7 @@
         }
     };
 
-    Game_Event.prototype.setupCharLight = function () {
+    Game_Event.prototype.setupCharLight = function() {
         const comment = this.getCommentCommand('CharLight', '灯り');
         if (comment) {
             const [_, ...args] = comment.split(' ');
@@ -1340,7 +1340,7 @@
         return false;
     };
 
-    Game_Event.prototype.setupFrontLight = function () {
+    Game_Event.prototype.setupFrontLight = function() {
         const comment = this.getCommentCommand('FrontLight', '前方灯り');
         if (comment) {
             const [_, ...args] = comment.split(' ');
@@ -1350,7 +1350,7 @@
         return false;
     };
 
-    Game_Event.prototype.getCommentCommand = function (...commandNames) {
+    Game_Event.prototype.getCommentCommand = function(...commandNames) {
         for (const evCom of this.list()) {
             if (evCom.code === 108 || evCom.code === 408) {
                 const comment = evCom.parameters[0];
@@ -1368,58 +1368,58 @@
     // Game_Player
 
     const _Game_Player_initMembers = Game_Player.prototype.initMembers;
-    Game_Player.prototype.initMembers = function () {
+    Game_Player.prototype.initMembers = function() {
         _Game_Player_initMembers.apply(this, arguments);
         this._charLight = null;
         this._frontLight = null;
     };
-
-    Game_Player.prototype.allMapLights = function () {
+    
+    Game_Player.prototype.allMapLights = function() {
         return [this._charLight, this._frontLight].filter(Boolean);
     };
-
-    Game_Player.prototype.clearCharLight = function () {
+    
+    Game_Player.prototype.clearCharLight = function() {
         this._charLight = null;
     };
-
-    Game_Player.prototype.clearFrontLight = function () {
+    
+    Game_Player.prototype.clearFrontLight = function() {
         this._frontLight = null;
     };
-
-    Game_Player.prototype.startCharLight = function (r = 0, c = 0, a = 0) {
+    
+    Game_Player.prototype.startCharLight = function(r = 0, c = 0, a = 0) {
         if (!this._charLight) {
             this._charLight = new Game_MapLight();
         }
         this._charLight.setCharLight(-1, r, c, a);
     };
-
-    Game_Player.prototype.startFrontLight = function (c = 0, a = 0) {
+    
+    Game_Player.prototype.startFrontLight = function(c = 0, a = 0) {
         if (!this._frontLight) {
             this._frontLight = new Game_MapLight();
         }
         this._frontLight.setFrontLight(-1, c, a);
     };
-
+    
     //-------------------------------------------------------------------------
     // Game_Interpreter
 
     const _mzCommands = {
         SetCharLight: {
-            name: 'setCharLight',
-            keys: ['character', 'radius', 'colorIndex', 'amplitude']
+            name:'setCharLight',
+            keys:['character', 'radius', 'colorIndex', 'amplitude']
         },
         SetPosLight: {
-            name: 'setPosLight',
-            keys: ['x', 'y', 'radius', 'colorIndex', 'amplitude']
+            name:'setPosLight',
+            keys:['x', 'y', 'radius', 'colorIndex', 'amplitude']
         },
         SetFrontLight: {
-            name: 'setFrontLight',
-            keys: ['character', 'colorIndex', 'amplitude']
+            name:'setFrontLight',
+            keys:['character', 'colorIndex', 'amplitude']
         },
-        EraseCharLight: { name: 'eraseCharLight', keys: ['character'] },
-        ErasePosLight: { name: 'erasePosLight', keys: ['x', 'y'] },
-        EraseFrontLight: { name: 'eraseFrontLight', keys: ['character'] },
-        SetMapDarkness: { name: 'setDarkness', keys: ['darkness'] }
+        EraseCharLight: { name:'eraseCharLight', keys:['character'] },
+        ErasePosLight: { name:'erasePosLight', keys:['x', 'y'] },
+        EraseFrontLight: { name:'eraseFrontLight', keys:['character'] },
+        SetMapDarkness: { name:'setDarkness', keys:['darkness'] }
     };
     Object.assign(_mzCommands, {
         'キャラ灯り設定': _mzCommands.SetCharLight,
@@ -1432,7 +1432,7 @@
     });
 
     const _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function (command, args) {
+    Game_Interpreter.prototype.pluginCommand = function(command, args) {
         _Game_Interpreter_pluginCommand.apply(this, arguments);
         const mzCommand = _mzCommands[command];
         if (mzCommand) {
@@ -1446,16 +1446,16 @@
 
     //-------------------------------------------------------------------------
     // PluginManager
-
+    
     if (!PluginManager.registerCommand) {
         PluginManager._commandsMV = PluginManager._commandsMV || {};
 
-        PluginManager.registerCommandMV = function (pluginName, commandName, func) {
+        PluginManager.registerCommandMV = function(pluginName, commandName, func) {
             const key = pluginName + ':' + commandName;
             this._commandsMV[key] = func;
         };
-
-        PluginManager.callCommandMV = function (self, pluginName, commandName, args) {
+        
+        PluginManager.callCommandMV = function(self, pluginName, commandName, args) {
             const key = pluginName + ':' + commandName;
             const func = this._commandsMV[key];
             if (typeof func === 'function') {
@@ -1467,7 +1467,7 @@
     {
         const _registerCommand = PluginManager.registerCommand || PluginManager.registerCommandMV;
 
-        _registerCommand.call(PluginManager, pluginName, 'setCharLight', function (args) {
+        _registerCommand.call(PluginManager, pluginName, 'setCharLight', function(args) {
             const character = this.character(PluginManager.mppValue(args.character));
             const r = PluginManager.mppValue(args.radius);
             const c = PluginManager.mppValue(args.colorIndex);
@@ -1476,7 +1476,7 @@
                 character.startCharLight(r, c, a);
             }
         });
-
+    
         _registerCommand.call(PluginManager, pluginName, 'setPosLight', args => {
             const x = PluginManager.mppValue(args.x);
             const y = PluginManager.mppValue(args.y);
@@ -1485,8 +1485,8 @@
             const a = PluginManager.mppValue(args.amplitude || '0');
             $gameMap.setPosLight(x, y, r, c, a);
         });
-
-        _registerCommand.call(PluginManager, pluginName, 'setFrontLight', function (args) {
+    
+        _registerCommand.call(PluginManager, pluginName, 'setFrontLight', function(args) {
             const character = this.character(PluginManager.mppValue(args.character));
             const c = PluginManager.mppValue(args.colorIndex);
             const a = PluginManager.mppValue(args.amplitude || '0');
@@ -1494,27 +1494,27 @@
                 character.startFrontLight(c, a);
             }
         });
-
-        _registerCommand.call(PluginManager, pluginName, 'eraseCharLight', function (args) {
+    
+        _registerCommand.call(PluginManager, pluginName, 'eraseCharLight', function(args) {
             const character = this.character(PluginManager.mppValue(args.character));
             if (character) {
                 character.clearCharLight();
             }
         });
-
+    
         _registerCommand.call(PluginManager, pluginName, 'erasePosLight', args => {
             const x = PluginManager.mppValue(args.x);
             const y = PluginManager.mppValue(args.y);
             $gameMap.erasePosLight(x, y);
         });
-
-        _registerCommand.call(PluginManager, pluginName, 'eraseFrontLight', function (args) {
+    
+        _registerCommand.call(PluginManager, pluginName, 'eraseFrontLight', function(args) {
             const character = this.character(PluginManager.mppValue(args.character));
             if (character) {
                 character.clearFrontLight();
             }
         });
-
+    
         _registerCommand.call(PluginManager, pluginName, 'setDarkness', args => {
             const darkness = PluginManager.mppValue(args.darkness);
             $gameMap.setDarkness(darkness);
@@ -1522,16 +1522,16 @@
     }
 
 
-    PluginManager.mppValue = function (value) {
+    PluginManager.mppValue = function(value) {
         const match = /^V\[(\d+)\]$/i.exec(value);
         return match ? $gameVariables.value(+match[1]) : +value;
     };
-
+    
     //-------------------------------------------------------------------------
     // Spriteset_Map
 
     const _Spriteset_Map_createTilemap = Spriteset_Map.prototype.createTilemap;
-    Spriteset_Map.prototype.createTilemap = function () {
+    Spriteset_Map.prototype.createTilemap = function() {
         _Spriteset_Map_createTilemap.apply(this, arguments);
         this._tilemap.createDarknessBitmap();
     };

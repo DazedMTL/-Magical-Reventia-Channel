@@ -48,10 +48,10 @@ var Imported = Imported || {};
 
 var OrangeMapshot = OrangeMapshot || {};
 
-(function ($) {
+(function($) {
   "use strict";
 
-  var parameters = $plugins.filter(function (plugin) {
+  var parameters = $plugins.filter(function(plugin) {
     return plugin.description.indexOf('<OrangeMapshot>') >= 0;
   });
   if (parameters.length === 0) {
@@ -70,26 +70,26 @@ var OrangeMapshot = OrangeMapshot || {};
 
   $.Param.keyCode = Number($.Parameters.keyCode || 44);
 
-  $.imageType = function () {
+  $.imageType = function() {
     if ($.Param.imageType == 'webp') return 'image/webp';
     if ($.Param.imageType == 'jpeg' || $.Param.imageType == 'jpg') return 'image/jpeg';
     return 'image/png';
   };
 
-  $.imageRegex = function () {
+  $.imageRegex = function() {
     if ($.Param.imageType == 'webp') return (/^data:image\/webp;base64,/);
     if ($.Param.imageType == 'jpeg' || $.Param.imageType == 'jpg') return (/^data:image\/jpeg;base64,/);
-
+    
     return (/^data:image\/png;base64,/);
   };
 
-  $.fileExtension = function () {
+  $.fileExtension = function() {
     if ($.Param.imageType == 'webp') return '.webp';
     if ($.Param.imageType == 'jpeg' || $.Param.imageType == 'jpg') return '.jpg';
     return '.png';
   };
 
-  $.imageQuality = function () {
+  $.imageQuality = function() {
     if ($.fileExtension() == '.jpg' || $.fileExtension() == '.webp') {
       return Math.min($.Param.imageQuality, 100) / 100;
     }
@@ -97,7 +97,7 @@ var OrangeMapshot = OrangeMapshot || {};
     return 1;
   };
 
-  $.baseFileName = function () {
+  $.baseFileName = function() {
     var mapName = ($gameMap._mapId).padZero(3);
     if ($.Param.useMapName) {
       mapName = $dataMapInfos[$gameMap._mapId].name;
@@ -108,18 +108,18 @@ var OrangeMapshot = OrangeMapshot || {};
     return mapName;
   };
 
-  $.getMapshot = function () {
+  $.getMapshot = function() {
     var lowerBitmap;
     var upperBitmap;
 
-    switch ($.Param.layerType) {
-      case 1:
+    switch($.Param.layerType) {
+      case 1 :
         lowerBitmap = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
         upperBitmap = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
         SceneManager._scene._spriteset._tilemap._paintEverything(lowerBitmap, upperBitmap);
 
         return [lowerBitmap, upperBitmap];
-      case 2:
+      case 2 :
         var groundBitmap = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
         var ground2Bitmap = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
         var lowerBitmapLayer = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
@@ -131,7 +131,7 @@ var OrangeMapshot = OrangeMapshot || {};
 
         SceneManager._scene._spriteset._tilemap._paintLayered(groundBitmap, ground2Bitmap, lowerBitmapLayer, upperBitmapLayer, shadowBitmap, lowerEvents, normalEvents, upperEvents);
         return [groundBitmap, ground2Bitmap, lowerBitmapLayer, upperBitmapLayer, shadowBitmap, lowerEvents, normalEvents, upperEvents];
-      default:
+      default :
         lowerBitmap = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
         upperBitmap = new Bitmap($dataMap.width * $gameMap.tileWidth(), $dataMap.height * $gameMap.tileHeight());
         SceneManager._scene._spriteset._tilemap._paintEverything(lowerBitmap, upperBitmap);
@@ -145,11 +145,11 @@ var OrangeMapshot = OrangeMapshot || {};
 
   function MapShotTileMap() {
   }
-
+  
   MapShotTileMap.prototype = Object.create(Tilemap.prototype);
   MapShotTileMap.prototype.constructor = MapShotTileMap;
 
-  MapShotTileMap.prototype._drawAutotile = function (bitmap, tileId, dx, dy) {
+  MapShotTileMap.prototype._drawAutotile = function(bitmap, tileId, dx, dy) {
     var autotileTable = Tilemap.FLOOR_AUTOTILE_TABLE;
     var kind = Tilemap.getAutotileKind(tileId);
     var shape = Tilemap.getAutotileShape(tileId);
@@ -223,12 +223,12 @@ var OrangeMapshot = OrangeMapshot || {};
           var qsx2 = qsx;
           var qsy2 = 3;
           if (qsy === 1) {
-            qsx2 = [0, 3, 2, 1][qsx];
+            qsx2 = [0,3,2,1][qsx];
           }
           var sx2 = (bx * 2 + qsx2) * w1;
           var sy2 = (by * 2 + qsy2) * h1;
           bitmap.blt(source, sx2, sy2, w1, h1, dx1, dy1, w1, h1);
-          dy1 += h1 / 2;
+          dy1 += h1/2;
           bitmap.blt(source, sx1, sy1, w1, h1 / 2, dx1, dy1, w1, h1 / 2);
         } else {
           bitmap.blt(source, sx1, sy1, w1, h1, dx1, dy1, w1, h1);
@@ -237,7 +237,7 @@ var OrangeMapshot = OrangeMapshot || {};
     }
   };
 
-  MapShotTileMap.prototype._drawNormalTile = function (bitmap, tileId, dx, dy) {
+  MapShotTileMap.prototype._drawNormalTile = function(bitmap, tileId, dx, dy) {
     var setNumber = 0;
 
     if (Tilemap.isTileA5(tileId)) {
@@ -257,7 +257,7 @@ var OrangeMapshot = OrangeMapshot || {};
     }
   };
 
-  MapShotTileMap.prototype._drawTableEdge = function (bitmap, tileId, dx, dy) {
+  MapShotTileMap.prototype._drawTableEdge = function(bitmap, tileId, dx, dy) {
     if (Tilemap.isTileA2(tileId)) {
       var autotileTable = Tilemap.FLOOR_AUTOTILE_TABLE;
       var kind = Tilemap.getAutotileKind(tileId);
@@ -277,16 +277,16 @@ var OrangeMapshot = OrangeMapshot || {};
           var qsx = table[2 + i][0];
           var qsy = table[2 + i][1];
           var sx1 = (bx * 2 + qsx) * w1;
-          var sy1 = (by * 2 + qsy) * h1 + h1 / 2;
+          var sy1 = (by * 2 + qsy) * h1 + h1/2;
           var dx1 = dx + (i % 2) * w1;
           var dy1 = dy + Math.floor(i / 2) * h1;
-          bitmap.blt(source, sx1, sy1, w1, h1 / 2, dx1, dy1, w1, h1 / 2);
+          bitmap.blt(source, sx1, sy1, w1, h1/2, dx1, dy1, w1, h1/2);
         }
       }
     }
   };
 
-  Tilemap.prototype._drawTileOldStyle = function (bitmap, tileId, dx, dy) {
+  Tilemap.prototype._drawTileOldStyle = function(bitmap, tileId, dx, dy) {
     if (Tilemap.isVisibleTile(tileId)) {
       if (Tilemap.isAutotile(tileId)) {
         MapShotTileMap.prototype._drawAutotile.call(this, bitmap, tileId, dx, dy);
@@ -294,9 +294,9 @@ var OrangeMapshot = OrangeMapshot || {};
         MapShotTileMap.prototype._drawNormalTile.call(this, bitmap, tileId, dx, dy);
       }
     }
-  };
+  };  
 
-  Tilemap.prototype._paintEverything = function (lowerBitmap, upperBitmap) {
+  Tilemap.prototype._paintEverything = function(lowerBitmap, upperBitmap) {
     var tileCols = $dataMap.width;
     var tileRows = $dataMap.height;
 
@@ -309,11 +309,11 @@ var OrangeMapshot = OrangeMapshot || {};
     if ($.Param.drawEvents !== false) {
       this._paintCharacters(lowerBitmap, 0);
       this._paintCharacters(lowerBitmap, 1);
-      this._paintCharacters(upperBitmap, 2);
+      this._paintCharacters(upperBitmap, 2);    
     }
   };
 
-  Tilemap.prototype._paintLayered = function (groundBitmap, ground2Bitmap, lowerBitmap, upperLayer, shadowBitmap, lowerEvents, normalEvents, upperEvents) {
+  Tilemap.prototype._paintLayered = function(groundBitmap, ground2Bitmap, lowerBitmap, upperLayer, shadowBitmap, lowerEvents, normalEvents, upperEvents) {
     var tileCols = $dataMap.width;
     var tileRows = $dataMap.height;
 
@@ -325,15 +325,15 @@ var OrangeMapshot = OrangeMapshot || {};
 
     this._paintCharacters(lowerEvents, 0);
     this._paintCharacters(normalEvents, 1);
-    this._paintCharacters(upperEvents, 2);
+    this._paintCharacters(upperEvents, 2);        
   };
 
-  Tilemap.prototype._paintCharacters = function (bitmap, priority) {
-    this.children.forEach(function (child) {
+  Tilemap.prototype._paintCharacters = function(bitmap, priority) {
+    this.children.forEach(function(child) {
       if (child instanceof Sprite_Character) {
         if (child._character !== null) {
           if (child._character instanceof Game_Player || child._character instanceof Game_Follower || child._character instanceof Game_Vehicle) return;
-        }
+        } 
 
         child.update();
 
@@ -348,7 +348,7 @@ var OrangeMapshot = OrangeMapshot || {};
     });
   };
 
-  Tilemap.prototype._paintTileOnLayers = function (groundBitmap, ground2Bitmap, lowerBitmap, upperBitmap, shadowBitmap, x, y) {
+  Tilemap.prototype._paintTileOnLayers = function(groundBitmap, ground2Bitmap, lowerBitmap, upperBitmap, shadowBitmap, x, y) {
     var tableEdgeVirtualId = 10000;
     var mx = x;
     var my = y;
@@ -399,7 +399,7 @@ var OrangeMapshot = OrangeMapshot || {};
 
     if (groundBitmap !== undefined) {
       drawTiles(groundBitmap, tileId0, undefined, upperTileId1);
-
+  
       if (shadowBitmap !== undefined && tileId0 < 0) {
         drawTiles(shadowBitmap, tileId0, shadowBits, upperTileId1);
       }
@@ -407,7 +407,7 @@ var OrangeMapshot = OrangeMapshot || {};
 
     if (ground2Bitmap !== undefined) {
       drawTiles(ground2Bitmap, tileId1, undefined, upperTileId1);
-
+  
       if (shadowBitmap !== undefined && tileId1 < 0) {
         drawTiles(shadowBitmap, tileId1, shadowBits, upperTileId1);
       }
@@ -415,7 +415,7 @@ var OrangeMapshot = OrangeMapshot || {};
 
     if (lowerBitmap !== undefined) {
       drawTiles(lowerBitmap, tileId2, undefined, upperTileId1);
-
+  
       if (shadowBitmap !== undefined && tileId2 < 0) {
         drawTiles(shadowBitmap, tileId2, shadowBits, upperTileId1);
       }
@@ -430,7 +430,7 @@ var OrangeMapshot = OrangeMapshot || {};
     }
   };
 
-  Tilemap.prototype._paintTilesOnBitmap = function (lowerBitmap, upperBitmap, x, y) {
+  Tilemap.prototype._paintTilesOnBitmap = function(lowerBitmap, upperBitmap, x, y) {
     var tableEdgeVirtualId = 10000;
     var mx = x;
     var my = y;
@@ -503,28 +503,28 @@ var OrangeMapshot = OrangeMapshot || {};
     }
   };
 
-  $.saveMapshot = function () {
+  $.saveMapshot = function() {
     if (!Utils.isNwjs()) return;
 
     var fs = require('fs');
     var path = $.Param.imagePath;
 
     try {
-      fs.mkdir(path, function () {
-        try {
+      fs.mkdir(path, function() {
+        try{
           var fileName = path + '/' + $.baseFileName();
           var ext = $.fileExtension();
           var names = [fileName + ext];
           var regex = $.imageRegex();
 
           switch ($.Param.layerType) {
-            case 1:
+            case 1 :
               names = [
                 fileName + ' Lower' + ext,
                 fileName + ' Upper' + ext
               ];
               break;
-            case 2:
+            case 2 :
               names = [
                 fileName + ' Ground' + ext,
                 fileName + ' Ground 2' + ext,
@@ -537,14 +537,14 @@ var OrangeMapshot = OrangeMapshot || {};
               ];
 
               break;
-            default:
+            default :
               names = [fileName + ext];
               break;
-          }
+          } 
 
           var snaps = $.getMapshot();
 
-          var callback = function (error) {
+          var callback = function(error) {
             if (error !== undefined && error !== null) {
               console.error('An error occured while saving the mapshot', error);
             }
@@ -569,12 +569,12 @@ var OrangeMapshot = OrangeMapshot || {};
       if (process.platform == 'win32' && $._openedFolder === undefined) {
         $._openedFolder = true;
 
-        setTimeout(function () {
+        setTimeout(function(){
           var exec = require('child_process').exec;
           exec('explorer ' + longPath);
         }, 100);
       } else {
-        $gameMessage.add('Mapshot saved to \n' + longPath.replace(/\\/g, '\\\\').match(/.{1,40}/g).join('\n'));
+        $gameMessage.add('Mapshot saved to \n' + longPath.replace(/\\/g, '\\\\').match(/.{1,40}/g).join('\n')); 
       }
 
     } catch (error) {
@@ -584,7 +584,7 @@ var OrangeMapshot = OrangeMapshot || {};
     }
   };
 
-  $.onKeyUp = function (event) {
+  $.onKeyUp = function(event) {
     if (event.keyCode == $.Param.keyCode) {
       if (SceneManager._scene instanceof Scene_Map) {
         $.saveMapshot();

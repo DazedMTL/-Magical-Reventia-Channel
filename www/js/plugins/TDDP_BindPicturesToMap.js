@@ -253,24 +253,24 @@ Imported.TDDP_BindPicturesToMap = "1.0.7";
     if (picture._width + picture._height > 8032) {
       throw new Error(
         "Picture " +
-        this._pictureId +
-        "(" +
-        this._pictureName +
-        ") is too large for bitmaps bound to the map and looping enabled. Its height + width must be less than 8032 in total."
+          this._pictureId +
+          "(" +
+          this._pictureName +
+          ") is too large for bitmaps bound to the map and looping enabled. Its height + width must be less than 8032 in total."
       );
     }
 
     // Set dimensions of new bitmap
     var bw =
       this._useLoopingBitmap() &&
-        $gameMap.isLoopHorizontal() &&
-        picture._useHorizontalRepeat
+      $gameMap.isLoopHorizontal() &&
+      picture._useHorizontalRepeat
         ? picture._loopWidth
         : picture._width;
     var bh =
       this._useLoopingBitmap() &&
-        $gameMap.isLoopVertical() &&
-        picture._useVerticalRepeat
+      $gameMap.isLoopVertical() &&
+      picture._useVerticalRepeat
         ? picture._loopHeight
         : picture._height;
     this.bitmap = new Bitmap(bw, bh);

@@ -52,15 +52,15 @@ var DreamX = DreamX || {};
 DreamX.ChoiceHelp = DreamX.ChoiceHelp || {};
 
 (function () {
-    //=============================================================================
-    // Parameters
-    //=============================================================================
+//=============================================================================
+// Parameters
+//=============================================================================
     DreamX.Parameters = PluginManager.parameters('DreamX_ChoiceHelp');
 
     var paramNumRows = eval(DreamX.Parameters['Number Of Rows']
-        || false);
+            || false);
     var paramCloseHelpOnEmpty = eval(DreamX.Parameters['Hide On Empty']
-        || 2);
+            || 2);
 
 
 
@@ -156,7 +156,7 @@ DreamX.ChoiceHelp = DreamX.ChoiceHelp || {};
         }
     };
 
-    Game_Interpreter.prototype.standardFontFace = function () {
+    Game_Interpreter.prototype.standardFontFace = function() {
         if ($gameSystem.isChinese()) {
             return 'SimHei, Heiti TC, sans-serif';
         } else if ($gameSystem.isKorean()) {
@@ -220,7 +220,7 @@ DreamX.ChoiceHelp = DreamX.ChoiceHelp || {};
                             } else if (splitParam.length === 1) {
                                 index = splitParam[0];
                             }
-                            choiceFaces[choicesDetected - 1] = { name: name, index: index };
+                            choiceFaces[choicesDetected - 1] = {name: name, index: index};
                         }
                     }
                 }

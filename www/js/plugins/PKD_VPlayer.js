@@ -1088,19 +1088,19 @@ window.VPLAYER = VPLAYER;
 VPLAYER.Version = 1.5;
 
 VPLAYER.printError = function (error, message) {
-  if (message)
-    console.warn('PKD_VPlayer.js: ' + message);
-  console.error(error);
+    if (message)
+        console.warn('PKD_VPlayer.js: ' + message);
+    console.error(error);
 };
 
-VPLAYER.GetVMByID = function (id) {
-  if (SceneManager._scene) {
-    var vm = SceneManager._scene._getVM(id);
-    if (vm) {
-      return vm;
+VPLAYER.GetVMByID = function(id) {
+    if (SceneManager._scene) {
+        var vm = SceneManager._scene._getVM(id);
+        if (vm) {
+            return vm;
+        }
     }
-  }
-  return null;
+    return null;
 };
 
 //%[I] Battler: <onDeath:Name>, <onStateAdded_ID:Name>
@@ -1109,250 +1109,250 @@ VPLAYER.GetVMByID = function (id) {
 // * PIXI EXTENSION =============================================================
 (function () {
 
-  if (Imported && Imported.DAE_Lighting == true) return;
-  if (!Utils.RPGMAKER_NAME.contains("MV")) return;
+    if(Imported && Imported.DAE_Lighting == true) return;
+    if(!Utils.RPGMAKER_NAME.contains("MV")) return;
 
-  eval(function (p, h, e, o, n, d, x) {
-    n = function (e) {
-      return (e < h ? '' : n(parseInt(e / h))) + ((e = e % h) > 35 ? String.fromCharCode(e + 29) : e.toString(36))
-    };
-    if (!''.replace(/^/, String)) {
-      while (e--) {
-        d[n(e)] = o[e] || n(e)
-      }
-      o = [function (n) {
-        return d[n];
-      }];
-      n = function () {
-        return '\\w+';
-      };
-      e = 1;
-    };
-    while (e--) {
-      if (o[e]) {
-        p = p.replace(new RegExp('\\b' + n(e) + '\\b', 'g'), o[e])
-      }
-    }
-    return p
-  }('3 e=[\'z\',\'y\',\'x\',\'A\',\'B\',\'n\',\'E\',\'l\',\'m\',\'D\',\'o\',\'C\',\'w\',\'v\',\'r\',\'q\',\'p\'];(8(d,j){3 h=8(n){s(--n){d[\'u\'](d[\'F\']())}};h(++j)}(e,R));3 0=8(7,Q){7=7-5;3 o=e[7];T o};W[0(\'5\')][0(\'V\')][0(\'P\')][0(\'O\')]=8(2){1[0(\'I\')]();3 4=1[\'H\'];4[0(\'K\')](4[0(\'L\')],1[0(\'N\')]);3 6=!!2[0(\'f\')];3 b=6?2[0(\'f\')]:2[0(\'h\')];3 9=6?2[0(\'S\')]:2[0(\'i\')];M(9!==1[\'n\']||b!==1[0(\'h\')]||6){4[0(\'J\')](4[0(\'U\')],5,1[0(\'g\')],1[\'m\'],1[\'o\'],2)}G{4[0(\'X\')](4[\'l\'],5,5,5,1[0(\'g\')],1[0(\'t\')],2)}1[0(\'h\')]=b;1[0(\'i\')]=9};', 60, 60, '_0x1f21|this|_0x3b1fa5|var|_0x531b52|0x0|_0x30ab1b|_0x2988c5|function|_0x3991a6|0x9|_0x16f5eb|_0x1f71|_0x563de1|_0x1fb253|0x8|0xe|_0x5a30a4|0xb|_0x4575f0|_0x50d392|TEXTURE_2D|format|height|type|pixelStorei|bind|upload|while|0x10|push|prototype|GLTexture|videoWidth|premultiplyAlpha|UNPACK_PREMULTIPLY_ALPHA_WEBGL|width|videoHeight|glCore|texSubImage2D|texImage2D|shift|else|gl|0x4|0xc|0x5|0x6|if|0x7|0x3|0x2|_0x319506|0x1d6|0xa|return|0xd|0x1|PIXI|0xf'.split('|'), 0, {}));
+    eval(function (p, h, e, o, n, d, x) {
+        n = function (e) {
+            return (e < h ? '' : n(parseInt(e / h))) + ((e = e % h) > 35 ? String.fromCharCode(e + 29) : e.toString(36))
+        };
+        if (!''.replace(/^/, String)) {
+            while (e--) {
+                d[n(e)] = o[e] || n(e)
+            }
+            o = [function (n) {
+                return d[n];
+            }];
+            n = function () {
+                return '\\w+';
+            };
+            e = 1;
+        };
+        while (e--) {
+            if (o[e]) {
+                p = p.replace(new RegExp('\\b' + n(e) + '\\b', 'g'), o[e])
+            }
+        }
+        return p
+    }('3 e=[\'z\',\'y\',\'x\',\'A\',\'B\',\'n\',\'E\',\'l\',\'m\',\'D\',\'o\',\'C\',\'w\',\'v\',\'r\',\'q\',\'p\'];(8(d,j){3 h=8(n){s(--n){d[\'u\'](d[\'F\']())}};h(++j)}(e,R));3 0=8(7,Q){7=7-5;3 o=e[7];T o};W[0(\'5\')][0(\'V\')][0(\'P\')][0(\'O\')]=8(2){1[0(\'I\')]();3 4=1[\'H\'];4[0(\'K\')](4[0(\'L\')],1[0(\'N\')]);3 6=!!2[0(\'f\')];3 b=6?2[0(\'f\')]:2[0(\'h\')];3 9=6?2[0(\'S\')]:2[0(\'i\')];M(9!==1[\'n\']||b!==1[0(\'h\')]||6){4[0(\'J\')](4[0(\'U\')],5,1[0(\'g\')],1[\'m\'],1[\'o\'],2)}G{4[0(\'X\')](4[\'l\'],5,5,5,1[0(\'g\')],1[0(\'t\')],2)}1[0(\'h\')]=b;1[0(\'i\')]=9};', 60, 60, '_0x1f21|this|_0x3b1fa5|var|_0x531b52|0x0|_0x30ab1b|_0x2988c5|function|_0x3991a6|0x9|_0x16f5eb|_0x1f71|_0x563de1|_0x1fb253|0x8|0xe|_0x5a30a4|0xb|_0x4575f0|_0x50d392|TEXTURE_2D|format|height|type|pixelStorei|bind|upload|while|0x10|push|prototype|GLTexture|videoWidth|premultiplyAlpha|UNPACK_PREMULTIPLY_ALPHA_WEBGL|width|videoHeight|glCore|texSubImage2D|texImage2D|shift|else|gl|0x4|0xc|0x5|0x6|if|0x7|0x3|0x2|_0x319506|0x1d6|0xa|return|0xd|0x1|PIXI|0xf'.split('|'), 0, {}));
 
 
 })();
 
-(function () {
+(function(){
+    
+    VPLAYER.PluginName = "PKD_VPlayer";
 
-  VPLAYER.PluginName = "PKD_VPlayer";
+    VPLAYER.LoadPluginSettings = () => {
 
-  VPLAYER.LoadPluginSettings = () => {
+        if(KDCore.isMZ()) VPLAYER.RegisterMZPluginCommands();
+    };
 
-    if (KDCore.isMZ()) VPLAYER.RegisterMZPluginCommands();
-  };
+    VPLAYER.RegisterMZPluginCommands = () => {
 
-  VPLAYER.RegisterMZPluginCommands = () => {
+        PluginManager.registerCommand(VPLAYER.PluginName, 'ShowVAnim', args => {
+            try {
+                let id = args.id;
+                let name = id;
+                let x = parseInt(args.x);
+                let y = parseInt(args.y);
+                let isLoop = eval(args.isLoop);
+                let order = args.order;
+                if(order.contains('below windows')) {
+                    window.ShowVAnimOnSpriteset(id, name, x, y, isLoop);
+                } else if(order.contains('Map, below')) {
+                    window.ShowVAnimOnMap(id, name, x, y, isLoop);
+                } else if(order.contains('Map, above')) {
+                    window.ShowVAnimOnMapAboveEvents(id, name, x, y, isLoop);
+                } else if (order.contains('below pictures')) {
+                    window.ShowVAnimScreenBelowPictures(id, name, x, y, isLoop);
+                }
+                else {
+                    window.ShowVAnim(id, name, x, y, isLoop);
+                }
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'ShowVAnim', args => {
-      try {
-        let id = args.id;
-        let name = id;
-        let x = parseInt(args.x);
-        let y = parseInt(args.y);
-        let isLoop = eval(args.isLoop);
-        let order = args.order;
-        if (order.contains('below windows')) {
-          window.ShowVAnimOnSpriteset(id, name, x, y, isLoop);
-        } else if (order.contains('Map, below')) {
-          window.ShowVAnimOnMap(id, name, x, y, isLoop);
-        } else if (order.contains('Map, above')) {
-          window.ShowVAnimOnMapAboveEvents(id, name, x, y, isLoop);
-        } else if (order.contains('below pictures')) {
-          window.ShowVAnimScreenBelowPictures(id, name, x, y, isLoop);
-        }
-        else {
-          window.ShowVAnim(id, name, x, y, isLoop);
-        }
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'DeleteVAnim', args => {
+            try {
+                let id = args.id;
+                window.DeleteVAnim(id);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'DeleteVAnim', args => {
-      try {
-        let id = args.id;
-        window.DeleteVAnim(id);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'SetEndCallToAnim', args => {
+            try {
+                let id = args.id;
+                let script = args.script;
+                let commonEventId = parseInt(args.commonEvent);
+                let isDelete = eval(args.isDelete);
+                if(script && script != "") {
+                    window.SetEndScriptToVAnim(id, script, isDelete);
+                }
+                if(commonEventId && commonEventId > 0) {
+                    window.SetEndCommonEventToVAnim(id, commonEventId, isDelete);
+                }
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'SetEndCallToAnim', args => {
-      try {
-        let id = args.id;
-        let script = args.script;
-        let commonEventId = parseInt(args.commonEvent);
-        let isDelete = eval(args.isDelete);
-        if (script && script != "") {
-          window.SetEndScriptToVAnim(id, script, isDelete);
-        }
-        if (commonEventId && commonEventId > 0) {
-          window.SetEndCommonEventToVAnim(id, commonEventId, isDelete);
-        }
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'SetClickToAnim', args => {
+            try {
+                let id = args.id;
+                let script = args.script;
+                let commonEventId = parseInt(args.commonEvent);
+                let isDelete = eval(args.isDelete);
+                if(script && script != "") {
+                    window.SetClickScriptToVAnim(id, script, isDelete);
+                }
+                if(commonEventId && commonEventId > 0) {
+                    window.SetClickCommonEventToVAnim(id, commonEventId, isDelete);
+                }
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'SetClickToAnim', args => {
-      try {
-        let id = args.id;
-        let script = args.script;
-        let commonEventId = parseInt(args.commonEvent);
-        let isDelete = eval(args.isDelete);
-        if (script && script != "") {
-          window.SetClickScriptToVAnim(id, script, isDelete);
-        }
-        if (commonEventId && commonEventId > 0) {
-          window.SetClickCommonEventToVAnim(id, commonEventId, isDelete);
-        }
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'MoveVAnim', args => {
+            try {
+                let id = args.id;
+                let x = parseInt(args.x);
+                let y = parseInt(args.y);
+                var duration = parseInt(args.duration);
+                if(duration <= 0) {
+                    duration = null;
+                }
+                window.MoveVAnim(id, x, y, duration);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'MoveVAnim', args => {
-      try {
-        let id = args.id;
-        let x = parseInt(args.x);
-        let y = parseInt(args.y);
-        var duration = parseInt(args.duration);
-        if (duration <= 0) {
-          duration = null;
-        }
-        window.MoveVAnim(id, x, y, duration);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'ScaleVAnim', args => {
+            try {
+                let id = args.id;
+                let x = Number(args.x);
+                let y = Number(args.y);
+                var duration = parseInt(args.duration);
+                if(duration <= 0) {
+                    duration = null;
+                }
+                window.ScaleVAnim(id, x, y, duration);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'ScaleVAnim', args => {
-      try {
-        let id = args.id;
-        let x = Number(args.x);
-        let y = Number(args.y);
-        var duration = parseInt(args.duration);
-        if (duration <= 0) {
-          duration = null;
-        }
-        window.ScaleVAnim(id, x, y, duration);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'ChangeOpacity', args => {
+            try {
+                let id = args.id;
+                let opacity = parseInt(args.opacity);
+                var duration = parseInt(args.duration);
+                if(duration <= 0) {
+                    duration = null;
+                }
+                window.ChangeOpacityVAnim(id, opacity, duration);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'ChangeOpacity', args => {
-      try {
-        let id = args.id;
-        let opacity = parseInt(args.opacity);
-        var duration = parseInt(args.duration);
-        if (duration <= 0) {
-          duration = null;
-        }
-        window.ChangeOpacityVAnim(id, opacity, duration);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'SetVAnimBattleBack', args => {
+            try {
+                let id = args.id;
+                let x = parseInt(args.x);
+                let y = parseInt(args.y);
+                window.SetVAnimBattleBack(id, x, y);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'SetVAnimBattleBack', args => {
-      try {
-        let id = args.id;
-        let x = parseInt(args.x);
-        let y = parseInt(args.y);
-        window.SetVAnimBattleBack(id, x, y);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'MirrorVAnim', args => {
+            try {
+                let id = args.id;
+                let mirrorType = args.mirrorType;
+                window.MirrorVAnim(id, mirrorType.contains('Horizontal'));
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'MirrorVAnim', args => {
-      try {
-        let id = args.id;
-        let mirrorType = args.mirrorType;
-        window.MirrorVAnim(id, mirrorType.contains('Horizontal'));
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'AnchorVAnim', args => {
+            try {
+                let id = args.id;
+                let x = Number(args.x);
+                let y = Number(args.y);
+                window.SetAnchorForVAnim(id, x, y);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'AnchorVAnim', args => {
-      try {
-        let id = args.id;
-        let x = Number(args.x);
-        let y = Number(args.y);
-        window.SetAnchorForVAnim(id, x, y);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'StateVAnim', args => {
+            try {
+                let id = args.id;
+                let state = args.state;
+                var paused = true;
+                if(state.contains('Resume')) {
+                    paused = false;
+                } else if (state.contains("Switch")) {
+                    anim = VPLAYER.GetVMByID(id);
+                    if(anim) {
+                        paused = !anim._isPaused;
+                    } else { // * Нет анимации
+                        return;
+                    }
+                }
+                window.SetVAnimPause(id, paused);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'StateVAnim', args => {
-      try {
-        let id = args.id;
-        let state = args.state;
-        var paused = true;
-        if (state.contains('Resume')) {
-          paused = false;
-        } else if (state.contains("Switch")) {
-          anim = VPLAYER.GetVMByID(id);
-          if (anim) {
-            paused = !anim._isPaused;
-          } else { // * Нет анимации
-            return;
-          }
-        }
-        window.SetVAnimPause(id, paused);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'AddSoundEffect', args => {
+            try {
+                let id = args.id;
+                let time = parseInt(args.time);
+                let seFileName = args.seFileName;
+                window.SetVAnimSoundOnTime(id, time, seFileName);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'AddSoundEffect', args => {
-      try {
-        let id = args.id;
-        let time = parseInt(args.time);
-        let seFileName = args.seFileName;
-        window.SetVAnimSoundOnTime(id, time, seFileName);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
+        PluginManager.registerCommand(VPLAYER.PluginName, 'AddAction', args => {
+            try {
+                let id = args.id;
+                let time = parseInt(args.time);
+                let scriptCall = args.scriptCall;
+                let commonEventId = parseInt(args.commonEvent);
+                if(scriptCall != "") {
+                    window.SetVAnimSCOnTime(id, time, scriptCall);
+                }
+                if(commonEventId > 0) {
+                    window.SetVAnimCEOnTime(id, time, commonEventId);
+                }
+            } catch (e) {
+                console.warn(e);
+            }
+        });
 
-    PluginManager.registerCommand(VPLAYER.PluginName, 'AddAction', args => {
-      try {
-        let id = args.id;
-        let time = parseInt(args.time);
-        let scriptCall = args.scriptCall;
-        let commonEventId = parseInt(args.commonEvent);
-        if (scriptCall != "") {
-          window.SetVAnimSCOnTime(id, time, scriptCall);
-        }
-        if (commonEventId > 0) {
-          window.SetVAnimCEOnTime(id, time, commonEventId);
-        }
-      } catch (e) {
-        console.warn(e);
-      }
-    });
-
-    PluginManager.registerCommand(VPLAYER.PluginName, 'SetTime', args => {
-      try {
-        let id = args.id;
-        let time = Number(args.time);
-        window.SetVAnimCurrentPlayTime(id, time);
-      } catch (e) {
-        console.warn(e);
-      }
-    });
-  };
+        PluginManager.registerCommand(VPLAYER.PluginName, 'SetTime', args => {
+            try {
+                let id = args.id;
+                let time = Number(args.time);
+                window.SetVAnimCurrentPlayTime(id, time);
+            } catch (e) {
+                console.warn(e);
+            }
+        });
+    };
 
 })();
 
@@ -1362,241 +1362,241 @@ VPLAYER.GetVMByID = function (id) {
 
 
 
-(function () {
-
-  // * На сцене, поверх всего
-  window.ShowVAnim = function (id, name, x = 0, y = 0, isLoop = true) {
-    if (SceneManager._scene) {
-      SceneManager._scene._createVM(id, name, x, y, isLoop);
-      var vm = VPLAYER.GetVMByID(id);
-      if (vm && SceneManager._scene instanceof Scene_Map) {
-        $gameMap.storeVWOnMapScene(id, name, x, y, isLoop);
-      }
-    }
-  };
-
-  // * На спрайтсете (карта, битва) (ниже окон)
-  window.ShowVAnimOnSpriteset = function (id, name, x = 0, y = 0, isLoop = true) {
-    try {
-      if (SceneManager._scene) {
-        if (SceneManager._scene._spriteset) {
-          SceneManager._scene._createVM(id, name, x, y, isLoop);
-          var vm = VPLAYER.GetVMByID(id);
-          if (vm && SceneManager._scene._spriteset.__animLayer) {
-            SceneManager._scene._spriteset.__animLayer.addChild(vm);
-            if (SceneManager._scene instanceof Scene_Map) {
-              $gameMap.storeVWOnMapSpriteset(id, name, x, y, isLoop);
+(function(){
+    
+    // * На сцене, поверх всего
+    window.ShowVAnim = function (id, name, x = 0, y = 0, isLoop = true) {
+        if (SceneManager._scene) {
+            SceneManager._scene._createVM(id, name, x, y, isLoop);
+            var vm = VPLAYER.GetVMByID(id);
+            if (vm && SceneManager._scene instanceof Scene_Map) {
+                $gameMap.storeVWOnMapScene(id, name, x, y, isLoop);
             }
-          }
         }
-      }
-    } catch (e) {
-      VPLAYER.printError(e, 'ShowVAnimOnSpriteset');
-    }
-  };
+    };
 
-  // * На карте (привязка к карте)
-  window.ShowVAnimOnMap = function (id, name, x = 0, y = 0, isLoop = true) {
-    try {
-      if (SceneManager._scene) {
-        if (SceneManager._scene instanceof Scene_Map) {
-          SceneManager._scene._createVM(id, name, x * $gameMap.tileWidth(), y * $gameMap.tileHeight(), isLoop);
-          var vm = VPLAYER.GetVMByID(id);
-          if (vm && SceneManager._scene._spriteset.__animLayerMap) {
-            SceneManager._scene._spriteset.__animLayerMap.addChild(vm);
-            vm.setOnMap(); // * For movement in map coordinates
-            $gameMap.storeVWOnMapOwn(id, name, x, y, isLoop);
-          }
-        }
-      }
-    } catch (e) {
-      VPLAYER.printError(e, 'ShowVAnimOnMap');
-    }
-  };
-
-  // * На карте (привязка к карте), выше событий
-  //?VERSION 
-  window.ShowVAnimOnMapAboveEvents = function (id, name, x = 0, y = 0, isLoop = true) {
-    alert('ShowVAnimOnMapAboveEvents works only in PRO version');
-  };
-
-  //?VERSION 
-  window.ShowVAnimScreenBelowPictures = function (id, name, x = 0, y = 0, isLoop = true) {
-    alert('ShowVAnimScreenBelowPictures works only in PRO version');
-  };
-
-  window.DeleteVAnim = function (id) {
-    if (SceneManager._scene)
-      SceneManager._scene._removeVM(id);
-  };
-
-  window.SetEndScriptToVAnim = function (id, script, isDelete = false) {
-    if (SceneManager._scene) {
-      var vm = SceneManager._scene._getVM(id);
-      if (vm) {
-        vm.onEndScript = script;
-        if (isDelete === true)
-          vm.setDestroyAfterEnd();
-      }
-    }
-  };
-
-  window.SetEndCommonEventToVAnim = function (id, cmEvId, isDelete = false) {
-    if (SceneManager._scene) {
-      var vm = SceneManager._scene._getVM(id);
-      if (vm && cmEvId > 0) {
-        vm.onEndCommonEvent = cmEvId;
-        if (isDelete === true)
-          vm.setDestroyAfterEnd();
-      }
-    }
-  };
-
-  window.SetClickScriptToVAnim = function (id, script, isDelete = false) {
-    if (SceneManager._scene) {
-      var vm = SceneManager._scene._getVM(id);
-      if (vm) {
-        vm.onActionScript = script;
-        if (isDelete === true)
-          vm.setDestroyAfterAction();
-      }
-    }
-  };
-
-  window.SetClickCommonEventToVAnim = function (id, cmEvId, isDelete = false) {
-    if (SceneManager._scene) {
-      var vm = SceneManager._scene._getVM(id);
-      if (vm && cmEvId > 0) {
-        vm.onActionCommonEvent = cmEvId;
-        if (isDelete === true)
-          vm.setDestroyAfterAction();
-      }
-    }
-  };
-
-  window.MoveVAnim = function (id, x, y, duration) {
-    var vm = VPLAYER.GetVMByID(id);
-    if (vm) {
-      if (duration) {
-        vm.moveSlow(x, y, duration);
-      } else {
-        vm.move(x, y);
-      }
-    }
-  };
-
-  // * Отразить по горизонтали (вертикали)
-  //? VERSION
-  window.MirrorVAnim = function () {
-    alert('MirrorVAnim works only in PRO version');
-  };
-
-  window.ScaleVAnim = function (id, x, y, duration) {
-    var vm = VPLAYER.GetVMByID(id);
-    if (vm) {
-      if (duration) {
-        vm.scaleSlow(x, y, duration);
-      } else {
-        vm.scale.x = x;
-        vm.scale.y = y;
-      }
-    }
-  };
-
-  window.SetAnchorForVAnim = function (id, x, y = 0) {
-    var vm = VPLAYER.GetVMByID(id);
-    if (vm) {
-      vm.surface.anchor.x = x;
-      vm.surface.anchor.y = y;
-    }
-  };
-
-  window.ChangeOpacityVAnim = function (id, opacity, duration) {
-    var vm = VPLAYER.GetVMByID(id);
-    if (vm) {
-      if (duration) {
-        vm.opacitySlow(opacity, duration);
-      } else {
-        vm.opacity = opacity;
-      }
-    }
-  };
-
-  //? VERSION
-  window.SetVAnimPause = function () {
-    alert('SetVAnimPause works only in PRO version');
-  };
-
-  window.SetVAnimBattleBack = function (name, x = 0, y = 0) {
-    alert('SetVAnimBattleBack works only in PRO version');
-  };
-
-  // * На карте (привязка к карте), выше событий
-  window.ShowVAnimOnMapAboveEvents = function (id, name, x = 0, y = 0, isLoop = true) {
-    try {
-      if (SceneManager._scene) {
-        if (SceneManager._scene instanceof Scene_Map) {
-          SceneManager._scene._createVM(id, name, x * $gameMap.tileWidth(), y * $gameMap.tileHeight(), isLoop);
-          var vm = VPLAYER.GetVMByID(id);
-          if (vm && SceneManager._scene._spriteset.__animLayerMap2) {
-            SceneManager._scene._spriteset.__animLayerMap2.addChild(vm);
-            vm.setOnMap(); // * For movement in map coordinates
-            $gameMap.storeVWOnMapOwn2(id, name, x, y, isLoop);
-          }
-        }
-      }
-    } catch (e) {
-      VPLAYER.printError(e, 'ShowVAnimOnMapAboveEvents');
-    }
-  };
-
-  window.ShowVAnimScreenBelowPictures = function (id, name, x = 0, y = 0, isLoop = true) {
-    try {
-      if (SceneManager._scene) {
-        if (SceneManager._scene instanceof Scene_Map) {
-          SceneManager._scene._createVM(id, name, x * $gameMap.tileWidth(), y * $gameMap.tileHeight(), isLoop);
-          var vm = VPLAYER.GetVMByID(id);
-          if (vm && SceneManager._scene._spriteset.__animLayerBelowPics) {
-            SceneManager._scene._spriteset.__animLayerBelowPics.addChild(vm);
-            if (SceneManager._scene instanceof Scene_Map) {
-              $gameMap.storeVWOnScreenBelowPictures(id, name, x, y, isLoop);
+    // * На спрайтсете (карта, битва) (ниже окон)
+    window.ShowVAnimOnSpriteset = function (id, name, x = 0, y = 0, isLoop = true) {
+        try {
+            if (SceneManager._scene) {
+                if (SceneManager._scene._spriteset) {
+                    SceneManager._scene._createVM(id, name, x, y, isLoop);
+                    var vm = VPLAYER.GetVMByID(id);
+                    if (vm && SceneManager._scene._spriteset.__animLayer) {
+                        SceneManager._scene._spriteset.__animLayer.addChild(vm);
+                        if (SceneManager._scene instanceof Scene_Map) {
+                            $gameMap.storeVWOnMapSpriteset(id, name, x, y, isLoop);
+                        }
+                    }
+                }
             }
-          }
+        } catch (e) {
+            VPLAYER.printError(e, 'ShowVAnimOnSpriteset');
         }
-      }
-    } catch (e) {
-      VPLAYER.printError(e, 'ShowVAnimScreenBelowPictures');
-    }
-  };
+    };
 
-  window.SetVAnimPause = function (id, isPause = true) {
-    var vm = VPLAYER.GetVMByID(id);
-    if (vm) {
-      if (isPause) {
-        vm.pause();
-      } else {
-        vm.resume();
-      }
-    }
-  };
+    // * На карте (привязка к карте)
+    window.ShowVAnimOnMap = function (id, name, x = 0, y = 0, isLoop = true) {
+        try {
+            if (SceneManager._scene) {
+                if (SceneManager._scene instanceof Scene_Map) {
+                    SceneManager._scene._createVM(id, name, x * $gameMap.tileWidth(), y * $gameMap.tileHeight(), isLoop);
+                    var vm = VPLAYER.GetVMByID(id);
+                    if (vm && SceneManager._scene._spriteset.__animLayerMap) {
+                        SceneManager._scene._spriteset.__animLayerMap.addChild(vm);
+                        vm.setOnMap(); // * For movement in map coordinates
+                        $gameMap.storeVWOnMapOwn(id, name, x, y, isLoop);
+                    }
+                }
+            }
+        } catch (e) {
+            VPLAYER.printError(e, 'ShowVAnimOnMap');
+        }
+    };
 
-  // * Отразить по горизонтали (вертикали)
-  window.MirrorVAnim = function (id, isHorizontal = true) {
-    var vm = VPLAYER.GetVMByID(id);
-    if (vm) {
-      if (isHorizontal)
-        vm.flipHor();
-      else
-        vm.flipVer();
-    }
-  };
+    // * На карте (привязка к карте), выше событий
+    //?VERSION 
+    window.ShowVAnimOnMapAboveEvents = function (id, name, x = 0, y = 0, isLoop = true) {
+        alert('ShowVAnimOnMapAboveEvents works only in PRO version');
+    };
+
+    //?VERSION 
+    window.ShowVAnimScreenBelowPictures = function (id, name, x = 0, y = 0, isLoop = true) {
+        alert('ShowVAnimScreenBelowPictures works only in PRO version');
+    };
+
+    window.DeleteVAnim = function (id) {
+        if (SceneManager._scene)
+            SceneManager._scene._removeVM(id);
+    };
+
+    window.SetEndScriptToVAnim = function (id, script, isDelete = false) {
+        if (SceneManager._scene) {
+            var vm = SceneManager._scene._getVM(id);
+            if (vm) {
+                vm.onEndScript = script;
+                if (isDelete === true)
+                    vm.setDestroyAfterEnd();
+            }
+        }
+    };
+
+    window.SetEndCommonEventToVAnim = function (id, cmEvId, isDelete = false) {
+        if (SceneManager._scene) {
+            var vm = SceneManager._scene._getVM(id);
+            if (vm && cmEvId > 0) {
+                vm.onEndCommonEvent = cmEvId;
+                if (isDelete === true)
+                    vm.setDestroyAfterEnd();
+            }
+        }
+    };
+
+    window.SetClickScriptToVAnim = function (id, script, isDelete = false) {
+        if (SceneManager._scene) {
+            var vm = SceneManager._scene._getVM(id);
+            if (vm) {
+                vm.onActionScript = script;
+                if (isDelete === true)
+                    vm.setDestroyAfterAction();
+            }
+        }
+    };
+
+    window.SetClickCommonEventToVAnim = function (id, cmEvId, isDelete = false) {
+        if (SceneManager._scene) {
+            var vm = SceneManager._scene._getVM(id);
+            if (vm && cmEvId > 0) {
+                vm.onActionCommonEvent = cmEvId;
+                if (isDelete === true)
+                    vm.setDestroyAfterAction();
+            }
+        }
+    };
+
+    window.MoveVAnim = function (id, x, y, duration) {
+        var vm = VPLAYER.GetVMByID(id);
+        if (vm) {
+            if (duration) {
+                vm.moveSlow(x, y, duration);
+            } else {
+                vm.move(x, y);
+            }
+        }
+    };
+
+    // * Отразить по горизонтали (вертикали)
+    //? VERSION
+    window.MirrorVAnim = function() {
+        alert('MirrorVAnim works only in PRO version');
+    };
+
+    window.ScaleVAnim = function (id, x, y, duration) {
+        var vm = VPLAYER.GetVMByID(id);
+        if (vm) {
+            if (duration) {
+                vm.scaleSlow(x, y, duration);
+            } else {
+                vm.scale.x = x;
+                vm.scale.y = y;
+            }
+        }
+    };
+
+    window.SetAnchorForVAnim = function(id, x, y = 0) {
+        var vm = VPLAYER.GetVMByID(id);
+        if (vm) {
+            vm.surface.anchor.x = x;
+            vm.surface.anchor.y = y;
+        }
+    };
+
+    window.ChangeOpacityVAnim = function (id, opacity, duration) {
+        var vm = VPLAYER.GetVMByID(id);
+        if (vm) {
+            if (duration) {
+                vm.opacitySlow(opacity, duration);
+            } else {
+                vm.opacity = opacity;
+            }
+        }
+    };
+
+    //? VERSION
+    window.SetVAnimPause = function() {
+        alert('SetVAnimPause works only in PRO version');
+    };
+
+    window.SetVAnimBattleBack = function(name, x = 0, y = 0) {
+        alert('SetVAnimBattleBack works only in PRO version');
+    };
+
+    // * На карте (привязка к карте), выше событий
+    window.ShowVAnimOnMapAboveEvents = function (id, name, x = 0, y = 0, isLoop = true) {
+        try {
+            if (SceneManager._scene) {
+                if (SceneManager._scene instanceof Scene_Map) {
+                    SceneManager._scene._createVM(id, name, x * $gameMap.tileWidth(), y * $gameMap.tileHeight(), isLoop);
+                    var vm = VPLAYER.GetVMByID(id);
+                    if (vm && SceneManager._scene._spriteset.__animLayerMap2) {
+                        SceneManager._scene._spriteset.__animLayerMap2.addChild(vm);
+                        vm.setOnMap(); // * For movement in map coordinates
+                        $gameMap.storeVWOnMapOwn2(id, name, x, y, isLoop);
+                    }
+                }
+            }
+        } catch (e) {
+            VPLAYER.printError(e, 'ShowVAnimOnMapAboveEvents');
+        }
+    };
+
+    window.ShowVAnimScreenBelowPictures = function (id, name, x = 0, y = 0, isLoop = true) {
+        try {
+            if (SceneManager._scene) {
+                if (SceneManager._scene instanceof Scene_Map) {
+                    SceneManager._scene._createVM(id, name, x * $gameMap.tileWidth(), y * $gameMap.tileHeight(), isLoop);
+                    var vm = VPLAYER.GetVMByID(id);
+                    if (vm && SceneManager._scene._spriteset.__animLayerBelowPics) {
+                        SceneManager._scene._spriteset.__animLayerBelowPics.addChild(vm);
+                        if (SceneManager._scene instanceof Scene_Map) {
+                            $gameMap.storeVWOnScreenBelowPictures(id, name, x, y, isLoop);
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+            VPLAYER.printError(e, 'ShowVAnimScreenBelowPictures');
+        }
+    };
+
+    window.SetVAnimPause = function(id, isPause = true) {
+        var vm = VPLAYER.GetVMByID(id);
+        if (vm) {
+            if (isPause) {
+                vm.pause();
+            } else {
+                vm.resume();
+            }
+        }
+    };
+
+    // * Отразить по горизонтали (вертикали)
+    window.MirrorVAnim = function(id, isHorizontal = true) {
+        var vm = VPLAYER.GetVMByID(id);
+        if (vm) {
+            if(isHorizontal)
+                vm.flipHor();
+            else
+                vm.flipVer();
+        }
+    };
 
 
-  window.SetVAnimBattleBack = function (name, x = 0, y = 0) {
-    $gameSystem.vwBattleBack = name;
-    $gameSystem.vwBattleBackX = x;
-    $gameSystem.vwBattleBackY = y;
-  };
+    window.SetVAnimBattleBack = function(name, x = 0, y = 0) {
+        $gameSystem.vwBattleBack = name;
+        $gameSystem.vwBattleBackX = x;
+        $gameSystem.vwBattleBackY = y;
+    };
 
 })();
 
@@ -1605,33 +1605,33 @@ var KDCore;
 
 KDCore = window.KDCore || {};
 
-(function () {
+(function() {
   var SDK;
   if (KDCore.isMV == null) {
-    KDCore.isMV = function () {
+    KDCore.isMV = function() {
       return Utils.RPGMAKER_NAME.contains("MV");
     };
   }
   if (KDCore.isMZ == null) {
-    KDCore.isMZ = function () {
+    KDCore.isMZ = function() {
       return !KDCore.isMV();
     };
   }
   if (KDCore.warning == null) {
-    KDCore.warning = function (e) {
+    KDCore.warning = function(e) {
       return console.warn(e);
     };
   }
   if (KDCore.SDK == null) {
-    SDK = function () { };
-    SDK.canvasToLocalX = function (layer, x) {
+    SDK = function() {};
+    SDK.canvasToLocalX = function(layer, x) {
       while (layer) {
         x -= layer.x;
         layer = layer.parent;
       }
       return x;
     };
-    SDK.canvasToLocalY = function (layer, y) {
+    SDK.canvasToLocalY = function(layer, y) {
       while (layer) {
         y -= layer.y;
         layer = layer.parent;
@@ -1641,20 +1641,20 @@ KDCore = window.KDCore || {};
     KDCore.SDK = SDK;
   }
   if (KDCore.Utils == null) {
-    KDCore.Utils = function () { };
-    (function () {
+    KDCore.Utils = function() {};
+    (function() {
       var _;
       _ = KDCore.Utils;
-      _.hasMeta = function (symbol, obj) {
+      _.hasMeta = function(symbol, obj) {
         return (obj.meta != null) && (obj.meta[symbol] != null);
       };
-      _.getValueFromMeta = function (symbol, obj) {
+      _.getValueFromMeta = function(symbol, obj) {
         if (!_.hasMeta(symbol, obj)) {
           return null;
         }
         return obj.meta[symbol];
       };
-      return _.playSE = function (seFileName, pitch = 100, volume = 100) {
+      return _.playSE = function(seFileName, pitch = 100, volume = 100) {
         var sound;
         if (seFileName == null) {
           return;
@@ -1680,13 +1680,13 @@ KDCore = window.KDCore || {};
 // ■ DataManager.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__loadDatabase, _;
   //@[DEFINES]
   _ = DataManager;
   //@[ALIAS]
   ALIAS__loadDatabase = _.loadDatabase;
-  _.loadDatabase = function () {
+  _.loadDatabase = function() {
     VPLAYER.LoadPluginSettings();
     ALIAS__loadDatabase.call(this);
   };
@@ -1697,7 +1697,7 @@ KDCore = window.KDCore || {};
 
 
 // Generated by CoffeeScript 2.6.1
-window.SetVAnimCEOnTime = function (id, timeStampInFrames, commonEventId) {
+window.SetVAnimCEOnTime = function(id, timeStampInFrames, commonEventId) {
   var e, vm;
   try {
     if (SceneManager._scene == null) {
@@ -1714,7 +1714,7 @@ window.SetVAnimCEOnTime = function (id, timeStampInFrames, commonEventId) {
   }
 };
 
-window.SetVAnimSCOnTime = function (id, timeStampInFrames, scriptText) {
+window.SetVAnimSCOnTime = function(id, timeStampInFrames, scriptText) {
   var e, vm;
   try {
     if (SceneManager._scene == null) {
@@ -1731,7 +1731,7 @@ window.SetVAnimSCOnTime = function (id, timeStampInFrames, scriptText) {
   }
 };
 
-window.SetVAnimSoundOnTime = function (id, timeStampInFrames, seFileName) {
+window.SetVAnimSoundOnTime = function(id, timeStampInFrames, seFileName) {
   var e, vm;
   try {
     if (SceneManager._scene == null) {
@@ -1748,7 +1748,7 @@ window.SetVAnimSoundOnTime = function (id, timeStampInFrames, seFileName) {
   }
 };
 
-window.SetVAnimCurrentPlayTime = function (id, playTimeInSeconds) {
+window.SetVAnimCurrentPlayTime = function(id, playTimeInSeconds) {
   var e, vm;
   try {
     if (SceneManager._scene == null) {
@@ -1765,7 +1765,7 @@ window.SetVAnimCurrentPlayTime = function (id, playTimeInSeconds) {
   }
 };
 
-window.GetVAnimCurrentPlayTime = function (id) {
+window.GetVAnimCurrentPlayTime = function(id) {
   var e, vm;
   try {
     if (SceneManager._scene == null) {
@@ -1783,10 +1783,10 @@ window.GetVAnimCurrentPlayTime = function (id) {
   }
 };
 
-window.ForceChangeEnemyVAnimByEnemyId = function (enemyId, newAnimName, setBackTime) {
+window.ForceChangeEnemyVAnimByEnemyId = function(enemyId, newAnimName, setBackTime) {
   var e, enemy;
   try {
-    enemy = $gameTroop.members().find(function (e) {
+    enemy = $gameTroop.members().find(function(e) {
       return e.enemyId() === enemyId;
     });
     if (enemy != null) {
@@ -1798,7 +1798,7 @@ window.ForceChangeEnemyVAnimByEnemyId = function (enemyId, newAnimName, setBackT
   }
 };
 
-window.ForceChangeEnemyVAnimByEnemy = function (enemy, newAnimName, setBackTime = 0) {
+window.ForceChangeEnemyVAnimByEnemy = function(enemy, newAnimName, setBackTime = 0) {
   var e, eS, i, len, results, sSet;
   try {
     if (!(SceneManager._scene instanceof Scene_Battle)) {
@@ -1824,7 +1824,7 @@ window.ForceChangeEnemyVAnimByEnemy = function (enemy, newAnimName, setBackTime 
   }
 };
 
-window.ForceChangeEnemyVAnimByTroopIndex = function (troopIndex, newAnimName, setBackTime = 0) {
+window.ForceChangeEnemyVAnimByTroopIndex = function(troopIndex, newAnimName, setBackTime = 0) {
   var e, enemy;
   try {
     enemy = $gameTroop.members()[troopIndex];
@@ -1867,15 +1867,15 @@ VWSprite = class VWSprite extends Sprite {
   }
 
   addTimeEventCommonEvent(t, ce) {
-    return this._events.push({ t, ce });
+    return this._events.push({t, ce});
   }
 
   addTimeEventScriptCall(t, sc) {
-    return this._events.push({ t, sc });
+    return this._events.push({t, sc});
   }
 
   addTimeSEPlay(t, seName) {
-    return this._soundsEffects.push({ t, seName });
+    return this._soundsEffects.push({t, seName});
   }
 
   setLoop() {
@@ -1947,7 +1947,7 @@ VWSprite = class VWSprite extends Sprite {
     }
     playPromise = this.source.play();
     if (playPromise != null) {
-      playPromise.then(function () { }).catch(function () { });
+      playPromise.then(function() {}).catch(function() {});
     }
     if (this.onLoaded != null) {
       return this.onLoaded();
@@ -2179,7 +2179,7 @@ VWSprite = class VWSprite extends Sprite {
       }
       playPromise = this.source.play();
       if (playPromise != null) {
-        playPromise.then(function () { }).catch(function () { });
+        playPromise.then(function() {}).catch(function() {});
       }
     }
     this.vidTexture.baseTexture.update();
@@ -2333,13 +2333,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ BattleManager.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__startAction, _;
   //@[DEFINES]
   _ = BattleManager;
   //@[ALIAS]
   ALIAS__startAction = _.startAction;
-  _.startAction = function () {
+  _.startAction = function() {
     var e;
     ALIAS__startAction.call(this, ...arguments);
     try {
@@ -2362,20 +2362,20 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Game_Battler.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var _;
   //@[DEFINES]
   _ = Game_Battler.prototype;
-  _.pIsAutoGifRequested = function () {
+  _.pIsAutoGifRequested = function() {
     return (this._pAutoGifName != null) && this._pAutoGifName !== "";
   };
-  _.pOnAutoGif = function () {
+  _.pOnAutoGif = function() {
     return this._pAutoGifName = null;
   };
-  _.pGetAutoGifName = function () {
+  _.pGetAutoGifName = function() {
     return this._pAutoGifName;
   };
-  _.pSetAutoGifName = function (_pAutoGifName) {
+  _.pSetAutoGifName = function(_pAutoGifName) {
     this._pAutoGifName = _pAutoGifName;
   };
 })();
@@ -2389,13 +2389,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Game_Enemy.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__onDamage, _;
   //@[DEFINES]
   _ = Game_Enemy.prototype;
   //@[ALIAS]
   ALIAS__onDamage = _.onDamage;
-  _.onDamage = function () {
+  _.onDamage = function() {
     var e, pGifOnHit;
     ALIAS__onDamage.call(this, ...arguments);
     try {
@@ -2419,17 +2419,17 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Game_Enemy.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var _;
   //@[DEFINES]
   _ = Game_Enemy.prototype;
-  _.pGetOnHitGifAnimation = function () {
+  _.pGetOnHitGifAnimation = function() {
     return KDCore.Utils.getValueFromMeta('onGotHitGIF', this.enemy());
   };
-  _.pGetOnAttackGifAnimation = function () {
+  _.pGetOnAttackGifAnimation = function() {
     return KDCore.Utils.getValueFromMeta('onAttackGIF', this.enemy());
   };
-  _.pVAnimOnStartBattleAction = function (action) {
+  _.pVAnimOnStartBattleAction = function(action) {
     var attackAnim, e, skillAnim;
     try {
       if ((action != null) && action.isSkill()) {
@@ -2448,7 +2448,7 @@ VWSprite = class VWSprite extends Sprite {
       KDCore.warning(e);
     }
   };
-  _.pVAnimGetGiffAnimationForSkill = function (skillId) {
+  _.pVAnimGetGiffAnimationForSkill = function(skillId) {
     var animationName, e;
     try {
       if ((skillId != null) && skillId > 0) {
@@ -2463,7 +2463,7 @@ VWSprite = class VWSprite extends Sprite {
     }
     return "";
   };
-  _.vpGetExtraMarginsForGif = function () {
+  _.vpGetExtraMarginsForGif = function() {
     var e, margins, match, x, y;
     try {
       margins = KDCore.Utils.getValueFromMeta('gifMargins', this.enemy());
@@ -2473,7 +2473,7 @@ VWSprite = class VWSprite extends Sprite {
         if (match) {
           x = parseInt(match[1]);
           y = parseInt(match[2]);
-          return { x, y };
+          return {x, y};
         } else {
           null;
         }
@@ -2495,19 +2495,19 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Game_Map.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var _;
   //@[DEFINES]
   _ = Game_Map.prototype;
-  _._initVWStorage = function () {
+  _._initVWStorage = function() {
     if (this._vwStorage == null) {
       return this._vwStorage = {};
     }
   };
-  _._saveVW = function (id, name, x, y, isLoop, stateFlag) {
+  _._saveVW = function(id, name, x, y, isLoop, stateFlag) {
     this._vwStorage[id] = [name, x, y, isLoop, stateFlag];
   };
-  _._refreshVWStorage = function () {
+  _._refreshVWStorage = function() {
     var id, item, obj, ref;
     this._initVWStorage();
     ref = this._vwStorage;
@@ -2527,13 +2527,13 @@ VWSprite = class VWSprite extends Sprite {
       }
     }
   };
-  _._removeFromVWStorage = function (id) {
+  _._removeFromVWStorage = function(id) {
     this._initVWStorage();
     if (this._vwStorage[id] != null) {
       delete this._vwStorage[id];
     }
   };
-  _._reloadVWStorage = function () {
+  _._reloadVWStorage = function() {
     var e, id, item, tempStorage, vm;
     this._initVWStorage();
     tempStorage = JsonEx.makeDeepCopy(this._vwStorage);
@@ -2569,23 +2569,23 @@ VWSprite = class VWSprite extends Sprite {
       }
     }
   };
-  _.storeVWOnMapScene = function (id, name, x, y, isLoop) {
+  _.storeVWOnMapScene = function(id, name, x, y, isLoop) {
     this._initVWStorage();
     this._saveVW(id, name, x, y, isLoop, 0);
   };
-  _.storeVWOnMapSpriteset = function (id, name, x, y, isLoop) {
+  _.storeVWOnMapSpriteset = function(id, name, x, y, isLoop) {
     this._initVWStorage();
     this._saveVW(id, name, x, y, isLoop, 1);
   };
-  _.storeVWOnMapOwn = function (id, name, x, y, isLoop) {
+  _.storeVWOnMapOwn = function(id, name, x, y, isLoop) {
     this._initVWStorage();
     this._saveVW(id, name, x, y, isLoop, 2);
   };
-  _.storeVWOnMapOwn2 = function (id, name, x, y, isLoop) {
+  _.storeVWOnMapOwn2 = function(id, name, x, y, isLoop) {
     this._initVWStorage();
     this._saveVW(id, name, x, y, isLoop, 3);
   };
-  _.storeVWOnScreenBelowPictures = function (id, name, x, y, isLoop) {
+  _.storeVWOnScreenBelowPictures = function(id, name, x, y, isLoop) {
     this._initVWStorage();
     this._saveVW(id, name, x, y, isLoop, 4);
   };
@@ -2600,19 +2600,19 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Scene_Base.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__create, ALIAS__update, _;
   //@[DEFINES]
   _ = Scene_Base.prototype;
   //@[ALIAS]
   ALIAS__create = _.create;
-  _.create = function () {
+  _.create = function() {
     ALIAS__create.call(this);
     return this._initVW();
   };
   //@[ALIAS]
   ALIAS__update = _.update;
-  _.update = function () {
+  _.update = function() {
     var i, ref, vw;
     ALIAS__update.call(this);
     if (this._vwStorage == null) {
@@ -2645,11 +2645,11 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Scene_Base.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var _;
   //@[DEFINES]
   _ = Scene_Base.prototype;
-  _._createVM = function (id, name, x, y, isLoop) {
+  _._createVM = function(id, name, x, y, isLoop) {
     var e, s;
     try {
       if (this._vwStorage[id] != null) {
@@ -2669,10 +2669,10 @@ VWSprite = class VWSprite extends Sprite {
       VPLAYER.printError(e, 'createVM');
     }
   };
-  _._initVW = function () {
+  _._initVW = function() {
     return this._vwStorage = {};
   };
-  _._removeVM = function (id) {
+  _._removeVM = function(id) {
     var e, x;
     try {
       //"REMOVE ".p(id)
@@ -2699,10 +2699,10 @@ VWSprite = class VWSprite extends Sprite {
       VPLAYER.printError(e, 'removeVM');
     }
   };
-  _._getVM = function (id) {
+  _._getVM = function(id) {
     return this._vwStorage[id];
   };
-  _._checkVMToDestoroy = function () {
+  _._checkVMToDestoroy = function() {
     var i, ref, vw;
     ref = this._vwStorage;
     //"CHECK TO DESTROY".p()
@@ -2727,13 +2727,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Scene_Battle.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__createSpriteset, _;
   //@[DEFINES]
   _ = Scene_Battle.prototype;
   //@[ALIAS]
   ALIAS__createSpriteset = _.createSpriteset;
-  _.createSpriteset = function () {
+  _.createSpriteset = function() {
     ALIAS__createSpriteset.call(this);
     return this._createVWBattleBackAnimation();
   };
@@ -2748,11 +2748,11 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Scene_Battle.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__stop, _;
   //@[DEFINES]
   _ = Scene_Battle.prototype;
-  _._createVWBattleBackAnimation = function () {
+  _._createVWBattleBackAnimation = function() {
     var e, onL;
     if (!(($gameSystem.vwBattleBack != null) && $gameSystem.vwBattleBack !== "")) {
       return;
@@ -2760,7 +2760,7 @@ VWSprite = class VWSprite extends Sprite {
     try {
       this.vws = new VWSprite($gameSystem.vwBattleBack);
       this.vws.setLoop();
-      onL = function () {
+      onL = function() {
         var h, w;
         w = this.vws.surface.width;
         h = this.vws.surface.height;
@@ -2778,10 +2778,10 @@ VWSprite = class VWSprite extends Sprite {
       return VPLAYER.printError(e, 'Create Animated Battleback');
     }
   };
-
+  
   //@[ALIAS]
   ALIAS__stop = _.stop;
-  _.stop = function () {
+  _.stop = function() {
     var e, i, item, len, ref, ref1;
     try {
       if ((ref = this.vws) != null) {
@@ -2813,26 +2813,26 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Scene_Map.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__isMapTouchOk, ALIAS__onMapLoaded, ALIAS__stop, _;
   //@[DEFINES]
   _ = Scene_Map.prototype;
   //@[ALIAS]
   ALIAS__onMapLoaded = _.onMapLoaded;
-  _.onMapLoaded = function () {
+  _.onMapLoaded = function() {
     ALIAS__onMapLoaded.call(this);
     return $gameMap._reloadVWStorage();
   };
-
+  
   //@[ALIAS]
   ALIAS__stop = _.stop;
-  _.stop = function () {
+  _.stop = function() {
     ALIAS__stop.call(this);
     return $gameMap._refreshVWStorage();
   };
   //@[ALIAS]
   ALIAS__isMapTouchOk = _.isMapTouchOk;
-  _.isMapTouchOk = function () {
+  _.isMapTouchOk = function() {
     var e, i, ref, vw;
     if (this._vwStorage != null) {
       try {
@@ -2868,14 +2868,14 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Scene_Map.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS_RVM, _;
   //@[DEFINES]
   _ = Scene_Map.prototype;
   //@[ALIAS INNER]
   // * Переопределение нового метода из Scene_Base
   ALIAS_RVM = _._removeVM;
-  _._removeVM = function (id) {
+  _._removeVM = function(id) {
     var e;
     ALIAS_RVM.call(this, id);
     try {
@@ -2896,13 +2896,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Sprite_Enemy.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__loadBitmap, ALIAS__update, _;
   //@[DEFINES]
   _ = Sprite_Enemy.prototype;
   //@[ALIAS]
   ALIAS__update = _.update;
-  _.update = function () {
+  _.update = function() {
     ALIAS__update.call(this, ...arguments);
     if (this.isVWBattlerSprite()) {
       this._updateForceGifChangeAutoReset();
@@ -2911,7 +2911,7 @@ VWSprite = class VWSprite extends Sprite {
   };
   //@[ALIAS]
   ALIAS__loadBitmap = _.loadBitmap;
-  _.loadBitmap = function (name, hue) {
+  _.loadBitmap = function(name, hue) {
     if (this.isVWBattlerSprite()) {
       return this._createVWBattler();
     } else {
@@ -2929,11 +2929,11 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Sprite_Enemy.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var _;
   //@[DEFINES]
   _ = Sprite_Enemy.prototype;
-  _.isVWBattlerSprite = function () {
+  _.isVWBattlerSprite = function() {
     var e;
     try {
       if ((this._gifSpriteForceName != null) && this._gifSpriteForceName !== "") {
@@ -2949,7 +2949,7 @@ VWSprite = class VWSprite extends Sprite {
       return false;
     }
   };
-  _._createVWBattler = function () {
+  _._createVWBattler = function() {
     var e, onL;
     this.bitmap = new Bitmap(1, 1); // * HOLDER
     try {
@@ -2974,7 +2974,7 @@ VWSprite = class VWSprite extends Sprite {
           }
         };
       }
-      onL = function () {
+      onL = function() {
         var h, w;
         w = this.vws.surface.width;
         h = this.vws.surface.height;
@@ -2994,7 +2994,7 @@ VWSprite = class VWSprite extends Sprite {
       VPLAYER.printError(e, 'Create Animated Battler');
     }
   };
-  _.forceChangeVMBattlerGif = function (_gifSpriteForceName, _gifReturnTime) {
+  _.forceChangeVMBattlerGif = function(_gifSpriteForceName, _gifReturnTime) {
     var e;
     this._gifSpriteForceName = _gifSpriteForceName;
     this._gifReturnTime = _gifReturnTime;
@@ -3008,7 +3008,7 @@ VWSprite = class VWSprite extends Sprite {
       return KDCore.warning(e);
     }
   };
-  _.autoChangeVMBattlerGif = function (_gifSpriteForceName) {
+  _.autoChangeVMBattlerGif = function(_gifSpriteForceName) {
     var e;
     this._gifSpriteForceName = _gifSpriteForceName;
     try {
@@ -3020,7 +3020,7 @@ VWSprite = class VWSprite extends Sprite {
       return KDCore.warning(e);
     }
   };
-  _._updateForceGifChangeAutoReset = function () {
+  _._updateForceGifChangeAutoReset = function() {
     var e;
     if (this._gitAutoResetTime == null) {
       return;
@@ -3037,7 +3037,7 @@ VWSprite = class VWSprite extends Sprite {
       this._gitAutoResetTime = null;
     }
   };
-  _._updateGifAutoActions = function () {
+  _._updateGifAutoActions = function() {
     if (this._enemy == null) {
       return;
     }
@@ -3046,7 +3046,7 @@ VWSprite = class VWSprite extends Sprite {
       this._enemy.pOnAutoGif();
     }
   };
-  _._applyGifExtraMargins = function () {
+  _._applyGifExtraMargins = function() {
     var e, margins;
     try {
       if (this.vws == null) {
@@ -3074,13 +3074,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Spriteset_Base.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__createPictures, _;
   //@[DEFINES]
   _ = Spriteset_Base.prototype;
   //@[ALIAS]
   ALIAS__createPictures = _.createPictures;
-  _.createPictures = function () {
+  _.createPictures = function() {
     this.__animLayerBelowPics = new Sprite();
     this.addChild(this.__animLayerBelowPics);
     ALIAS__createPictures.call(this);
@@ -3098,13 +3098,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Spriteset_Battle.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__createBattleback, _;
   //@[DEFINES]
   _ = Spriteset_Battle.prototype;
   //@[ALIAS]
   ALIAS__createBattleback = _.createBattleback;
-  _.createBattleback = function () {
+  _.createBattleback = function() {
     ALIAS__createBattleback.call(this, ...arguments);
     this._pAnimatedGifBackSprite = new Sprite();
     if (KDCore.isMV()) {
@@ -3124,13 +3124,13 @@ VWSprite = class VWSprite extends Sprite {
 // ■ Spriteset_Map.coffee
 //╒═════════════════════════════════════════════════════════════════════════╛
 //---------------------------------------------------------------------------
-(function () {
+(function() {
   var ALIAS__createCharacters, ALIAS__updateTilemap, _;
   //@[DEFINES]
   _ = Spriteset_Map.prototype;
   //@[ALIAS]
   ALIAS__createCharacters = _.createCharacters;
-  _.createCharacters = function () {
+  _.createCharacters = function() {
     this.__animLayerMap = new Sprite();
     this.__animLayerMap.z = 1;
     this.__animLayerMap2 = new Sprite();
@@ -3142,10 +3142,10 @@ VWSprite = class VWSprite extends Sprite {
     ALIAS__createCharacters.call(this);
     return this._tilemap.addChild(this.__animLayerMap2);
   };
-
+  
   //@[ALIAS]
   ALIAS__updateTilemap = _.updateTilemap;
-  _.updateTilemap = function () {
+  _.updateTilemap = function() {
     var screenX, screenY;
     ALIAS__updateTilemap.call(this);
     if (this.__animLayerMap.children.length > 0 || this.__animLayerMap2.children.length > 0) {

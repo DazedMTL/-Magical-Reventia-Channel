@@ -68,7 +68,7 @@ Game_Interpreter.prototype.setupChoices = function (params) {
 						} else if (splitParam.length === 1) {
 							index = splitParam[0];
 						}
-						choiceFaces[choicesDetected - 1] = { name: name, index: index };
+						choiceFaces[choicesDetected - 1] = {name: name, index: index};
 					}
 				}
 			}
@@ -83,10 +83,9 @@ Game_Interpreter.prototype.setupChoices = function (params) {
 
 };
 
-(function () {
-	if (!Imported.YEP_X_ExtMesPack1) return;
+(function() { if (!Imported.YEP_X_ExtMesPack1) return;
 
-	'use strict';
+'use strict';
 
 	var paramCloseHelpOnEmpty = eval(DreamX.Parameters['Hide On Empty'] || 8);	// scope it here too
 
@@ -145,10 +144,9 @@ Game_Interpreter.prototype.setupChoices = function (params) {
 
 })();
 
-(function () {
-	if (!Imported.HiddenChoiceConditions) return;
+(function() { if (!Imported.HiddenChoiceConditions) return;
 
-	'use strict';
+'use strict';
 
 	var paramCloseHelpOnEmpty = eval(DreamX.Parameters['Hide On Empty'] || 2);	// scope it here too
 

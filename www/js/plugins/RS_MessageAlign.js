@@ -298,7 +298,7 @@ RS.MessageAlign = RS.MessageAlign || {};
             for (var i = 0; i < maxLines; i++) {
                 var maxFontSize = this.contents.fontSize;
                 var regExp = /\x1b[\{\}]|\x1bFS\[(\d+)\]/gi;
-                for (; ;) {
+                for (;;) {
                     var array = regExp.exec(lines[i]);
                     if (array) {
                         if (array[0] === "\x1b{") {

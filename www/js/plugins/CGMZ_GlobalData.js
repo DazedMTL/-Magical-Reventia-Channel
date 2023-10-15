@@ -121,8 +121,8 @@ CGMZ.Versions = CGMZ.Versions || {};
 CGMZ.Versions["Global Data"] = "1.0.0";
 CGMZ.GlobalData = CGMZ.GlobalData || {};
 CGMZ.GlobalData.parameters = PluginManager.parameters('CGMZ_GlobalData');
-CGMZ.GlobalData.GlobalSwitches = JSON.parse(CGMZ.GlobalData.parameters["Global Switches"]).map(x => Number(x));
-CGMZ.GlobalData.GlobalVariables = JSON.parse(CGMZ.GlobalData.parameters["Global Variables"]).map(x => Number(x));
+CGMZ.GlobalData.GlobalSwitches = JSON.parse(CGMZ.GlobalData.parameters["Global Switches"]).map(x=>Number(x));
+CGMZ.GlobalData.GlobalVariables = JSON.parse(CGMZ.GlobalData.parameters["Global Variables"]).map(x=>Number(x));
 //=============================================================================
 // CGMZ_Temp
 //-----------------------------------------------------------------------------
@@ -132,7 +132,7 @@ CGMZ.GlobalData.GlobalVariables = JSON.parse(CGMZ.GlobalData.parameters["Global 
 // Register Plugin Commands
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_CGMZ_Temp_registerPluginCommands = CGMZ_Temp.prototype.registerPluginCommands;
-CGMZ_Temp.prototype.registerPluginCommands = function () {
+CGMZ_Temp.prototype.registerPluginCommands = function() {
 	alias_CGMZ_GlobalData_CGMZ_Temp_registerPluginCommands.call(this);
 	PluginManager.registerCommand("CGMZ_GlobalData", "Add Text Data", this.pluginCommandGlobalDataAddDataString);
 	PluginManager.registerCommand("CGMZ_GlobalData", "Add Number Data", this.pluginCommandGlobalDataAddDataNumber);
@@ -146,49 +146,49 @@ CGMZ_Temp.prototype.registerPluginCommands = function () {
 //-----------------------------------------------------------------------------
 // Plugin command for adding data
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataString = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataString = function(args) {
 	$cgmzGlobal.addData(args.Key, args.Text);
 };
 //-----------------------------------------------------------------------------
 // Plugin command for adding data
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataNumber = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataNumber = function(args) {
 	$cgmzGlobal.addData(args.Key, Number(args.number));
 };
 //-----------------------------------------------------------------------------
 // Plugin command for adding data
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataVariable = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataVariable = function(args) {
 	$cgmzGlobal.addData(args.Key, $gameVariables.value(Number(args.Variable)));
 };
 //-----------------------------------------------------------------------------
 // Plugin command for adding data
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataSwitch = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataAddDataSwitch = function(args) {
 	$cgmzGlobal.addData(args.Key, $gameSwitches.value(Number(args.Switch)));
 };
 //-----------------------------------------------------------------------------
 // Plugin command for retrieving data into a variable
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataGetData = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataGetData = function(args) {
 	$gameVariables.setValue(Number(args.variable), $cgmzGlobal.getData(args.Key));
 };
 //-----------------------------------------------------------------------------
 // Plugin command for retrieving data into a switch
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataGetSwitchData = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataGetSwitchData = function(args) {
 	$gameSwitches.setValue(Number(args.Switch), $cgmzGlobal.getData(args.Key));
 };
 //-----------------------------------------------------------------------------
 // Plugin command for clearing a single piece of data
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataClearData = function (args) {
+CGMZ_Temp.prototype.pluginCommandGlobalDataClearData = function(args) {
 	$cgmzGlobal.clearData(args.Key);
 };
 //-----------------------------------------------------------------------------
 // Plugin command for saving global data
 //-----------------------------------------------------------------------------
-CGMZ_Temp.prototype.pluginCommandGlobalDataSaveData = function () {
+CGMZ_Temp.prototype.pluginCommandGlobalDataSaveData = function() {
 	DataManager.CGMZ_saveGlobalCGMZInfo();
 };
 //=============================================================================
@@ -200,7 +200,7 @@ CGMZ_Temp.prototype.pluginCommandGlobalDataSaveData = function () {
 // Apply global data after game load
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_CGMZCore_onAfterLoad = CGMZ_Core.prototype.onAfterLoad;
-CGMZ_Core.prototype.onAfterLoad = function () {
+CGMZ_Core.prototype.onAfterLoad = function() {
 	alias_CGMZ_GlobalData_CGMZCore_onAfterLoad.call(this);
 	$cgmzGlobal.apply();
 };
@@ -210,53 +210,53 @@ CGMZ_Core.prototype.onAfterLoad = function () {
 // This class stores data that is available to all save files
 //=============================================================================
 function CGMZ_GlobalData() {
-	this.initialize.apply(this, arguments);
+    this.initialize.apply(this, arguments);
 }
 //-----------------------------------------------------------------------------
 // Initialize
 //-----------------------------------------------------------------------------
-CGMZ_GlobalData.prototype.initialize = function () {
+CGMZ_GlobalData.prototype.initialize = function() {
 	this._data = {};
 	this._globalSwitches = {};
-	for (const id of CGMZ.GlobalData.GlobalSwitches) {
+	for(const id of CGMZ.GlobalData.GlobalSwitches) {
 		this._globalSwitches[id] = false;
 	}
 	this._globalVariables = {};
-	for (const id of CGMZ.GlobalData.GlobalVariables) {
+	for(const id of CGMZ.GlobalData.GlobalVariables) {
 		this._globalVariables[id] = 0;
 	}
 };
 //-----------------------------------------------------------------------------
 // Apply automatic global data
 //-----------------------------------------------------------------------------
-CGMZ_GlobalData.prototype.apply = function () {
-	if (!$gameSwitches || !$gameVariables) return;
-	for (const id of Object.keys(this._globalSwitches)) {
+CGMZ_GlobalData.prototype.apply = function() {
+	if(!$gameSwitches || !$gameVariables) return;
+	for(const id of Object.keys(this._globalSwitches)) {
 		$gameSwitches.setValue(id, this._globalSwitches[id]);
 	}
-	for (const id of Object.keys(this._globalVariables)) {
+	for(const id of Object.keys(this._globalVariables)) {
 		$gameVariables.setValue(id, this._globalVariables[id]);
 	}
 };
 //-----------------------------------------------------------------------------
 // Add Data, does not check if data exists
 //-----------------------------------------------------------------------------
-CGMZ_GlobalData.prototype.addData = function (key, contents) {
+CGMZ_GlobalData.prototype.addData = function(key, contents) {
 	this._data[key] = contents;
 };
 //-----------------------------------------------------------------------------
 // Get Data, returns 0 if data does not exist
 //-----------------------------------------------------------------------------
-CGMZ_GlobalData.prototype.getData = function (key) {
-	if (this._data) {
+CGMZ_GlobalData.prototype.getData = function(key) {
+	if(this._data) {
 		return this._data[key];
 	}
 };
 //-----------------------------------------------------------------------------
 // Get Data, returns undefined if data does not exist
 //-----------------------------------------------------------------------------
-CGMZ_GlobalData.prototype.clearData = function (key) {
-	if (this._data) {
+CGMZ_GlobalData.prototype.clearData = function(key) {
+	if(this._data) {
 		delete this._data[key];
 	}
 };
@@ -270,9 +270,9 @@ $cgmzGlobal = null;
 // Initialize the $cgmzGlobal variable
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_createGameObjects = DataManager.createGameObjects;
-DataManager.createGameObjects = function () {
-	alias_CGMZ_GlobalData_createGameObjects.call(this);
-	if (!$cgmzGlobal) {
+DataManager.createGameObjects = function() {
+    alias_CGMZ_GlobalData_createGameObjects.call(this);
+	if(!$cgmzGlobal) {
 		$cgmzGlobal = new CGMZ_GlobalData();
 	}
 };
@@ -280,51 +280,51 @@ DataManager.createGameObjects = function () {
 // Set the global switch / variables to global values
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_DataManager_setupNewGame = DataManager.setupNewGame;
-DataManager.setupNewGame = function () {
-	alias_CGMZ_GlobalData_DataManager_setupNewGame.call(this);
+DataManager.setupNewGame = function() {
+    alias_CGMZ_GlobalData_DataManager_setupNewGame.call(this);
 	$cgmzGlobal.apply();
 };
 //-----------------------------------------------------------------------------
 // Automatic saving of cgmz global info when saving other global info
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_saveGlobalInfo = DataManager.saveGlobalInfo;
-DataManager.saveGlobalInfo = function () {
+DataManager.saveGlobalInfo = function() {
 	alias_CGMZ_GlobalData_saveGlobalInfo.call(this);
 	this.CGMZ_saveGlobalCGMZInfo();
 };
 //-----------------------------------------------------------------------------
 // Save CGMZ Global data
 //-----------------------------------------------------------------------------
-DataManager.CGMZ_saveGlobalCGMZInfo = function () {
+DataManager.CGMZ_saveGlobalCGMZInfo = function() {
 	const contents = this.CGMZ_GlobalData_createGlobalSaveContents();
-	StorageManager.saveObject("cgmz", contents);
+    StorageManager.saveObject("cgmz", contents);
 };
 //-----------------------------------------------------------------------------
 // Make global save file info
 //-----------------------------------------------------------------------------
-DataManager.CGMZ_GlobalData_createGlobalSaveContents = function () {
+DataManager.CGMZ_GlobalData_createGlobalSaveContents = function() {
 	contents = {};
 	contents.cgmz = $cgmzGlobal;
-	return contents;
+    return contents;
 };
 //-----------------------------------------------------------------------------
 // Load global CGMZ data
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_loadGlobalInfo = DataManager.loadGlobalInfo;
-DataManager.loadGlobalInfo = function () {
+DataManager.loadGlobalInfo = function() {
 	alias_CGMZ_GlobalData_loadGlobalInfo.call(this);
-	StorageManager.loadObject("cgmz").then(cgmzInfo => {
-		this.CGMZ_GlobalData_loadCGMZGlobalData(cgmzInfo);
-		return 0;
-	})
-		.catch(() => {
-			console.warn("Could not load CGMZ global data!");
-		});
+    StorageManager.loadObject("cgmz").then(cgmzInfo => {
+			this.CGMZ_GlobalData_loadCGMZGlobalData(cgmzInfo);
+            return 0;
+        })
+        .catch(() => {
+            console.warn("Could not load CGMZ global data!");
+        });
 };
 //-----------------------------------------------------------------------------
 // Load global CGMZ data
 //-----------------------------------------------------------------------------
-DataManager.CGMZ_GlobalData_loadCGMZGlobalData = function (contents) {
+DataManager.CGMZ_GlobalData_loadCGMZGlobalData = function(contents) {
 	$cgmzGlobal = contents.cgmz;
 };
 //=============================================================================
@@ -336,9 +336,9 @@ DataManager.CGMZ_GlobalData_loadCGMZGlobalData = function (contents) {
 // Also change global switch
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_GameSwitch_setValue = Game_Switches.prototype.setValue;
-Game_Switches.prototype.setValue = function (switchId, value) {
+Game_Switches.prototype.setValue = function(switchId, value) {
 	alias_CGMZ_GlobalData_GameSwitch_setValue.call(this, switchId, value);
-	if ($cgmzGlobal._globalSwitches.hasOwnProperty(switchId)) {
+    if($cgmzGlobal._globalSwitches.hasOwnProperty(switchId)) {
 		$cgmzGlobal._globalSwitches[switchId] = value;
 	}
 };
@@ -351,9 +351,9 @@ Game_Switches.prototype.setValue = function (switchId, value) {
 // Also change global variable
 //-----------------------------------------------------------------------------
 const alias_CGMZ_GlobalData_GameVariables_setValue = Game_Variables.prototype.setValue;
-Game_Variables.prototype.setValue = function (variableId, value) {
+Game_Variables.prototype.setValue = function(variableId, value) {
 	alias_CGMZ_GlobalData_GameVariables_setValue.call(this, variableId, value);
-	if ($cgmzGlobal._globalVariables.hasOwnProperty(variableId)) {
+	if($cgmzGlobal._globalVariables.hasOwnProperty(variableId)) {
 		$cgmzGlobal._globalVariables[variableId] = value;
 	}
 };

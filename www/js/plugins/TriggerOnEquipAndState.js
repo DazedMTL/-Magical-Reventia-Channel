@@ -70,12 +70,12 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function () {
+(function() {
     'use strict';
-    var pluginName = 'TriggerOnEquipAndState';
+    var pluginName    = 'TriggerOnEquipAndState';
     var metaTagPrefix = 'TOES';
 
-    var getParamOther = function (paramNames) {
+    var getParamOther = function(paramNames) {
         if (!Array.isArray(paramNames)) paramNames = [paramNames];
         for (var i = 0; i < paramNames.length; i++) {
             var name = PluginManager.parameters(pluginName)[paramNames[i]];
@@ -84,17 +84,17 @@
         return null;
     };
 
-    var getParamBoolean = function (paramNames) {
+    var getParamBoolean = function(paramNames) {
         var value = getParamOther(paramNames);
         return (value || '').toUpperCase() === 'ON';
     };
 
-    var getMetaValue = function (object, name) {
+    var getMetaValue = function(object, name) {
         var metaTagName = metaTagPrefix + (name ? name : '');
         return object.meta.hasOwnProperty(metaTagName) ? object.meta[metaTagName] : undefined;
     };
 
-    var getMetaValues = function (object, names) {
+    var getMetaValues = function(object, names) {
         if (!Array.isArray(names)) return getMetaValue(object, names);
         for (var i = 0, n = names.length; i < n; i++) {
             var value = getMetaValue(object, names[i]);
@@ -103,38 +103,38 @@
         return undefined;
     };
 
-    var getArgString = function (arg, upperFlg) {
+    var getArgString = function(arg, upperFlg) {
         arg = convertEscapeCharactersAndEval(arg, false);
         return upperFlg ? arg.toUpperCase() : arg;
     };
 
-    var getArgNumber = function (arg, min, max) {
+    var getArgNumber = function(arg, min, max) {
         if (arguments.length < 2) min = -Infinity;
         if (arguments.length < 3) max = Infinity;
         return (parseInt(convertEscapeCharactersAndEval(arg, true), 10) || 0).clamp(min, max);
     };
 
-    var getArgBoolean = function (arg) {
+    var getArgBoolean = function(arg) {
         return (arg || '').toUpperCase() === 'ON';
     };
 
-    var convertEscapeCharactersAndEval = function (text, evalFlg) {
+    var convertEscapeCharactersAndEval = function(text, evalFlg) {
         if (text == null || text === true) text = '';
         text = text.replace(/&gt;?/gi, '>');
         text = text.replace(/&lt;?/gi, '<');
         text = text.replace(/\\/g, '\x1b');
         text = text.replace(/\x1b\x1b/g, '\\');
-        text = text.replace(/\x1bV\[(\d+)\]/gi, function () {
+        text = text.replace(/\x1bV\[(\d+)\]/gi, function() {
             return $gameVariables.value(parseInt(arguments[1], 10));
         }.bind(this));
-        text = text.replace(/\x1bV\[(\d+)\]/gi, function () {
+        text = text.replace(/\x1bV\[(\d+)\]/gi, function() {
             return $gameVariables.value(parseInt(arguments[1], 10));
         }.bind(this));
-        text = text.replace(/\x1bN\[(\d+)\]/gi, function () {
+        text = text.replace(/\x1bN\[(\d+)\]/gi, function() {
             var actor = parseInt(arguments[1], 10) >= 1 ? $gameActors.actor(parseInt(arguments[1], 10)) : null;
             return actor ? actor.name() : '';
         }.bind(this));
-        text = text.replace(/\x1bP\[(\d+)\]/gi, function () {
+        text = text.replace(/\x1bP\[(\d+)\]/gi, function() {
             var actor = parseInt(arguments[1], 10) >= 1 ? $gameParty.members()[parseInt(arguments[1], 10) - 1] : null;
             return actor ? actor.name() : '';
         }.bind(this));
@@ -151,31 +151,31 @@
     // Game_Party
     //  変数設定が必要かどうかを返します。
     //=============================================================================
-    Game_Party.prototype.isNeedControlVariable = function (actor) {
+    Game_Party.prototype.isNeedControlVariable = function(actor) {
         return !paramBattleMemberOnly || (this.battleMembers().contains(actor) || this.size() < this.maxBattleMembers());
     };
 
-    Game_Party.prototype.getMembersNeedControl = function () {
+    Game_Party.prototype.getMembersNeedControl = function() {
         return paramBattleMemberOnly ? this.battleMembers() : this.members();
     };
 
-    Game_Party.prototype.getReserveMembers = function () {
+    Game_Party.prototype.getReserveMembers = function() {
         var battleMembers = this.battleMembers();
-        return this.members().filter(function (actor) {
+        return this.members().filter(function(actor) {
             return !battleMembers.contains(actor);
         });
     };
 
-    var _Game_Party_setupStartingMembers = Game_Party.prototype.setupStartingMembers;
-    Game_Party.prototype.setupStartingMembers = function () {
+    var _Game_Party_setupStartingMembers      = Game_Party.prototype.setupStartingMembers;
+    Game_Party.prototype.setupStartingMembers = function() {
         _Game_Party_setupStartingMembers.apply(this, arguments);
-        this.getMembersNeedControl().forEach(function (actor) {
+        this.getMembersNeedControl().forEach(function(actor) {
             actor.onChangeMember(true);
         });
     };
 
-    var _Game_Party_addActor = Game_Party.prototype.addActor;
-    Game_Party.prototype.addActor = function (actorId) {
+    var _Game_Party_addActor      = Game_Party.prototype.addActor;
+    Game_Party.prototype.addActor = function(actorId) {
         _Game_Party_addActor.apply(this, arguments);
         var actor = $gameActors.actor(actorId);
         if (this.getMembersNeedControl().contains(actor)) {
@@ -183,8 +183,8 @@
         }
     };
 
-    var _Game_Party_removeActor = Game_Party.prototype.removeActor;
-    Game_Party.prototype.removeActor = function (actorId) {
+    var _Game_Party_removeActor      = Game_Party.prototype.removeActor;
+    Game_Party.prototype.removeActor = function(actorId) {
         var actor = $gameActors.actor(actorId);
         if (this.getMembersNeedControl().contains(actor)) {
             actor.onChangeMember(false);
@@ -193,7 +193,7 @@
         _Game_Party_removeActor.apply(this, arguments);
         if (paramBattleMemberOnly) {
             var members = this.battleMembers();
-            reserveMembers.forEach(function (actor) {
+            reserveMembers.forEach(function(actor) {
                 if (members.contains(actor)) {
                     actor.onChangeMember(true);
                 }
@@ -201,13 +201,13 @@
         }
     };
 
-    var _Game_Party_swapOrder = Game_Party.prototype.swapOrder;
-    Game_Party.prototype.swapOrder = function (index1, index2) {
+    var _Game_Party_swapOrder      = Game_Party.prototype.swapOrder;
+    Game_Party.prototype.swapOrder = function(index1, index2) {
         var prevMembers = this.getMembersNeedControl();
-        var actors = [$gameActors.actor(this._actors[index1]), $gameActors.actor(this._actors[index2])];
+        var actors      = [$gameActors.actor(this._actors[index1]), $gameActors.actor(this._actors[index2])];
         _Game_Party_swapOrder.apply(this, arguments);
         var members = this.getMembersNeedControl();
-        actors.forEach(function (actor) {
+        actors.forEach(function(actor) {
             if (prevMembers.contains(actor) && !members.contains(actor)) {
                 actor.onChangeMember(false);
             }
@@ -221,26 +221,26 @@
     // Game_Actor
     //  ステートが変更された際のスイッチ、変数制御を追加定義します。
     //=============================================================================
-    var _Game_BattlerBase_addNewState = Game_BattlerBase.prototype.addNewState;
-    Game_BattlerBase.prototype.addNewState = function (stateId) {
+    var _Game_BattlerBase_addNewState      = Game_BattlerBase.prototype.addNewState;
+    Game_BattlerBase.prototype.addNewState = function(stateId) {
         if (this instanceof Game_Actor && !this._states.contains(stateId)) {
             this.onChangeEquipAndState($dataStates[stateId], true);
         }
         _Game_BattlerBase_addNewState.apply(this, arguments);
     };
 
-    var _Game_BattlerBase_eraseState = Game_BattlerBase.prototype.eraseState;
-    Game_BattlerBase.prototype.eraseState = function (stateId) {
+    var _Game_BattlerBase_eraseState      = Game_BattlerBase.prototype.eraseState;
+    Game_BattlerBase.prototype.eraseState = function(stateId) {
         if (this instanceof Game_Actor && this._states.contains(stateId)) {
             this.onChangeEquipAndState($dataStates[stateId], false);
         }
         _Game_BattlerBase_eraseState.apply(this, arguments);
     };
 
-    var _Game_BattlerBase_clearStates = Game_BattlerBase.prototype.clearStates;
-    Game_BattlerBase.prototype.clearStates = function () {
+    var _Game_BattlerBase_clearStates      = Game_BattlerBase.prototype.clearStates;
+    Game_BattlerBase.prototype.clearStates = function() {
         if (this instanceof Game_Actor && this._states) {
-            this._states.forEach(function (stateId) {
+            this._states.forEach(function(stateId) {
                 this.onChangeEquipAndState($dataStates[stateId], false);
             }.bind(this));
         }
@@ -251,8 +251,8 @@
     // Game_Actor
     //  装備が変更された際のスイッチ、変数制御を追加定義します。
     //=============================================================================
-    var _Game_Actor_changeEquip = Game_Actor.prototype.changeEquip;
-    Game_Actor.prototype.changeEquip = function (slotId, item) {
+    var _Game_Actor_changeEquip      = Game_Actor.prototype.changeEquip;
+    Game_Actor.prototype.changeEquip = function(slotId, item) {
         var prevItem = new Game_Item(this._equips[slotId].object());
         _Game_Actor_changeEquip.apply(this, arguments);
         var newItem = this._equips[slotId];
@@ -265,7 +265,7 @@
     };
 
     var _Game_Actor_discardEquip = Game_Actor.prototype.discardEquip;
-    Game_Actor.prototype.discardEquip = function (item) {
+    Game_Actor.prototype.discardEquip = function(item) {
         var slotId = this.equips().indexOf(item);
         if (slotId >= 0) {
             this.onChangeEquipAndState(item, false);
@@ -273,18 +273,18 @@
         _Game_Actor_discardEquip.apply(this, arguments);
     };
 
-    Game_Actor.prototype.onChangeMember = function (addedSign) {
-        this.equips().forEach(function (equip) {
+    Game_Actor.prototype.onChangeMember = function(addedSign) {
+        this.equips().forEach(function(equip) {
             if (equip && equip.id !== 0) {
                 this.onChangeEquipAndState(equip, addedSign, true);
             }
         }.bind(this));
-        this._states.forEach(function (stateId) {
+        this._states.forEach(function(stateId) {
             this.onChangeEquipAndState($dataStates[stateId], addedSign, true);
         }.bind(this));
     };
 
-    Game_Actor.prototype.onChangeEquipAndState = function (item, addedSign, force) {
+    Game_Actor.prototype.onChangeEquipAndState = function(item, addedSign, force) {
         if (!$gameParty.isNeedControlVariable(this) && !force) return;
         var index = 1;
         while (index) {
@@ -296,9 +296,9 @@
         }
     };
 
-    Game_Actor.prototype.controlVariable = function (item, addedSign, indexString) {
+    Game_Actor.prototype.controlVariable = function(item, addedSign, indexString) {
         var switchTarget = getMetaValues(item, ['スイッチ対象' + indexString, 'SwitchTarget' + indexString]);
-        var result = false;
+        var result       = false;
         if (switchTarget) {
             var switchId = this.getVariableIdForToes(switchTarget, $dataSystem.switches.length - 1);
             var switchValue = getMetaValues(item, ['スイッチ設定値' + indexString, 'SwitchValue' + indexString]);
@@ -307,18 +307,18 @@
         }
         var variableTarget = getMetaValues(item, ['変数対象' + indexString, 'VariableTarget' + indexString]);
         if (variableTarget) {
-            var variableId = this.getVariableIdForToes(variableTarget, $dataSystem.variables.length - 1);
+            var variableId    = this.getVariableIdForToes(variableTarget, $dataSystem.variables.length - 1);
             var variableValue = getMetaValues(item, ['変数設定値' + indexString, 'VariableValue' + indexString]);
-            var resultValue = (variableValue ? getArgNumber(variableValue) : 1) * (addedSign ? 1 : -1);
+            var resultValue   = (variableValue ? getArgNumber(variableValue) : 1) * (addedSign ? 1 : -1);
             $gameVariables.setValue(variableId, $gameVariables.value(variableId) + resultValue);
             result = true;
         }
         return result;
     };
 
-    Game_Actor.prototype.getVariableIdForToes = function (target, max) {
+    Game_Actor.prototype.getVariableIdForToes = function(target, max) {
         var actorId = this._actorId; // used in eval
-        var result = 0;
+        var result  = 0;
         try {
             result = eval(getArgString(target)).clamp(1, max);
         } catch (e) {
