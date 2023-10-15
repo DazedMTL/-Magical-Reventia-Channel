@@ -2,21 +2,21 @@ function revanAtk() {
 
     const vari = {
         act: $gameVariables.value(26),
-
+    
         kindMind: $gameVariables.value(33),
         badMind: $gameVariables.value(34),
-
+    
         atk: $gameVariables.value(18),
         enemyhp: $gameVariables.value(50),
-
+        
         enemy1atk: $gameSwitches.value(77),
 
         enemy2atk: $gameSwitches.value(78),
         enemy2hp: $gameVariables.value(84),
-
+    
         enemy3atk: $gameSwitches.value(79),
         enemy3hp: $gameVariables.value(88),
-
+        
         enemy4atk: $gameSwitches.value(80),
         enemy4hp: $gameVariables.value(92),
 
@@ -24,26 +24,26 @@ function revanAtk() {
 
         atkText1: $gameVariables.value(293),
         atkText2: $gameVariables.value(294),
-        atkText3: $gameVariables.value(280),
+        atkText3: $gameVariables.value(280),   
 
-        manyActInc: 0,
-        wantAct: $gameVariables.value(15),
-        wantActInc: 0,
+        manyActInc : 0,
+        wantAct : $gameVariables.value(15),
+        wantActInc : 0,
     }
     manyActChecker(vari);
     $gameVariables.setValue(12, vari.manyActInc);
 
-    if ($gameVariables.value(47) == 2 && $gameSwitches.value(62)) {
+    if ($gameVariables.value(47) == 2 && $gameSwitches.value(62)){
         leader1checker(vari);
     } else {
         wantActChecker(vari);
     }
     $gameVariables.setValue(16, vari.wantActInc);
 
-    switch (vari.act) {
-        case 1:
-            if (!$gameSwitches.value(137)) {
-                if (vari.kindMind >= 1 && vari.kindMind < 800) {
+    switch(vari.act) {
+        case 1: 
+            if(!$gameSwitches.value(137)){
+                if (vari.kindMind >= 1 && vari.kindMind < 800){
                     vari.atk = 100;
                     $gameVariables.setValue(18, vari.atk);
                     $gameVariables.setValue(10, 400);
@@ -79,7 +79,7 @@ function revanAtk() {
             break;
 
         case 2:
-            if (vari.kindMind >= 400 && vari.kindMind < 2500) {
+            if (vari.kindMind >= 400 && vari.kindMind < 2500){
                 vari.atk = 100;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(10, 200);
@@ -107,10 +107,10 @@ function revanAtk() {
                 $gameVariables.setValue(10, 150000);
                 $gameVariables.setValue(279, 'The purifying flames imbued with Levantias determination engulf and cleanse the wicked presence, completely incinerating it!');
             }
-            break;
+        break;
 
         case 3:
-            if (vari.badMind >= 100 && vari.badMind < 800) {
+            if (vari.badMind >= 100 && vari.badMind < 800){
                 vari.atk = 150;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 400);
@@ -134,10 +134,10 @@ function revanAtk() {
                 $gameVariables.setValue(14, 150000);
                 $gameVariables.setValue(279, 'The relentless justice that defeats evil transforms into a sword of azure flames and cleaves everything before it in half!');
             }
-            break;
+        break;
 
         case 4:
-            if (vari.badMind >= 200 && vari.badMind < 1500) {
+            if (vari.badMind >= 200 && vari.badMind < 1500){
                 vari.atk = 100;
                 $gameVariables.setValue(18, vari.atk);
                 $gameVariables.setValue(14, 800);
@@ -166,43 +166,43 @@ function revanAtk() {
                 $gameVariables.setValue(14, 150000);
                 $gameVariables.setValue(279, 'The absolute zero frozen terrain froze everything except for Levantia, and a calm silence permeated the surroundings...');
             }
-            break;
+        break;
     }
 }
 
 
 function manyActChecker(v) {
-    switch (v.act) {
-        case 1: if (!v.Atk_1) { v.manyActInc = 1000; }; break;
-        case 2: if (!v.Atk_2) { v.manyActInc = 1000; }; break;
-        case 3: if (!v.Atk_3) { v.manyActInc = 1000; }; break;
-        case 4: if (!v.Atk_4) { v.manyActInc = 1000; }; break;
-        case 5: if (!v.Bar_1) { v.manyActInc = 1000; }; break;
-        case 6: if (!v.Shi_1) { v.manyActInc = 1000; }; break;
-        case 7: if (!v.Hea_1) { v.manyActInc = 1000; }; break;
-        case 8: if (!v.Eva_1) { v.manyActInc = 1000; }; break;
-        case 13: if (!v.Bar_2) { v.manyActInc = 1000; }; break;
-        case 14: if (!v.Shi_2) { v.manyActInc = 1000; }; break;
-        case 15: if (!v.Hea_2) { v.manyActInc = 1000; }; break;
-        case 16: if (!v.Eva_2) { v.manyActInc = 1000; }; break;
+    switch(v.act) {
+        case 1 : if (!v.Atk_1) {v.manyActInc = 1000;}; break;
+        case 2 : if (!v.Atk_2) {v.manyActInc = 1000;}; break;
+        case 3 : if (!v.Atk_3) {v.manyActInc = 1000;}; break;
+        case 4 : if (!v.Atk_4) {v.manyActInc = 1000;}; break;
+        case 5 : if (!v.Bar_1) {v.manyActInc = 1000;}; break;
+        case 6 : if (!v.Shi_1) {v.manyActInc = 1000;}; break;
+        case 7 : if (!v.Hea_1) {v.manyActInc = 1000;}; break;
+        case 8 : if (!v.Eva_1) {v.manyActInc = 1000;}; break;
+        case 13 : if (!v.Bar_2) {v.manyActInc = 1000;}; break;
+        case 14 : if (!v.Shi_2) {v.manyActInc = 1000;}; break;
+        case 15 : if (!v.Hea_2) {v.manyActInc = 1000;}; break;
+        case 16 : if (!v.Eva_2) {v.manyActInc = 1000;}; break;
     }
 }
 
 function leader1checker(v) {
-    switch (v.act) {
-        case 1: v.wantActInc = 200; break;
-        case 2: v.wantActInc = 200; break;
-        case 3: v.wantActInc = 200; break;
-        case 4: v.wantActInc = 200; break;
-        case 5: v.wantActInc = 200; break;
-        case 6: v.wantActInc = 200; break;
-        case 7: v.wantActInc = 200; break;
-        case 8: v.wantActInc = 200; break;
-        case 13: v.wantActInc = 200; break;
-        case 14: v.wantActInc = 200; break;
-        case 15: v.wantActInc = 200; break;
-        case 16: v.wantActInc = 200; break;
-        default: v.wantActInc = 0;
+    switch(v.act){
+        case 1 : v.wantActInc = 200; break;
+        case 2 : v.wantActInc = 200; break;
+        case 3 : v.wantActInc = 200; break;
+        case 4 : v.wantActInc = 200; break;
+        case 5 : v.wantActInc = 200; break;
+        case 6 : v.wantActInc = 200; break;
+        case 7 : v.wantActInc = 200; break;
+        case 8 : v.wantActInc = 200; break;
+        case 13 : v.wantActInc = 200; break;
+        case 14 : v.wantActInc = 200; break;
+        case 15 : v.wantActInc = 200; break;
+        case 16 : v.wantActInc = 200; break;
+        default : v.wantActInc = 0;
     }
 }
 
@@ -215,44 +215,44 @@ function wantActCreator(v) {
         case 11: v.wantAct = 15; break;
         case 12: v.wantAct = 16; break;
     }
-    $gameVariables.setValue(15, v.wantAct);
+    $gameVariables.setValue(15, v.wantAct);   
 }
 
-
+ 
 function wantActChecker(v) {
     if (v.act == v.wantAct) {
-        switch (v.act) {
-            case 1: v.wantActInc = 200; break;
-            case 2: v.wantActInc = 200; break;
-            case 3: v.wantActInc = 200; break;
-            case 4: v.wantActInc = 200; break;
-            case 5: v.wantActInc = 200; break;
-            case 6: v.wantActInc = 200; break;
-            case 7: v.wantActInc = 200; break;
-            case 8: v.wantActInc = 200; break;
-            case 13: v.wantActInc = 200; break;
-            case 14: v.wantActInc = 200; break;
-            case 15: v.wantActInc = 200; break;
-            case 16: v.wantActInc = 200; break;
-            default: v.wantActInc = 0;
+        switch(v.act){
+            case 1 : v.wantActInc = 200; break;
+            case 2 : v.wantActInc = 200; break;
+            case 3 : v.wantActInc = 200; break;
+            case 4 : v.wantActInc = 200; break;
+            case 5 : v.wantActInc = 200; break;
+            case 6 : v.wantActInc = 200; break;
+            case 7 : v.wantActInc = 200; break;
+            case 8 : v.wantActInc = 200; break;
+            case 13 : v.wantActInc = 200; break;
+            case 14 : v.wantActInc = 200; break;
+            case 15 : v.wantActInc = 200; break;
+            case 16 : v.wantActInc = 200; break;
+            default : v.wantActInc = 0;
         }
         $gameVariables.setValue(16, v.wantActInc);
     }
-    if (v.act == v.penalty) {
-        switch (v.penalty) {
-            case 1: v.penaltyInc = 200; break;
-            case 2: v.penaltyInc = 200; break;
-            case 3: v.penaltyInc = 200; break;
-            case 4: v.penaltyInc = 200; break;
-            case 5: v.penaltyInc = 200; break;
-            case 6: v.penaltyInc = 200; break;
-            case 7: v.penaltyInc = 200; break;
-            case 8: v.penaltyInc = 200; break;
-            case 13: v.penaltyInc = 200; break;
-            case 14: v.penaltyInc = 200; break;
-            case 15: v.penaltyInc = 200; break;
-            case 16: v.penaltyInc = 200; break;
-            default: v.penaltyInc = 0;
+    if(v.act == v.penalty){
+        switch(v.penalty){
+            case 1 : v.penaltyInc = 200; break;
+            case 2 : v.penaltyInc = 200; break;
+            case 3 : v.penaltyInc = 200; break;
+            case 4 : v.penaltyInc = 200; break;
+            case 5 : v.penaltyInc = 200; break;
+            case 6 : v.penaltyInc = 200; break;
+            case 7 : v.penaltyInc = 200; break;
+            case 8 : v.penaltyInc = 200; break;
+            case 13 : v.penaltyInc = 200; break;
+            case 14 : v.penaltyInc = 200; break;
+            case 15 : v.penaltyInc = 200; break;
+            case 16 : v.penaltyInc = 200; break;
+            default : v.penaltyInc = 0;
         }
     }
 }

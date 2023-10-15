@@ -1,5 +1,5 @@
 function cheerUp() {
-    array = ['27歳ニートオオハラの、レヴァンティアガチコイの思いが届いた！',
+array = ['27歳ニートオオハラの、レヴァンティアガチコイの思いが届いた！',
         '32歳警察官ダケダの、市民の安寧を願う思いが届いた！',
         '8歳魔法少女になりたいヒメノの、レヴァンティアへの憧れの思いが届いた！',
         '45歳ラーメンマスター高橋の、みんなにおいしいラーメンを作ってあげたい思いが届いた！',
@@ -10,11 +10,11 @@ function cheerUp() {
         '23歳海外ニキジェイムスの、国境を超えた応援の思いが届いた！',
         '15歳デュフチューバーになりたいタナカの、レヴァンティアへの憧れの思いが届いた！',
     ]
-    switch ($gameVariables.value(275)) {
+    switch($gameVariables.value(275)){
         case 0:
             $gameVariables.setValue(276, array[0]);
             break;
-
+            
         case 1:
             $gameVariables.setValue(276, array[1]);
             break;
@@ -30,23 +30,23 @@ function cheerUp() {
         case 4:
             $gameVariables.setValue(276, array[4]);
             break;
-
+            
         case 5:
             $gameVariables.setValue(276, array[5]);
             break;
-
+            
         case 6:
             $gameVariables.setValue(276, array[6]);
             break;
-
+            
         case 7:
             $gameVariables.setValue(276, array[7]);
             break;
-
+            
         case 8:
             $gameVariables.setValue(276, array[8]);
             break;
-
+            
         case 9:
             $gameVariables.setValue(276, array[9]);
             $gameVariables.setValue(275, -1);

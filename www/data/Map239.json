@@ -11561,23 +11561,6 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
@@ -12258,7 +12241,7 @@
                     "conditions": {
                         "actorId": 1,
                         "actorValid": false,
-                        "itemId": 112,
+                        "itemId": 299,
                         "itemValid": true,
                         "selfSwitchCh": "A",
                         "selfSwitchValid": false,

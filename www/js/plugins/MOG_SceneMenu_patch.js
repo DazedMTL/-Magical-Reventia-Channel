@@ -103,7 +103,7 @@
 		// 			var ny = this._compos[i][1];
 		// 			if (this._commands[i].opacity > 80 || this._statusWindow.active) {
 		// 				this._commands[i].opacity -= 10
-
+						
 		// 				if (this._commands[i].opacity < 80 && !this._statusWindow.active) {
 		// 					this._commands[i].opacity = 80
 		// 				}
@@ -111,7 +111,7 @@
 		// 			if (!this._statusWindow.active && this._commands[i].opacity < 80) {
 		// 				this._commands[i].opacity += 10;
 		// 				this.this._compos[i][0] += 10;
-
+						
 		// 				if (this._commands[i].opacity > 80) {
 		// 					this._commands[i].opacity = 80
 		// 				}
@@ -224,7 +224,7 @@
 			this._comzoom[i] = 0;
 			this._comField.addChild(this._commands[i]);
 			h = h === 0 ? 1 : 0;
-
+			
 		};
 	};
 

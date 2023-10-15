@@ -40674,358 +40674,15 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>Do you want to only view the CG?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 1,
-                            "parameters": [
-                                [
-                                    "Yes",
-                                    "No"
-                                ],
-                                1,
-                                0,
-                                2,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                "はい"
-                            ]
-                        },
-                        {
                             "code": 356,
-                            "indent": 2,
-                            "parameters": [
-                                "SetHUDConfiguration non"
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 2,
-                            "parameters": [
-                                1,
-                                "actor_eventB_macho1_04",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 2,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                4
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 2,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                21
-                            ]
-                        },
-                        {
-                            "code": 112,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 3,
-                            "parameters": [
-                                12,
-                                "Input.isTriggered('ok')"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                598,
-                                598,
-                                1,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 4,
-                            "parameters": [
-                                "if($gameVariables.value(598) < $gameVariables.value(599)){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 4,
-                            "parameters": [
-                                "if ($gameVariables.value(598) < 10){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 4,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'actor_eventB_macho1_0' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 4,
-                            "parameters": [
-                                "} else {"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 4,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'actor_eventB_macho1_' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 4,
-                            "parameters": [
-                                "}}"
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 4,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 4,
-                            "parameters": [
-                                1,
-                                598,
-                                1,
-                                599,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 5,
-                            "parameters": [
-                                "SetHUDConfiguration normalUI"
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 5,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 5,
-                            "parameters": [
-                                266,
-                                266,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 5,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 5,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 5,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 115,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 3,
-                            "parameters": [
-                                12,
-                                "Input.isTriggered('cancel')"
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 4,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 4,
-                            "parameters": [
-                                266,
-                                266,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 4,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 115,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 413,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
                             "indent": 1,
-                            "parameters": [
-                                1,
-                                "いいえ"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 2,
                             "parameters": [
                                 "SetHUDConfiguration non"
                             ]
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 272,
                                 272,
@@ -41034,7 +40691,7 @@
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 61,
                                 61,
@@ -41043,91 +40700,81 @@
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 85
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 237
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 238
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 239
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 240
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 241
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 242
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 243
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 85
                             ]
                         },
                         {
                             "code": 235,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 1
                             ]
                         },
                         {
                             "code": 123,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 "A",
                                 0
                             ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 1,
-                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -41534,10 +41181,12 @@
                             ]
                         },
                         {
-                            "code": 119,
+                            "code": 121,
                             "indent": 2,
                             "parameters": [
-                                "start"
+                                25,
+                                25,
+                                1
                             ]
                         },
                         {
@@ -41561,14 +41210,16 @@
                                 40,
                                 0,
                                 0,
-                                1
+                                5
                             ]
                         },
                         {
-                            "code": 119,
+                            "code": 121,
                             "indent": 2,
                             "parameters": [
-                                "start"
+                                25,
+                                25,
+                                0
                             ]
                         },
                         {
@@ -41582,478 +41233,15 @@
                             "parameters": []
                         },
                         {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "start"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>Do you want to only view the CG?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 1,
-                            "parameters": [
-                                [
-                                    "Yes",
-                                    "No"
-                                ],
-                                1,
-                                0,
-                                2,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                "はい"
-                            ]
-                        },
-                        {
                             "code": 356,
-                            "indent": 2,
-                            "parameters": [
-                                "SetHUDConfiguration non"
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 2,
-                            "parameters": [
-                                1,
-                                40,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 3,
-                            "parameters": [
-                                1,
-                                "eventB_macho3_A_C1",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 231,
-                            "indent": 3,
-                            "parameters": [
-                                1,
-                                "eventB_macho3_A_N1",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 122,
-                            "indent": 2,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 2,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                20
-                            ]
-                        },
-                        {
-                            "code": 112,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 3,
-                            "parameters": [
-                                12,
-                                "Input.isTriggered('ok')"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                598,
-                                598,
-                                1,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 4,
-                            "parameters": [
-                                1,
-                                40,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 5,
-                            "parameters": [
-                                "if($gameVariables.value(598) < $gameVariables.value(599)){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "if ($gameVariables.value(598) < 10){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_C' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "} else {"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_C' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "}}"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 355,
-                            "indent": 5,
-                            "parameters": [
-                                "if($gameVariables.value(598) < $gameVariables.value(599)){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "if ($gameVariables.value(598) < 10){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_N' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "} else {"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_N' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "}}"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 230,
-                            "indent": 4,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 4,
-                            "parameters": [
-                                1,
-                                598,
-                                1,
-                                599,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 5,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 5,
-                            "parameters": [
-                                266,
-                                266,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 5,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 5,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 5,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 115,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 3,
-                            "parameters": [
-                                12,
-                                "Input.isTriggered('cancel')"
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 4,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 4,
-                            "parameters": [
-                                266,
-                                266,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 4,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 115,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 413,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
                             "indent": 1,
-                            "parameters": [
-                                1,
-                                "いいえ"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 2,
                             "parameters": [
                                 "SetHUDConfiguration non"
                             ]
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 272,
                                 272,
@@ -42062,7 +41250,7 @@
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 114,
                                 114,
@@ -42071,7 +41259,7 @@
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 61,
                                 61,
@@ -42080,105 +41268,95 @@
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 85
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 267
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 268
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 269
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 270
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 271
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 272
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 273
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 274
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 275
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 85
                             ]
                         },
                         {
                             "code": 235,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 1
                             ]
                         },
                         {
                             "code": 123,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 "A",
                                 0
                             ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 1,
-                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -42585,10 +41763,12 @@
                             ]
                         },
                         {
-                            "code": 119,
+                            "code": 121,
                             "indent": 2,
                             "parameters": [
-                                "start"
+                                25,
+                                25,
+                                1
                             ]
                         },
                         {
@@ -42612,14 +41792,16 @@
                                 40,
                                 0,
                                 0,
-                                1
+                                5
                             ]
                         },
                         {
-                            "code": 119,
+                            "code": 121,
                             "indent": 2,
                             "parameters": [
-                                "start"
+                                25,
+                                25,
+                                0
                             ]
                         },
                         {
@@ -42633,478 +41815,15 @@
                             "parameters": []
                         },
                         {
-                            "code": 118,
-                            "indent": 1,
-                            "parameters": [
-                                "start"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\nc<>Do you want to only view the CG?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 1,
-                            "parameters": [
-                                [
-                                    "Yes",
-                                    "No"
-                                ],
-                                1,
-                                0,
-                                2,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                "はい"
-                            ]
-                        },
-                        {
                             "code": 356,
-                            "indent": 2,
-                            "parameters": [
-                                "SetHUDConfiguration non"
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 2,
-                            "parameters": [
-                                1,
-                                40,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 3,
-                            "parameters": [
-                                1,
-                                "actor_eventB_macho3_CD_C01",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 231,
-                            "indent": 3,
-                            "parameters": [
-                                1,
-                                "actor_eventB_macho3_CD_C01",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 122,
-                            "indent": 2,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 2,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                20
-                            ]
-                        },
-                        {
-                            "code": 112,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 3,
-                            "parameters": [
-                                12,
-                                "Input.isTriggered('ok')"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                598,
-                                598,
-                                1,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 4,
-                            "parameters": [
-                                1,
-                                40,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 355,
-                            "indent": 5,
-                            "parameters": [
-                                "if($gameVariables.value(598) < $gameVariables.value(599)){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "if ($gameVariables.value(598) < 10){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_C' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "} else {"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_C' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "}}"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 411,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 355,
-                            "indent": 5,
-                            "parameters": [
-                                "if($gameVariables.value(598) < $gameVariables.value(599)){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "if ($gameVariables.value(598) < 10){"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_N' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "} else {"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "  $gameScreen.showPicture(1, 'eventB_macho3_A_N' + $gameVariables.value(598), 0, 0, 0, 100, 100, 255, 0);"
-                            ]
-                        },
-                        {
-                            "code": 655,
-                            "indent": 5,
-                            "parameters": [
-                                "}}"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 230,
-                            "indent": 4,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 111,
-                            "indent": 4,
-                            "parameters": [
-                                1,
-                                598,
-                                1,
-                                599,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 5,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 5,
-                            "parameters": [
-                                266,
-                                266,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 5,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 5,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 5,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 115,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 111,
-                            "indent": 3,
-                            "parameters": [
-                                12,
-                                "Input.isTriggered('cancel')"
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 4,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 121,
-                            "indent": 4,
-                            "parameters": [
-                                266,
-                                266,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                599,
-                                599,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 4,
-                            "parameters": [
-                                598,
-                                598,
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 4,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 115,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 4,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 413,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
                             "indent": 1,
-                            "parameters": [
-                                1,
-                                "いいえ"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 2,
                             "parameters": [
                                 "SetHUDConfiguration non"
                             ]
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 272,
                                 272,
@@ -43113,7 +41832,7 @@
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 115,
                                 115,
@@ -43122,7 +41841,7 @@
                         },
                         {
                             "code": 121,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 61,
                                 61,
@@ -43131,105 +41850,95 @@
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 85
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 267
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 268
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 269
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 270
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 271
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 272
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 273
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 274
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 275
                             ]
                         },
                         {
                             "code": 117,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 85
                             ]
                         },
                         {
                             "code": 235,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 1
                             ]
                         },
                         {
                             "code": 123,
-                            "indent": 2,
+                            "indent": 1,
                             "parameters": [
                                 "A",
                                 0
                             ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 1,
-                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -43577,6 +42286,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -44052,6 +42870,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -44523,6 +43450,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -45012,6 +44048,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -45499,6 +44644,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -45984,6 +45238,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -46983,6 +46346,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -47454,6 +46926,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -47929,6 +47510,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -48402,6 +48092,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -48873,6 +48672,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -49362,6 +49270,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -49849,6 +49866,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -50334,6 +50460,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -51266,6 +51501,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -51279,6 +51623,26 @@
                                 114,
                                 114,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
@@ -51739,6 +52103,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -51761,6 +52234,26 @@
                                 272,
                                 272,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
@@ -52212,6 +52705,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -52234,6 +52836,26 @@
                                 272,
                                 272,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
@@ -52685,6 +53307,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -52707,6 +53438,26 @@
                                 64,
                                 64,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
@@ -53158,6 +53909,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -53180,6 +54040,26 @@
                                 64,
                                 64,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                3
                             ]
                         },
                         {
@@ -53645,6 +54525,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -53667,6 +54656,26 @@
                                 64,
                                 64,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                3
                             ]
                         },
                         {
@@ -54132,6 +55141,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -54154,6 +55272,26 @@
                                 64,
                                 64,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                3
                             ]
                         },
                         {
@@ -54619,6 +55757,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -54641,6 +55888,26 @@
                                 64,
                                 64,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                81,
+                                81,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                49,
+                                49,
+                                0,
+                                0,
+                                3
                             ]
                         },
                         {
@@ -55104,6 +56371,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -55579,6 +56955,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -56050,6 +57535,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -56525,6 +58119,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -56996,6 +58699,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,
@@ -57499,6 +59311,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -58000,6 +59921,115 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
@@ -58499,6 +60529,115 @@
                                 0,
                                 "鑑賞する"
                             ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\nc<>"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "服装を選んでください"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    "魔法少女",
+                                    "裸"
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                "魔法少女"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "裸"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                40,
+                                40,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                25,
+                                25,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 356,

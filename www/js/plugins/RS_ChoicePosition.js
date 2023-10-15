@@ -160,71 +160,71 @@ Imported.RS_ChoicePosition = true;
 var RS = RS || {};
 RS.ChoicePosition = RS.ChoicePosition || {};
 
-(function () {
+(function() {
 
     "use strict";
-
+    
     var parameters = $plugins.filter(function (i) {
         return i.description.contains('<RS_ChoicePosition>');
     });
-
+      
     parameters = (parameters.length > 0) && parameters[0].parameters;
 
     RS.ChoicePosition = {
         Params: {
-            isAutoDisable: Boolean(parameters['Auto Disable'] === 'true'),
-            interpolationFormula: parameters["Interpolation Formula"]
+            isAutoDisable : Boolean(parameters['Auto Disable'] === 'true'),
+            interpolationFormula : parameters["Interpolation Formula"]
         }
     };
 
     //============================================================================
     // Window_ChoiceList
     //============================================================================    
-
+    
     var alias_Window_ChoiceList_initialize = Window_ChoiceList.prototype.initialize;
-    Window_ChoiceList.prototype.initialize = function (messageWindow) {
+    Window_ChoiceList.prototype.initialize = function(messageWindow) {
         alias_Window_ChoiceList_initialize.call(this, messageWindow);
         this._prevTime = performance.now();
     };
 
     var alias_Window_ChoiceList_start = Window_ChoiceList.prototype.start;
-    Window_ChoiceList.prototype.start = function () {
+    Window_ChoiceList.prototype.start = function() {
         this._prevTime = performance.now();
         alias_Window_ChoiceList_start.call(this);
     };
 
-    Window_ChoiceList.prototype.prepareTransform = function () {
+    Window_ChoiceList.prototype.prepareTransform = function() {
         this.width = this.windowWidth();
         this.height = this.windowHeight();
     };
 
     var alias_Window_ChoiceList_updatePlacement = Window_ChoiceList.prototype.updatePlacement;
-    Window_ChoiceList.prototype.updatePlacement = function () {
+    Window_ChoiceList.prototype.updatePlacement = function() {
         this.prepareTransform();
-        if ($gameSystem.isChoiceMoveable()) {
+        if($gameSystem.isChoiceMoveable()) {
             this.updateCustomPosition();
         } else {
             alias_Window_ChoiceList_updatePlacement.call(this);
         }
     };
-
-    Window_ChoiceList.prototype.updateCustomPosition = function () {
-
+    
+    Window_ChoiceList.prototype.updateCustomPosition = function() {
+        
         var position = $gameSystem.getChoicePosition();
         var mx = position.x || 0;
         var my = position.y || 0;
+        
+        if(!mx) mx = this.getChoiceX();
+        if(!my) my = this.getChoiceY();
 
-        if (!mx) mx = this.getChoiceX();
-        if (!my) my = this.getChoiceY();
-
-        if (position.dirty) {
+        if(position.dirty) {
             this.setCenteredChoiceWindow();
         } else {
-            this.moveLenear(mx, my);
+            this.moveLenear( mx, my );
         }
     };
 
-    Window_ChoiceList.prototype.setCenteredChoiceWindow = function () {
+    Window_ChoiceList.prototype.setCenteredChoiceWindow = function() {      
         var cw = this.windowWidth() * 0.5;
         var ch = this.windowHeight() * 0.5;
         var cx = Graphics.boxWidth * 0.5;
@@ -233,11 +233,11 @@ RS.ChoicePosition = RS.ChoicePosition || {};
         var my = cy - ch;
 
         this.moveLenear(mx, my);
-
+        
     };
-
+    
     Window_ChoiceList.prototype.moveLenear = function (tx, ty) {
-        if (this.x >= tx - 0.001 && this.y >= ty - 0.001 &&
+        if(this.x >= tx - 0.001 && this.y >= ty - 0.001 && 
             RS.ChoicePosition.Params.isAutoDisable) {
             $gameSystem.setChoiceMoveable(false);
         }
@@ -246,7 +246,7 @@ RS.ChoicePosition = RS.ChoicePosition || {};
 
         try {
             dt = eval(RS.ChoicePosition.Params.interpolationFormula);
-        } catch (e) {
+        } catch(e) {
             dt = (t - this._prevTime) / 1000.0;
         }
 
@@ -254,7 +254,7 @@ RS.ChoicePosition = RS.ChoicePosition || {};
         this.y = this.y + dt * (ty - this.y);
         this._prevTime = t;
     };
-
+    
     Window_ChoiceList.prototype.getChoiceX = function () {
 
         var x = 0;
@@ -275,11 +275,11 @@ RS.ChoicePosition = RS.ChoicePosition || {};
         return x;
 
     };
-
+    
     Window_ChoiceList.prototype.getChoiceY = function () {
-
+        
         var messageY = this._messageWindow.y;
-
+        
         var y = 0;
 
         if (messageY >= Graphics.boxHeight / 2) {
@@ -294,11 +294,11 @@ RS.ChoicePosition = RS.ChoicePosition || {};
 
         return y;
     };
-
+    
     var alias_Window_ChoiceList_update = Window_ChoiceList.prototype.update;
     Window_ChoiceList.prototype.update = function () {
         alias_Window_ChoiceList_update.call(this);
-        if ($gameMessage.choices().length <= 0) return;
+        if($gameMessage.choices().length <= 0) return;
         this.updatePlacement();
     };
 
@@ -312,7 +312,7 @@ RS.ChoicePosition = RS.ChoicePosition || {};
             this.dirty = dirty;
         }
     }
-
+    
     //===========================================================================
     // Game_Temp
     //===========================================================================
@@ -323,70 +323,70 @@ RS.ChoicePosition = RS.ChoicePosition || {};
         this.initWithChoiceMatrix();
     };
 
-    Game_System.prototype.initWithChoiceMatrix = function () {
+    Game_System.prototype.initWithChoiceMatrix = function() {
         this._choiceWindowTempPosition = new ChoiceTMatrix(0, 0);
     };
-
+    
     Game_System.prototype.getChoicePosition = function () {
-        if (!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
+        if(!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
         return this._choiceWindowTempPosition;
     };
 
-    Game_System.prototype.setChoiceDirty = function (flag) {
-        if (!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
+    Game_System.prototype.setChoiceDirty = function(flag) {
+        if(!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
         this._choiceWindowTempPosition.dirty = flag;
     };
 
-    Game_System.prototype.setCenteredChoiceWindow = function () {
-        if (!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
+    Game_System.prototype.setCenteredChoiceWindow = function() {
+        if(!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
         this.setChoiceDirty(true);
     };
 
-    Game_System.prototype.setDefaultChoiceWindow = function () {
-        if (!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
+    Game_System.prototype.setDefaultChoiceWindow = function() {
+        if(!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
         this._choiceWindowTempPosition.x = null;
         this._choiceWindowTempPosition.y = null;
         this.setChoiceDirty(false);
     };
-
+    
     Game_System.prototype.setChoiceWindowPos = function () {
-        if (!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
-
+        if(!this._choiceWindowTempPosition) this.initWithChoiceMatrix();
+        
         var argc = arguments.length;
         var args = arguments;
 
-        if (argc <= 0) return;
+        if(argc <= 0) return;
 
         this.setChoiceDirty(false);
 
-        if (argc === 1) {
+        if(argc === 1) {
 
             var param = args[0];
-
+            
             // if the parameter is the same as 'center'?
-            if (typeof (param) === "string" && param.toLowerCase() === "center") {
+            if(typeof(param) === "string" && param.toLowerCase() === "center") {
                 return this.setCenteredChoiceWindow();
             }
 
             var id = parseInt(param);
 
-            if ($gameParty.inBattle()) {
+            if($gameParty.inBattle()) {
                 return this.setDefaultChoiceWindow();
             } else {
-                switch (id) {
+                switch(id) {
                     case -1:
                         this._choiceWindowTempPosition.x = $gamePlayer.screenX();
-                        this._choiceWindowTempPosition.y = $gamePlayer.screenY();
+                        this._choiceWindowTempPosition.y = $gamePlayer.screenY();        
                         break;
                     default:
-                        if (id === 0) return;
+                        if(id === 0) return;
                         var maybeEvent = $gameMap.event(id);
-                        if (maybeEvent instanceof Game_Event) {
+                        if(maybeEvent instanceof Game_Event) {
                             this._choiceWindowTempPosition.x = maybeEvent.screenX();
                             this._choiceWindowTempPosition.y = maybeEvent.screenY();
-                        }
+                        }                    
                         break;
-                }
+                }    
             }
 
 
@@ -394,13 +394,13 @@ RS.ChoicePosition = RS.ChoicePosition || {};
             this._choiceWindowTempPosition.x = arguments[0];
             this._choiceWindowTempPosition.y = arguments[1];
         }
-
+        
     };
-
+    
     Game_System.prototype.setChoiceMoveable = function (enabled) {
         this._isChoiceMoveable = enabled;
     };
-
+    
     Game_System.prototype.isChoiceMoveable = function () {
         return this._isChoiceMoveable;
     };
@@ -409,66 +409,66 @@ RS.ChoicePosition = RS.ChoicePosition || {};
     // Window_Message
     //===========================================================================    
 
-    Window_Message.prototype.obtainChoiceParameters = function (textState) {
+    Window_Message.prototype.obtainChoiceParameters = function(textState) {
         var arr = /\<(.+?)\>/.exec(textState.text.slice(textState.index));
         if (arr) {
-            textState.index += arr[0].length;
-            return String(arr[1]);
+          textState.index += arr[0].length;
+          return String(arr[1]);
         } else {
-            return "";
+          return "";
         }
-    };
+      };
 
     var alias_Window_Message_processEscapeCharacter = Window_Message.prototype.processEscapeCharacter;
-    Window_Message.prototype.processEscapeCharacter = function (code, textState) {
-        switch (code) {
-            case "CC": //! \CC
-                $gameSystem.setChoiceWindowPos('center');
-                break;
-            case "CE": //! \CE
-                $gameSystem.setChoiceMoveable(true);
-                break;
-            case "CD": //! \CD 
-                $gameSystem.setChoiceMoveable(false);
-                break;
-            case "CP": //! \CP<x,y> \CP<eventId>
-                var method = this.obtainChoiceParameters(textState);
-                var args = method.split(",").map(function (e) {
-                    return parseInt(e.trim());
-                }, this);
-                $gameSystem.setChoiceWindowPos.apply($gameSystem, args);
-                break;
-            default:
-                alias_Window_Message_processEscapeCharacter.call(this, code, textState);
-                break;
+    Window_Message.prototype.processEscapeCharacter = function(code, textState) {
+        switch(code) {
+        case "CC": //! \CC
+            $gameSystem.setChoiceWindowPos('center');
+            break;
+        case "CE": //! \CE
+            $gameSystem.setChoiceMoveable(true);
+            break;
+        case "CD": //! \CD 
+            $gameSystem.setChoiceMoveable(false);
+            break;            
+        case "CP": //! \CP<x,y> \CP<eventId>
+            var method = this.obtainChoiceParameters(textState);
+            var args = method.split(",").map(function(e) { 
+                return parseInt(e.trim()); 
+            }, this);
+            $gameSystem.setChoiceWindowPos.apply($gameSystem, args);
+            break;
+        default:
+            alias_Window_Message_processEscapeCharacter.call(this, code, textState);
+            break;
         }
     }
-
+    
     //===========================================================================
     // Game_Interpreter
     //===========================================================================
-
+    
     /**
     * @method placeChoiceWindow
     * @param {Array} args passes the parameters of the plugin command.
     */
-    Game_Interpreter.prototype.placeChoiceWindow = function (args) {
-        switch (args[0]) {
+    Game_Interpreter.prototype.placeChoiceWindow = function(args) {
+        switch(args[0]) {
             case 'pos':
-                switch (args[1]) {
-                    case 'event':
-                        $gameSystem.setChoiceWindowPos(Number(args[2]));
-                        break;
-                    case 'player':
-                        $gameSystem.setChoiceWindowPos(-1);
-                        break;
-                    case 'center':
-                        $gameSystem.setChoiceWindowPos('center');
-                        break;
-                    default:
-                        $gameSystem.setChoiceWindowPos(Number(args[1]), Number(args[2]));
-                }
-                break;
+            switch (args[1]) {
+                case 'event':
+                    $gameSystem.setChoiceWindowPos(Number(args[2]));
+                    break;
+                case 'player':
+                    $gameSystem.setChoiceWindowPos(-1);
+                    break;
+                case 'center':
+                    $gameSystem.setChoiceWindowPos('center');
+                    break;
+                default:
+                    $gameSystem.setChoiceWindowPos(Number(args[1]), Number(args[2]));
+            }
+            break;
             case 'enable':
                 $gameSystem.setChoiceMoveable(true);
                 break;
@@ -477,11 +477,11 @@ RS.ChoicePosition = RS.ChoicePosition || {};
                 break;
         }
     };
-
+    
     var alias_Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function (command, args) {
+    Game_Interpreter.prototype.pluginCommand = function(command, args) {
         alias_Game_Interpreter_pluginCommand.call(this, command, args);
-        if (command === "Choice") this.placeChoiceWindow(args);
+        if(command === "Choice") this.placeChoiceWindow(args);
     };
-
+    
 })()

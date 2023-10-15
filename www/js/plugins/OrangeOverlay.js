@@ -140,11 +140,11 @@ var Imported = Imported || {};
 var Hudell = Hudell || {};
 Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
 
-(function ($) {
+(function($) {
 
   "use strict";
 
-  var parameters = $plugins.filter(function (plugin) { return plugin.description.contains('<OrangeOverlay>'); });
+  var parameters = $plugins.filter(function(plugin) { return plugin.description.contains('<OrangeOverlay>'); });
   if (parameters.length === 0) {
     throw new Error("Couldn't find Hudell's OrangeOverlay parameters.");
   }
@@ -164,7 +164,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   $.Param.parallaxSwitchId = Number($.Parameters["Parallax Switch ID"] || 3);
   $.Param.shadowSwitchId = Number($.Parameters["Shadow Switch ID"] || 4);
 
-  $.clearParams = function () {
+  $.clearParams = function() {
     $.fogFileNameCommand = '';
     $.fogOpacityCommand = 0;
     $.fogMoveXCommand = 0;
@@ -219,7 +219,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   $.clearParams();
 
   var oldDataManager_setupNewGame = DataManager.setupNewGame;
-  DataManager.setupNewGame = function () {
+  DataManager.setupNewGame = function() {
     oldDataManager_setupNewGame.call(this);
 
     if ($.Param.quickStart) {
@@ -242,23 +242,23 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   };
 
   var oldSpritesetMap_createLowerLayer = Spriteset_Map.prototype.createLowerLayer;
-  Spriteset_Map.prototype.createLowerLayer = function () {
+  Spriteset_Map.prototype.createLowerLayer = function() {
 
-    //============================================================================
-    // Chaucer : clear the fog only on map transfer
-    //============================================================================
+//============================================================================
+// Chaucer : clear the fog only on map transfer
+//============================================================================
     // $.clearParams();
     // this._fogList = [];
-    if ($._needsClear) {
+    if ( $._needsClear ) {
       $.clearParams();
       this._fogList = [];
       $._fogList = this._fogList;
     }
-    //============================================================================
+//============================================================================
     oldSpritesetMap_createLowerLayer.call(this);
   };
 
-  Spriteset_Map.prototype.loadBitmap = function (folderName, fileName) {
+  Spriteset_Map.prototype.loadBitmap = function(folderName, fileName) {
     if ($.Param.organizedFolders) {
       return ImageManager.loadBitmap('img/overlays/' + folderName + '/', fileName);
     }
@@ -266,7 +266,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     return ImageManager.loadParallax(fileName);
   };
 
-  Spriteset_Map.prototype.createLayer = function (folderName, fileNamePrefix, tagName, zValue, switchId, maxOpacity) {
+  Spriteset_Map.prototype.createLayer = function(folderName, fileNamePrefix, tagName, zValue, switchId, maxOpacity) {
     if (!$dataMap) return null;
     if (!$dataMap.meta) return null;
     if (!$dataMap.meta[tagName] && !$dataMap.meta.all) {
@@ -278,12 +278,12 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     var layer = new Sprite();
 
 
-    //============================================================================
-    // Chaucer : removed + $gameMap._mapId from the name, as it's added before.
-    //============================================================================
-    layer.bitmap = this.loadBitmap(folderName, fileNamePrefix);
+//============================================================================
+// Chaucer : removed + $gameMap._mapId from the name, as it's added before.
+//============================================================================
+    layer.bitmap = this.loadBitmap(folderName, fileNamePrefix );
     // layer.bitmap = this.loadBitmap(folderName, fileNamePrefix + $gameMap._mapId);
-    //============================================================================
+//============================================================================
 
 
     layer.z = zValue;
@@ -296,44 +296,44 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     return layer;
   };
 
-  Spriteset_Map.prototype.createGroundLayer = function () {
+  Spriteset_Map.prototype.createGroundLayer = function() {
 
-    //============================================================================
-    // Chaucer : retain using the ground name if it still exists.
-    //============================================================================
-    var name = $.groundName || $.Param.groundLayerFileName;
-    if (!$.groundName) name = name + $gameMap._mapId;
-    this._groundLayer = this.createLayer('grounds', name, 'ground', 1, 0);
-    // this._groundLayer = this.createLayer('grounds', $.Param.groundLayerFileName, 'ground', 1, 0);
-    //============================================================================
+//============================================================================
+// Chaucer : retain using the ground name if it still exists.
+//============================================================================
+  var name = $.groundName || $.Param.groundLayerFileName;
+  if ( !$.groundName ) name = name + $gameMap._mapId;
+  this._groundLayer = this.createLayer('grounds', name, 'ground', 1, 0);
+  // this._groundLayer = this.createLayer('grounds', $.Param.groundLayerFileName, 'ground', 1, 0);
+//============================================================================
 
   };
 
-  Spriteset_Map.prototype.createParallaxLayer = function () {
+  Spriteset_Map.prototype.createParallaxLayer = function() {
 
-    //============================================================================
-    // Chaucer : retain using the ground name if it still exists.
-    //============================================================================
+//============================================================================
+// Chaucer : retain using the ground name if it still exists.
+//============================================================================
     var name = $.parallaxName || $.Param.parallaxLayerFileName;
-    if (!$.parallaxName) name = name + $gameMap._mapId;
+    if ( !$.parallaxName ) name = name + $gameMap._mapId;
     this._parallaxLayer = this.createLayer('pars', name, 'par', 20, $.Param.parallaxSwitchId);
     // this._parallaxLayer = this.createLayer('pars', $.Param.parallaxLayerFileName, 'par', 20, $.Param.parallaxSwitchId);
-    //============================================================================
+//============================================================================
   };
 
-  Spriteset_Map.prototype.createShadowLayer = function () {
+  Spriteset_Map.prototype.createShadowLayer = function() {
 
     //============================================================================
     // Chaucer : retain using the ground name if it still exists.
     //============================================================================
-    var name = $.shadowName || $.Param.shadowLayerFileName;
-    if (!$.shadowName) name = name + $gameMap._mapId;
-    this._shadowLayer = this.createLayer('shadows', name, 'shadow', 21, $.Param.shadowSwitchId);
-    // this._shadowLayer = this.createLayer('shadows', $.Param.shadowLayerFileName, 'shadow', 21, $.Param.shadowSwitchId);
+        var name = $.shadowName || $.Param.shadowLayerFileName;
+        if ( !$.shadowName ) name = name + $gameMap._mapId;
+        this._shadowLayer = this.createLayer('shadows', name, 'shadow', 21, $.Param.shadowSwitchId);
+        // this._shadowLayer = this.createLayer('shadows', $.Param.shadowLayerFileName, 'shadow', 21, $.Param.shadowSwitchId);
     //============================================================================
   };
 
-  Spriteset_Map.prototype.getOverlayVariable = function (variableName) {
+  Spriteset_Map.prototype.getOverlayVariable = function(variableName) {
     if (!$dataMap) return false;
     if (!$dataMap.meta) return false;
     if ($dataMap.meta[variableName] === undefined) return false;
@@ -350,7 +350,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     return value;
   };
 
-  Spriteset_Map.prototype.createFogItem = function (id, fileName, xMove, yMove, opacity, blend, z) {
+  Spriteset_Map.prototype.createFogItem = function(id, fileName, xMove, yMove, opacity, blend, z) {
     if (!this._fogList[id]) {
       var data = {};
 
@@ -377,7 +377,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     $.newFogToCreate = false;
   };
 
-  Spriteset_Map.prototype.createFogLayer = function () {
+  Spriteset_Map.prototype.createFogLayer = function() {
     $.fogFileName = this.getOverlayVariable('fogName');
     $.fogOpacity = parseInt(this.getOverlayVariable('fogOpacity'), 10) || 255;
     $.fogMoveX = parseFloat(this.getOverlayVariable('xMove'), 10) || 0;
@@ -389,7 +389,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
 
     var fileName = $.fogFileName;
     if (!!$.fogFileNameCommand && $.fogFileNameCommand !== '') {
-      fileName = $.fogFileNameCommand;
+      fileName  = $.fogFileNameCommand;
     }
 
     var bitmap = this.loadBitmap('fogs', fileName);
@@ -402,8 +402,8 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
 
     layer.blendMode = $.fogBlendMode;
     layer.opacity = 0;
-    layer.origin.x = $gameMap.displayX() * $gameMap.tileWidth();
-    layer.origin.y = $gameMap.displayY() * $gameMap.tileHeight();
+    layer.origin.x =  $gameMap.displayX() * $gameMap.tileWidth();
+    layer.origin.y =  $gameMap.displayY() * $gameMap.tileHeight();
     layer.z = 22;
 
     $.fogNewX = 0;
@@ -414,16 +414,16 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     $.updateFog = false;
   };
 
-  Spriteset_Map.prototype.createLightLayer = function () {
+  Spriteset_Map.prototype.createLightLayer = function() {
 
-    //============================================================================
-    // Chaucer : retain using the ground name if it still exists.
-    //============================================================================
+//============================================================================
+// Chaucer : retain using the ground name if it still exists.
+//============================================================================
     var name = $.lightName || $.Param.lightLayerFileName;
-    if (!$.lightName) name = name + $gameMap._mapId;
+    if ( !$.lightName ) name = name + $gameMap._mapId;
     this._lightLayer = this.createLayer('lights', name, 'light', 23, $.Param.lightSwitchId, $.Param.lightOpacity);
     // this._lightLayer = this.createLayer('lights', $.Param.lightLayerFileName, 'light', 23, $.Param.lightSwitchId, $.Param.lightOpacity);
-    //============================================================================
+//============================================================================
 
 
     if (!!this._lightLayer) {
@@ -432,7 +432,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   };
 
   var oldSpritesetMap_createCharacters = Spriteset_Map.prototype.createCharacters;
-  Spriteset_Map.prototype.createCharacters = function () {
+  Spriteset_Map.prototype.createCharacters = function() {
     this.createGroundLayer();
     oldSpritesetMap_createCharacters.call(this);
     this.createParallaxLayer();
@@ -441,7 +441,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     this.createLightLayer();
   };
 
-  Spriteset_Map.prototype.updateLayer = function (layerName, update, folderName, fileNamePrefix, tagName, zValue, switchId, maxOpacity, opacityChange) {
+  Spriteset_Map.prototype.updateLayer = function(layerName, update, folderName, fileNamePrefix, tagName, zValue, switchId, maxOpacity, opacityChange) {
     if (maxOpacity === undefined) maxOpacity = 255;
     if (opacityChange === undefined) opacityChange = 10;
 
@@ -480,8 +480,8 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
         //============================================================================
         // Chaucer : replaced the below code with my own.
         //============================================================================
-        layer.bitmap = this.loadBitmap(folderName, fileNamePrefix);
-        // layer.bitmap = this.loadBitmap(folderName, fileNamePrefix + $gameMap._mapId);
+          layer.bitmap = this.loadBitmap(folderName, fileNamePrefix);
+          // layer.bitmap = this.loadBitmap(folderName, fileNamePrefix + $gameMap._mapId);
         //============================================================================
       }
 
@@ -489,54 +489,54 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     }
   };
 
-  Spriteset_Map.prototype.updateGroundLayer = function () {
+  Spriteset_Map.prototype.updateGroundLayer = function() {
 
-    //============================================================================
-    // Chaucer : addded check for new grond name.
-    //============================================================================
-    var groundName = $.groundName || $.Param.groundLayerFileName;
-    if (!$.groundName) groundName = groundName + $gameMap._mapId;
-    //============================================================================
+//============================================================================
+// Chaucer : addded check for new grond name.
+//============================================================================
+  var groundName = $.groundName || $.Param.groundLayerFileName;
+  if ( !$.groundName ) groundName = groundName + $gameMap._mapId;
+//============================================================================
     this.updateLayer('_groundLayer', $.updateGround, 'grounds', groundName, 'ground', 1, 0);
     $.updateGround = false;
   };
 
-  Spriteset_Map.prototype.updateParallaxLayer = function () {
-    //============================================================================
-    // Chaucer : addded check for new grond name.
-    //============================================================================
+  Spriteset_Map.prototype.updateParallaxLayer = function() {
+//============================================================================
+// Chaucer : addded check for new grond name.
+//============================================================================
     var parallaxName = $.parallaxName || $.Param.parallaxLayerFileName;
-    if (!parallaxName) parallaxName = parallaxName + $gameMap._mapId;
-    //============================================================================
+    if ( !parallaxName ) parallaxName = parallaxName + $gameMap._mapId;
+//============================================================================
     this.updateLayer('_parallaxLayer', $.updateParallax, 'pars', parallaxName, 'par', 20, $.Param.parallaxSwitchId);
     $.updateParallax = false;
   };
 
-  Spriteset_Map.prototype.updateShadowLayer = function () {
+  Spriteset_Map.prototype.updateShadowLayer = function() {
     //============================================================================
-    // Chaucer : addded check for new grond name.
-    //============================================================================
+// Chaucer : addded check for new grond name.
+//============================================================================
     var shadowName = $.shadowName || $.Param.shadowLayerFileName;
-    if (!$.shadowName) shadowName = shadowName + $gameMap._mapId;
-    //============================================================================
+    if ( !$.shadowName ) shadowName = shadowName + $gameMap._mapId;
+//============================================================================
     this.updateLayer('_shadowLayer', $.updateShadow, 'shadows', shadowName, 'shadow', 21, $.Param.shadowSwitchId);
     $.updateShadow = false;
   };
 
-  Spriteset_Map.prototype.updateFogItem = function (id) {
+  Spriteset_Map.prototype.updateFogItem = function(id) {
     var data = this._fogList[id];
     if (!data) return;
 
-    //============================================================================
-    // Chaucer : update the visiibility of the fog based on it's switch.
-    //============================================================================
-    if ($gameSwitches.value($.Param.fogSwitchId)) {
-      if (!data.sprite.visible) data.sprite.visible = true;
+//============================================================================
+// Chaucer : update the visiibility of the fog based on it's switch.
+//============================================================================
+    if ( $gameSwitches.value( $.Param.fogSwitchId ) ) {
+      if ( !data.sprite.visible ) data.sprite.visible = true;
     } else {
-      if (data.sprite.visible) data.sprite.visible = false;
+      if ( data.sprite.visible ) data.sprite.visible = false;
       return;
     }
-    //============================================================================
+//============================================================================
 
     data.newX += data.xMove;
     data.newY += data.yMove;
@@ -545,19 +545,19 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     data.sprite.origin.y = $gameMap.displayY() * $gameMap.tileHeight() - data.newY;
   };
 
-  Spriteset_Map.prototype.removeFogItem = function (id) {
+  Spriteset_Map.prototype.removeFogItem = function(id) {
     if (!this._fogList[id]) return;
 
-    //============================================================================
-    // Chaucer : added sprite removal.
-    //============================================================================
-    this._fogList[id].sprite.parent.removeChild(this._fogList[id].sprite);
-    //============================================================================
+//============================================================================
+// Chaucer : added sprite removal.
+//============================================================================
+  this._fogList[id].sprite.parent.removeChild( this._fogList[id].sprite );
+//============================================================================
 
     delete this._fogList[id];
   };
 
-  Spriteset_Map.prototype.updateFogLayer = function () {
+  Spriteset_Map.prototype.updateFogLayer = function() {
 
     if (!this._fogLayer) {
       this.createFogLayer();
@@ -567,17 +567,17 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
       }
     }
 
-    //============================================================================
-    // Chaucer : update the visiibility of the fog based on it's switch.
-    //============================================================================
+//============================================================================
+// Chaucer : update the visiibility of the fog based on it's switch.
+//============================================================================
     var hidden = $.fogLayerHidden;
-    if ($gameSwitches.value($.Param.fogSwitchId) && !hidden) {
-      if (!this._fogLayer.visible) this._fogLayer.visible = true;
+    if ( $gameSwitches.value( $.Param.fogSwitchId ) && !hidden ) {
+      if ( !this._fogLayer.visible ) this._fogLayer.visible = true;
     } else {
-      if (this._fogLayer.visible) this._fogLayer.visible = false;
+      if ( this._fogLayer.visible ) this._fogLayer.visible = false;
       return;
     }
-    //============================================================================
+//============================================================================
 
     var newOpacity;
 
@@ -630,12 +630,12 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
         $.defOpacity = 0;
         if ($.Param.fogSwitchId > 0) {
 
-          //============================================================================
-          // Chaucer : replaced turning off the fog switch with hiding fog layer.
-          //============================================================================
-          // $gameSwitches.setValue($.Param.fogSwitchId, false);
-          $.fogLayerHidden = true;
-          //============================================================================
+//============================================================================
+// Chaucer : replaced turning off the fog switch with hiding fog layer.
+//============================================================================
+        // $gameSwitches.setValue($.Param.fogSwitchId, false);
+        $.fogLayerHidden = true;
+//============================================================================
         }
       }
     } else if (this._fogLayer.opacity < $.defOpacity) {
@@ -650,13 +650,13 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     }
   };
 
-  Spriteset_Map.prototype.updateLightLayer = function () {
+  Spriteset_Map.prototype.updateLightLayer = function() {
 
     //============================================================================
     // Chaucer : added check for custom names.
     //============================================================================
     var lightName = $.lightName || $.Param.lightLayerFileName;
-    if (!$.lightName) lightName = lightName + $gameMap._mapId;
+    if ( !$.lightName ) lightName = lightName + $gameMap._mapId;
     //============================================================================
 
     this.updateLayer('_lightLayer', $.updateLight, 'lights', lightName, 'light', 23, $.Param.lightSwitchId, $.Param.lightOpacity, 1);
@@ -664,7 +664,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   };
 
   var oldSpritesetMap_updateTilemap = Spriteset_Map.prototype.updateTilemap;
-  Spriteset_Map.prototype.updateTilemap = function () {
+  Spriteset_Map.prototype.updateTilemap = function() {
     this.updateGroundLayer();
     this.updateParallaxLayer();
     this.updateShadowLayer();
@@ -673,21 +673,21 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
 
     oldSpritesetMap_updateTilemap.call(this);
 
-    //============================================================================
-    // Chaucer : added line so fog list does not erase when opening menu.
-    //============================================================================
-    if (!this._fogList) {
-      this._fogList = new Array();
-      $._fogList = $._fogList || new Array();
-      for (var i = 0; i < $._fogList.length; i++) {
-        if ($._fogList[i]) {
-          this._fogList.push($._fogList[i])
-          this.addChild($._fogList[i].sprite);
-        }
-      };
-      $._fogList = this._fogList;
+//============================================================================
+// Chaucer : added line so fog list does not erase when opening menu.
+//============================================================================
+if ( !this._fogList ) {
+  this._fogList = new Array();
+  $._fogList = $._fogList || new Array();
+  for ( var i = 0; i < $._fogList.length; i++ )  {
+    if ( $._fogList[i] ) {
+      this._fogList.push( $._fogList[i] )
+      this.addChild( $._fogList[i].sprite );
     }
-    //============================================================================
+  };
+  $._fogList = this._fogList;
+}
+//============================================================================
 
     var len = this._fogList.length;
     if (len > 0) {
@@ -704,9 +704,9 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
     }
 
 
-    //============================================================================
-    // Chaucer : replaced this if statement with my own.
-    //============================================================================
+//============================================================================
+// Chaucer : replaced this if statement with my own.
+//============================================================================
     // if ($.fogToRemove > 0) {
     //   this.removeFogItem($.fogToRemove);
     //   $.fogToRemove = 0;
@@ -715,15 +715,15 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
       this.removeFogItem($.fogToRemove);
       $.fogToRemove = -1;
     }
-    //============================================================================
+//============================================================================
   };
 
 
-  Game_Interpreter.prototype.overlayPluginCommand = function (args) {
+  Game_Interpreter.prototype.overlayPluginCommand = function(args) {
     if (args.length < 2) return;
 
-    switch (args[0].toLowerCase()) {
-      case 'fog':
+    switch(args[0].toLowerCase()) {
+      case 'fog' :
         if (args.length < 5) return;
 
         if (!!args[1] && !!args[2] && !!args[3] && !!args[4]) {
@@ -741,49 +741,49 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
           }
         }
 
-        //============================================================================
-        // Chaucer : added this section to ensure that the overlay can be played
-        //  again even if it's faded out. also changed the switch to local var.
-        //============================================================================
+//============================================================================
+// Chaucer : added this section to ensure that the overlay can be played
+//  again even if it's faded out. also changed the switch to local var.
+//============================================================================
         // $gameSwitches.setValue( $.Param.fogSwitchId, true );
         $.fogLayerHidden = false;
-        //============================================================================
+//============================================================================
         break;
-      case 'fadeout':
+      case 'fadeout' :
         if (!!args[1]) {
           $.overlayFadeOut = true;
           $.fogFadeOut = parseInt(args[1], 10);
         }
         break;
-      case 'light':
+      case 'light' :
         if (!!args[1]) {
           $.updateLight = true;
           $.lightName = args[1];
 
         }
         break;
-      case 'shadow':
+      case 'shadow' :
         if (!!args[1]) {
           $.updateShadow = true;
           $.shadowName = args[1];
 
         }
         break;
-      case 'par':
+      case 'par' :
         if (!!args[1]) {
           $.updateParallax = true;
           $.parallaxName = args[1];
 
         }
         break;
-      case 'ground':
+      case 'ground' :
         if (!!args[1]) {
           $.updateGround = true;
           $.groundName = args[1];
 
         }
         break;
-      case 'addfog':
+      case 'addfog' :
         if (args.length < 6) return;
         if (!args[1]) return;
 
@@ -806,10 +806,10 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
           $.newFogZ = 22;
         }
         break;
-      case 'removefog':
+      case 'removefog' :
         $.fogToRemove = parseInt(args[1], 10);
         break;
-      default:
+      default :
         console.log('unknown command: ', args[0]);
         break;
     }
@@ -827,7 +827,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
 
   if ($.Param.bushRegionId > 0) {
     var oldIsBush = Game_Map.prototype.isBush;
-    Game_Map.prototype.isBush = function (x, y) {
+    Game_Map.prototype.isBush = function(x, y) {
       if (oldIsBush.call(this, x, y) === true) return true;
 
       if (this.isValid(x, y)) {
@@ -839,7 +839,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   }
 
   if (!!Utils.RPGMAKER_VERSION && Utils.RPGMAKER_VERSION == "1.2.0") {
-    TilingSprite.prototype.generateTilingTexture = function (arg) {
+    TilingSprite.prototype.generateTilingTexture = function(arg) {
       PIXI.TilingSprite.prototype.generateTilingTexture.call(this, arg);
       // Purge from Pixi's Cache
       if (Graphics.isWebGL()) {
@@ -851,7 +851,7 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   }
 
   var oldSpriteCharacter_startBallon = Sprite_Character.prototype.startBalloon;
-  Sprite_Character.prototype.startBalloon = function () {
+  Sprite_Character.prototype.startBalloon = function() {
     oldSpriteCharacter_startBallon.call(this);
     if (!!this._balloonSprite) {
       this._balloonSprite.z = 30;
@@ -859,27 +859,27 @@ Hudell.OrangeOverlay = Hudell.OrangeOverlay || {};
   };
 
   var oldSpriteAnimation_initMembers = Sprite_Animation.prototype.initMembers;
-  Sprite_Animation.prototype.initMembers = function () {
+  Sprite_Animation.prototype.initMembers = function() {
     oldSpriteAnimation_initMembers.apply(this, arguments);
     this.z = 30;
   };
 
 
-  //============================================================================
-  // Chaucer : added alias to game player transfer, to add in _needsClear.
-  //============================================================================
+//============================================================================
+// Chaucer : added alias to game player transfer, to add in _needsClear.
+//============================================================================
 
-  //Alias of Game_Player.prototype.clearTransferInfo.
-  //--------------------------------------------------------------------------
-  $.GP_p_clearTransInfo = Game_Player.prototype.clearTransferInfo;
-  //--------------------------------------------------------------------------
-  Game_Player.prototype.clearTransferInfo = function () {
-    //--------------------------------------------------------------------------
-    $.GP_p_clearTransInfo.call(this); // call the original method.
-    $._needsClear = true;
-    //--------------------------------------------------------------------------
-  };//End of alias.
-  //--------------------------------------------------------------------------
+//Alias of Game_Player.prototype.clearTransferInfo.
+//--------------------------------------------------------------------------
+$.GP_p_clearTransInfo = Game_Player.prototype.clearTransferInfo;
+//--------------------------------------------------------------------------
+Game_Player.prototype.clearTransferInfo = function () {
+//--------------------------------------------------------------------------
+  $.GP_p_clearTransInfo.call( this ); // call the original method.
+  $._needsClear = true;
+//--------------------------------------------------------------------------
+};//End of alias.
+//--------------------------------------------------------------------------
 
 })(Hudell.OrangeOverlay);
 

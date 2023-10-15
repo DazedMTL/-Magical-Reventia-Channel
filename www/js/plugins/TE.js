@@ -1054,7 +1054,7 @@ var $dataTemplateEvents = null;
     }
     // Resolve conflict for OnlineAvatar.js
     if (!$gamePlayer) {
-      $gamePlayer = { isTransferring: function () { } };
+      $gamePlayer = { isTransferring: function () {} };
     }
     DataManager.loadMapData(param.TemplateMapId);
     $gamePlayer = null;

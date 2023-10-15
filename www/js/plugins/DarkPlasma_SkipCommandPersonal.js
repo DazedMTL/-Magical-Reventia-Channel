@@ -9,41 +9,41 @@
  * 2020/03/09 1.0.0 公開
  */
 
-/*:
-* @plugindesc キャラクター選択をスキップするプラグイン
-* @author DarkPlasma
-* @license MIT
-*
-* @param Enable Only When Solo Party
-* @desc パーティメンバーが一人の場合のみ有効にする
-* @text ソロ時のみ有効
-* @type boolean
-* @default true
-*
-* @param Skip Select Item And Skill Target In Menu
-* @desc メニューでのアイテム/スキルの使用対象選択をスキップする
-* @text メニューアイテム対象選択省略
-* @type boolean
-* @default true
-*
-* @param Skip Select Item And SKill Target For Friend In Battle
-* @desc 戦闘での味方に対するアイテム/スキルの使用対象選択をスキップする
-* @text 戦闘時アイテム対象選択省略
-* @type boolean
-* @default true
-*
-* @help
-* このプラグインを導入すると、メニュー画面などでのキャラクター選択をスキップし、
-* 強制的に先頭のキャラクターを選択します。
-*
-* プラグインパラメータの設定により、
-* アイテムやスキルの使用対象選択をスキップできます。
-*/
+ /*:
+ * @plugindesc キャラクター選択をスキップするプラグイン
+ * @author DarkPlasma
+ * @license MIT
+ *
+ * @param Enable Only When Solo Party
+ * @desc パーティメンバーが一人の場合のみ有効にする
+ * @text ソロ時のみ有効
+ * @type boolean
+ * @default true
+ *
+ * @param Skip Select Item And Skill Target In Menu
+ * @desc メニューでのアイテム/スキルの使用対象選択をスキップする
+ * @text メニューアイテム対象選択省略
+ * @type boolean
+ * @default true
+ *
+ * @param Skip Select Item And SKill Target For Friend In Battle
+ * @desc 戦闘での味方に対するアイテム/スキルの使用対象選択をスキップする
+ * @text 戦闘時アイテム対象選択省略
+ * @type boolean
+ * @default true
+ *
+ * @help
+ * このプラグインを導入すると、メニュー画面などでのキャラクター選択をスキップし、
+ * 強制的に先頭のキャラクターを選択します。
+ *
+ * プラグインパラメータの設定により、
+ * アイテムやスキルの使用対象選択をスキップできます。
+ */
 
 (function () {
   'use strict';
-  const pluginName = document.currentScript.src.replace(/^.*\/(.*).js$/, function () {
-    return arguments[1];
+  const pluginName = document.currentScript.src.replace(/^.*\/(.*).js$/, function() {
+      return arguments[1];
   });
   const pluginParameters = PluginManager.parameters(pluginName);
 
@@ -62,7 +62,7 @@
   };
 
   const _Scene_Menu_commandPersonal = Scene_Menu.prototype.commandPersonal;
-  Scene_Menu.prototype.commandPersonal = function () {
+  Scene_Menu.prototype.commandPersonal = function() {
     if (this.skipCommandPersonal()) {
       $gameParty.setTargetActor($gameParty.leader());
       this.onPersonalOk();

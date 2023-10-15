@@ -1,7 +1,7 @@
 //=============================================================================
 // MessageHide.js                                                             
 //=============================================================================
-
+ 
 /*:
 @plugindesc v1.3.1 Define buttons the player can press to toggle whether the message window is shown.
 @author Jatopian
@@ -78,33 +78,33 @@ Show/hide now persists between maps and when bringing up the menu.
 "show on new page" feature.
 */
 
-(function () {
+(function() {
   var params = PluginManager.parameters("MessageHide");
   var pKey = String(params["key"]).toLowerCase().split(" ");
-  var pRightClick = (function () {
+  var pRightClick = (function() {  
     var p = String(params["right click"]).toLowerCase();
     if (p.match(/false/i)) {
       return false;
     }
     return true;
   })();
-  var pNewPage = (function () {
+  var pNewPage = (function() {  
     var p = String(params["show on new page"]).toLowerCase();
     if (p.match(/false/i)) {
       return false;
     }
     return true;
   })();
-
+  
   var key_ids = {
-    "tab": 9, "enter": 13, "shift": 16, "ctrl": 17, "alt": 18, "space": 32,
-    "pageup": 33, "pagedown": 34,
-    "0": 48, "1": 49, "2": 50, "3": 51, "4": 52, "5": 53, "6": 54, "7": 55, "8": 56, "9": 57,
-    "a": 65, "b": 66, "c": 67, "d": 68, "e": 69, "f": 70, "g": 71, "h": 72, "i": 73, "j": 74, "k": 75, "l": 76, "m": 77,
-    "n": 78, "o": 79, "p": 80, "q": 81, "r": 82, "s": 83, "t": 84, "u": 85, "v": 86, "w": 87, "x": 88, "y": 89, "z": 90,
-    "semicolon": 186, "comma": 188, "period": 190, "quote": 222,
+    "tab":9,"enter":13,"shift":16,"ctrl":17,"alt":18,"space":32,
+    "pageup":33,"pagedown":34,
+    "0":48,"1":49,"2":50,"3":51,"4":52,"5":53,"6":54,"7":55,"8":56,"9":57,
+    "a":65,"b":66,"c":67,"d":68,"e":69,"f":70,"g":71,"h":72,"i":73,"j":74,"k":75,"l":76,"m":77,
+    "n":78,"o":79,"p":80,"q":81,"r":82,"s":83,"t":84,"u":85,"v":86,"w":87,"x":88,"y":89,"z":90,
+    "semicolon":186,"comma":188,"period":190,"quote":222,
   };
-
+  
   for (var p of pKey) {
     console.log("MessageHide button defined: " + p);
     if (key_ids[p]) { // if key is listed in key_ids
@@ -121,92 +121,92 @@ Show/hide now persists between maps and when bringing up the menu.
   //global variables!
   MessageHide_messageWindowShowNext = false;
   MessageHide_messageWindowVisible = true; //global to persist between maps
-
+  
   //=============================================================================
   // Window Message
   //=============================================================================
-
-  Window_Message.prototype.isToggleHide = function () {
+  
+  Window_Message.prototype.isToggleHide = function() {
     for (var p of pKey) {
       if (Input.isTriggered(p)) return true;
     }
-
+    
     return false;
   }
-
+  
   var alias_wm_ud = Window_Message.prototype.update;
-  Window_Message.prototype.update = function () {
+  Window_Message.prototype.update = function() {
     alias_wm_ud.call(this);
     if (MessageHide_messageWindowShowNext === true) {
       MessageHide_messageWindowVisible = true;
       MessageHide_messageWindowShowNext = false;
     } else if (this.isToggleHide()) {
       MessageHide_messageWindowVisible = !MessageHide_messageWindowVisible;
-      if (!$gameSwitches.value(300)) { $gameSwitches.setValue(300, true); }
-      else { $gameSwitches.setValue(300, false); }
+      if(!$gameSwitches.value(300)){$gameSwitches.setValue(300, true);}
+      else{$gameSwitches.setValue(300, false);}
     }
     this.visible = MessageHide_messageWindowVisible;
   }
 
-
+  
   if (pRightClick) { // conditional alias
     var mrp_hiderightclick_wm_update_old = Window_Message.prototype.update;
-    Window_Message.prototype.update = function () {
+    Window_Message.prototype.update = function() {
       mrp_hiderightclick_wm_update_old.call(this);
       this.processRightClick();
     }
-
-    Window_Message.prototype.processRightClick = function () {
+    
+    Window_Message.prototype.processRightClick = function() {
       if (this.isOpen() && this.active && TouchInput.isCancelled()) {
         MessageHide_messageWindowVisible = !MessageHide_messageWindowVisible;
-        if (!$gameSwitches.value(300)) { $gameSwitches.setValue(300, true); }
-        else { $gameSwitches.setValue(300, false); }
+        if(!$gameSwitches.value(300)){$gameSwitches.setValue(300, true);}
+        else{$gameSwitches.setValue(300, false);}
       }
     }
   }
-
+  
   if (pNewPage) { // conditional alias
     var alias_wm_np = Window_Message.prototype.newPage;
-    Window_Message.prototype.newPage = function (textState) {
+    Window_Message.prototype.newPage = function(textState) {
       alias_wm_np.call(this, textState);
       MessageHide_messageWindowVisible = true;
     }
   }
-
+  
   //=============================================================================
   // Game Interpreter
   //=============================================================================
-
+  
   var alias_Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-  Game_Interpreter.prototype.pluginCommand = function (command, args) {
-    alias_Game_Interpreter_pluginCommand.call(this, command, args);
-    if (command === "ShowMessageWindow") {
-      MessageHide_messageWindowShowNext = true;
-    }
+  Game_Interpreter.prototype.pluginCommand = function(command, args) {
+      alias_Game_Interpreter_pluginCommand.call(this, command, args);
+      if (command === "ShowMessageWindow") {
+        MessageHide_messageWindowShowNext = true;
+      }
   }
-
+  
   //=============================================================================
   // Window NameBox (Yanfly Message Core compatibility)
   //=============================================================================
-
+  
   if (Imported.YEP_MessageCore) { // conditional alias
     var alias_wm_nb = Window_NameBox.prototype.update;
-    Window_NameBox.prototype.update = function () {
+    Window_NameBox.prototype.update = function() {
       alias_wm_nb.call(this);
       if ($gameMessage.isToggleHide) {
         this.visible = MessageHide_messageWindowVisible;
       }
     }
-
+    
     if (pRightClick) { // conditional alias
       var mrp_hiderightclick_wnb_update = Window_NameBox.prototype.update;
-      Window_NameBox.prototype.update = function () {
-        mrp_hiderightclick_wnb_update.call(this);
+      Window_NameBox.prototype.update = function() {
+        mrp_hiderightclick_wnb_update.call(this);	
         if (this._parentWindow.isOpen() && this.isOpen()) {
-          this.visible = this._parentWindow.visible;
-        }
+          this.visible = this._parentWindow.visible;			
+        } 
       }
     }
   }
-
+  
 })();
